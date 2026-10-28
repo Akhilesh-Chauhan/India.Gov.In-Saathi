@@ -1,6 +1,6 @@
 {
  "id": "MT-01",
- "checked_at": "2026-10-28T14:02:17+05:30",
+ "checked_at": "2026-10-28T14:30:26+05:30",
  "facts": [
   {
    "n": 1,
@@ -163,5 +163,6 @@
    "url": "https://myaadhaarbeta.uidai.gov.in/ssup/en"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "525adf2b3a21f79d6d4b46a6af500d32fd10b543232b57486cba710c1176e861"
 }

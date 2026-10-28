@@ -1,6 +1,6 @@
 {
  "id": "Q-298",
- "checked_at": "2026-10-28T14:03:32+05:30",
+ "checked_at": "2026-10-28T14:31:47+05:30",
  "facts": [
   {
    "n": 1,
@@ -8,5 +8,6 @@
    "url": "https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "906a1671bc5c5021e62037c977946fab5aa20164e5f05c7f53ff58509bd5e85d"
 }

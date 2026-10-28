@@ -1,6 +1,6 @@
 {
  "id": "Q-276",
- "checked_at": "2026-10-28T14:03:30+05:30",
+ "checked_at": "2026-10-28T14:31:45+05:30",
  "facts": [
   {
    "n": 1,
@@ -38,5 +38,6 @@
    "url": "https://scholarships.gov.in/All-Scholarships"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "cc64365d29b2ff65e3191453e223b5dac58ebcb32083e0cab389356c05e32e43"
 }

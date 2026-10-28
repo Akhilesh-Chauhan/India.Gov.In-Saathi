@@ -1,6 +1,6 @@
 {
  "id": "Q-029",
- "checked_at": "2026-10-28T14:02:21+05:30",
+ "checked_at": "2026-10-28T14:30:31+05:30",
  "facts": [
   {
    "n": 1,
@@ -83,5 +83,6 @@
    "url": "https://sarathi.parivahan.gov.in/sarathiservice/newDLDet.do"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "46d4782e80380c2dfe8333b043bcea3ba16bbaa2f86fe638f845b0847b3013c3"
 }

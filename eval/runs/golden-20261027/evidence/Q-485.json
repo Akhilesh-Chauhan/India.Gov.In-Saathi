@@ -1,6 +1,6 @@
 {
  "id": "Q-485",
- "checked_at": "2026-10-28T14:03:56+05:30",
+ "checked_at": "2026-10-28T14:32:13+05:30",
  "facts": [
   {
    "n": 1,
@@ -18,5 +18,6 @@
    "also": []
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "6a147bd78867a75080c7b7c86fe3e1bc64eb245a746191ed5090c191cb1d0eac"
 }

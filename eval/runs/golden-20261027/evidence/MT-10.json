@@ -1,6 +1,6 @@
 {
  "id": "MT-10",
- "checked_at": "2026-10-28T14:02:18+05:30",
+ "checked_at": "2026-10-28T14:30:27+05:30",
  "facts": [
   {
    "n": 1,
@@ -18,5 +18,6 @@
    "also": []
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "eec3ec7bd6a026bd124aba977ff5c8256c45be1ec0fcd80c29959ac254e9f7b8"
 }

@@ -1,6 +1,6 @@
 {
  "id": "Q-030",
- "checked_at": "2026-10-28T14:02:22+05:30",
+ "checked_at": "2026-10-28T14:30:31+05:30",
  "facts": [
   {
    "n": 1,
@@ -133,5 +133,6 @@
    "url": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "1c88c3cefe1b487dd269c374f7bcda4e945192df16855db13468af9f68102d9b"
 }

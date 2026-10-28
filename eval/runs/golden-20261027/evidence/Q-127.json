@@ -1,6 +1,6 @@
 {
  "id": "Q-127",
- "checked_at": "2026-10-28T14:02:55+05:30",
+ "checked_at": "2026-10-28T14:31:08+05:30",
  "facts": [
   {
    "n": 1,
@@ -78,5 +78,6 @@
    "also": []
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "5d31abddb03d62a930e144a424e10cb7d7f832f0ffa4e38c8f9c502b4e41a55f"
 }

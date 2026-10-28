@@ -1,6 +1,6 @@
 {
  "id": "Q-154",
- "checked_at": "2026-10-28T14:02:58+05:30",
+ "checked_at": "2026-10-28T14:31:10+05:30",
  "facts": [
   {
    "n": 1,
@@ -113,5 +113,6 @@
    "url": "https://pmkisan.gov.in/new_images/PMKisantwentyfortyinstallment.jpg"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "f9746537920d791ed4772fa1626f15f18ba7ebb54dcf7b59e284ee8e1d6eb761"
 }

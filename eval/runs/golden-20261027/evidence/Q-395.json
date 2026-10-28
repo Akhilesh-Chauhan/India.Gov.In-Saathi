@@ -1,6 +1,6 @@
 {
  "id": "Q-395",
- "checked_at": "2026-10-28T14:03:36+05:30",
+ "checked_at": "2026-10-28T14:31:50+05:30",
  "facts": [
   {
    "n": 1,
@@ -8,5 +8,6 @@
    "url": "https://www.myscheme.gov.in/schemes/pmmvy"
   }
  ],
- "problems": []
+ "problems": [],
+ "out_sha256": "86ceefb96956536ba17fac1a0da4a4edb6734e7ce536b0c4805f15ad6a7ee630"
 }

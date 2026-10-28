@@ -369,9 +369,14 @@ def _evidence(run_dir, i):
 
 
 def _current(run_dir, i, out_path):
-    """Evidence for this test case if it was made from the latest version of its out file."""
-    p = run_dir / "evidence" / f"{i}.json"
-    return _evidence(run_dir, i) if p.exists() and p.stat().st_mtime >= out_path.stat().st_mtime else None
+    """Evidence for this test case if it was made from the current content of its out file (a fingerprint, so it
+    survives a git clone, which does not keep file times)."""
+    ev = _evidence(run_dir, i)
+    if ev is None:
+        return None
+    if "out_sha256" in ev:
+        return ev if ev["out_sha256"] == hashlib.sha256(out_path.read_bytes()).hexdigest() else None
+    return ev if (run_dir / "evidence" / f"{i}.json").stat().st_mtime >= out_path.stat().st_mtime else None
 
 
 def check(run, ids):
@@ -391,6 +396,7 @@ def check(run, ids):
             ev = {"id": i, "checked_at": now(), "facts": [], "problems": [f"not valid JSON ({e})"]}
         else:
             ev = check_one(run_dir, cases[i], d, ingested)
+        ev["out_sha256"] = hashlib.sha256(path.read_bytes()).hexdigest()
         _write_json(run_dir / "evidence" / f"{i}.json", ev)
         print(f"{i}: OK ({len(ev['facts'])} facts)" if not ev["problems"] else f"{i}: PROBLEM - " + " | ".join(ev["problems"]))
 
