@@ -1,0 +1,21 @@
+{
+ "id": "Q-200",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PDS complaints (including short supply by the ration dealer) can be made on helpline 1967 / the State's 1800 toll-free number, operational in all States/UTs",
+   "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514",
+   "quote": "Helpline number 1967/1800-State series number is operational in all the States/ UTs for contacting and redressal of the complaints in Public Distribution System and filing any type of complaints by the intended beneficiaries."},
+  {"fact": "nfsa.gov.in lists each State/UT's toll-free PDS helpline for registering complaints with the State/UT Government",
+   "status": "added", "url": "https://nfsa.gov.in/portal/State_UT_Toll_Free_AA",
+   "quote": "Toll Free Helpline Numbers for PDS in States/UTs (Call toll free for any PDS related infrormation or to register Grievances/Complaints with your State/UT Government)"},
+  {"fact": "nfsa.gov.in links each State/UT's online grievance registration portal",
+   "status": "added", "url": "https://nfsa.gov.in/portal/State_UT_Online_Grievance_AA",
+   "quote": "Online Grievance Registration on State/UT Government Portals (Click the name of State/UT to visit their respective Online Grievance/Complaints registration system)"},
+  {"fact": "Under NFSA, grievances are also handled by District Grievance Redressal Officers (DGROs), State Food Commissions and Vigilance Committees",
+   "status": "added", "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "quote": "Grievance redressal mechanism, through State Food Commissions, DGROs, Vigilance Committees at different levels are provisioned"}
+ ],
+ "behaviour": "Replies in Hindi; directs the user to the State PDS helpline (1967 / State 1800 number) and the State online grievance portal as listed on nfsa.gov.in, and mentions the District Grievance Redressal Officer / State Food Commission route, with citations; does not invent a State-specific number.",
+ "fail_if": "It gives a made-up or wrong helpline number; says complaints go only to the central government; cites unofficial sites.",
+ "summary": "Added: helpline 1967/State 1800 number in all States (PIB 2025); nfsa.gov.in lists State toll-free numbers and online grievance portals; DGRO / State Food Commission / Vigilance Committees under NFSA."
+}

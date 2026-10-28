@@ -1,0 +1,67 @@
+{
+ "id": "Q-016",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/registrars",
+   "final": "https://uidai.gov.in/en/registrars",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:23+05:30",
+   "sha256": "e9d3eff1b61df38c55f73c088ea6947fa9dfbeed72eb799f157824dd8ebd1bff",
+   "copy": "53d3364ba4b082cadc72.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-enrolment",
+   "final": "https://uidai.gov.in/en/aadhaar-enrolment",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:24+05:30",
+   "sha256": "286f40dca317bcbaa92e5e00d5b35b3da599a19da04c51caf3bb9ce8e11b81e3",
+   "copy": "8313b6faa4d7f3dfc875.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/regional-offices",
+   "final": "https://uidai.gov.in/en/regional-offices",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:23+05:30",
+   "sha256": "3b6818d166485ea477ad65945b3745fe48e32852a232e9ea5c5aa8a3041dcdf4",
+   "copy": "ec50c6e442930e703c4f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/regional-offices",
+   "final": "https://uidai.gov.in/en/regional-offices",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:23+05:30",
+   "sha256": "3b6818d166485ea477ad65945b3745fe48e32852a232e9ea5c5aa8a3041dcdf4",
+   "copy": "ec50c6e442930e703c4f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

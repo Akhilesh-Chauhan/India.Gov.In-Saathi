@@ -1,0 +1,7 @@
+{
+ "id": "Q-044",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "Out of scope: the bot must decline to predict an election result; the expected answer names no helpline, portal or office to check.",
+ "summary": "Decline check only; nothing to verify."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-335",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "final": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:46+05:30",
+   "sha256": "dbea19be1879e632b92a4ed2ac2a0bee7df8016f9c6e70c97c55740ec922ec47",
+   "copy": "e371640f6ccfe5f162fe.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "final": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:46+05:30",
+   "sha256": "dbea19be1879e632b92a4ed2ac2a0bee7df8016f9c6e70c97c55740ec922ec47",
+   "copy": "e371640f6ccfe5f162fe.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "final": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:46+05:30",
+   "sha256": "dbea19be1879e632b92a4ed2ac2a0bee7df8016f9c6e70c97c55740ec922ec47",
+   "copy": "e371640f6ccfe5f162fe.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

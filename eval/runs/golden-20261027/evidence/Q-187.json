@@ -1,0 +1,52 @@
+{
+ "id": "Q-187",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "final": "https://pmkisan.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:11+05:30",
+   "sha256": "7afd837e60514a2d2e50132b02b2d697cd59b3f01b7b1776603b09d0ab3346d9",
+   "copy": "f8131e3c5fdc9e1b6716.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmfby.gov.in/",
+   "final": "https://pmfby.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:32+05:30",
+   "sha256": "ca8704380baa586df990589c436b9a6a69e96e3400329a15487d1a945bd0b511",
+   "copy": "1c930366ec4312e7a651.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:53+05:30",
+   "sha256": "4c7d46835b14957429c85d3a29fd86a46738efc3f2e84505165effb3de4c1093",
+   "copy": "0cdd6927ba284edb5d3b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

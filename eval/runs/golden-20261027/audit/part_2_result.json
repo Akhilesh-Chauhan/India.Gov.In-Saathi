@@ -1,0 +1,392 @@
+[
+ {
+  "id": "MT-02",
+  "fact": 2,
+  "issue": "fact adds 'the postman channel is' IPPB's doorstep service; quote only lists the service",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-004",
+  "fact": 1,
+  "issue": "fact adds 'by one year from 1.10.2026', not in the quote",
+  "action": "reworded to the quote (free till 30.09.2027)"
+ },
+ {
+  "id": "Q-015",
+  "fact": 2,
+  "issue": "negative part 'gives no separate as-on date' cannot be ticked and is not in the quote",
+  "action": "reworded to the date the quote shows"
+ },
+ {
+  "id": "Q-020",
+  "fact": 2,
+  "issue": "quote gives only Step 4 (fill and submit), not register/log in",
+  "action": "quote extended to Steps 2-4"
+ },
+ {
+  "id": "Q-020",
+  "fact": 3,
+  "issue": "quote (Step 7) does not state booking an appointment or 'nearest'",
+  "action": "split: appointment fact now quotes Step 5; PSK visit with originals added as its own fact (Step 7)"
+ },
+ {
+  "id": "Q-024",
+  "fact": 1,
+  "issue": "fact adds 'apply for re-issue', which the quote lacks",
+  "action": "reworded to the documents the quote gives; re-issue context put in note"
+ },
+ {
+  "id": "Q-024",
+  "fact": 3,
+  "issue": "fact lists a gazetted officer's certificate, which the quote cut off",
+  "action": "quote extended to include 'certificate from a gazetted officer'"
+ },
+ {
+  "id": "Q-028",
+  "fact": 1,
+  "issue": "quote lacks S.O. 4353(E) / 16 Sep 2022 and the driving-licence scope",
+  "action": "quote replaced with the full sentence naming S.O. 4353(E) of 16 Sep 2022"
+ },
+ {
+  "id": "Q-028",
+  "fact": 3,
+  "issue": "quote starts at step 3; 'select the State' on sarathi not in it",
+  "action": "quote extended to steps 1-5"
+ },
+ {
+  "id": "Q-051",
+  "fact": 6,
+  "issue": "quote was cut off mid-word ('coming into ex')",
+  "action": "quote replaced with the full sentence; fact adds the end date it states"
+ },
+ {
+  "id": "Q-051",
+  "fact": 10,
+  "issue": "fact adds 'filing one does not cover the other', which the quote does not say",
+  "action": "reworded to the quote; the consequence (both returns needed) left to the old answer text"
+ },
+ {
+  "id": "Q-055",
+  "fact": 2,
+  "issue": "fact adds '(AY 2026-27)', which the quote lacks",
+  "action": "reworded: year qualifier removed, context in note"
+ },
+ {
+  "id": "Q-086",
+  "fact": 2,
+  "issue": "quote does not say the 20-employee rule is the EPF applicability (could be any chapter)",
+  "action": "quote extended to the First Schedule row naming Employees' Provident Fund"
+ },
+ {
+  "id": "Q-101",
+  "fact": 1,
+  "issue": "quote does not name Form 12; fact adds 'CCS (Pension) Rules, 2021' and 'the pensioner's bank'",
+  "action": "quote extended to the form heading (FORM 12, Rule 79(2)); fact reworded to it"
+ },
+ {
+  "id": "Q-101",
+  "fact": 2,
+  "issue": "fact mentions the PPO copy (if available), which the quote lacks",
+  "action": "quote extended to items 7-9 of the document list"
+ },
+ {
+  "id": "Q-101",
+  "fact": 3,
+  "issue": "fact adds two specimen signatures, which the quote lacks",
+  "action": "reworded to photographs + undertaking (what the quote states); signatures dropped as a side detail (answer kept to 4 facts)"
+ },
+ {
+  "id": "Q-105",
+  "fact": 2,
+  "issue": "quote lacks 'Lodge New Grievance' and the pensioner-type step",
+  "action": "quote replaced with the manual's Lodge New Grievance steps; PDF-only upload detail dropped from the fact"
+ },
+ {
+  "id": "Q-105",
+  "fact": 3,
+  "issue": "quote lacks the OTP verification step",
+  "action": "quote extended back to the OTP sentence"
+ },
+ {
+  "id": "Q-113",
+  "fact": 3,
+  "issue": "fact adds 'e.g. a bank', not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-118",
+  "fact": 2,
+  "issue": "quote ('Ex-Gratia compensation are given in the range of Rs 25-45 lakh') does not say Central Government or next of kin",
+  "action": "quote replaced with the entitlement-sheet row (NoK, central Government, Rs 25-45 lakh); 'depending on circumstances of death' dropped"
+ },
+ {
+  "id": "Q-118",
+  "fact": 3,
+  "issue": "fact says the assistance is for war widows; the quote does not",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-122",
+  "fact": 1,
+  "issue": "fact adds the page's update date, which the quote lacks",
+  "action": "reworded: update date moved to note"
+ },
+ {
+  "id": "Q-122",
+  "fact": 4,
+  "issue": "manual: scanned OM PDF could not be read",
+  "action": "manual resolved by OCR: OM says Q3 rates remain unchanged from Q2; status confirmed, 7.1% marked derived in note"
+ },
+ {
+  "id": "Q-126",
+  "fact": 2,
+  "issue": "fact adds the page's update date and '7.5% being the top rate' (derived), which the quote lacks",
+  "action": "reworded: update date moved to note"
+ },
+ {
+  "id": "Q-126",
+  "fact": 4,
+  "issue": "manual: scanned OM PDF could not be read",
+  "action": "manual resolved by OCR: OM says Q3 rates remain unchanged from Q2; status confirmed, 7.5% marked derived in note"
+ },
+ {
+  "id": "Q-154",
+  "fact": 8,
+  "issue": "manual: banner image only",
+  "action": "retried: image unreadable, no PIB 24th-instalment release; CONFIRMED ELSEWHERE quote is already fact 7 and lacks Rs 18,680 crore; stays manual, note updated"
+ },
+ {
+  "id": "Q-165",
+  "fact": 4,
+  "issue": "negative fact ('no helpline number in text') a grader cannot tick; Help-Desk is covered by fact 5",
+  "action": "removed; fail_if already fails citing a pmkisan.gov.in page as showing the number"
+ },
+ {
+  "id": "Q-165",
+  "fact": 7,
+  "issue": "negative fact ('not the PM-KISAN helpline') a grader cannot tick",
+  "action": "removed; fail_if already fails giving 1800-180-1551 as the PM-Kisan helpline"
+ },
+ {
+  "id": "Q-184",
+  "fact": 1,
+  "issue": "PIB 27 Oct status (VSCS expected to cross AP coast) is outdated by 28 Oct",
+  "action": "replaced with IMD National Bulletin No. 25 (28.10.2026, issued 1200 IST) header quote"
+ },
+ {
+  "id": "Q-184",
+  "fact": 2,
+  "issue": "PIB 27 Oct forecast for Southern Odisha outdated",
+  "action": "replaced with bulletin 25: Arnab crossed AP coast and weakened to SCS by 0830 IST 28 Oct"
+ },
+ {
+  "id": "Q-184",
+  "fact": 3,
+  "issue": "fishermen advisory 26-29 Oct from PIB superseded by IMD bulletin",
+  "action": "replaced with bulletin 25 quote: no fishing off AP-Odisha coasts on 28 Oct; added South Odisha squally-wind warning"
+ },
+ {
+  "id": "Q-184",
+  "fact": 4,
+  "issue": "manual: IMD sites were down",
+  "action": "manual resolved: rsmcnewdelhi.imd.gov.in reachable, latest bulletin quoted (status added)"
+ },
+ {
+  "id": "Q-188",
+  "fact": 1,
+  "issue": "fact adds 'through KCC' and 'allied activities', which the rate-table quote lacks",
+  "action": "reworded to the table (KCC context is in fact 2's PIB quote)"
+ },
+ {
+  "id": "Q-198",
+  "fact": 3,
+  "issue": "quote ('only an enabler') does not state data collection, pilot from Aug 2022, or that States verify and issue the card",
+  "action": "quote replaced with the sentences on data collection and State verification; fact reworded, 'issue the card' dropped (covered by facts 1-2)"
+ },
+ {
+  "id": "Q-203",
+  "fact": 3,
+  "issue": "unsupported: 'free' for consumers",
+  "action": "retried incl. CONFIRMED ELSEWHERE (Q-200, Q-205): neither states the service is free; stays unsupported"
+ },
+ {
+  "id": "Q-203",
+  "fact": 8,
+  "issue": "quote names the NCH app and UMANG but not the web portal",
+  "action": "quote replaced with the convergence-page sentence naming web portal, NCH App and UMANG App"
+ },
+ {
+  "id": "Q-203",
+  "fact": 11,
+  "issue": "quote says grievances are forwarded in real time but not that this is for Convergence partners",
+  "action": "quote extended back to the sentence on companies partnering under the Convergence initiative"
+ },
+ {
+  "id": "Q-208",
+  "fact": 7,
+  "issue": "manual: user manual PDF unreadable",
+  "action": "retried: viewPDF.php still gives raw bytes, um_citizen.pdf no text; stays manual"
+ },
+ {
+  "id": "Q-208",
+  "fact": 15,
+  "issue": "manual: form labels behind a session",
+  "action": "retried with --render: request.php redirects to index.php; stays manual"
+ },
+ {
+  "id": "Q-208",
+  "fact": 17,
+  "issue": "quote states only the Nodal Officer/CPIO routing, not that a unique registration number is issued",
+  "action": "quote replaced with the FAQ sentence stating both"
+ },
+ {
+  "id": "Q-208",
+  "fact": 18,
+  "issue": "quote is only a FAQ question title; does not state that the number is sent by e-mail/SMS",
+  "action": "quote replaced with the FAQ sentence on SMS alerts; fact reworded to it"
+ },
+ {
+  "id": "Q-208",
+  "fact": 20,
+  "issue": "quote lacks 'Payment Reconciliation'",
+  "action": "quote extended to the FAQ sentence naming 'Payment Reconciliation'"
+ },
+ {
+  "id": "Q-227",
+  "fact": 1,
+  "issue": "breadcrumb quote shows the page exists but not that proceedings are live-streamed there",
+  "action": "reworded to what the quote shows (the Live Streaming page and its menu path); quote trimmed to the breadcrumb"
+ },
+ {
+  "id": "Q-227",
+  "fact": 2,
+  "issue": "quote (a Previous Sessions list entry) does not state that past Constitution/Ceremonial Bench recordings are via ARCHIVE",
+  "action": "quote replaced with the live-streaming page sentence that states it"
+ },
+ {
+  "id": "Q-267",
+  "fact": 1,
+  "issue": "quote ('The portal was launched to issue...') does not name the portal or its address",
+  "action": "quote extended back to the sentence naming the National Portal and transgender.dosje.gov.in"
+ },
+ {
+  "id": "Q-267",
+  "fact": 3,
+  "issue": "2019 Act section 6 may be amended by the 2026 Amendment Bill (enactment unchecked)",
+  "action": "checked: Bill passed Parliament Mar 2026 (PRS); amended s.6 still has the DM issue the certificate, so fact kept; note updated"
+ },
+ {
+  "id": "Q-276",
+  "fact": 3,
+  "issue": "manual: NSP Centrally Sponsored list behind a form",
+  "action": "retried: NSP rendered list and minorityaffairs pages (HTTP 500) still unreadable; stays manual, note updated"
+ },
+ {
+  "id": "Q-280",
+  "fact": 3,
+  "issue": "fact adds 'log in' and '(general, academic and application details)', not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-298",
+  "fact": 1,
+  "issue": "manual: AICTE sites down",
+  "action": "retried 28 Oct 13:35-13:40 IST: aicte.gov.in still in maintenance, aicte-india.org/facilities still reset; stays manual, note updated"
+ },
+ {
+  "id": "Q-319",
+  "fact": 2,
+  "issue": "negative part 'the portal states no last date' cannot be ticked and is not in the quote",
+  "action": "reworded to the opening date; 'no last date published' stays in behaviour, inventing a date stays in fail_if"
+ },
+ {
+  "id": "Q-327",
+  "fact": 4,
+  "issue": "quote was cut off at 'Rs.'; Rs 200 crore over 2 years not in it",
+  "action": "quote extended to '200 Cr. Expenditure in next 2 years.'"
+ },
+ {
+  "id": "Q-336",
+  "fact": 2,
+  "issue": "fact says login is by OTP; the quote stops at registration",
+  "action": "quote extended to the OTP login sentence"
+ },
+ {
+  "id": "Q-336",
+  "fact": 3,
+  "issue": "fact adds 'quiz.mygov.in' and the themes, which the quote lacks",
+  "action": "quote extended to the themes sentence; quiz.mygov.in dropped from the fact"
+ },
+ {
+  "id": "Q-341",
+  "fact": 7,
+  "issue": "fact lists delay >3 hours, diversion and lower-class cases; quote names only non-attachment of coach and cancellation",
+  "action": "reworded to the cases the quote names (side cases dropped)"
+ },
+ {
+  "id": "Q-341",
+  "fact": 8,
+  "issue": "quote says a prescribed ID is needed but lists none of the IDs the fact names",
+  "action": "quote replaced with the sentence plus the start of the ID list (Voter ID, passport); Aadhaar added as its own fact (item ix)"
+ },
+ {
+  "id": "Q-368",
+  "fact": 1,
+  "issue": "fact adds the option name 'Report Suspected Fraud', not in this quote",
+  "action": "reworded (the option name is in fact 2's quote)"
+ },
+ {
+  "id": "Q-368",
+  "fact": 3,
+  "issue": "quote shows only the medium choice; fact adds category, number, date/time and details",
+  "action": "quote extended to the category field; number/date/time/details dropped as side detail"
+ },
+ {
+  "id": "Q-400",
+  "fact": 3,
+  "issue": "quote states only the Rs 1,250 to Rs 1,500 order, not Rs 1,000 to Rs 1,250",
+  "action": "quote extended to both order titles"
+ },
+ {
+  "id": "Q-404",
+  "fact": 2,
+  "issue": "fact adds 'via MeriPehchaan' and 'only', not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-430",
+  "fact": 1,
+  "issue": "fact adds the page's update date, which the quote lacks",
+  "action": "reworded: update date moved to note"
+ },
+ {
+  "id": "Q-430",
+  "fact": 3,
+  "issue": "negative claim 'has no Oct-Dec 2026 row yet' not in the quote",
+  "action": "reworded to 'latest row', quote extended to the end of the table"
+ },
+ {
+  "id": "Q-430",
+  "fact": 4,
+  "issue": "manual: scanned OM PDF could not be read",
+  "action": "manual resolved by OCR: OM says Q3 rates remain unchanged from Q2; status confirmed, 8.2% marked derived in note"
+ },
+ {
+  "id": "Q-458",
+  "fact": 2,
+  "issue": "quote (IGNOAPS row only) lacks the NSAP rename, 'from 2026-27' and 'continues in its existing form'",
+  "action": "quote extended to the NSAP and IGNOAPS rename rows; period and continuation moved to note"
+ },
+ {
+  "id": "Q-458",
+  "fact": 3,
+  "issue": "quote lacks 'aged 70 and above' and 'irrespective of income'",
+  "action": "quote extended back to the sentence on all senior citizens 70+ irrespective of socio-economic status"
+ },
+ {
+  "id": "Q-476",
+  "fact": 3,
+  "issue": "quote lacks the 2-hectare limit and the 1.6.2019 revision date",
+  "action": "quote replaced with the FAQ sentence stating both"
+ }
+]

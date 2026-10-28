@@ -1,0 +1,52 @@
+{
+ "id": "Q-156",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "final": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:43+05:30",
+   "sha256": "10667b7247eb922bcc6d97b178961897d905e5b1aeb93a79121bfdfd10a0bb99",
+   "copy": "79a03eb0850c335e30fd.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "final": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:43+05:30",
+   "sha256": "10667b7247eb922bcc6d97b178961897d905e5b1aeb93a79121bfdfd10a0bb99",
+   "copy": "79a03eb0850c335e30fd.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "final": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:43+05:30",
+   "sha256": "10667b7247eb922bcc6d97b178961897d905e5b1aeb93a79121bfdfd10a0bb99",
+   "copy": "79a03eb0850c335e30fd.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

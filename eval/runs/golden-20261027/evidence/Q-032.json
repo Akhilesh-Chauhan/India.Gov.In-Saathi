@@ -1,0 +1,87 @@
+{
+ "id": "Q-032",
+ "checked_at": "2026-10-28T14:02:22+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "final": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:19+05:30",
+   "sha256": "be5bac906607cb2ac902d5c113c42c7f89142be3591a81ccb825cfbb7ee5d50d",
+   "copy": "6594378acf0e4cd0fa25.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "final": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:19+05:30",
+   "sha256": "be5bac906607cb2ac902d5c113c42c7f89142be3591a81ccb825cfbb7ee5d50d",
+   "copy": "6594378acf0e4cd0fa25.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "final": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:19+05:30",
+   "sha256": "be5bac906607cb2ac902d5c113c42c7f89142be3591a81ccb825cfbb7ee5d50d",
+   "copy": "6594378acf0e4cd0fa25.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "unsupported",
+   "url": ""
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/learners-license",
+   "final": "https://parivahan.gov.in/en/content/learners-license",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:59:56+05:30",
+   "sha256": "64a4d4642f0e6d3c08173417cfd896455f8d6023cca9e4f216ff1bc0478ceb32",
+   "copy": "2da79b27e47bd2ed3e41.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 6,
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/learners-license",
+   "final": "https://parivahan.gov.in/en/content/learners-license",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:59:56+05:30",
+   "sha256": "64a4d4642f0e6d3c08173417cfd896455f8d6023cca9e4f216ff1bc0478ceb32",
+   "copy": "2da79b27e47bd2ed3e41.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "Q-231",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "All senior citizens aged 70 and above, irrespective of socio-economic status, get free treatment of up to Rs 5 lakh a year (family basis) under AB PM-JAY",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2079021&reg=48&lang=2",
+   "quote": "to provide free treatment benefits of up to 5 lakh per year on a family basis to all senior citizens aged 70 years and above, irrespective of their socio-economic status on 29.10.2024.",
+   "note": "The same PIB release says Ayushman Vay Vandana cards are created for senior citizens aged 70 years and above."
+  },
+  {
+   "fact": "To get the card, register at the nearest empanelled hospital, or self-register on the Ayushman app (Google Play) or www.beneficiary.nha.gov.in",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082288&reg=48&lang=2",
+   "quote": "They can visit nearest empanelled hospital for registration. For self-registration eligible citizens can download Ayushman app (from Google Play store) or visit www.beneficiary.nha.gov.in."
+  },
+  {
+   "fact": "For help, call toll-free 14555 or give a missed call on 1800110770",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082288&reg=48&lang=2",
+   "quote": "Citizens can also call on the toll-free number 14555 or give a missed call on 1800110770 to know more about Ayushman Vay Vandana Card."
+  }
+ ],
+ "behaviour": "pmjay.gov.in / beneficiary.nha.gov.in are not ingested: answers only from ingested pages (abdm/nhm/PIB) with citation, else says the source is not available and links the NHA site (beneficiary.nha.gov.in / nha.gov.in).",
+ "fail_if": "It gives an income limit for the 70+ cover, invents steps or documents not on a cited official page, or cites unofficial sites.",
+ "summary": "Added from PIB: 70+ cover of Rs 5 lakh/yr irrespective of income; register at an empanelled hospital or self-register via Ayushman app / beneficiary.nha.gov.in; helpline 14555, missed call 1800110770."
+}

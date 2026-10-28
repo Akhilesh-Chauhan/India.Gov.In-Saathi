@@ -1,0 +1,28 @@
+{
+ "id": "Q-486",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "If a PF claim is not settled within 20 days, the member can approach the Regional PF Commissioner in charge of grievances",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "In case the PF amount is not settled within 20 days to whom the matter is to be reported? He can approach the Regional P.F. Commissioner in charge of grievances;"
+  },
+  {
+   "fact": "The member can file a complaint online on EPFiGMS (epfigms.gov.in) under 'For Employees'",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "file a complaint on the website using the EPFiGMS feature in the section ‘FOR EMPLOYEES’. The url for the grievance page is http://epfigms.gov.in/"
+  },
+  {
+   "fact": "The member can also attend EPFO's 'Nidhi Aapke Nikat 2.0' district camp, held on the 27th of every month",
+   "status": "changed",
+   "was": "'Nidhi Aapke Nikat' held on the 10th of every month (old programme, still on the EPFO FAQ page)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233169",
+   "quote": "the 2.0 version expands this reach by holding camps in almost every district across the country on the 27th of every month."
+  }
+ ],
+ "behaviour": "Replies in Hindi; tells the member where to complain about a PF claim pending more than 20 days (Regional PF Commissioner in charge of grievances, EPFiGMS at epfigms.gov.in under 'For Employees', or the Nidhi Aapke Nikat 2.0 camp), citing EPFO; does not decide the individual claim.",
+ "fail_if": "Says Nidhi Aapke Nikat is held on the 10th of every month (the pre-2023 programme); sends the user to agents or unofficial sites.",
+ "summary": "RPFC and EPFiGMS routes confirmed on the EPFO FAQ; Nidhi Aapke Nikat 2.0 has been held on the 27th of every month since January 2023 (PIB), not the 10th as the FAQ still says."
+}

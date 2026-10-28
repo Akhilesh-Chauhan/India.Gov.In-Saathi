@@ -1,0 +1,34 @@
+=== Q-386 | P0 | English | Service use (6.2) | expected site: web.umang.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Give me the UMANG link for the National Scholarship Portal service.
+EXPECTED ANSWER NOW:
+Deep link from the catalogue that opens the NSP service on web and app; if not listed, scholarships.gov.in. Link must open (HTTP 200).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): UMANG deep link that opens the NSP service on web and app
+
+=== Q-454 | P0 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: web.umang.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: pf ki passbook kaise dekhu mobile pe
+EXPECTED ANSWER NOW:
+Same UMANG EPFO passbook deep link every time, with a brief description (concept note 6.2 Service use).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): directs to the EPFO View Passbook service on the UMANG app
+
+=== Q-455 | P0 | Hindi (Devanagari) | Service use (6.2) | expected site: web.umang.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: पति के पीएफ खाते की पासबुक कहां देखें?
+EXPECTED ANSWER NOW:
+Same UMANG EPFO passbook deep link every time, with a brief description (concept note 6.2 Service use).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): directs to the EPFO View Passbook service on the UMANG app
+
+=== Q-456 | P0 | English | Service use (6.2) | expected site: web.umang.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Direct me to the EPFO member passbook service in UMANG.
+EXPECTED ANSWER NOW:
+Same UMANG EPFO passbook deep link every time, with a brief description (concept note 6.2 Service use).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): directs to the EPFO View Passbook service on the UMANG app
+
+=== Q-457 | P0 | English | Service use (6.2) | expected site: web.umang.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: epf passbook
+EXPECTED ANSWER NOW:
+Same UMANG EPFO passbook deep link every time, with a brief description (concept note 6.2 Service use).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): directs to the EPFO View Passbook service on the UMANG app

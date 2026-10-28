@@ -1,0 +1,39 @@
+{
+ "id": "Q-028",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under MoRTH S.O. 4353(E) of 16 September 2022, driving-licence services can be availed completely online with voluntary Aadhaar authentication, without visiting the RTO",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1859976",
+   "quote": "MoRTH has issued S.O. 4353(E) on 16 September 2022, through which a total of 58 citizen-centric services related to driving license, conductor license, vehicle registration, permit, transfer of ownership etc. can be now availed completely online, eliminating the need to visit the RTO."
+  },
+  {
+   "fact": "Application for a Learner Licence is one of the online services done with Aadhaar authentication",
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/sep/doc2022917105601.pdf",
+   "quote": "The online services for which a citizen is required to undergo Aadhaar authentication are as under: - 1. Application for Learner License (LL)."
+  },
+  {
+   "fact": "The online LL test is taken on sarathi.parivahan.gov.in: select the State, then 'Online Learners' License Test (STALL)' in the Learner License menu, and log in with the LL application number, date of birth and password (available in some States only)",
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Online Learners' License Test (STALL)\" from \"Learner License\" menu 4. Enter \"Learners' License Application\", \"Date of Birth\" and Password 5. Click on Login Button to proceed Note: These Services are available in some states only."
+  },
+  {
+   "fact": "The applicant must pass the online test to get the learner's licence; sample questions for practice are on Sarathi",
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Yes, you have to pass the online test (test) to get Learner's License. You can practice (sample set of questions) here:- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Select \"Sample Question for Learners' License Test\" from \"Learner License\" menu"
+  },
+  {
+   "fact": "Where the State does not offer the online test from home, the applicant reports to the concerned RTO or its authorised learner's licence test centre",
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Can I give exam from home or I will have to go to the concerned RTO? You need to report the concerned RTO or their authorized learning license test center."
+  }
+ ],
+ "behaviour": "Explains the Aadhaar-based online learner's licence application and online LL test on Sarathi (sarathi.parivahan.gov.in) with the steps, citing Parivahan/Sarathi; says the test from home is offered only in some States and otherwise the applicant reports to the RTO or an authorised LL test centre.",
+ "fail_if": "Says the learner's licence needs no test; promises a from-home test in every State; sends the user to an agent or non-government site.",
+ "summary": "Added the Aadhaar-authenticated online LL application (S.O. 4353(E)), the Sarathi online STALL test steps (some States only) and the RTO/authorised-centre alternative from the Parivahan FAQ."
+}

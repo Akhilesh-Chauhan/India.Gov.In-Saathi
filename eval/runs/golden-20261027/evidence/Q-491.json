@@ -1,0 +1,37 @@
+{
+ "id": "Q-491",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "final": "https://nfsa.gov.in/portal/NFSA-Act",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:49+05:30",
+   "sha256": "0ea88777ba1b9359f40b9f3d047ec4420ba8c20fd999e8f79762d1d38bff76ef",
+   "copy": "7e85046869e93ea2d826.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210211&reg=48&lang=2",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210211&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:18:41+05:30",
+   "sha256": "067dde0ed64244e50cc86fad6f4d67d0901a300cd7f86febef1684fb20b74c4e",
+   "copy": "1347f808199f46311e2a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

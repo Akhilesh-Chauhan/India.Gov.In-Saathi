@@ -1,0 +1,67 @@
+{
+ "id": "Q-136",
+ "checked_at": "2026-10-28T14:02:57+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost",
+   "final": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:27+05:30",
+   "sha256": "24ea328dee1cd2d06f07cf14538e2f23e47b28fc818218a376100c9c90c6e8cf",
+   "copy": "18e3e45adc5df6629d1d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost",
+   "final": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:27+05:30",
+   "sha256": "24ea328dee1cd2d06f07cf14538e2f23e47b28fc818218a376100c9c90c6e8cf",
+   "copy": "18e3e45adc5df6629d1d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/mailproducts/prohibited-items",
+   "final": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/prohibited-items",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:28+05:30",
+   "sha256": "fb04edb31df273056d622cd9dbfba7a0769a41a49e703f2b7dfb3320111cb665",
+   "copy": "977799f7b9b0a81cde7a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/documents/offerings/prohibited_items/Country_List.pdf",
+   "final": "https://www.indiapost.gov.in/documents/offerings/prohibited_items/Country_List.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:09+05:30",
+   "sha256": "7c91d6c736cbdd5949aa64175ad0f972ceb865751a4bcde0b977aea764f84d2c",
+   "copy": "8eab18c3be53c61cd895.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

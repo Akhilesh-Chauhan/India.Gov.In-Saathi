@@ -1,0 +1,22 @@
+{
+ "id": "Q-485",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "final": "https://www.epfo.gov.in/faq-epfo/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:33+05:30",
+   "sha256": "7219427adf1fe64daece44fd35260f8531391077acbfa77c2822a586b968ea64",
+   "copy": "7e3d538f2c04694179aa.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

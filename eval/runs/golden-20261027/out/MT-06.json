@@ -1,0 +1,20 @@
+{
+ "id": "MT-06",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "rtionline.gov.in covers Central Ministries/Departments and other Central public authorities only",
+   "status": "confirmed", "url": "https://rtionline.gov.in/faq.php",
+   "quote": "No. This Portal is exclusively meant for Public Authorities under Central Govt. only."},
+  {"fact": "The RTI application fee is Rs 10",
+   "status": "confirmed",
+   "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "quote": "An application under sub-section (1) of Section 6 of the Act shall be accompanied by a fee of rupees ten"},
+  {"fact": "BPL applicants pay no fee if they attach the BPL certificate issued by the appropriate government",
+   "status": "confirmed", "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "No RTI fee is required to be paid by any citizen who is below poverty line as per RTI Rules, 2012. However, the applicant must attach a copy of the certificate issued by the appropriate government in this regard, alongwith the application."},
+  {"fact": "Steps on RTI Online: click 'Submit Request', fill the form, then 'Make Payment'",
+   "status": "confirmed", "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "After filling the first page, the applicant has to click on \"Make Payment\" to make payment of the prescribed fee."}
+ ],
+ "summary": "Turn facts (Central-only portal, Rs 10 fee, BPL exemption, Submit Request / Make Payment) confirmed on rtionline.gov.in and the RTI Rules 2012."
+}

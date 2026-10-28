@@ -1,0 +1,37 @@
+{
+ "id": "Q-352",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "final": "https://web.umang.gov.in/landing/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:55+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "3ab2b67228b075258931.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "final": "https://web.umang.gov.in/landing/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:55+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "3ab2b67228b075258931.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

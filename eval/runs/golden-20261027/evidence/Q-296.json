@@ -1,0 +1,52 @@
+{
+ "id": "Q-296",
+ "checked_at": "2026-10-28T14:03:32+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.ignou.ac.in/pages/51",
+   "final": "https://www.ignou.ac.in/pages/51",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:12+05:30",
+   "sha256": "79eb7f0281926469989789f3223ac3585029ea8c1f252c812de96ff418d4d480",
+   "copy": "128dc7bf8baca7247b6b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.ignou.ac.in/pages/51",
+   "final": "https://www.ignou.ac.in/pages/51",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:12+05:30",
+   "sha256": "79eb7f0281926469989789f3223ac3585029ea8c1f252c812de96ff418d4d480",
+   "copy": "128dc7bf8baca7247b6b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.ignou.ac.in/",
+   "final": "https://www.ignou.ac.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:35+05:30",
+   "sha256": "b9839ea365718412b0656249bb701fbc6e79d6a13df44cdd8e801b98ab0051f2",
+   "copy": "ff911bbdcf87d151fb5f.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

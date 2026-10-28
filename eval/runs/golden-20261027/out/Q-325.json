@@ -1,0 +1,114 @@
+{
+ "id": "Q-325",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Delhi Old Age Assistance is Rs 2,000 per month for ages 60-69",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Rs 2000 p.m. for 60-69 years, with additional Rs. 500 p.m. to SC/ST/Minority community beneficiaries"
+  },
+  {
+   "fact": "SC/ST/Minority beneficiaries aged 60-69 get an additional Rs 500 per month",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Rs 2000 p.m. for 60-69 years, with additional Rs. 500 p.m. to SC/ST/Minority community beneficiaries"
+  },
+  {
+   "fact": "Beneficiaries aged 70 and above get Rs 2,500 per month",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Rs 2500 p.m. for +70 beneficiaries"
+  },
+  {
+   "fact": "Eligibility: above 60 years and at least 5 years' residence in Delhi before applying",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "To persons above 60 years Residence of min. 5 years in Delhi before the date of application."
+  },
+  {
+   "fact": "Annual family income (applicant and spouse) must be below Rs 1,00,000",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Annual family income of less than Rs 1,00,000 from all sources (including rent, interest/dividends on savings & investments, earnings from farm, property sale proceeds etc.) of the applicant & spouse."
+  },
+  {
+   "fact": "The applicant must have an Aadhaar number",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "The applicant should have an Aadhaar number."
+  },
+  {
+   "fact": "The applicant needs a singly-operated bank account in Delhi mapped with their Aadhaar, for payment through PFMS",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "The applicant should have a ‘singly-operated’ account in any Bank in National Capital Territory of Delhi only mapped with Aadhaar number of the applicant for receiving the payment through Public Financial Management System (PFMS)."
+  },
+  {
+   "fact": "The applicant must not be receiving any other pension or financial assistance for this purpose",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Must not be receiving any pension/ financial assistance from Central Govt/ State Govt/ other governmental local bodies or any other source for this purpose"
+  },
+  {
+   "fact": "Apply online on e-District Delhi (edistrict.delhigovt.nic.in) or at the District Social Welfare Office",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Application to be made online on e-District portal www.edistrict.delhigovt.nic.in by registering through citizen log in or by approaching concerned District Social Welfare Office."
+  },
+  {
+   "fact": "New applications are taken within the constituency quota",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "New applications under the Scheme are received within the quota applicable to the constituency at the time of application."
+  },
+  {
+   "fact": "Applications are normally decided within 45 days",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Normally, the applications are disposed off within 45 days of receipt of applications, unless circumstances dictate otherwise."
+  },
+  {
+   "fact": "If sanctioned, payment starts from the month after the month of application",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "The payment to new applicants, if sanctioned, is made with effect from the month subsequent to the month of the application."
+  },
+  {
+   "fact": "The pension is paid monthly into the Aadhaar-linked bank account through PFMS",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "The assistance is remitted monthly to the bank account of the beneficiary as per the Aadhaar number of the beneficiary through PFMS portal."
+  },
+  {
+   "fact": "No official order raising the amounts (to Rs 2,500 / Rs 3,000) is listed: the department's latest notification on the old age pension quantum is dated 14-02-2017",
+   "status": "confirmed",
+   "url": "https://socialwelfare.delhi.gov.in/social/notificationsact-and-rules",
+   "quote": "Notification with Regard to Enhancement of Quantum of assistance and income limit in Old Age Pension and pension to Persons with Date: 14-02-2017"
+  },
+  {
+   "fact": "The Delhi Social Welfare website now shows 'Last Updated: 27/10/2026' (a site-wide footer date)",
+   "status": "changed",
+   "was": "page last updated 14/10/2026",
+   "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+   "quote": "Last Updated: 27/10/2026"
+  },
+  {
+   "fact": "Delhi's official Budget Speech 2025-26 announced raising the pension to Rs 2,500 a month (60-69) and Rs 3,000 a month (70+), while the Social Welfare scheme page still shows Rs 2,000 and Rs 2,500; no implementing notification was found",
+   "status": "conflict",
+   "was": "the increase to Rs 2,500/3,000 was seen only in news reports from 2025; no official source",
+   "url": "https://finance.delhi.gov.in/sites/default/files/Finance/marquee-files/budget_speech_english_0.pdf",
+   "quote": "monthly assistance for senior citizens (60-69 years) is being increased to ₹2,500; those above 70 years of age will be given monthly assistance of ₹3,000.",
+   "also": [
+    {
+     "url": "https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes",
+     "quote": "Rs 2500 p.m. for +70 beneficiaries"
+    }
+   ],
+   "note": "Searched socialwelfare.delhi.gov.in notifications pages (latest quantum notification 14-02-2017), the Financial Assistance pages and the 2026-27 budget speech (Hindi PDF text is garbled) on 28 Oct 2026: no order implementing the 2025-26 announcement found."
+  }
+ ],
+ "summary": "Scheme page unchanged (Rs 2,000 + Rs 500 SC/ST/Minority for 60-69, Rs 2,500 for 70+; same eligibility/process) but the official Delhi Budget Speech 2025-26 announced Rs 2,500/3,000: conflict, no implementing order found; footer date now 27/10/2026.",
+ "behaviour": "Quotes the amount from the official Delhi Social Welfare page (socialwelfare.delhi.gov.in) with its as-on date, and notes that Delhi's Budget Speech 2025-26 (finance.delhi.gov.in) announced an increase to Rs 2,500 (60-69) and Rs 3,000 (70+) that the scheme page does not yet show; either set of amounts is acceptable when the bot cites the official page it used, and noting the difference is best. If the amount cannot be shown from a source it can see, it still names the responsible State department (Department of Social Welfare, GNCTD) and links its portal (G12 - named, not refused). No eligibility verdict.",
+ "fail_if": "States Rs 2,500/Rs 3,000 as the rate citing news instead of an official Delhi page; confuses it with the central IGNOAPS amounts or the myScheme 'psoap' record (Rs 1,500/2,000, another state); omits the SC/ST/minority +Rs 500; cites news, Facebook or party websites."
+}

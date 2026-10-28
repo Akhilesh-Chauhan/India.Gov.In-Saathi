@@ -1,0 +1,33 @@
+{
+ "id": "Q-306",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Udyam (MSME) Registration is completely free: no costs or fees are to be paid to anyone",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Registration Process is totally free. No Costs or Fees are to be paid to anyone."},
+  {"fact": "The portal warns 'Beware of Fake Sites' and says registration is free of cost",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Beware of Fake Sites. Udyam (MSME) Registration is Free of Cost and paperless."},
+  {"fact": "Only udyamregistration.gov.in (and Government Single Window Systems) can do it; no other private online or offline system, service, agency or person is authorised",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Except this portal of Government of India and Government's Single Window Systems, no other private online or offline system, service, agency or person is authorized to do MSME Registration or undertake any related activity."},
+  {"fact": "A website charging Rs 499 is not the official portal: udyamregistration.gov.in is the only official website",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "This is official website of Govt. of India, Ministry of MSME. No other website/portal/app is official.",
+   "note": "Derived: the Rs 499 site is the user's example; the portal states that no other website is official and that no fee is payable."},
+  {"fact": "The user can register free on the portal with just the Aadhaar number",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "No documents or proof are required to be uploaded for registering an MSME. Only Adhaar Number will be enough for registration."},
+  {"fact": "Help is available from the single window systems at Champions Control Rooms and District Industries Centres (DICs)",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Our single window systems at Champions Control Rooms and at DICs will help you in the process."},
+  {"fact": "Complaints can be made through the complaint link on the portal (it links to champions.gov.in)",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "For complaints please Click Here",
+   "note": "The 'Click Here' link in the announcement points to https://champions.gov.in (seen in the page HTML)."},
+  {"fact": "Grievance helpline: call or WhatsApp +91 8308809334, Monday to Friday 10 AM to 6 PM",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "For Grievances Call or Whatsapp on +91 8308809334 Mon to Fri : 10:00 AM - 06:00 PM"}
+ ],
+ "summary": "All facts confirmed on udyamregistration.gov.in (28 Oct 2026): free, beware of fake sites, only this portal authorised, Aadhaar only, Champions/DIC help, complaint link and 8308809334 helpline."
+}

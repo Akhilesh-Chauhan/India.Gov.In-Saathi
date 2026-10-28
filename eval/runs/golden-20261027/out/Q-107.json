@@ -1,0 +1,21 @@
+{
+ "id": "Q-107",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Registration steps on cpao.nic.in: not registered - sign up, enter PPO number, date of birth and date of retirement, fill the registration form, then log in as pensioner with the user name and password you created",
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "quote": "(main web site/log in to view your details/ not registered-sign-up/feed your 12 digit PPO number/date of birth/date of retirement/proceed/fill registration form/go back to main/fill your own created user name &password/Log in as pensioner)"
+  },
+  {
+   "fact": "After registering and logging in, pensioners can download a copy of their PPO and later amendments (revision orders) issued by CPAO",
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "quote": "pensioners have been provided the facility of downloading the copy of PPOs and subsequent amendments issued by CPAO by using login and password after getting themselves registered on CPAO website-www.cpao.nic.in."
+  }
+ ],
+ "behaviour": "Gives the CPAO steps (register, log in, download the PPO / revision orders) in Hinglish, citing cpao.nic.in. May add that only central civil pensioners with a 12-digit PPO number can register.",
+ "fail_if": "Gives steps not on CPAO's site, asks for the user's password, or cites unofficial sites.",
+ "summary": "CPAO steps per cpao.nic.in: register (PPO number, DOB, date of retirement), log in, download the PPO and its amendments; trimmed side details."
+}

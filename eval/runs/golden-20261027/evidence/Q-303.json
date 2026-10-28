@@ -1,0 +1,67 @@
+{
+ "id": "Q-303",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "final": "https://www.joinindiannavy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:48+05:30",
+   "sha256": "f6eec6821ea475274ce13d9e889bac305fba4610f60ad7d00a4cd80bd2d0a5d9",
+   "copy": "d502498adae7c8a6ce44.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "final": "https://www.joinindiannavy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:48+05:30",
+   "sha256": "f6eec6821ea475274ce13d9e889bac305fba4610f60ad7d00a4cd80bd2d0a5d9",
+   "copy": "d502498adae7c8a6ce44.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "final": "https://www.joinindiannavy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:48+05:30",
+   "sha256": "f6eec6821ea475274ce13d9e889bac305fba4610f60ad7d00a4cd80bd2d0a5d9",
+   "copy": "d502498adae7c8a6ce44.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "final": "https://www.joinindiannavy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:48+05:30",
+   "sha256": "f6eec6821ea475274ce13d9e889bac305fba4610f60ad7d00a4cd80bd2d0a5d9",
+   "copy": "d502498adae7c8a6ce44.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

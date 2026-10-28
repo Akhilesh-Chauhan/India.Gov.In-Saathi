@@ -1,0 +1,52 @@
+{
+ "id": "Q-257",
+ "checked_at": "2026-10-28T14:03:28+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "final": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:41+05:30",
+   "sha256": "ba20c7733b0ab20169dd51dde598ba949b0a2135b8ab1bb80c90999169e926db",
+   "copy": "fc153421c1f5e2d183b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "final": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:41+05:30",
+   "sha256": "ba20c7733b0ab20169dd51dde598ba949b0a2135b8ab1bb80c90999169e926db",
+   "copy": "fc153421c1f5e2d183b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "final": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:41+05:30",
+   "sha256": "ba20c7733b0ab20169dd51dde598ba949b0a2135b8ab1bb80c90999169e926db",
+   "copy": "fc153421c1f5e2d183b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

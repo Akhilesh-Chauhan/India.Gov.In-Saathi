@@ -1,0 +1,52 @@
+{
+ "id": "Q-324",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/services.html",
+   "final": "https://edistrict.kerala.gov.in/services.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:21+05:30",
+   "sha256": "d2c2cbf623565c5d99b705253a9e39cf8769db6ef56fba1c2d76c0655c7939ef",
+   "copy": "aea0e9f08e917d2d4273.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/",
+   "final": "https://edistrict.kerala.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:35+05:30",
+   "sha256": "cc2390ba2d89b20e59db10dfbf93dff83cfe26029fb79bac25c4298f21cabb6a",
+   "copy": "e90243a8f809f68be4bc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/",
+   "final": "https://edistrict.kerala.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:35+05:30",
+   "sha256": "cc2390ba2d89b20e59db10dfbf93dff83cfe26029fb79bac25c4298f21cabb6a",
+   "copy": "e90243a8f809f68be4bc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-081",
+ "checked_at": "2026-10-28T14:02:48+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "final": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:31+05:30",
+   "sha256": "9f060c0fd183ae0498b2f97466558c0fa41713bcf45ca7f35a2eadf94943053e",
+   "copy": "198e340229f557e1f564.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/pension-scheme-eps/",
+   "final": "https://www.epfo.gov.in/pension-scheme-eps/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:48:54+05:30",
+   "sha256": "65b485cbd8706972b09ded2daf143abe2b8d84058fa96771158c587e23ef0887",
+   "copy": "fdcf90753f44ea7e568a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/insurance-scheme-edli/",
+   "final": "https://www.epfo.gov.in/insurance-scheme-edli/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:30+05:30",
+   "sha256": "0448b8d620c0a8e004e62492884b10acfcc74b2aab5b667d12df894a2e27ce71",
+   "copy": "03965f27b441dab264eb.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

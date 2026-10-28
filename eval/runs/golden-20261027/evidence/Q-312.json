@@ -1,0 +1,52 @@
+{
+ "id": "Q-312",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "final": "https://gem.gov.in/userFaqs/seller",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:40+05:30",
+   "sha256": "94407d2330f1cea79ecd3fc01fc186f228dccd48728eabaf0b27650bec6e2ed8",
+   "copy": "864515fd207eef669409.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "final": "https://gem.gov.in/userFaqs/seller",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:40+05:30",
+   "sha256": "94407d2330f1cea79ecd3fc01fc186f228dccd48728eabaf0b27650bec6e2ed8",
+   "copy": "864515fd207eef669409.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "final": "https://gem.gov.in/userFaqs/seller",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:40+05:30",
+   "sha256": "94407d2330f1cea79ecd3fc01fc186f228dccd48728eabaf0b27650bec6e2ed8",
+   "copy": "864515fd207eef669409.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

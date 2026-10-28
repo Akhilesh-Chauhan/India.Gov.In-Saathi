@@ -1,0 +1,29 @@
+{
+ "id": "Q-238",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under Ni-kshay Poshan Yojana every TB patient gets Rs 1,000 per month for the entire duration of treatment, from 1 November 2024 (raised from Rs 500)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2200795",
+   "quote": "from 1 st November, 2024, the Government has doubled the financial assistance under Ni-kshay Poshan Yojana (NPY) to TB patients from Rs 500 to Rs 1,000 per month per patient, for the entire duration of treatment.",
+   "note": "PIB/MoHFW release of 09-12-2025."},
+  {"fact": "The money is paid by Direct Benefit Transfer (DBT)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2062928",
+   "quote": "have been disbursed to 1.13 crore beneficiaries through Direct Benefit Transfer under Ni-kshay Poshan Yojana",
+   "note": "PIB/MoHFW release of 07-10-2024."},
+  {"fact": "In total this comes to about Rs 3,000 to Rs 6,000 per patient, depending on treatment length",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2062928",
+   "quote": "All TB patients will now receive a nutritional support of ₹ 3,000 to ₹ 6,000 under Ni-Kshay Poshan Yojana (NPY)."},
+  {"fact": "Underweight patients (BMI below 18.5 at diagnosis) also get Energy Dense Nutritional Supplementation (EDNS) for the first 2 months of treatment",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2062928",
+   "quote": "BMI less than 18.5 kg/m 2 at the time of diagnosis). EDNS would be provided to all eligible patients for the first two months of their treatment."},
+  {"fact": "Ni-kshay Mitra community support (food baskets) has been extended to the household contacts of TB patients",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2062928",
+   "quote": "to permit expansion of scope & coverage of Ni-Kshay Mitra initiative under Pradhan Mantri TB Mukt Bharat Abhiyaan (PMTBMBA) to the family members (household contacts) of TB patients"}
+ ],
+ "summary": "All confirmed on PIB/MoHFW releases of 07-10-2024 and 09-12-2025: Rs 1,000/month by DBT for the whole treatment from 1 Nov 2024 (was Rs 500), Rs 3,000-6,000 total, EDNS for BMI<18.5 for 2 months, Ni-kshay Mitra extended to household contacts; no 2026 change found."
+}

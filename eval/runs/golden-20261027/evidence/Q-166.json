@@ -1,0 +1,67 @@
+{
+ "id": "Q-166",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "final": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:13+05:30",
+   "sha256": "5fd07d4cac75e6f3b7f70122423e9719ed4a4f14a969ef1207f2b33eae0d363f",
+   "copy": "cb0e059ed2133311c6c1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "final": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:13+05:30",
+   "sha256": "5fd07d4cac75e6f3b7f70122423e9719ed4a4f14a969ef1207f2b33eae0d363f",
+   "copy": "cb0e059ed2133311c6c1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026319829701.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026319829701.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:58:35+05:30",
+   "sha256": "47eda90721bc09a6fcedddd83454042ab4eaa5f788790df76bfb66b127eb23de",
+   "copy": "2a3839bfbd1da253966b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "final": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:57+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "488a46408826f57bc0d2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

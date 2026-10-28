@@ -1,0 +1,21 @@
+{
+ "id": "Q-227",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Supreme Court website has a Live Streaming page (sci.gov.in, under News & Events > Live Streaming)",
+   "status": "added",
+   "url": "https://www.sci.gov.in/live-streaming/",
+   "quote": "Home News & Events Live Streaming Print Live Streaming"
+  },
+  {
+   "fact": "Recordings of earlier Constitution Bench and Ceremonial Bench proceedings are reached through the ARCHIVE link on that page",
+   "status": "added",
+   "url": "https://www.sci.gov.in/live-streaming/",
+   "quote": "Live Streaming For previous court proceedings of Constitution Bench Matters and Ceremonial Bench, please click on ARCHIVE"
+  }
+ ],
+ "behaviour": "Explains how to watch Supreme Court hearings live via the Live Streaming page on sci.gov.in, and where past Constitution Bench / Ceremonial Bench recordings are, citing sci.gov.in.",
+ "fail_if": "Points to unofficial streams or channels as the official source, or invents which cases or times are streamed.",
+ "summary": "sci.gov.in has a Live Streaming page (News & Events) with an ARCHIVE of past Constitution Bench and Ceremonial Bench proceedings."
+}

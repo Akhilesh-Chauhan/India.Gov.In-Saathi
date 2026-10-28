@@ -1,0 +1,16 @@
+{
+ "id": "MT-05",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A defective-product complaint can be registered with the National Consumer Helpline (Department of Consumer Affairs) at the pre-litigation stage",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "quote": "National Consumer Helpline (NCH) is the grievance redressal mechanism of the Department of Consumer Affairs, Government of India. NCH has emerged as a single point of access for consumers across the country at the pre-litigation stage."},
+  {"fact": "NCH channels include toll-free 1915, the NCH app and the web portal",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "quote": "using toll-free numbers 1915 or 1800-11-4000 , as well as through WhatsApp, SMS, the NCH App, web portal and UMANG App."},
+  {"fact": "The NCH web portal is consumerhelpline.gov.in",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "For registration go to the web portal http://consumerhelpline.gov.in and click on the login link and then signup giving details required, verify through your email."}
+ ],
+ "summary": "NCH route and channels (1915 / app / consumerhelpline.gov.in) in the turns are confirmed; turns unchanged."
+}

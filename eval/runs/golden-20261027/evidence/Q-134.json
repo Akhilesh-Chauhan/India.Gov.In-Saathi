@@ -1,0 +1,37 @@
+{
+ "id": "Q-134",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/premiumservices",
+   "final": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/premiumservices",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:22:27+05:30",
+   "sha256": "24dffa291f80f0bee9052723bb30e997652941d5877d5537808d523cebb01218",
+   "copy": "d46cd4460571c50eb043.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/",
+   "final": "https://www.indiapost.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:22:12+05:30",
+   "sha256": "34a4075178b55e07a8fde1b1969a7b5134f3fff5bcd52d03fb2279f8c8e8f390",
+   "copy": "e47dab059fdd9dadd9d3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

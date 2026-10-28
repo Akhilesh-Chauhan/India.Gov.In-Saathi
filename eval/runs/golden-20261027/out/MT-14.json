@@ -1,0 +1,71 @@
+{
+ "id": "MT-14",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "EPFO's current scheme is the Employees' Provident Funds Scheme, 2026 (gazetted 29 June 2026, replacing the 1952 Scheme)",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "This Scheme may be called the Employees’ Provident Funds Scheme, 2026."
+  },
+  {
+   "fact": "After leaving a job (unemployment), up to 75% of the PF balance can be withdrawn immediately and the remaining 25% after one year",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689",
+   "quote": "In case of unemployment, 75% PF balance ( that includes employer and employee contribution and interest earned) can be withdrawn immediately. Remaining 25% can also be withdrawn after one year."
+  },
+  {
+   "fact": "Withdrawal of the full balance on leaving service needs at least 12 continuous months without employment in a covered establishment (EPF Scheme, 2026)",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "Provided that a member shall not be eligible to withdraw unless the member has not been employed in any factory or other establishment to which the Code applies for a continuous period of not less than twelve months immediately preceding the date of application for withdrawal",
+   "note": "The quote is the proviso to the EPF Scheme, 2026 sub-paragraph that lets a member withdraw the full amount on ceasing to be an employee ('(2) ... may permit a member to withdraw the full amount standing to the credit in the Fund on ceasing to be an employee')."
+  },
+  {
+   "fact": "To claim online, the UAN must be activated and the Aadhaar and bank account KYC approved against it",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "However, the member must ensure that his UAN is activated and at least the bank account and Aadhaar KYC’s in respect of his account are approved by the Employer using his Digital Signature Certificate."
+  },
+  {
+   "fact": "All EPFO services, including claim filing, are free of cost; members should not pay agents or cyber cafes",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2136592&reg=48&lang=2",
+   "quote": "All EPFO services including claim filing, transfers, KYC updation, and grievance process are entirely free of cost and members should not pay any fees to third party agents or cyber cafes for services that can be easily accessed online."
+  },
+  {
+   "fact": "Complaints can be filed on EPFO's grievance portal EPFiGMS (epfigms.gov.in)",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/",
+   "quote": "file a complaint on the website using the EPFiGMS feature in the section ‘FOR EMPLOYEES’. The url for the grievance page is http://epfigms.gov.in/"
+  },
+  {
+   "fact": "Never respond to any call asking for personal details (Aadhaar, PAN, bank details, OTP) or for any payment",
+   "status": "confirmed",
+   "url": "https://passbook.epfindia.gov.in/MemberPassBook/login",
+   "quote": "Please never respond to any call for sharing any personal details like Aadhaar, PAN, Bank details, OTP or request for any payment."
+  },
+  {
+   "fact": "Under the EPF Scheme, 2026 a claim complete in all respects is settled and paid within 20 days of receipt by the Commissioner",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "The claims, complete in all respects and submitted along with the requisite documents, shall be settled and the benefit amount paid to the beneficiaries within twenty days from the date of receipt by the Commissioner.",
+   "note": "Turn 4 asked for officially published timelines only; the EPF Scheme, 2026 publishes one, and EPFO's home page also says to complain on EPFiGMS if a claim is not settled within 20 days."
+  },
+  {
+   "fact": "Claims can be raised and tracked on the UMANG app",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/",
+   "quote": "Raise or Track EPFO Claims on the go with UMANG"
+  }
+ ],
+ "turns": [
+  "Asks at most two questions that change the answer (how long without a job; is the UAN Aadhaar-linked).",
+  "Withdrawal rules exactly as in EPFO's current scheme (Employees' Provident Funds Scheme, 2026) with citation: after leaving a job up to 75% of the PF balance can be withdrawn immediately and the rest after one year (full withdrawal needs 12 continuous months without employment), so after 2 months the member can claim up to 75%; online claim on the EPFO Member Portal or UMANG with the UAN activated and Aadhaar and bank KYC approved; UMANG/EPFO link.",
+  "Edge - intermediary: all EPFO services including claim filing are free of cost and members should not pay agents or cyber cafes (EPFO, PIB 16 Jun 2025); complaint via EPFiGMS (epfigms.gov.in); never share OTP; no blame.",
+  "What happens after: under the EPF Scheme, 2026 a claim complete in all respects is settled and paid within 20 days of receipt; if not settled in 20 days, complain on EPFiGMS; track claim status on EPFO/UMANG."
+ ],
+ "behaviour": "Hinglish replies; asks at most two questions first; cites EPFO / the EPF Scheme, 2026 or PIB for every rule and timeline; does not ask for the UAN, password or OTP; no blame on the user.",
+ "fail_if": "Says the full PF balance can be withdrawn two months after leaving the job (old 1952-Scheme rule) without the current 75%-now / rest-after-12-months rule; endorses paying the agent's 10% commission; asks for or encourages sharing the OTP; invents a settlement timeline other than the published 20 days.",
+ "summary": "Confirmed EPF Scheme 2026, free EPFO services, EPFiGMS, OTP warning and UMANG tracking; added the 75%/12-month withdrawal rule, UAN/KYC condition and the 20-day settlement timeline (EPF Scheme, 2026)."
+}

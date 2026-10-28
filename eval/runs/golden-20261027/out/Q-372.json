@@ -1,0 +1,17 @@
+{
+ "id": "Q-372",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "HP Gas consumers can book a refill cylinder in UMANG with the HP Gas 'Refill Order' service (online payment or cash on delivery)",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/hp-gas.html",
+   "quote": "Refill Order (Online payment) HP gas Consumers will be able to raise request for new LPG cyclinders and pay fee online."},
+  {"fact": "Bharat Gas consumers can book a refill cylinder in UMANG with the Bharat Gas 'Refill Order' service",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/bharat-gas.html",
+   "quote": "Refill Order Bharat gas Consumers will be able to raise request for new LPG cylinders and pay fee online for certain distributors."}
+ ],
+ "behaviour": "Gives the deep link to the LPG refill booking service of the user's gas company if it is in the UMANG catalogue (or asks which company); otherwise points to the oil company's official booking channel. Replies in Hinglish. No fabricated link.",
+ "fail_if": "Invents a UMANG link or service not in the catalogue; points to a non-official booking site; claims to book the cylinder itself.",
+ "summary": "Added: UMANG HP Gas 'Refill Order' (online payment / cash on delivery) and Bharat Gas 'Refill Order'; the UMANG Indian Oil (iocl) page lists no services."
+}

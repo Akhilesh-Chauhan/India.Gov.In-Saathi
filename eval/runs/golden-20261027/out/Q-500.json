@@ -1,0 +1,27 @@
+{
+ "id": "Q-500",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Overseas electors use Form 6A",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Inclusion of names for overseas electors (Form6A)"},
+  {"fact": "Form 6B is for giving the Aadhaar number for electoral roll authentication",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Letter of Information of Aadhaar number for the purpose of electoral roll authentication (Form 6B)"},
+  {"fact": "Form 6 is for new voter registration",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "New Voter Registration (Form6)"},
+  {"fact": "Form 7 is for objection to inclusion or deletion of a name",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Objection for Proposed Inclusion/ Deletion of Name in Existing Electoral Roll (Form 7)"},
+  {"fact": "Form 8 is for shifting of residence, correction of entries, replacement of EPIC and marking of PwD",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Shifting of Residence/Correction of Entries in Existing Electoral Roll/ Replacement of EPIC/Marking of PwD (Form 8)"}
+ ],
+ "summary": "All form numbers confirmed in ECI's electoral roll FAQ."
+}

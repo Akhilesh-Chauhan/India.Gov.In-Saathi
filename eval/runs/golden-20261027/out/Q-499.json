@@ -1,0 +1,15 @@
+{
+ "id": "Q-499",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "To correct a wrongly printed name on the voter ID, apply in Form 8",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "You can make an application in Form 8 for rectification of the errors in your EPIC."},
+  {"fact": "After correction the ERO issues a new EPIC with the same number",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "The Electoral Registration Officer will issue a new EPIC, with the same number, after making the necessary corrections."}
+ ],
+ "summary": "Confirmed in ECI's electoral roll FAQ: Form 8, new EPIC with the same number."
+}

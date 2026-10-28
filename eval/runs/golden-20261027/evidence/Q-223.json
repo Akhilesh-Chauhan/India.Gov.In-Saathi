@@ -1,0 +1,52 @@
+{
+ "id": "Q-223",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "final": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:04+05:30",
+   "sha256": "f191cb86231d360a23b229e5e76637eb5a96040e388adcebab05cd4632615b5a",
+   "copy": "dc944f3788659d2c56b4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "final": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:04+05:30",
+   "sha256": "f191cb86231d360a23b229e5e76637eb5a96040e388adcebab05cd4632615b5a",
+   "copy": "dc944f3788659d2c56b4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/App/appfaq.html",
+   "final": "https://services.ecourts.gov.in/App/appfaq.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:03+05:30",
+   "sha256": "4d0f736b4ee63d47dcdb08f5f4f2ae36f8a462387d682bc277c306d81bdbd811",
+   "copy": "e3cf0f77a0aa38004db1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

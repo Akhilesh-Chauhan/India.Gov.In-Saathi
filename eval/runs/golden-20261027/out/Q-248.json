@@ -1,0 +1,78 @@
+{
+ "id": "Q-248",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The original PMAY-U was launched on 25 June 2015",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Pradhan Mantri Awas Yojana - Urban (PMAY-U) Scheme was launched on 25th June 2015 by the Hon’ble Prime Minister"
+  },
+  {
+   "fact": "The original PMAY-U mission period ran up to 31.03.2022",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/about",
+   "quote": "The original mission period was up to 31.03.2022 which has been extended till 31.12.2025 for completion of houses sanctioned up to 31.03.2022, without changing funding pattern and implementation methodology of the scheme."
+  },
+  {
+   "fact": "It was extended up to 31.12.2025 only to complete houses sanctioned up to 31.03.2022",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/about",
+   "quote": "The original mission period was up to 31.03.2022 which has been extended till 31.12.2025 for completion of houses sanctioned up to 31.03.2022, without changing funding pattern and implementation methodology of the scheme.",
+   "note": "No later extension found on pmay-urban.gov.in or pib.gov.in (searched 28 Oct 2026); the /about page still gives 31.12.2025."
+  },
+  {
+   "fact": "The CLSS vertical of PMAY-U closed on 31.03.2022",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/about",
+   "quote": "The component of CLSS has been closed on 31.03.2022."
+  },
+  {
+   "fact": "PMAY-U 2.0 has been launched to assist 1 crore eligible urban families",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Accordingly, Pradhan Mantri Awas Yojana - Urban 2.0 (PMAY-U 2.0) has been launched to provide assistance to 1 crore eligible urban families"
+  },
+  {
+   "fact": "The PMAY-U 2.0 scheme guidelines are dated September 2024",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Housing for All Mission Scheme Guidelines September 2024"
+  },
+  {
+   "fact": "The Union Budget 2024 announced that PMAY-U 2.0 would meet the housing needs of 1 crore urban poor and middle-class families in the next 5 years",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "In the Union Budget 2024, Hon’ble Finance Minister announced that under PMAY-U 2.0, housing needs of 1 crore urban poor and middle-class families will be addressed in the next 5 years."
+  },
+  {
+   "fact": "PMAY-U 2.0 has four verticals: BLC, AHP, ARH and ISS",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The Scheme will be implemented through following four verticals: i. Beneficiary Led Construction (BLC) ii. Affordable Housing in Partnership (AHP) iii. Affordable Rental Housing (ARH) iv. Interest Subsidy Scheme (ISS)"
+  },
+  {
+   "fact": "ISS covers home loans sanctioned and disbursed on or after 01.09.2024",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy will be provided on home loans sanctioned and disbursed on 01.09.2024 or after to eligible beneficiaries of EWS/LIG and MIG for purchase/ re-purchase/construction of houses."
+  },
+  {
+   "fact": "The total number of houses sanctioned under PMAY-U 2.0 has crossed 18.38 lakh",
+   "status": "changed",
+   "was": "total sanctions under PMAY-U 2.0 crossed 16 lakh (PIB release)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296797",
+   "quote": "With the latest approvals, the total number of houses sanctioned under PMAY-U 2.0 has crossed 18.38 lakh",
+   "note": "From the PIB release of 9 Aug 2026 on the 8th CSMC meeting. The 16 lakh figure was from the 7th CSMC release (Jun 2026). The pmaymis.gov.in dashboard showed 18.78 lakh houses sanctioned on 28 Oct 2026."
+  },
+  {
+   "fact": "The pmaymis.gov.in portal has the 'Apply for PMAY-U 2.0' option for applicants",
+   "status": "confirmed",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PmayDefault.aspx",
+   "quote": "Citizen Services List of Applications Under PMAY 2.O ISS Subsidy Calculator Track Application Status Support/FAQs List of ULB Apply for PMAY-U 2.0"
+  }
+ ],
+ "behaviour": "Politely corrects the false premise with citation (pmay-urban.gov.in / PIB), distinguishing PMAY-U (1.0) timelines (mission to 31.03.2022, completion of already-sanctioned houses extended to 31.12.2025, CLSS closed 31.03.2022) from the current PMAY-U 2.0, which is running with ongoing sanctions. Does not invent a further extension of the 1.0 completion deadline or an end date for 2.0; any 2.0 sanction total given should be cited and dated (18.38 lakh per PIB, Aug 2026, or a later official figure).",
+ "fail_if": "It agrees that PMAY-U ended in 2022 with no successor; says PMAY-U 2.0 is only proposed or not launched; says CLSS is still available; invents an end date for 2.0 or a further extension of the 1.0 completion deadline.",
+ "summary": "PMAY-U 1.0 timelines and PMAY-U 2.0 facts confirmed; the 2.0 sanction total is now over 18.38 lakh (PIB 9 Aug 2026), not 16 lakh."
+}

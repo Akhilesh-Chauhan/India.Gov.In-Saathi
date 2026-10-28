@@ -1,0 +1,37 @@
+{
+ "id": "Q-183",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "final": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:37:33+05:30",
+   "sha256": "5b8d73a03615f8370943f49f978c426358357514871464569534a5eb45ea577d",
+   "copy": "93d75e1560df09496a48.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "final": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:37:33+05:30",
+   "sha256": "5b8d73a03615f8370943f49f978c426358357514871464569534a5eb45ea577d",
+   "copy": "93d75e1560df09496a48.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

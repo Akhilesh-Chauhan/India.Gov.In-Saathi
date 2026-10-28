@@ -1,0 +1,37 @@
+{
+ "id": "Q-015",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "final": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:56+05:30",
+   "sha256": "b398034befe862c086db0fbdf29c1f9f91ebb4a491b4b853cea002a9ee753ca8",
+   "copy": "a419eca56256b03a49a6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "final": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:56+05:30",
+   "sha256": "b398034befe862c086db0fbdf29c1f9f91ebb4a491b4b853cea002a9ee753ca8",
+   "copy": "a419eca56256b03a49a6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

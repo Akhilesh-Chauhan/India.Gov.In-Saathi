@@ -1,0 +1,18 @@
+{
+ "id": "Q-335",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The PIB Fact Check Unit checks information relating to the Government of India, its Ministries and Departments", "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "quote": "The PIB Fact Check unit only takes up complaints related to the Government of India, its Ministries, Departments, Public Sector entities etc."},
+  {"fact": "Messages can be sent for fact-checking to the PIB Fact Check WhatsApp hotline +91 8799711259", "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "quote": "Where can users submit their Fact Check complaints? WhatsApp Hotline - +91 8799711259"},
+  {"fact": "Complaints can also be submitted on the portal factcheck.pib.gov.in or by email to factcheck@pib.gov.in", "status": "added",
+   "url": "https://www.pib.gov.in/FAQ_fact.aspx?reg=3&lang=1",
+   "quote": "Email ID - factcheck[at]pib[dot]gov[dot]in Website Portal - https://factcheck.pib.gov.in/"}
+ ],
+ "behaviour": "Points the user to PIB Fact Check (Press Information Bureau) to verify the viral message, giving its official submission channels and citing pib.gov.in.",
+ "fail_if": "It vouches for or debunks the message itself without an official source, sends the user to a non-official fact-checker only, or gives a WhatsApp number, email or portal other than PIB's.",
+ "summary": "PIB Fact Check Unit FAQ: Government of India matters; WhatsApp +91 8799711259, factcheck.pib.gov.in, factcheck@pib.gov.in."
+}

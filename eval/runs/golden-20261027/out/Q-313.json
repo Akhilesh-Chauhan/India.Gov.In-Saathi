@@ -1,0 +1,181 @@
+{
+ "id": "Q-313",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The IEC is a 10-character alpha-numeric code",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/4f665d2f-20cc-4887-ae6a-5ec912bc0d44/FTP2023_Chapter02.pdf",
+   "quote": "An IEC is a 10-character alpha-numeric number allotted to an entity(firm/company/LLP etc.) and is mandatory for undertaking any export/import activities."
+  },
+  {
+   "fact": "The IEC is the same as the firm's PAN but is issued separately by DGFT on an application",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "Consequent upon introduction of GST, IEC being issued is the same as the PAN of the firm. However, the IEC will still be separately issued by DGFT based on an application."
+  },
+  {
+   "fact": "The application is filed online in form ANF-2A at dgft.gov.in with the fee and documents",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "Exporters/ Importers shall file online application in ANF-2A format through the online process at https://dgft.gov.in with applicable fee and requisite documents."
+  },
+  {
+   "fact": "No import or export of goods may be made without an IEC unless specifically exempted",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "No export or import shall be made by any person without obtaining an IEC unless specifically exempted."
+  },
+  {
+   "fact": "For services exports an IEC is needed only when claiming Foreign Trade Policy benefits",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "For services exports however, IEC shall be not be necessary except when the service provider is taking benefits under the Foreign Trade Policy."
+  },
+  {
+   "fact": "Pre-requisites: the firm must have a PAN, a bank account in the firm's name and a valid address",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "Firm must have a PAN, bank account in the name of the firm and a valid address before applying."
+  },
+  {
+   "fact": "DGFT may physically verify the address",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "Address may be physically verified by the DGFT on issuance of the IEC."
+  },
+  {
+   "fact": "The applicant needs an active DSC or Aadhaar of a firm member to submit",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "User should have an active DSC or Aadhaar of the firm’s member for submission."
+  },
+  {
+   "fact": "The IEC application fee is Rs 500",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/d62065a3-1ad4-44a2-bca7-192850af74e4/Updated_Appendix%202K.pdf",
+   "quote": "Importer Exporter Code Five Hundred"
+  },
+  {
+   "fact": "The fee is paid online through the Bharatkosh payment gateway",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "For Payment you shall be redirected to Payment Gateway (Bharatkosh). The Application of IECFee is Rs 500"
+  },
+  {
+   "fact": "The IEC is auto-generated and the applicant is informed by e-mail and SMS",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "IEC will be auto-generated and applicant will be informed through e-mail and SMS."
+  },
+  {
+   "fact": "The e-IEC can be viewed and downloaded from the applicant's dashboard",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "Applicant can also view and download the e-IEC after completion of the submission process of application by logging onto their dashboard."
+  },
+  {
+   "fact": "Only one IEC is issued per PAN",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "Only one IEC shall be issued against a single PAN."
+  },
+  {
+   "fact": "The IEC has permanent validity unless suspended or cancelled",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "An IEC allotted to an applicant shall have permanent validity unless suspended/cancelled by the competent authority."
+  },
+  {
+   "fact": "The IEC holder must update IEC details online every year during April-June (FTP 2023 para 2.05(d))",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/4f665d2f-20cc-4887-ae6a-5ec912bc0d44/FTP2023_Chapter02.pdf",
+   "quote": "An IEC holder has to ensure that details in its IEC is updated electronically every year, during the AprilJune period."
+  },
+  {
+   "fact": "If nothing has changed, the details must still be confirmed online",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/4f665d2f-20cc-4887-ae6a-5ec912bc0d44/FTP2023_Chapter02.pdf",
+   "quote": "In cases where there are no changes in IEC details same also needs to be confirmed online."
+  },
+  {
+   "fact": "An IEC not updated in time is de-activated and can be re-activated on successful updation (para 2.05(e))",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/4f665d2f-20cc-4887-ae6a-5ec912bc0d44/FTP2023_Chapter02.pdf",
+   "quote": "An IEC shall be de-activated, if it is not updated within the prescribed period. An IEC so de-activated may be activated, on its successful updation."
+  },
+  {
+   "fact": "Changes in constitution, address, bank or other primary details must be updated online within 30 days (HBP para 2.14)",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "Any change in constitution of firm, address, bank details or any other primary details, the IEC holder is required to ensure that the IEC details are suitably updated online within 30 days of effecting such change(s)."
+  },
+  {
+   "fact": "There is no fee for the annual April-June IEC update",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/dgftprod/d62065a3-1ad4-44a2-bca7-192850af74e4/Updated_Appendix%202K.pdf",
+   "quote": "Annual updation of IEC during the period Nil"
+  },
+  {
+   "fact": "Step 1: IEC Profile Management is under Services on dgft.gov.in",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "Services IEC Profile Management IEC Profile Management What is IEC"
+  },
+  {
+   "fact": "Step 1: log in to the DGFT portal and click 'Apply for IEC' on the dashboard",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Post login click on “Apply for IEC” on the Dashboard."
+  },
+  {
+   "fact": "Step 2: the form takes the firm's PAN, name as per PAN and date of birth/incorporation",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "PAN, Name (As per PAN Database) and Date of Birth/ Date of Incorporation"
+  },
+  {
+   "fact": "Step 2: the form takes the firm address, city and PIN",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Enter firm address, City and PIN."
+  },
+  {
+   "fact": "Step 2: the form takes branch details, if any",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Enter branch details if any."
+  },
+  {
+   "fact": "Step 2: the form takes the firm's mobile number for correspondence",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Enter Firm Mobile No. (For correspondence with DGFT)."
+  },
+  {
+   "fact": "Step 2-3: bank details are entered with a cancelled cheque or bank certificate attached",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Under Bank Account Section, enter Account Number, Account Holder Name, IFSC code, BankName, Branch Name and attach proof (Cancelled Bank Cheque / Bank certificate)."
+  },
+  {
+   "fact": "Step 3: an address proof of the firm is uploaded",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf",
+   "quote": "Address proof of the applicant entity as detailed in the application"
+  },
+  {
+   "fact": "Step 4: the application is signed with a digital signature token or Aadhaar",
+   "status": "confirmed",
+   "url": "https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf",
+   "quote": "Check the Application Summary and click on Sign button to sign the application using digital token or Aadhaar."
+  },
+  {
+   "fact": "Step 7: 'Update/Modify IEC' is the option to update IEC details",
+   "status": "confirmed",
+   "url": "https://www.dgft.gov.in/CP/?opt=iec-profile-management",
+   "quote": "Update/Modify IEC To modify an IEC, click and modify the IEC details and submit the request for auto approved modification."
+  }
+ ],
+ "summary": "All claims confirmed on DGFT pages: IEC page, IEC manual v2.0, FTP 2023 Ch.2 (para 2.05), HBP (07/2026) Ch.2 and Appendix-2K (IEC fee Rs 500; annual updation fee Nil)."
+}

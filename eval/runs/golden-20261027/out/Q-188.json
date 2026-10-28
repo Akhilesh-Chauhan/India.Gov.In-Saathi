@@ -1,0 +1,95 @@
+{
+ "id": "Q-188",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under the Modified Interest Subvention Scheme (MISS) for FY 2025-26, the lending rate to farmers is 7% a year",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "The applicable lending rate to farmers and the rate of interest subvention for the financial year 2025-26 will be as follows: Financial Year Lending rate to farmers Rate of Interest Subvention to Lending Institutions 7% 1.50% 2025-26"
+  },
+  {
+   "fact": "The Government pays lending institutions 1.5% interest subvention",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2131988",
+   "quote": "Farmers received short-term loans of up to Rs.3 lakh through Kisan Credit Cards (KCC) at a subsidized interest rate of 7% , with 1.5% interest subvention provided to eligible lending institutions."
+  },
+  {
+   "fact": "Farmers who repay on time get an extra 3% a year interest subvention (Prompt Repayment Incentive)",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "(ii) An additional interest subvention of 3% per annum will be provided to such of those farmers repaying in time"
+  },
+  {
+   "fact": "Farmers who repay on time therefore pay an effective 4% a year",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "This also implies that the farmers repaying promptly as above would get short term crop loans and/or short term loans for allied activities including animal husbandry, dairy, fisheries, bee keeping etc. @ 4% per annum during the financial year 2025-26."
+  },
+  {
+   "fact": "Timely repayment means by the due date fixed by the bank, subject to a maximum of one year from disbursement",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "upto the due date fixed by the banks for repayment of such loan/s, whichever is earlier, subject to a maximum period of one year from the date of disbursement."
+  },
+  {
+   "fact": "Farmers who repay after one year do not get the Prompt Repayment Incentive",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "This benefit would not accrue to those farmers who repay their agri loans after one year of availing such loans."
+  },
+  {
+   "fact": "Official sources differ on the MISS limit: RBI's MISS circular for FY 2025-26 (13 Jan 2026) applies interest subvention and the Prompt Repayment Incentive up to an overall Rs 3 lakh a year, while PIB (Ministry of Agriculture) says the crop loan limit under MISS was raised from Rs 3 lakh to Rs 5 lakh in 2025-26",
+   "status": "conflict",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "Interest subvention and prompt repayment incentive benefits on short term crop loans and short term loans for allied activities will be available on an overall limit of ₹3 lakh per annum",
+   "note": "PIB backgrounders (11 Mar 2026, 16 Jul 2026) repeat the Budget 2025-26 announcement that the MISS limit was raised to Rs 5 lakh, but the operative RBI MISS circular of 13 Jan 2026 keeps Rs 3 lakh; the expected answer already treats Rs 5 lakh as not to be stated without qualification. Coordinator 28 Oct: made a conflict so a bot citing either official page is not marked wrong; the same PIB release also says 'Short-term agri-loans up to Rs 3 lakh are available at 7% interest'.",
+   "was": "MISS benefits apply up to an overall limit of Rs 3 lakh (no other figure accepted)",
+   "also": [
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004",
+     "quote": "the crop loan limit under MISS, which has been raised from Rs 3 lakh to Rs 5 lakh."
+    }
+   ]
+  },
+  {
+   "fact": "Farmers engaged only in allied activities (animal husbandry, dairy, fisheries, bee-keeping) have a sub-limit of Rs 2 lakh",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "subject to a maximum sub-limit of ₹2 lakh per farmer in respect of those farmers involved only in activities related to animal husbandry, dairy, fisheries, bee keeping etc."
+  },
+  {
+   "fact": "The crop-loan component takes priority for the subvention benefits; the rest goes to allied activities",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "The limit for crop loan component will take priority for interest subvention and prompt repayment incentive benefits and the residual amount will be considered towards allied activities"
+  },
+  {
+   "fact": "The latest notified MISS guidelines are for FY 2025-26",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "Government of India has approved the continuation of the Modified Interest Subvention Scheme (MISS) for the financial year 2025-26 with the following stipulations",
+   "note": "Searched rbi.org.in and pib.gov.in (28 Oct 2026) for a FY 2026-27 MISS continuation: none found. RBI KCC Directions 2026 (19 Jun 2026) only say banks follow interest subvention instructions as applicable."
+  },
+  {
+   "fact": "The RBI MISS circular for FY 2025-26 is dated 13 January 2026 (RBI/2025-26/193)",
+   "status": "confirmed",
+   "url": "https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf",
+   "quote": "RBI/2025-26/193 FIDD.CO.FSD.BC.No.10/05.02.001/2025-26 January 13, 2026"
+  },
+  {
+   "fact": "Interest on the KCC loan amount above Rs 3 lakh is charged at the bank's normal rate",
+   "status": "unsupported",
+   "note": "No official page found stating the rate above Rs 3 lakh. The MISS circular only caps the subvention at Rs 3 lakh; RBI KCC Directions 2026 para 21 says the rate follows RBI's Interest Rates on Advances Directions. Checked agriwelfare MISS circular, rbi.org.in KCC Directions, PIB 2131988/2238004/2246855."
+  },
+  {
+   "fact": "Collateral-free KCC (short-term agricultural) loans are allowed up to Rs 2 lakh per borrower from 1 January 2025",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246855",
+   "quote": "The limit for collateral free short-term agricultural loans, including loans for allied activities, has been raised from Rs.1.60 lakh to Rs.2.00 lakh per borrower by RBI w.e.f.01 January 2025."
+  }
+ ],
+ "behaviour": "Rates cited from agriwelfare.gov.in / RBI / PIB; notes that the latest notified MISS guidelines are for FY 2025-26 (RBI circular of 13 Jan 2026); if it mentions the Budget 2025-26 announcement of a Rs 5 lakh MISS limit, it says the operative circular still applies the subvention up to Rs 3 lakh; does not quote a bank-specific rate. On the MISS limit, either Rs 3 lakh (RBI MISS circular of 13 Jan 2026) or Rs 5 lakh (PIB, 2025-26 enhancement) is accepted when the bot cites the official page it relies on; saying that the RBI circular still applies Rs 3 lakh while PIB reports Rs 5 lakh is best.",
+ "fail_if": "Says 4% for everyone with no condition; says 2% subvention (pre-2022 rate); gives the MISS limit (Rs 3 lakh or Rs 5 lakh) without citing an official page; cites bank or blog sites.",
+ "summary": "All MISS values confirmed on the RBI circular of 13 Jan 2026 (no FY 2026-27 notice found); 'above Rs 3 lakh at the bank's normal rate' is not stated on any official page. MISS limit is a conflict between the RBI circular (Rs 3 lakh) and PIB (raised to Rs 5 lakh)."
+}

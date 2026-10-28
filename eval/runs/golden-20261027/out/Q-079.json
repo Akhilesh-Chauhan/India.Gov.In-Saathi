@@ -1,0 +1,68 @@
+{
+ "id": "Q-079",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under para 43(1) of the EPF Scheme, 2026, a member who changes jobs may apply on the designated portal to transfer the PF balance from the old account to the new one",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "the member may apply on the designated portal, for the purpose for transfer of balance of the provident fund from the existing account to the new account."
+  },
+  {
+   "fact": "Para 43(3) lets the Commissioner provide automated transfer where the member's identity and account ownership are confirmed",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "The Commissioner may provide for facilities for the transfer of funds in an automated manner, subject to the condition that the identity of the member and ownership of the provident fund accounts are confirmed in accordance with the procedure specified for the purpose:"
+  },
+  {
+   "fact": "If identity cannot be confirmed online, the employer forwards the transfer application after confirming the member's identity",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "Provided that in case of non-confirmation of the identity of the member of the provident fund account through online mode, the employer shall forward the application for transfer after confirming the identity of the member to the Commissioner."
+  },
+  {
+   "fact": "EPFO removed the requirement to route online transfer claims through the previous or current employer in most cases",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2094230",
+   "quote": "EPFO has simplified the process for transfer of PF account on change of jobs wherein the requirement to route online transfer claims through either the previous or current employer has been removed in majority of cases."
+  },
+  {
+   "fact": "EPFO's revamped Form 13 functionality removed the approval of transfer claims at the destination office",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2124244",
+   "quote": "Now, with an aim to further simplify the process, EPFO has removed the requirement of approval of all transfer claims at the Destination Office by launching a Revamped Form 13 software functionality."
+  },
+  {
+   "fact": "Employer attestation is not needed for transfer claims of Aadhaar-verified UANs (UAN with Aadhaar KYC seeded)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2111756",
+   "quote": "In Transfer claim submission requests, the need for employer’s attestation of Aadhaar-verified UANs has been done away with."
+  },
+  {
+   "fact": "The transfer request is filed online on the Member Portal (Form 13 online)",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "A member can submit claim for transfer online using member interface at unified portal."
+  },
+  {
+   "fact": "Members can track the status of transfer applications online and verify their PF transfers",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2168059",
+   "quote": "Ability to track status of transfer applications online, ensuring full transparency and allowing members to easily verify their PF transfers"
+  },
+  {
+   "fact": "The transfer request is verified with an Aadhaar OTP",
+   "status": "unsupported",
+   "note": "Searched epfo.gov.in (FAQ, employee documents), pib.gov.in and labour.gov.in on 28 Oct 2026: no current official page states the OTP step for transfer claims; the old epfindia.gov.in OTCP process-flow and transfer-claim FAQ PDFs now return 404."
+  },
+  {
+   "fact": "Once the source office approves the transfer claim, the previous account is transferred automatically to the member's present account",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2124244",
+   "quote": "Henceforth, once the transfer claim gets approved at the Transferor (Source) Office the previous account will automatically get transferred to the present account of the member at the Transferee (Destination) Office instantly"
+  }
+ ],
+ "behaviour": "Explains the current process with dates (EPF Scheme, 2026 para 43; PIB Jan/Apr/Sep 2025): the member still applies online on the Member Portal (Form 13) unless EPFO transfers the account automatically, approvals are now largely automated, and the member can check on the Member Portal whether the old account has already been transferred; cannot see the user's accounts; does not ask for UAN/OTP.",
+ "fail_if": "Says transfer is fully automatic in all cases with no claim needed (not stated officially); says both the old and new employer must approve every transfer (old rule); or says the member must withdraw and re-deposit.",
+ "summary": "Para 43 and the 2025 PIB changes confirmed; tracking on the Member Portal confirmed (PIB 18 Sep 2025); the Aadhaar-OTP step has no current official source."
+}

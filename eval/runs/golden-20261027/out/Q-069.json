@@ -1,0 +1,7 @@
+{
+ "id": "Q-069",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "The answer depends on the month the question is asked, so there is no fixed value. On 28 Oct 2026 the expected source cbic-gst.gov.in showed no Central Tax (Rate) notification list (its home page lists only HSNS Cess notifications and advisories, the old list URL returns 404) and the GST Council's CGST rate list ends at 08/2025; the expected behaviour (give the latest number and date if found, else say none found) stands.",
+ "summary": "No fixed fact: month-dependent; CBIC and GST Council rate-notification lists are stale, so 'none found' remains an acceptable answer."
+}

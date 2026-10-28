@@ -1,0 +1,37 @@
+{
+ "id": "Q-374",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pgportal.gov.in/",
+   "final": "https://pgportal.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:10:48+05:30",
+   "sha256": "ed2795af1813b96c868c50ee0a4166c3e1e3c5c9e2897a23457656bbd6b5f987",
+   "copy": "eea7de652706214040e3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pgportal.gov.in/",
+   "final": "https://pgportal.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:10:48+05:30",
+   "sha256": "ed2795af1813b96c868c50ee0a4166c3e1e3c5c9e2897a23457656bbd6b5f987",
+   "copy": "eea7de652706214040e3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

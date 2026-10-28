@@ -1,0 +1,25 @@
+{
+ "id": "Q-137",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "India Post Payments Bank (IPPB) lets you open a bank account through its Doorstep Banking service",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "You can open a bank account, transfer funds, deposit and withdraw cash, recharge or pay bills"},
+  {"fact": "The IPPB doorstep service is delivered through the local postman and Gramin Dak Sevak, for all citizens",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "The service is available for all citizens across every district, town & village of country through local Post Men & Gramin Dak Sevaks."},
+  {"fact": "There is no charge for opening a new IPPB account at the doorstep",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "at nominal charges (NIL charge for new account opening at your doorstep)"},
+  {"fact": "A Post Office Savings Account (POSB) can also be opened at a post office with a minimum of Rs 500",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "quote": "Post Office Savings Account One Account – Multiple Benefits Features: ● Minimum Rs. 500/- for opening"}
+ ],
+ "behaviour": "Says yes and gives both options: an India Post Payments Bank (IPPB) account (also at the doorstep through the postman) and a Post Office Savings Bank (POSB) savings account, citing the official IPPB / India Post page.",
+ "fail_if": "It says a bank account cannot be opened through the post office, or invents an account-opening fee.",
+ "summary": "Added from IPPB's Doorstep Banking page (account opening via postman/GDS, nil doorstep charge) and India Post's scheme booklet (POSB savings account, Rs 500 minimum)."
+}

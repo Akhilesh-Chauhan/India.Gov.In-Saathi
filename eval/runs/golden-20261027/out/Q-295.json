@@ -1,0 +1,20 @@
+{
+ "id": "Q-295",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Class 12 can be completed through the NIOS Senior Secondary course (equivalent to Class 12), which is for those who have passed Class 10 or equivalent from a recognised board",
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "quote": "Senior Secondary Course This Course is designed for those who have passed the Xth standard or equivalent examination from a recognised Board and would like to continue their education towards a Senior Secondary Certification, equivalent to XII standard."},
+  {"fact": "NIOS has no upper age limit for admission; the minimum age is 14 for Secondary and 15 for Senior Secondary (NIOS Academic Prospectus 2026-27)",
+   "status": "added",
+   "url": "https://www.nios.ac.in/media/documents/prospectus/2026/Academic_Prospectus_2026-27.pdf",
+   "quote": "Age Limit: There is no upper age limit for admission. However, the minimum age for enrolment is 14 years for the Secondary course and 15 years for the Senior Secondary course"},
+  {"fact": "Admission is online and open throughout the year",
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "quote": "In order to facilitate admission, provision of on-line admission throughout the year 24x7 has been made."}
+ ],
+ "behaviour": "Says she can complete Class 12 through NIOS, which has no upper age limit, as published by NIOS (nios.ac.in), cited.",
+ "summary": "Added from nios.ac.in: Senior Secondary course (Class 12 equivalent, needs Class 10 pass); no upper age limit (Prospectus 2026-27); online admission round the year."
+}

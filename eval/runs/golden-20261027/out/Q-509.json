@@ -1,0 +1,19 @@
+{
+ "id": "Q-509",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "AICTE Pragati scholarship lasts up to 4 years for degree students (admitted in first year)", "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "quote": "Maximum of 4 years duration for first year admitted Degree students and maximum of 3 years for Diploma Students."},
+  {"fact": "AICTE Pragati scholarship lasts up to 3 years for diploma students", "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "quote": "Maximum of 4 years duration for first year admitted Degree students and maximum of 3 years for Diploma Students."},
+  {"fact": "The scholarship is renewed for each next year of study through the National Scholarship Portal (NSP)", "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "quote": "The scholarship will be renewed for the next year of study on receipt of renewal through National Scholarship Portal (NSP)"},
+  {"fact": "Renewal needs a promotion certificate certified by the Head of Institution, submitted on the online portal", "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "quote": "by submitting Promotion Certificate duly certified by the Head of Institution in the online portal."}
+ ],
+ "summary": "Pragati FAQ on NSP confirms 4 years (degree) / 3 years (diploma) and yearly NSP renewal with a Head-of-Institution promotion certificate."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-233",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://eraktkosh.mohfw.gov.in/",
+   "final": "https://eraktkosh.mohfw.gov.in/eraktkoshPortal/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:30+05:30",
+   "sha256": "773930dbdaa8664178b97ce470171d74bbefff6a44b6e194b36ddcb9199f26bb",
+   "copy": "e26188421461d500f632.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://eraktkosh.mohfw.gov.in/",
+   "final": "https://eraktkosh.mohfw.gov.in/eraktkoshPortal/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:30+05:30",
+   "sha256": "773930dbdaa8664178b97ce470171d74bbefff6a44b6e194b36ddcb9199f26bb",
+   "copy": "e26188421461d500f632.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "final": "https://www.india.gov.in/directory/helpline",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:46:38+05:30",
+   "sha256": "9c7a94ee31b6538e0f266252ea949eeadbbfd197433ab1f018cbda63c8b28cc3",
+   "copy": "297d463f5443622a27f0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

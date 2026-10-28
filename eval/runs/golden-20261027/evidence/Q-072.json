@@ -1,0 +1,67 @@
+{
+ "id": "Q-072",
+ "checked_at": "2026-10-28T14:02:38+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "final": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:11+05:30",
+   "sha256": "4e062db5bf5d8b904ae1c0d4af10950dc01de7df8360398dfe197d6d06aef489",
+   "copy": "cf580f48a5caaf0a9384.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "final": "https://www.epfo.gov.in/faq-epfo/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:33+05:30",
+   "sha256": "7219427adf1fe64daece44fd35260f8531391077acbfa77c2822a586b968ea64",
+   "copy": "7e3d538f2c04694179aa.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:48+05:30",
+   "sha256": "94cf2680071954b8309accd8adfa84e485db5282f7c0743e684f678f4b3815b9",
+   "copy": "028215b3868681dd6028.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "final": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:11+05:30",
+   "sha256": "4e062db5bf5d8b904ae1c0d4af10950dc01de7df8360398dfe197d6d06aef489",
+   "copy": "cf580f48a5caaf0a9384.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

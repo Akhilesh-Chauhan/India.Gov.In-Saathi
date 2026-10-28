@@ -1,0 +1,25 @@
+{
+ "id": "Q-370",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "UMANG is an initiative of the National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY)",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "quote": "An initiative by National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY)."},
+  {"fact": "UMANG is a single gateway to government schemes and services through its mobile app (Android, iOS), chatbot, voice bot and website",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "quote": "UMANG strives to be the one stop gateway to all government schemes and services through different channels like Mobile Application(iOS, Android), Chatbot, Voice Bot and Website."},
+  {"fact": "UMANG brings together Central and State Government services, utility bills and schemes",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "quote": "All Services and Schemes at one place Central GovernmentUtility BillsState GovernmentSchemes"},
+  {"fact": "UMANG also gives access to documents from DigiLocker such as Aadhaar, driving licence, PAN and vehicle RC",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "quote": "All Documents at one place AadhaarDriving LicensePANVehicle RCand many more from Digilocker"}
+ ],
+ "behaviour": "Gives a short description of UMANG from official UMANG data, in Hindi, with a link to web.umang.gov.in; gives no invented service count.",
+ "fail_if": "Invents a service count or a feature; cites no official source.",
+ "summary": "Added from the UMANG home page: NeGD/MeitY initiative; one-stop gateway via app, chatbot, voice bot and web; Central/State services, bills, schemes; DigiLocker documents."
+}

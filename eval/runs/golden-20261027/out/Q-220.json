@@ -1,0 +1,15 @@
+{
+ "id": "Q-220",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest published NCRB 'Crime in India' report is for the year 2024",
+   "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039",
+   "quote": "The National Crime Records Bureau (NCRB) compiles and publishes the statistical data on crimes in its publication “Crime in India”. The latest published report is for the year 2024."},
+  {"fact": "1,01,928 cyber crime cases were registered in India in 2024 (Crime in India 2024, Table 9A.1), up from 86,420 in 2023",
+   "status": "added", "url": "https://www.ncrb.gov.in/uploads/files/2CrimeinIndia2024-VolumeII.pdf",
+   "quote": "TOTAL ALL INDIA 65893 86420 101928"}
+ ],
+ "behaviour": "Gives the all-India cyber crime figure with the NCRB report year (Crime in India 2024), citing NCRB (or the MHA/PIB reply reproducing it); neutral wording, no commentary.",
+ "fail_if": "It gives an older report's figure (e.g. 86,420 for 2023 or 65,893 for 2022) as the latest; gives a figure without the report year; cites unofficial sites.",
+ "summary": "Added: latest NCRB report is Crime in India 2024; 1,01,928 cyber crime cases registered in 2024 (86,420 in 2023)."
+}

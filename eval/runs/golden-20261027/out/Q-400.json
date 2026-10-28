@@ -1,0 +1,27 @@
+{
+ "id": "Q-400",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Ladli Behna (Chief Minister Ladli Behna Yojana) is a Madhya Pradesh State Government scheme, run by its Women and Child Development Department; myScheme lists it as a State scheme",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/cmlby",
+   "quote": "The \"Chief Minister Ladli Behna Yojana\" was launched in 2023 by the Women and Child Development Department, Government of Madhya Pradesh to promote women’s economic independence and improve their health and nutritional status."
+  },
+  {
+   "fact": "Each eligible woman gets Rs 1,500 per month in her own Aadhaar-linked, DBT-enabled bank account",
+   "status": "added",
+   "url": "https://cmladlibahna.mp.gov.in/",
+   "quote": "प्रत्येक पात्र महिला को उसकी पात्रता अवधि में 1500/- रूपये प्रतिमाह के मान से राशि का भुगतान आवेदिका के स्‍वयं के आधार लिंक डीबीटी इनेबल्‍ड बैंक खाते में किया जाएगे।"
+  },
+  {
+   "fact": "The monthly amount was raised from Rs 1,000 to Rs 1,250 and then from Rs 1,250 to Rs 1,500 by MP Government orders",
+   "status": "added",
+   "url": "https://cmladlibahna.mp.gov.in/",
+   "quote": "योजना अंतर्गत मासिक आर्थिक सहायता राशि में वृद्धि करते हुए राशि रुपए 1000 के स्थान पर राशि रुपए 1250 किए जाने का आदेश। योजना अंतर्गत मासिक आर्थिक सहायता राशि में वृद्धि करते हुए राशि रुपए 1250 के स्थान पर राशि रुपए 1500 किए जाने का आदेश।"
+  }
+ ],
+ "behaviour": "Replies in Hindi and identifies Ladli Behna as a Madhya Pradesh State Government scheme (Women and Child Development Department), never as Central. Since the MVP covers Central schemes, it either gives the amount citing the myScheme 'cmlby' record clearly labelled State (or the official MP portal cmladlibahna.mp.gov.in), or declines and links the official MP portal / myScheme record.",
+ "fail_if": "It presents Ladli Behna as a Central scheme; gives an old amount (Rs 1,000 or Rs 1,250 per month) as current; cites news sites instead of the official MP portal or myScheme.",
+ "summary": "Added from myScheme 'cmlby' (MP State scheme, WCD Department) and cmladlibahna.mp.gov.in: Rs 1,500 per month by DBT, raised from Rs 1,000 to Rs 1,250 to Rs 1,500."
+}

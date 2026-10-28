@@ -1,0 +1,39 @@
+{
+ "id": "Q-165",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN helpline 155261 is a 24x7 IVRS helpline for checking beneficiary status (PIB, 14 Mar 2023)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1906870",
+   "quote": "Further, farmers can check their beneficiary status through a 24x7 IVRS based helpline 155261."
+  },
+  {
+   "fact": "PIB's press-conference note of 24 Feb 2020 gives toll-free 1800-11-5526 or 155261 to check application status",
+   "status": "confirmed",
+   "url": "https://static.pib.gov.in/WriteReadData/userfiles/Press%20conference_24-Feb-2020.pdf",
+   "quote": "24x7 IVRS based help line launched for status verification. Farmers can dial 1800-11-5526 or 155261 to know the status of their application.",
+   "note": "Not checked whether 1800-11-5526 is still active in 2026; no newer official page gives it."
+  },
+  {
+   "fact": "011-24300606 is a PM-KISAN helpline number",
+   "status": "unsupported",
+   "note": "28 Oct 2026: not in the text or HTML of pmkisan.gov.in (home, Contacts, Grievance) nor on any fetched PIB page; only blogs/news (housing.com, krishijagran etc.) give it. The expected answer already called it unconfirmed."
+  },
+  {
+   "fact": "The pmkisan.gov.in Help-Desk is the online Grievance Query Form (Raise Grievance / Check Status using the Registration Number)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Grievance.aspx",
+   "quote": "Grievance Query Form Know Your Registration Number Back Raise Grievance Check Status Temporary / Registration Number"
+  },
+  {
+   "fact": "The portal points farmers to the Kisan eMitra chatbot",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Farmers are requested to check their eligibility status on Know Your Status (KYS) of PM KISAN website/ mobile app or Kisan eMitra chatbot for further details."
+  }
+ ],
+ "behaviour": "Gives 155261 (the 24x7 IVRS helpline for beneficiary/application status) and 1800-11-5526 with citation to PIB; points to the pmkisan.gov.in Help-Desk / Grievance Query Form for complaints and may mention the Kisan eMitra chatbot; must not claim pmkisan.gov.in lists these numbers; must not invent other numbers.",
+ "fail_if": "It gives the Kisan Call Centre number 1800-180-1551 as the PM-Kisan helpline; gives 011-23381092, 011-24300606 or another number no official page confirms as current; cites a pmkisan.gov.in page as showing the number; cites blogs (Paisabazaar etc.).",
+ "summary": "155261 (PIB 2023) and 1800-11-5526 (PIB 2020) confirmed, portal Help-Desk/Grievance form and Kisan eMitra confirmed; 011-24300606 still on no official page, so it is dropped."
+}

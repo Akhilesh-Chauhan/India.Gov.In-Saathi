@@ -1,0 +1,15 @@
+{
+ "id": "Q-491",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An Antyodaya Anna Yojana (AAY) household gets 35 kg of foodgrains per household per month",
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "quote": "While AAY households, which constitute poorest of the poor are entitled to 35 kg of foodgrains per family per month"},
+  {"fact": "The grain is free of cost: free distribution to NFSA (AAY and PHH) beneficiaries under PMGKAY has been extended for five years from 1 January 2024",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210211&reg=48&lang=2",
+   "quote": "The period of distribution for free of cost food grains under the PMGKAY has been extended for five years w.e.f. 1st January, 2024."}
+ ],
+ "summary": "Confirmed: AAY 35 kg per household per month (nfsa.gov.in) and free of cost under PMGKAY for five years from 1 Jan 2024 (PIB DFPD Year End Review 2025)."
+}

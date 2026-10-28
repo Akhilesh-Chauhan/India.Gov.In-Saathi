@@ -1,0 +1,28 @@
+{
+ "id": "Q-290",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "NTA's latest Revised Examination Calendar (notice posted 26.10.2026) covers exams from December 2026 to April 2027 and has no NEET (UG) 2027 entry, so no NEET (UG) 2027 date has been announced",
+   "status": "added",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261026114247.pdf",
+   "quote": "13 JEE (Main) — Session 2 (April) 02 – 7 April 2027 6 days Note: Dates are tentative and may undergo changes",
+   "note": "Derived: 'not announced' is the absence of NEET (UG) from this calendar and from the NTA and NEET notice lists (checked 28.10.2026). The date 26.10.2026 comes from the notice file name (Notice_20261026114247)."
+  },
+  {
+   "fact": "The calendar is NTA's most recent calendar notice ('Revised Examination Calender'), listed just above the JEE (Main) 2027 application notice",
+   "status": "added",
+   "url": "https://nta.ac.in/NoticeBoardArchive",
+   "quote": "3 Revised Examination Calender-Reg Read More 4 Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg."
+  },
+  {
+   "fact": "The NEET (UG) site's latest news is still about NEET (UG) 2026 (score card, 2026 re-examination); it has no NEET (UG) 2027 notice",
+   "status": "added",
+   "url": "https://neet.nta.nic.in/",
+   "quote": "LATEST NEWS Score Card for NEET (UG) – 2026 Final Answer Keys for NEET (UG) – 2026 Re-Examination"
+  }
+ ],
+ "behaviour": "Says NTA has not announced the NEET (UG) 2027 exam date on nta.ac.in / neet.nta.nic.in (its latest examination calendar, posted 26.10.2026, runs to April 2027 without NEET) and points the user to nta.ac.in and neet.nta.nic.in; gives a date only if it cites an NTA notice with that notice's date.",
+ "fail_if": "It states a NEET (UG) 2027 exam date without citing an NTA notice and its date.",
+ "summary": "No NEET (UG) 2027 date: NTA's Revised Examination Calendar (26.10.2026, Dec 2026-Apr 2027) omits NEET and neet.nta.nic.in shows only 2026 notices."
+}

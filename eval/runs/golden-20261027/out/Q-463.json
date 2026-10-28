@@ -1,0 +1,15 @@
+{
+ "id": "Q-463",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No: UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/hi/your-aadhaar",
+   "quote": "The UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health."},
+  {"fact": "The data collected is limited to what is needed for identification and identity confirmation (to issue Aadhaar)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/hi/your-aadhaar",
+   "quote": "The profiling of individuals is therefore not possible through the UID system, since the data collected is limited to that required for identification and identity confirmation."}
+ ],
+ "summary": "UIDAI 'Your Aadhaar' page still says UIDAI policy bars collecting religion, caste, community, class, ethnicity, income and health; data limited to identification."
+}

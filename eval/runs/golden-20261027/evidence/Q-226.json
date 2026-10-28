@@ -1,0 +1,52 @@
+{
+ "id": "Q-226",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nalsa.gov.in/legal-aid/",
+   "final": "https://nalsa.gov.in/legal-aid/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:13:44+05:30",
+   "sha256": "5cb82733418e5c21de272cb212ccb9642c3d2de851af1a047e33f1c0b1bcf61b",
+   "copy": "0ebc50a0b4e7115be137.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://missionshakti.wcd.gov.in/",
+   "final": "https://missionshakti.wcd.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:14+05:30",
+   "sha256": "4b0fd767cc1aa038359474c4f9499d21340f3673d9611c0d5cd37f92296453b8",
+   "copy": "41ac8881c918f166bcd4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://wcd.gov.in/offerings/one-stop-centre-scheme",
+   "final": "https://wcd.gov.in/offerings/one-stop-centre-scheme",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:09+05:30",
+   "sha256": "c36f7ec04391b05b5a43656370ace99f962c7104a386b9145a5a63242f3764db",
+   "copy": "83af234af2e99726f015.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

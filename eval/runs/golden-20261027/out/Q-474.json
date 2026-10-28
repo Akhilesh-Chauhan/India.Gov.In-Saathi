@@ -1,0 +1,15 @@
+{
+ "id": "Q-474",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No GST is charged on sleeper class or second class (reserved and unreserved) fares",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "quote": "GST is not applicable in other classes like second sleeper, second class (reserved & unreserved) etc."},
+  {"fact": "GST applies only to AC and First class fares, on all categories of trains",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "quote": "GST is applicable on total fare of AC and First class only of all categories of trains."}
+ ],
+ "summary": "Confirmed on the Railways GST FAQ; indianrailways.gov.in/GST/FAQs.pdf now shows an 'under construction' page, the same FAQ is at ir.indianrailways.gov.in/GST/FAQs.pdf."
+}

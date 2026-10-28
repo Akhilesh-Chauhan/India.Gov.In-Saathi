@@ -1,0 +1,21 @@
+{
+ "id": "Q-158",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM-KISAN is for landholding farmer families with cultivable land in their names, subject to exclusions (myScheme PM-KISAN page)",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "quote": "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme."},
+  {"fact": "Excluded: all serving or retired officers and employees of Central/State Government offices and their field units, PSEs, autonomous institutions and regular employees of local bodies, except Multi Tasking Staff / Class IV / Group D employees",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi Tasking Staff /Class IV/Group D employees)"},
+  {"fact": "Excluded: all persons who paid income tax in the last assessment year",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "All Persons who paid Income Tax in last assessment year"}
+ ],
+ "behaviour": "Lists the published PM-KISAN eligibility and exclusion criteria (serving/retired government employees excluded except MTS/Class IV/Group D; income-tax payers excluded) with citation to pmkisan.gov.in; does not itself decide whether the user is eligible; gives the myScheme PM-KISAN eligibility link (myscheme.gov.in/schemes/pm-kisan).",
+ "fail_if": "It gives a yes/no eligibility verdict, or omits the government-employee exclusion.",
+ "summary": "Added base eligibility (myScheme) and the government-employee and income-tax exclusions as listed on pmkisan.gov.in."
+}

@@ -1,0 +1,16 @@
+{
+ "id": "Q-275",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under section 9(2) of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, the maximum monthly maintenance a Tribunal can order is set by the State Government and cannot exceed Rs 10,000 per month", "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Comparative%20Statement-without%20Header-Footer.pdf",
+   "quote": "(2) The maximum maintenance allowance which may be ordered by such Tribunal shall be such as may be prescribed by the State Government which shall not exceed ten thousand rupees per month.",
+   "note": "DoSJE comparative statement (existing Act vs a proposed amendment that would replace the cap with a needs-based test); the left column is the Act in force. India Code copies (indiacode.nic.in) timed out. No official notice that the amendment was enacted was found."},
+  {"fact": "Children and specified relatives are legally obliged to maintain senior citizens, including parents, through a monthly maintenance allowance", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191178",
+   "quote": "The Act mandates that children and specified relatives are legally obliged to provide maintenance to senior citizens, including parents, to meet their basic needs, with provision for a monthly maintenance allowance."}
+ ],
+ "behaviour": "States the maximum (up to Rs 10,000 a month, as prescribed by the State) with citation; mentions a pending amendment only if an official source states it.",
+ "fail_if": "Gives a different maximum, says there is no cap, or presents the proposed amendment (no cap / needs-based amount) as law in force.",
+ "summary": "MWPSC Act s.9(2): State-prescribed maximum not exceeding Rs 10,000/month (DoSJE comparative statement); PIB 18-11-2025 on the obligation to pay monthly maintenance."
+}

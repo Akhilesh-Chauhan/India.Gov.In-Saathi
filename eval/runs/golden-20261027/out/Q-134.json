@@ -1,0 +1,16 @@
+{
+ "id": "Q-134",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Speed Post articles can be tracked through India Post's internet-based Track and Trace system, with delivery information by SMS",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/premiumservices",
+   "quote": "Includes Internet-based Track and Trace system & Delivery information on SMS."},
+  {"fact": "On the India Post home page (indiapost.gov.in), enter the consignment (article) number in the tracking box and select Track",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/",
+   "quote": "Consignment / Money Order Number Initializing CAPTCHA... Track Track Locate Post Office Calculate Postage"}
+ ],
+ "behaviour": "Points the user to India Post's official online tracking (indiapost.gov.in, enter the Speed Post consignment number) with the link; no unofficial tracking sites.",
+ "summary": "Added: Speed Post has internet Track and Trace with SMS delivery info (India Post Speed Post page); tracking box on the indiapost.gov.in home page."
+}

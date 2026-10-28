@@ -1,0 +1,16 @@
+{
+ "id": "Q-292",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "SSC's notice of 12.09.2026 schedules the CGL 2026 Tier-I (CBE) from 30 September 2026 to 30 October 2026, so the Tier-I result is not out yet (as of 28 Oct 2026) and no result date has been announced", "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "quote": "Combined Graduate Examination, 2026 Tier/Mode Schedule of Examination Level Tier-I 30th September, 2026 to (CBE) 30th October, 2026",
+   "note": "Status 'not out yet' is derived from the exam schedule; no CGL 2026 result notice or result date was found on ssc.gov.in on 28 Oct 2026. The older Examination Calendar (May-June 2026 for Tier-I) is superseded by this notice."},
+  {"fact": "SSC tells candidates to check its website (ssc.gov.in) regularly for further updates, where results are published", "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "quote": "The candidates are advised to visit the website of the Commission at regular intervals for further updates."}
+ ],
+ "behaviour": "Gives the current status per the latest ssc.gov.in notice, with its date (Tier-I being held 30 Sep - 30 Oct 2026; result not yet declared); points to ssc.gov.in for the result; no guessed date.",
+ "fail_if": "Gives a specific result date not on an SSC notice, says the CGL 2026 result has been declared, or uses the old calendar's May-June 2026 exam dates.",
+ "summary": "SSC notice 12.09.2026: CGL 2026 Tier-I runs 30 Sep-30 Oct 2026; no result or result date published yet."
+}

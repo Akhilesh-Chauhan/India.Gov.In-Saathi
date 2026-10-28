@@ -1,0 +1,20 @@
+{
+ "id": "Q-185",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "IMD declared that the southwest monsoon withdrew from the entire country on 15 October 2026",
+   "status": "changed",
+   "was": "as of IMD's 14 Oct 2026 release the monsoon had not yet withdrawn from the whole country (withdrawal line through 27.0N/90.5E, Dhubri, Kolkata, Angul, Khammam, Honavar, 14.0N/73.0E); no declaration yet",
+   "url": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "quote": "The Southwest monsoon was withdrawn from the entire country on 15th October, 2026.",
+   "note": "IMD's press-release list (internal.imd.gov.in/pages/press_release_mausam.php) also lists release no. 5405 of 15 Oct 2026: 'SOUTHWEST MONSOON HAS WITHDRAWN FROM THE ENTIRE COUNTRY TODAY' (its PDF link returns 404)."},
+  {"fact": "On the same day, 15 October 2026, northeast monsoon rainfall began over Tamil Nadu, Puducherry & Karaikal, Coastal Andhra Pradesh, Rayalaseema, South Interior Karnataka and Kerala & Mahe",
+   "status": "changed",
+   "was": "conditions were becoming favourable for northeast monsoon rains to start over the south peninsula on 15 Oct 2026",
+   "url": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "quote": "Simultaneously, the Northeast monsoon rainfall activity commenced over Tamil Nadu, Puducherry & Karaikal, Coastal Andhra Pradesh, Rayalaseema, South Interior Karnataka, and Kerala & Mahe on 15th October."}
+ ],
+ "behaviour": "Answers from the dated IMD release (mausam.imd.gov.in): the southwest monsoon withdrew from the entire country on 15 October 2026; states the source and its date; does not use dates from earlier years.",
+ "fail_if": "Gives a date taken from a previous year (e.g., 15 Oct 2025 or 28 Oct 2020); says the monsoon has not yet withdrawn from the whole country; gives a 2026 withdrawal date other than 15 October; cites news, Facebook or Hindustan Times.",
+ "summary": "IMD's 22 Oct 2026 ERF release states the SW monsoon withdrew from the entire country on 15 Oct 2026; the 'not yet withdrawn' answer is replaced with that date."
+}

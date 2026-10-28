@@ -1,0 +1,37 @@
+{
+ "id": "Q-220",
+ "checked_at": "2026-10-28T14:03:20+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:06+05:30",
+   "sha256": "8d47d24eee823a9c7f5d5ed151a575261c1335006c42940bc902da08feee1e28",
+   "copy": "ec3da1fdca32f199120b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.ncrb.gov.in/uploads/files/2CrimeinIndia2024-VolumeII.pdf",
+   "final": "https://www.ncrb.mha.gov.in/uploads/files/2CrimeinIndia2024-VolumeII.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:46+05:30",
+   "sha256": "423af46b6704338d9241fc95411fbca706b70662e79becdd4dc8f7ab0c16ae50",
+   "copy": "cb0ba1cd86169840ce84.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,356 @@
+[
+ {
+  "id": "Q-002",
+  "fact": 7,
+  "issue": "quote did not state the one-year extension from 1.10.2026 that the fact claims",
+  "action": "quote replaced with the OM sentence that states it"
+ },
+ {
+  "id": "Q-007",
+  "fact": 2,
+  "issue": "quote lacked the 'no mobile linked' condition in the fact",
+  "action": "quote replaced with the FAQ sentence that states it"
+ },
+ {
+  "id": "Q-013",
+  "fact": 1,
+  "issue": "unsupported: 'UIDAI never asks for OTP' has no official source",
+  "action": "changed to UIDAI's wording (press release 30.12.2022 / PIB 1887539); behaviour adjusted"
+ },
+ {
+  "id": "Q-017",
+  "fact": 6,
+  "issue": "conflict help@uidai.net.in vs help@uidai.gov.in",
+  "action": "kept as conflict (neither address clearly superseded); note extended"
+ },
+ {
+  "id": "Q-409",
+  "fact": 3,
+  "issue": "'myAadhaar or UIDAI's mobile app' rested on the Jan 2024 charter (old mAadhaar app); clashed with Q-008",
+  "action": "reworded to myAadhaar only, quote from the current UIDAI FAQ"
+ },
+ {
+  "id": "Q-409",
+  "fact": 4,
+  "issue": "'or the Aadhaar App' not on any current UIDAI page",
+  "action": "split out as unsupported, as in Q-008; behaviour and fail-if written"
+ },
+ {
+  "id": "MT-12",
+  "fact": 3,
+  "issue": "quote stated the Rs 30 charge but not that it is at CSCs",
+  "action": "split: CSC availability as its own fact with its own quote; Rs 30 fact reworded"
+ },
+ {
+  "id": "Q-022",
+  "fact": 1,
+  "issue": "quote row lacked the column header, so it did not show which Rs 2,500 is the Tatkaal fee",
+  "action": "quote extended to include the header; fact wording clarified"
+ },
+ {
+  "id": "Q-030",
+  "fact": 6,
+  "issue": "fact said 'to locate an empanelled doctor for Form 1A'; the quote shows only the service name",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-035",
+  "fact": 3,
+  "issue": "quote did not state the 'call the bank toll-free number' advice",
+  "action": "quote replaced with the FAQ sentence that states it"
+ },
+ {
+  "id": "Q-035",
+  "fact": 6,
+  "issue": "side detail (KYV photo rules, KYV change for car tags, 1033) beyond the 2-4 essentials",
+  "action": "trimmed (KYV point stays in fail-if)"
+ },
+ {
+  "id": "Q-035",
+  "fact": 5,
+  "issue": "side detail (KYV photo rules, KYV change for car tags, 1033) beyond the 2-4 essentials",
+  "action": "trimmed (KYV point stays in fail-if)"
+ },
+ {
+  "id": "Q-035",
+  "fact": 4,
+  "issue": "side detail (KYV photo rules, KYV change for car tags, 1033) beyond the 2-4 essentials",
+  "action": "trimmed (KYV point stays in fail-if)"
+ },
+ {
+  "id": "Q-045",
+  "fact": 1,
+  "issue": "quote lacked Section 60(c) and 'from home' claimed in the fact",
+  "action": "quote extended to the Section 60(c) sentence; 'from home' left to fact 4"
+ },
+ {
+  "id": "Q-045",
+  "fact": 4,
+  "issue": "quote lacked 'polling teams collect the vote at home'",
+  "action": "quote extended to the next sentence"
+ },
+ {
+  "id": "Q-053",
+  "fact": 2,
+  "issue": "quote lacked the 'check discrepancy intimation and e-mails' half of the fact",
+  "action": "quote replaced; fact reworded to it"
+ },
+ {
+  "id": "Q-057",
+  "fact": 6,
+  "issue": "quote did not name s.265",
+  "action": "quote extended to the sentence naming Section 265"
+ },
+ {
+  "id": "Q-090",
+  "fact": 1,
+  "issue": "quote lacked the 'death from employment injury' condition",
+  "action": "quote extended to the sentence before"
+ },
+ {
+  "id": "Q-090",
+  "fact": 2,
+  "issue": "quote did not show it is the Dependants' Benefit amount",
+  "action": "quote extended to 'Who gets it? The dependants...'"
+ },
+ {
+  "id": "Q-090",
+  "fact": 3,
+  "issue": "quote lacked 'one-time payment'",
+  "action": "quote extended"
+ },
+ {
+  "id": "Q-107",
+  "fact": 5,
+  "issue": "more than the essentials: fact 1 repeats fact 2, SSA download and jurisdiction are side details",
+  "action": "trimmed to registration steps + PPO download"
+ },
+ {
+  "id": "Q-107",
+  "fact": 4,
+  "issue": "more than the essentials: fact 1 repeats fact 2, SSA download and jurisdiction are side details",
+  "action": "trimmed to registration steps + PPO download"
+ },
+ {
+  "id": "Q-107",
+  "fact": 1,
+  "issue": "more than the essentials: fact 1 repeats fact 2, SSA download and jurisdiction are side details",
+  "action": "trimmed to registration steps + PPO download"
+ },
+ {
+  "id": "Q-120",
+  "fact": 3,
+  "issue": "fact added 'no Oct-Dec 2026 row yet', not in the quote",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-120",
+  "fact": 4,
+  "issue": "manual: 'unchanged from Q2' was only in the scanned OM",
+  "action": "confirmed from the OCR of dea.gov.in R.pdf (quote replaced)"
+ },
+ {
+  "id": "Q-124",
+  "fact": 4,
+  "issue": "manual: 'unchanged from Q2' was only in the scanned OM",
+  "action": "confirmed from the OCR of dea.gov.in R.pdf (quote replaced)"
+ },
+ {
+  "id": "Q-128",
+  "fact": 2,
+  "issue": "manual: 'unchanged from Q2' was only in the scanned OM",
+  "action": "confirmed from the OCR of dea.gov.in R.pdf (quote replaced)"
+ },
+ {
+  "id": "Q-133",
+  "fact": 14,
+  "issue": "manual: 'unchanged from Q2' was only in the scanned OM",
+  "action": "confirmed from the OCR of dea.gov.in R.pdf (quote replaced)"
+ },
+ {
+  "id": "Q-432",
+  "fact": 3,
+  "issue": "fact added 'no Oct-Dec 2026 row yet', not in the quote",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-432",
+  "fact": 4,
+  "issue": "manual: 'unchanged from Q2' was only in the scanned OM",
+  "action": "confirmed from the OCR of dea.gov.in R.pdf (quote replaced)"
+ },
+ {
+  "id": "Q-141",
+  "fact": 3,
+  "issue": "'pays no premium' not in the quote",
+  "action": "reworded to the quote; 'no premium' marked derived in the note"
+ },
+ {
+  "id": "Q-146",
+  "fact": 6,
+  "issue": "quote lacked the June-August Rs 436 slab (all four slabs exceed 300 characters)",
+  "action": "split into two facts, each with its own quote"
+ },
+ {
+  "id": "Q-186",
+  "fact": 2,
+  "issue": "fact gave the bulletin date, which is not in the quote",
+  "action": "date moved to the note (header of the bulletin)"
+ },
+ {
+  "id": "Q-186",
+  "fact": 4,
+  "issue": "side detail; fact said 29-31 Oct and 'adjust sowing' while the quote covers only the 29 Oct forecast",
+  "action": "trimmed"
+ },
+ {
+  "id": "Q-190",
+  "fact": 1,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-190",
+  "fact": 2,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-190",
+  "fact": 3,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-190",
+  "fact": 4,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-234",
+  "fact": 3,
+  "issue": "side detail with derived advice ('check with the State Medical Council') not in the quote",
+  "action": "trimmed"
+ },
+ {
+  "id": "Q-255",
+  "fact": 3,
+  "issue": "side detail (how ARH stock is created) beyond the 2-4 essentials",
+  "action": "trimmed"
+ },
+ {
+  "id": "Q-278",
+  "fact": 2,
+  "issue": "'State/UT EMRS Societies announce the admissions' not in the quote",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-278",
+  "fact": 3,
+  "issue": "home-schooled option and 'meet the age limits' not in the quote",
+  "action": "quote extended to the home-study sentence; age-limit clause dropped"
+ },
+ {
+  "id": "Q-325",
+  "fact": 17,
+  "issue": "negative fact ('not Delhi's') a grader cannot tick; still manual (myScheme renders 'Something went wrong')",
+  "action": "removed; already covered in fail-if"
+ },
+ {
+  "id": "Q-329",
+  "fact": 1,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-329",
+  "fact": 2,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-329",
+  "fact": 3,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-329",
+  "fact": 4,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-329",
+  "fact": 5,
+  "issue": "discovery question: the scheme picked is an example, not a requirement",
+  "action": "example flag added"
+ },
+ {
+  "id": "Q-344",
+  "fact": 1,
+  "issue": "quote gave only the 75% tier; fact also claimed the 50%/25% tiers and the blindness definition",
+  "action": "quote extended to all three tiers; definition dropped from the fact"
+ },
+ {
+  "id": "Q-344",
+  "fact": 3,
+  "issue": "'signed by a government doctor' not in the quote",
+  "action": "reworded to what the quote states"
+ },
+ {
+  "id": "Q-349",
+  "fact": 4,
+  "issue": "'application window is now closed' is derived but had no note",
+  "action": "note added marking it derived; wording tied to the circular title"
+ },
+ {
+  "id": "Q-362",
+  "fact": null,
+  "issue": "fail-if 'invents a date for the 24th instalment' clashed with Q-423 (24th officially scheduled for 30 Oct 2026)",
+  "action": "behaviour and fail-if aligned with Q-423"
+ },
+ {
+  "id": "Q-398",
+  "fact": 15,
+  "issue": "'not required before every margin money claim' is not in the quote",
+  "action": "clause dropped"
+ },
+ {
+  "id": "Q-398",
+  "fact": 16,
+  "issue": "'PMEGP 2.0' and the kviconline DNS failure are not in the quote",
+  "action": "reworded to the quote; DNS observation stays in the note"
+ },
+ {
+  "id": "Q-418",
+  "fact": 1,
+  "issue": "scheme renamed on 14 Oct 2026 (Q-458/Q-460 accept the new name)",
+  "action": "note added; amounts unchanged, no rewrite"
+ },
+ {
+  "id": "Q-282",
+  "fact": 4,
+  "issue": "quote stated only the income limit, not the Government/aided/local body school condition",
+  "action": "quote extended to the FAQ sentence that states it"
+ },
+ {
+  "id": "Q-151",
+  "fact": 2,
+  "issue": "'register with name and mobile number' is in a different sentence than the quote",
+  "action": "registration clause dropped (side detail); fact reworded to the quote"
+ },
+ {
+  "id": "Q-483",
+  "fact": 2,
+  "issue": "exception for women resigning to marry is in the next proviso, not in the quote",
+  "action": "side detail dropped from the fact"
+ },
+ {
+  "id": "Q-211",
+  "fact": 3,
+  "issue": "'RTI Rules, 2012' and 'online' not in the quote",
+  "action": "quote extended to the payment modes; RTI Rules reference dropped"
+ }
+]

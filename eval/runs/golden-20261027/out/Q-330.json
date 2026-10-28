@@ -1,0 +1,33 @@
+{
+ "id": "Q-330",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Yes: myScheme has a 'Check Eligibility Questionnaire', a scheme-specific Yes/No questionnaire to check whether you are eligible for a particular scheme",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "The \"Check Eligibility Questionnaire\" feature focuses on scheme-specific eligibility criteria and enables users to verify their eligibility through a simple Yes/No-based questionnaire."
+  },
+  {
+   "fact": "You can browse and search schemes without signing in; signing in (MeriPehchaan) lets you save your profile and bookmark schemes",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "Users can browse and search government schemes without signing in. However, signing in allows users to save their profile, bookmark schemes, and receive personalized recommendations based on their saved details."
+  },
+  {
+   "fact": "myScheme's Privacy Policy: it does not automatically capture personal information such as name, phone number or e-mail that identifies you",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/privacy-policy",
+   "quote": "myScheme does not automatically capture any specific personal information from you, (like name, phone number or e-mail address), that allows us to identify you individually."
+  },
+  {
+   "fact": "It does not sell or share personally identifiable information given on myScheme with any third party",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/privacy-policy",
+   "quote": "We do not sell or share any personally identifiable information volunteered on the myScheme to any third party (public/private)."
+  }
+ ],
+ "behaviour": "Answers both parts as per the myScheme FAQ and Privacy Policy pages (myscheme.gov.in), citing them: the eligibility features, and what myScheme stores (a saved profile only when signed in; no automatic capture of identifying personal information; not sold or shared).",
+ "fail_if": "It says myScheme has no eligibility checker, invents data-retention rules not on the myScheme pages, or answers without citing a myScheme page.",
+ "summary": "Added from the myScheme FAQ (Check Eligibility Questionnaire; browse without sign-in, profile saved only when signed in) and Privacy Policy (no automatic capture of identifying data; not sold or shared)."
+}

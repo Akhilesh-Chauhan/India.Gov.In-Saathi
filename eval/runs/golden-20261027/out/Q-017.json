@@ -1,0 +1,77 @@
+{
+ "id": "Q-017",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "UIDAI update limits: Name twice in a lifetime, Gender once, Date of Birth once",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Following limits are applicable for the update of Aadhaar information: Name: Twice in Life Time Gender: Once in Life Time Date of Birth: Once in Life Time"
+  },
+  {
+   "fact": "Date of birth cannot be updated online; visit an Aadhaar Seva Kendra with a DOB proof document",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "At Present this feature is not supported by online portal , and to update Date of Birth (DoB) kindly visit nearest Aadhaar Seva Kendra with DoB proof document."
+  },
+  {
+   "fact": "Name cannot be updated online (only address and documents can); name changes are done at an Aadhaar Seva Kendra",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Through this online portal, you can perform only Address and Document update. For any other update, kindly visit the nearest Aadhaar Seva Kendra."
+  },
+  {
+   "fact": "The fee for a name or date of birth update done separately (demographic update) is Rs 75",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "Beyond the limit: after the request is rejected for 'limit exceeded', call 1947 or email UIDAI to request exception processing through the Regional Office, quoting the EID",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Once your request gets rejected for limit exceed, please call 1947 or mail at help[at]uidai[dot]net[dot]in and request for exception processing of name update through regional office, by providing the EID number."
+  },
+  {
+   "fact": "UIDAI's own FAQ gives two email addresses: the name/gender exception FAQ says help@uidai.net.in, while UIDAI's general contact and the rejected-update FAQ give help@uidai.gov.in",
+   "status": "conflict",
+   "was": "email help@uidai.gov.in for exception processing",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "please call 1947 or mail at help[at]uidai[dot]net[dot]in and request for exception processing of name update through regional office",
+   "also": [
+    {
+     "url": "https://uidai.gov.in/en/enrolment-and-update",
+     "quote": "Email help[at]uidai[dot]gov[dot]in , Call UIDAI Helpline: 1947 (Toll-Free) or Visit UIDAI Regional Office"
+    }
+   ],
+   "note": "Both addresses appear on the same UIDAI Enrolment & Update FAQ page (28 Oct 2026); the page footer gives help@uidai.gov.in. The 2021 exception SOP names no email. No notice settling which address to use was found. UIDAI's press release of 30.12.2022 also gives help@uidai.gov.in for general queries, but nothing retires the net.in address named for exception requests, so the conflict is kept (second reading, 28 Oct 2026)."
+  },
+  {
+   "fact": "For a name update beyond the limit: enrol with a gazette notification of name change plus a PoI of the old name with photograph (for first/full name change) or a divorce decree, adoption certificate or marriage certificate",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Enrol at the nearest centre with 'gazette notification for name change' alongwith any supporting POI document of old name with Photograph (for first/full name change) / Divorce Decree / Adoption Certificate / Marriage Certificate."
+  },
+  {
+   "fact": "Date of birth can be changed again only under exceptional circumstances; call 1947 for this",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "No. You can update your Date of Birth (DoB) only once. Further Dated of Birth (DoB) can be changed under exceptional circumstances, kindly call 1947 in this regard."
+  },
+  {
+   "fact": "Under the DOB update SOP (24.12.2025), a subsequent DOB update is processed only on a Birth Certificate (where the earlier document was not a birth certificate)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/images/SOP_for_DOB_update.pdf",
+   "quote": "A subsequent DoB update after the first update done since enrolment, shall be processed onty on submission of Birth Certificate (in cases where the earlier PDB document during enrolment or DoB update was not a Birth Certificate)"
+  },
+  {
+   "fact": "Or, where the earlier document was a birth certificate, a corrected birth certificate with the same registration number and registrar, along with an affidavit",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/images/SOP_for_DOB_update.pdf",
+   "quote": "or corrected Birth Certificate with same BRN and registrar (in cases where the earlier PDB document during enrotment or DoB update was a Birth Gertificate) atong with an affidavit (Annex-l), as the case may be."
+  }
+ ],
+ "behaviour": "States the limits as on UIDAI pages with citation (name twice, gender once, DOB once); says name and DOB are updated at an Aadhaar centre (Rs 75), not online; explains the exception route (after a 'limit exceeded' rejection, call 1947 or email UIDAI for exception processing through the Regional Office with the EID and the required documents); either UIDAI email (help@uidai.gov.in or help@uidai.net.in, both on UIDAI's FAQ) is acceptable; no promise that an exception will be granted.",
+ "fail_if": "Says unlimited changes; swaps the limits (DOB twice/name once); says DOB/name can be updated online on myAadhaar; quotes stale fees (Rs 50) or invents a fixed exception timeline.",
+ "summary": "Limits, offline-only DOB/name update, Rs 75 fee and exception route confirmed; UIDAI's FAQ gives help@uidai.net.in for exception requests but help@uidai.gov.in elsewhere (conflict, either accepted)."
+}

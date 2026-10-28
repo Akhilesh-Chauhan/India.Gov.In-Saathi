@@ -1,0 +1,33 @@
+{
+ "id": "Q-103",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "From 80 to less than 85 years: additional pension of 20% of basic pension", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "(i) From 80 years to less than 85 years 20% of basic pension/ compassionate allowance",
+   "note": "CCS (Pension) Rules, 2021, rule 44(6)."},
+  {"fact": "From 85 to less than 90 years: 30% of basic pension", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "(ii) From 85 years to less than 90 years 30% of basic pension/ compassionate allowance"},
+  {"fact": "From 90 to less than 95 years: 40% of basic pension", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "(iii) From 90 years to less than 95 years 40% of basic pension/ compassionate allowance"},
+  {"fact": "From 95 to less than 100 years: 50% of basic pension", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "(iv) From 95 years to less than 100 years 50% of basic pension/ compassionate allowance"},
+  {"fact": "100 years or more: 100% of basic pension", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "(v) 100 years or more 100% of basic pension/ compassionate allowance"},
+  {"fact": "The slabs come from O.M. No. 38/37/08-P&PW(A) dated 2.9.2008, effective 1.1.2006", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/FAQ_civil.pdf",
+   "quote": "Yes, from 1.1.2006, the quantum of pension/family pension available to old pensioners/family pensioners has been increased as follows:- O.M.No. 38/37/08- P&PW(A) dated 2.9.2008"},
+  {"fact": "It is payable from the 1st day of the month in which the 80th (or later slab) birthday falls", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/Document/CSS_PensionRules_2021_Book_Eng.pdf", "quote": "The additional pension or additional compassionate allowance shall be payable from first day of the calendar month in which it falls due."},
+  {"fact": "Example: a pensioner who turns 80 in August 2008 gets it w.e.f. 1.8.2008", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/FAQ_civil.pdf",
+   "quote": "For example, if a pensioner/family pensioner completes age of 80 years in the month of August, 2008, he will be entitled to additional pension/family pension w.e.f. 1.8.2008."},
+  {"fact": "The same rates apply to family pensioners", "status": "confirmed",
+   "url": "https://pensionersportal.gov.in/FAQ_civil.pdf",
+   "quote": "Yes, the rates related to additional pension as applicable in the case of old pensioners hold good for family pensioners, as well."},
+  {"fact": "Dearness Relief is paid on the basic pension including the additional pension", "status": "confirmed",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Circular/1778055324_dearnessrelief-dr.pdf",
+   "quote": "shall be enhanced from the existing rate of 58% to 60% of the basic pension/family pension (including additional pension/additional family pension) w.e.f. 01st January, 2026.",
+   "note": "DoPPW OM No. 42/02/2024-P&PW(D) dated 24.04.2026, as circulated by ICMR (icmr.gov.in); doppw.gov.in served an empty page to the checker."}
+ ],
+ "summary": "Slabs 20/30/40/50/100% and first-of-the-month rule confirmed in CCS (Pension) Rules, 2021 rule 44(6); family pensioner parity and the 2008 OM in the FAQ; DR on additional pension confirmed by the DoPPW DR OM of 24.04.2026."
+}

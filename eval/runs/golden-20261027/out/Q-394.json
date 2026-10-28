@@ -1,0 +1,35 @@
+{
+ "id": "Q-394",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM Surya Ghar aims to give households up to 300 units of free electricity every month through rooftop solar",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "quote": "Cabinet approves PM-Surya Ghar: Muft Bijli Yojana for installing rooftop solar in One Crore households Households to get 300 units of electricity free every month",
+   "note": "PIB release of the Ministry of New and Renewable Energy, 29 Feb 2024."
+  },
+  {
+   "fact": "Central subsidy (CFA): 60% of system cost for 2 kW systems and 40% of the additional cost for 2-3 kW, capped at 3 kW",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "quote": "The scheme provides a CFA of 60% of system cost for 2 kW systems and 40% of additional system cost for systems between 2 to 3 kW capacity. The CFA will be capped at 3 kW."
+  },
+  {
+   "fact": "At benchmark prices the subsidy is Rs 30,000 for 1 kW, Rs 60,000 for 2 kW and Rs 78,000 for 3 kW or higher",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "quote": "At current benchmark prices, this will mean Rs 30,000 subsidy for 1 kW system, Rs 60,000 for 2 kW systems and Rs 78,000 for 3 kW systems or higher."
+  },
+  {
+   "fact": "A collateral-free loan from nationalised banks is available at a concessional rate of repo rate plus 0.5% (50 bps), with a 10-year tenure",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290407&reg=48&lang=1",
+   "quote": "Availability of collateral-free loan from nationalized banks at a concessional interest rate of repo-rate plus 50 bps, i.e., 5.75% per annum for the present, with a tenure of 10 years.",
+   "note": "PIB (MNRE, 28 Jul 2026) gave this as '5.75% per annum for the present' when the repo rate was 5.25%. RBI raised the repo rate to 5.50% on 7 Oct 2026 (RBI MPC; see Q-152), so repo + 0.5% is now 6.00% (derived; no newer MNRE figure found)."
+  }
+ ],
+ "behaviour": "States the PM Surya Ghar benefits from the myScheme 'pmsgmb' record and/or the Ministry of New and Renewable Energy (MNRE/PIB) page, citing it; every amount it gives is on the cited source; no eligibility verdict. If it gives the loan rate, gives it as repo rate plus 0.5%; the 5.75% figure is acceptable only with its July 2026 PIB date.",
+ "fail_if": "It gives an amount not on the cited source, states the subsidy as Rs 78,000 per kW, promises 300 free units as guaranteed regardless of generation, or gives the 2024 loan rate (about 7%) as the current rate.",
+ "summary": "Added the PM Surya Ghar benefits from the Cabinet PIB release (300 free units/month; CFA 60%/40% capped at 3 kW = Rs 30,000/60,000/78,000) and the July 2026 PIB loan terms (5.75%, 10 years); pmsuryaghar.gov.in returns HTTP 403 to the checker."
+}

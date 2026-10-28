@@ -1,0 +1,52 @@
+{
+ "id": "Q-037",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "final": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:41:18+05:30",
+   "sha256": "d78115ece5b82d0693d8776f5bf6168a2b676bca78e716a91dba05f222bfc234",
+   "copy": "d146eabfe3bcb2344121.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "final": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:41:18+05:30",
+   "sha256": "d78115ece5b82d0693d8776f5bf6168a2b676bca78e716a91dba05f222bfc234",
+   "copy": "d146eabfe3bcb2344121.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

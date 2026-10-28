@@ -1,0 +1,12 @@
+{
+ "id": "Q-291",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: NTA released the UGC-NET December 2026 notification by a public notice dated 08 October 2026 opening online registration", "status": "added", "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf", "quote": "PUBLIC NOTICE 08 October 2026 Subject: Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg."},
+  {"fact": "Applications are accepted online only, on ugcnet.nta.nic.in", "status": "added", "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf", "quote": "Candidates can apply for UGC-NET December 2026 through the “Online” mode only through the website https://ugcnet.nta.nic.in/."},
+  {"fact": "By NTA public notice dated 27.10.2026 the last date to apply and pay the fee is extended to 31 October 2026 (11:50 PM) without late fee", "status": "added", "url": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf", "quote": "extend the last date for submission of the Online Application Form for UGC-NET December 2026 Examination up to 31 October 2026 (11:50 PM) without any late fee", "note": "The 08.10.2026 notice gave 'Submission of Online Application Form 08 October 2026 to 28 October 2026'."}
+ ],
+ "behaviour": "Says the UGC-NET December 2026 notification has been released, giving the NTA notice date (08 October 2026) and the current application deadline with its notice date, citing nta.ac.in or ugcnet.nta.nic.in.",
+ "fail_if": "It says the notification has not been released, gives a status or deadline without citing an NTA notice and its date, or gives 28 October 2026 as the last date without the 27.10.2026 extension.",
+ "summary": "UGC-NET Dec 2026 notified by NTA notice of 08.10.2026 (apply on ugcnet.nta.nic.in); last date extended to 31.10.2026 without late fee by notice of 27.10.2026. Exam dates left out: notice says 14-19 Dec 2026, NTA's revised calendar (26.10.2026) says 14-18 and 21 Dec 2026."
+}

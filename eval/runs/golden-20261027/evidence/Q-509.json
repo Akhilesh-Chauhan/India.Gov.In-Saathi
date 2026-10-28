@@ -1,0 +1,67 @@
+{
+ "id": "Q-509",
+ "checked_at": "2026-10-28T14:03:57+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:06+05:30",
+   "sha256": "3e0f8a30287cf70211866bb0d380259d2807e0100aa7598cb49f7e9a63f455fc",
+   "copy": "fb669e9e01713151152b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:06+05:30",
+   "sha256": "3e0f8a30287cf70211866bb0d380259d2807e0100aa7598cb49f7e9a63f455fc",
+   "copy": "fb669e9e01713151152b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:06+05:30",
+   "sha256": "3e0f8a30287cf70211866bb0d380259d2807e0100aa7598cb49f7e9a63f455fc",
+   "copy": "fb669e9e01713151152b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:06+05:30",
+   "sha256": "3e0f8a30287cf70211866bb0d380259d2807e0100aa7598cb49f7e9a63f455fc",
+   "copy": "fb669e9e01713151152b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

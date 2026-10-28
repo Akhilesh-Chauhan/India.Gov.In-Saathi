@@ -1,0 +1,43 @@
+{
+ "id": "MT-15",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "MUDRA (PMMY) loans are for non-corporate, non-farm small/micro enterprises such as a kirana shop",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "for providing loans up to 10 lakh ( 20 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category) to the non-corporate, non-farm small/micro enterprises."
+  },
+  {
+   "fact": "A Rs 2 lakh loan falls in the MUDRA 'Kishor' category (above Rs 50,000 and up to Rs 5 lakh)",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Kishor किशोर Covering loans above 50,000/- and upto 5 lakh"
+  },
+  {
+   "fact": "MUDRA loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "These loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs."
+  },
+  {
+   "fact": "Udyam (MSME) registration is free of cost",
+   "status": "confirmed",
+   "url": "https://udyamregistration.gov.in/",
+   "quote": "Registration Process is totally free. No Costs or Fees are to be paid to anyone."
+  },
+  {
+   "fact": "udyamregistration.gov.in is the only official Udyam registration website; no other website, portal or app is official",
+   "status": "confirmed",
+   "url": "https://udyamregistration.gov.in/",
+   "quote": "This is official website of Govt. of India, Ministry of MSME. No other website/portal/app is official."
+  },
+  {
+   "fact": "After registration, apply for the MUDRA loan at a nearby branch of a bank, NBFC or MFI, or online on the Udyamimitra portal",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Mudra loans under Pradhan Mantri Mudra Yojana (PMMY) can be availed of from nearby branch office of a bank, NBFC, MFIs etc. Borrowers can also now file online application for MUDRA loans on Udyamimitra portal (www.udyamimitra.in)."
+  }
+ ],
+ "summary": "mudra.org.in and udyamregistration.gov.in confirm Kishor (Rs 50,000-5 lakh) for Rs 2 lakh, lending via banks/NBFCs/MFIs or Udyamimitra, and free Udyam registration only on the official site."
+}

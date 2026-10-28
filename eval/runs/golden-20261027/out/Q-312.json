@@ -1,0 +1,20 @@
+{
+ "id": "Q-312",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Personal details for GeM seller registration: Aadhaar (or Virtual ID) with Aadhaar-linked mobile, or personal PAN with a mobile number, plus an active email ID for OTP",
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "quote": "1. Aadhaar/Virtual ID and Aadhaar linked mobile number OR personal PAN details with mobile number 2. Active Email ID - personal E-mail Id or Company / Organisation allotted Email-Id (to verify OTP)"},
+  {"fact": "Business details: business PAN, CIN (companies only), bank account number and IFSC, income tax returns of the last 3 years (needed for bids if the business is over 24 months old) and registered address",
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "quote": "1. Business PAN details 2. CIN (Company Identification Number) – Only for Company 3. Bank account number and IFSC 4. Income tax returns of last 3 years (It is required for BID participation if your business is older than 24 months) 5. Registered Address"},
+  {"fact": "Optional: Udyam number for MSMEs, DIPP number for startups (both for EMD exemption) and GST number for inter-state business",
+   "status": "added",
+   "url": "https://gem.gov.in/userFaqs/seller",
+   "quote": "1. Udyam number for MSME (EMD exemption in BID) 2. DIPP number for startup (EMD exemption for eligible start ups) 3. GST number for inter state business"}
+ ],
+ "behaviour": "Answers in simple Hinglish how to register as a seller on GeM (Sign Up as Seller on gem.gov.in) and the documents/details needed, citing GeM (gem.gov.in).",
+ "summary": "Added from the GeM seller FAQ: personal (Aadhaar or personal PAN, mobile, email), business (PAN, CIN, bank, ITRs, address) and optional (Udyam, DIPP, GST) requirements."
+}

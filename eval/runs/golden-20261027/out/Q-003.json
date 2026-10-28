@@ -1,0 +1,53 @@
+{
+ "id": "Q-003",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Yes: when a child turns 5, a Mandatory Biometric Update records all biometrics (photo, fingerprints and both irises)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "When Mandatory Biometric Update is to be conducted? 1. When child attains an age of 5 years all biometric (Photo, Finger Prints and both Iris) data would be recorded."
+  },
+  {
+   "fact": "It is free if done the first time between ages 5 and 7",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(i) If done first time between the age of 5 to 7 years: Free#"
+  },
+  {
+   "fact": "The free mandatory update must be a stand-alone transaction",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "# Mandatory Biometric Update (MBU) shall be stand-alone transaction only; it may not be clubbed with any other transaction"
+  },
+  {
+   "fact": "It is done by visiting an Aadhaar Enrolment Centre",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Where can I get Mandatory Biometric Update performed? Aadhaar number holder needs to visit an Aadhaar Enrolment centre, with Aadhaar number for Mandatory Biometric Update."
+  },
+  {
+   "fact": "Outside the free windows a biometric update costs Rs 125",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(iii) If done otherwise: ₹125*"
+  },
+  {
+   "fact": "UIDAI extended the fee waiver for the first mandatory biometric update (MBU-1) of children aged 7 to 15 by one year from 1.10.2026, so it stays free till 30.09.2027",
+   "status": "changed",
+   "was": "the extra free window for ages 7-15 ended on 30.9.2026",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Extn-of-MBU-fee-waiver.pdf",
+   "quote": "UIDAI has granted extension of waiver of MBU-1 charges payable by an Aadhaar number holder aged 7 - 15 years, for an additional period of one year, w.e.f. 1.10.2026. Thus, the MBU-1 service shall remain free of cost to the children (aged 7-15 years) till 30.09.2027.",
+   "note": "UIDAI Office Memorandum on extension of the MBU-1 fee waiver, uploaded 25-09-2026 (as in Q-004). The fee-sheet PDF on uidai.gov.in/images (and its 2026-05 copy) still prints 30.9.2026 and is out of date."
+  },
+  {
+   "fact": "The Aadhaar Seva Kendra page also shows the update as free for ages 7 to 15 till 30.9.2027",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(*If done between the age of 7 to 15 years: Free, till 30.9.2027)"
+  }
+ ],
+ "behaviour": "Says yes: the biometric update at 5 is mandatory and free between ages 5 and 7, done as a stand-alone transaction at an Aadhaar centre, and that if missed it stays free for ages 7 to 15 till 30.09.2027 (UIDAI extended the waiver), citing uidai.gov.in (fee sheet / Aadhaar Seva Kendra page or the extension OM).",
+ "fail_if": "It says the update at 5 is optional or charged; says the 7-15 waiver has ended or gives 30.9.2026 as its end as if it were current; gives a fee other than Rs 125 for a paid biometric update; cites no UIDAI page.",
+ "summary": "Mandatory at 5, free 5-7, stand-alone at an Aadhaar centre, Rs 125 otherwise confirmed; changed: UIDAI OM (uploaded 25-09-2026) keeps MBU-1 free for ages 7-15 till 30.09.2027."
+}

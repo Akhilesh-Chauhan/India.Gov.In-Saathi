@@ -1,0 +1,19 @@
+{
+ "id": "MT-11",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Rail Madad helpline 139 can be called for all security-related assistance (e.g. theft on a train)", "status": "confirmed",
+   "url": "https://oldcr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,1,1990,2017",
+   "quote": "All India Rail Madad Help line number 139 may be called for all security related assistance."},
+  {"fact": "For immediate assistance passengers can complain on the Rail Madad portal or through helpline 139, which is integrated with ERSS 112", "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078095",
+   "quote": "For immediate assistance, passengers can make complaint on Rail Madad Portal directly or through Helpline Number 139 [integrated with Emergency Response Support System (ERSS) No.112]."},
+  {"fact": "The online complaint link is the Rail Madad website (railmadad.indianrailways.gov.in); the Rail Madad app can also be used", "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "RailMadad website ( https://railmadad.indianrailways.gov.in/madad/final/home.jsp ) · RailMadad App"},
+  {"fact": "On the train, the TTE/conductor, guard or GRP/RPF escort gives an FIR form; once filled it is forwarded to the police, so the passenger need not break the journey", "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/downloads/FIR_form.pdf",
+   "quote": "They will give the FIR Form which may be duly filled in and handed over to them. The complaint will then be forwarded to the Police station for necessary action.. The passenger need not break his journey to lodge a complaint with the police."}
+ ],
+ "summary": "Rail Madad 139 (ERSS 112), the Rail Madad website/app and the on-train FIR form route confirmed on Indian Railways and PIB pages (same evidence as Q-342); turn texts unchanged."
+}

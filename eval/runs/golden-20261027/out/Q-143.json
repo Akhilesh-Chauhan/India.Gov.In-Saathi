@@ -1,0 +1,17 @@
+{
+ "id": "Q-143",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The pmjdy.gov.in progress report shows 59.59 crore PMJDY beneficiaries (accounts) in total, with deposits of Rs 3,24,069.14 crore",
+   "status": "added",
+   "url": "https://pmjdy.gov.in/account",
+   "quote": "Grand Total 46.27 13.32 33.23 59.59 324069.14 41.79"},
+  {"fact": "Those figures are in crore and as on 14/10/2026",
+   "status": "added",
+   "url": "https://pmjdy.gov.in/account",
+   "quote": "Pradhan Mantri Jan - Dhan Yojana (All figures in Crore) Beneficiaries as on 14/10/2026"}
+ ],
+ "behaviour": "Gives the total number of PMJDY accounts with its as-on date from the pmjdy.gov.in progress report, citing it; a later figure from the same report with its own as-on date is acceptable.",
+ "fail_if": "It gives an account figure without an as-on date or source, or invents a number.",
+ "summary": "pmjdy.gov.in progress report: 59.59 crore PMJDY beneficiaries as on 14/10/2026 (deposits Rs 3,24,069.14 crore)."
+}

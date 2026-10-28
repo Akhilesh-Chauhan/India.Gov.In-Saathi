@@ -1,0 +1,22 @@
+{
+ "id": "Q-488",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "final": "https://nfsa.gov.in/portal/NFSA-Act",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:49+05:30",
+   "sha256": "0ea88777ba1b9359f40b9f3d047ec4420ba8c20fd999e8f79762d1d38bff76ef",
+   "copy": "7e85046869e93ea2d826.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

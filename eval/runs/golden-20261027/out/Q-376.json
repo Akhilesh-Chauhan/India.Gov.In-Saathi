@@ -1,0 +1,17 @@
+{
+ "id": "Q-376",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "In UMANG, the National Pension System (NPS) department's Protean CRA section has 'Email Statement', which emails the transaction statement for the past 9 financial years of Tier 1 and Tier 2 accounts",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "quote": "Email Statement Subscribers can request for transaction statement over email for past 9 financial years of Tier 1 and Tier 2 accounts."},
+  {"fact": "For KFintech CRA subscribers, the UMANG NPS service 'Email Transaction Statement' does the same after login with PRAN and password",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "quote": "Email Transaction Statement Subscribers can request for transaction statement over email for past 9 financial years of Tier 1 and Tier 2 accounts by entering PRAN and Password for authentication"}
+ ],
+ "behaviour": "Gives the deep link to the NPS transaction-statement service in UMANG (National Pension System (NPS) department, under the subscriber's CRA) from the catalogue; if it is not listed, points to the official NPS/CRA channel. Does not fetch the statement itself.",
+ "fail_if": "Invents a link or service; points to a non-official site; asks for the PRAN password.",
+ "summary": "Added from UMANG NPS page: 'Email Statement' (Protean CRA) and 'Email Transaction Statement' (KFintech CRA, PRAN + password), past 9 financial years, Tier 1 and 2."
+}

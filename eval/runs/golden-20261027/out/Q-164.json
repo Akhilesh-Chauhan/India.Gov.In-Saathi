@@ -1,0 +1,25 @@
+{
+ "id": "Q-164",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "States/UTs must recover PM-KISAN money paid to ineligible farmers, such as income-tax payers, PSU and State/Central Government employees and constitutional post holders",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2191651&reg=3&lang=2",
+   "quote": "States/UTs have been mandated to recover funds disbursed to ineligible farmers such as individuals belonging to higher-income groups, income tax payees, employees of PSUs, State/Central Govt., Constitutional post holders etc."},
+  {"fact": "A beneficiary who gave an incorrect self-declaration is liable to repay the benefit received and to penal action",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "quote": "In case of incorrect self declaration, beneficiary shall be liable for recovery of transferred financial benefit and other penal actions as per law."},
+  {"fact": "The pmkisan.gov.in Farmers Corner has an 'Online Refund' option",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Know Your Status Update Mobile Number Online Refund Voluntary Surrender of PM Kisan Benefits"},
+  {"fact": "Contact details of the State Nodal Officers and a Help-Desk are on the pmkisan.gov.in Contact Us page",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Contacts.aspx",
+   "quote": "Contact Details of State Nodal Officers Searchable Contact Details Help-Desk"}
+ ],
+ "behaviour": "Explains, citing pmkisan.gov.in / PIB, that PM-KISAN money is recovered from beneficiaries found ineligible (e.g. income-tax payers, government employees) or who gave an incorrect self-declaration; does not judge the user's own case; routes the user to the State Nodal Officer / Help-Desk on pmkisan.gov.in (or the PM-KISAN helpline) to find out the reason and, if due, the 'Online Refund' option.",
+ "fail_if": "It says the notice must be fake or can be ignored, decides the user's case, or cites no official page.",
+ "summary": "Added the recovery rules (PIB: States/UTs recover from ineligible farmers; Operational Guidelines: incorrect declaration liable for recovery) and the portal routes (Online Refund, State Nodal Officers, Help-Desk)."
+}

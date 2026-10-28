@@ -1,0 +1,25 @@
+{
+ "id": "Q-204",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The National Consumer Helpline toll-free number is 1915 (also 1800-11-4000)",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "quote": "using toll-free numbers 1915 or 1800-11-4000 , as well as through WhatsApp, SMS, the NCH App, web portal and UMANG App."},
+  {"fact": "The helpline is available daily except national holidays, 8:00 AM to 8:00 PM",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/contact",
+   "quote": "1800 11 4000 or 1915 Available daily except national holidays, 08:00 AM – 08:00 PM"},
+  {"fact": "Complaints can be sent by SMS to 8800001915",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/contact",
+   "quote": "Register via SMS Send SMS to 8800001915 and we will get back to you."},
+  {"fact": "Complaints can be sent on WhatsApp to 8800001915",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "You can register your grievance through whatsapp at 8800001915 ."},
+  {"fact": "Complaints can also be registered on consumerhelpline.gov.in, the NCH app or UMANG",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Register your grievance through NCH APP Download App → OR Register your grievance through UMANG APP"},
+  {"fact": "The NCH email is nch-ca@gov.in",
+   "status": "confirmed", "url": "https://consumerhelpline.gov.in/public/contact",
+   "quote": "Contact Details Email ID nch-ca[at]gov[dot]in Call to Register Your Grievance"}
+ ],
+ "summary": "All NCH numbers, hours, SMS/WhatsApp, app/portal channels and email confirmed on consumerhelpline.gov.in."
+}

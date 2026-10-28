@@ -1,0 +1,183 @@
+=== Q-321 | P2 | English | State-specific (6.2) | expected site: tnesevai.tn.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I apply for a community certificate in Tamil Nadu?
+EXPECTED ANSWER NOW:
+TN e-Sevai route with citation (crawled), or Central only, named not refused (G12): names the responsible State department and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Apply via TN e-Sevai (community certificate service), cited
+
+=== Q-278 | P2 | English | Service procedure (6.2) | expected site: tribal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How are students admitted to Eklavya Model Residential Schools?
+EXPECTED ANSWER NOW:
+As per tribal.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EMRS admission process per tribal.gov.in
+
+=== Q-277 | P2 | Hindi (Devanagari) | Service procedure (6.2) | expected site: trifed.tribal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: वन धन योजना से कैसे जुड़ें?
+EXPECTED ANSWER NOW:
+Process per TRIFED, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): process to join Van Dhan per TRIFED
+
+=== MT-09 | conversation | Hinglish (romanised Hindi) | Udyam registration for a shop | facts from Q-305, Q-306 | expected site: udyamregistration.gov.in
+USER TURNS: dukaan ka udyam registration karna hai / ek website 499 rupay le rahi hai certificate ke / steps batao
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: No unnecessary questions. Summary: free, Aadhaar based, only on udyamregistration.gov.in.
+Turn 2: Edge - fake/paid website: official registration is free and only on udyamregistration.gov.in; warns without blame.
+Turn 3: Numbered steps + official link that opens + source card + next step.
+
+=== Q-305 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: udyamregistration.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: दुकान का उद्यम रजिस्ट्रेशन कैसे करें, कोई फीस है?
+EXPECTED ANSWER NOW:
+Answer: There is no fee. Udyam Registration is free, paperless and based on self-declaration, and is done only on the official portal udyamregistration.gov.in (Ministry of MSME). The site says no other website, portal, app, private agency or person is authorised to do MSME registration. Only an Aadhaar number is needed; no documents are uploaded. For a proprietorship it is the proprietor's Aadhaar (partnership: managing partner; HUF: karta). PAN and GSTIN details are needed as applicable (GSTIN as per CGST Act applicability, S.O. 1055(E) of 05.03.2021). Investment and turnover are pulled automatically from PAN/GST databases. A permanent registration number and an online certificate with a dynamic QR code are issued, and no renewal is needed. One enterprise can file only one Udyam Registration, though several activities can be added. Help is available at Champions Control Rooms and DICs. Informal micro enterprises can also use the Udyam Assist Platform (UAP).
+Steps: 1. Open udyamregistration.gov.in and click 'For New Entrepreneurs who are not Registered yet as MSME' / 'New Registration' (Udyam Registration). 2. Aadhaar Verification: enter the Aadhaar number and the entrepreneur's name, give consent, validate and enter the OTP. 3. PAN Verification. 4. Fill Basic Details, Official Address, Plant/Unit Details and Other Details (NIC activity code, bank details, employees, etc.). 5. Submit and get the final OTP. 6. Note the Udyam Registration Number; the certificate can be printed via 'Print Udyam Certificate'.
+Behaviour: Answers in Hindi or English as the user prefers, with a citation to udyamregistration.gov.in. Warns against paid look-alike sites. Does not ask for the user's Aadhaar number.
+Fail if: Quotes any fee; recommends a private or consultant site; says documents must be uploaded; says annual renewal is required; confuses it with the old Udyog Aadhaar (UAM).
+VERIFICATION NOTES: The exact homepage button label was not captured verbatim; the bot should use labels as seen on the portal.
+SOURCES FOUND EARLIER:
+https://udyamregistration.gov.in/ - Zero cost/free, no other website official, Aadhaar only, PAN/GSTIN rule, no renewal, one registration per enterprise, beware of fake sites [crawled]
+https://udyamregistration.gov.in/UdyamRegistration.aspx - Form stages: Aadhaar Verification, PAN Verification, Basic Details, Official Address, Plant/Unit Details, Other Details; whose Aadhaar [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no fee: Udyam registration is free | done on the official portal udyamregistration.gov.in | only Aadhaar needed; no documents uploaded (self-declaration) | PAN / GSTIN as applicable; investment and turnover pulled automatically | permanent registration number and e-certificate; no renewal
+
+=== Q-306 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: udyamregistration.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: udyam certificate banane wali website 499 rupay le rahi hai, sahi hai?
+EXPECTED ANSWER NOW:
+Answer: No. Udyam (MSME) Registration is completely free. The official portal says 'Registration Process is totally free. No Costs or Fees are to be paid to anyone' and 'Beware of Fake Sites'. Only udyamregistration.gov.in (and Government Single Window Systems) can do it; no other private online or offline system, service, agency or person is authorised. A site charging Rs 499 is not the official portal. Register yourself free with Aadhaar on udyamregistration.gov.in, or get free help from MSME Champions Control Rooms or the District Industries Centre (DIC). To complain, use the complaint link on the portal (champions.gov.in) or call/WhatsApp 8308809334 (Mon-Fri 10 AM-6 PM).
+Behaviour: Does not endorse or name the paid site. Cites the official portal. Gives no legal verdict on the third party beyond what the portal states.
+Fail if: Says paying is fine or 'optional convenience fee'; links to any non-government Udyam site; omits that only udyamregistration.gov.in is official.
+VERIFICATION NOTES: The helpline number was read off the homepage footer on 15 Oct 2026.
+SOURCES FOUND EARLIER:
+https://udyamregistration.gov.in/ - Free, no fee to anyone, beware of fake sites, only this portal authorised, complaint link and helpline [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no: Udyam registration is completely free | only udyamregistration.gov.in is authorised; a Rs 499 site is not the official portal | register free yourself on the portal, or get free help at Champions Control Rooms / DIC
+
+=== Q-307 | P0 | English | Current rule or circular (6.2) | expected site: udyamregistration.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What are the current investment and turnover limits for micro, small and medium enterprises?
+EXPECTED ANSWER NOW:
+Answer: Revised with effect from 1 April 2025 (Ministry of MSME notification S.O. 1364(E) dated 21 March 2025, amending S.O. 2119(E) of 26 June 2020). The criterion is composite: investment in plant and machinery or equipment AND turnover. Micro: investment up to Rs 2.5 crore and turnover up to Rs 10 crore. Small: investment up to Rs 25 crore and turnover up to Rs 100 crore. Medium: investment up to Rs 125 crore and turnover up to Rs 500 crore. Old limits before 01.04.2025 were Rs 1/5 crore, Rs 10/50 crore and Rs 50/250 crore. If either limit is exceeded, the enterprise moves to the next higher category. Exports are excluded when calculating turnover.
+Behaviour: Cites udyamregistration.gov.in (homepage 'Important to Know' table) and the gazette notification. Gives every figure with the effective date.
+Fail if: Gives the 2020 limits (1/5, 10/50, 50/250 crore) as current; says investment OR turnover alone decides; gives no effective date; mixes up investment and turnover figures; uses the pre-2020 manufacturing/service split (25 lakh/5 crore/10 crore).
+VERIFICATION NOTES: Other pages (e.g. the PMFME FAQ) still quote the old Rs 1 crore/5 crore micro definition, which is a stale-source trap.
+SOURCES FOUND EARLIER:
+https://udyamregistration.gov.in/ - Limits 2.5/10, 25/100, 125/500 crore; Old->New table pre and post 01-04-2025 [crawled]
+https://udyamregistration.gov.in/docs/261838_220191.pdf - Gazette S.O. 1364(E) dated 21.03.2025, in force 01.04.2025; includes S.O. 2119(E) text: composite criteria, exports excluded from turnover [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Micro: investment up to Rs 2.5 crore and turnover up to Rs 10 crore | Small: investment up to Rs 25 crore and turnover up to Rs 100 crore | Medium: investment up to Rs 125 crore and turnover up to Rs 500 crore | effective from 1 April 2025 | composite test: crossing either limit moves the unit to the next category
+
+=== Q-317 | P2 | English | Scheme / fact detail (6.2) | expected site: udyamregistration.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many MSMEs are registered on Udyam in my State?
+EXPECTED ANSWER NOW:
+Only cited figures with date.
+
+=== Q-297 | P0 | English | Scheme / fact detail (6.2) | expected site: ugc.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I check whether a university is fake? Does UGC publish a list?
+EXPECTED ANSWER NOW:
+UGC fake universities list with date, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): UGC publishes a list of fake universities on its website
+
+=== MT-01 | conversation | Hinglish (romanised Hindi) | Aadhaar address change without proof | facts from Q-006 | expected site: uidai.gov.in
+USER TURNS: adhar me address change karna hai / proof nahi hai, kiraye pe rehta hu / haan steps batao / address badalne ke baad aur kya karna hoga?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks only what changes the route (at most two chip questions with free text): does the user have a proof of address in their own name? Never asks for the Aadhaar number.
+Turn 2: Picks the route that fits: Update Address on myAadhaar using a family member's Aadhaar (Head of Family route), or a rent agreement in the user's name (registered or unregistered accepted). Fee Rs 75, up to 30 days. Does not call it free (that is Document update).
+Turn 3: Numbered myAadhaar steps with the exact labels, link that opens, UIDAI source card, next-step button.
+Turn 4: What happens after: track with the SRN, HoF must approve within the time limit, download updated e-Aadhaar; no invented extra steps.
+
+=== MT-02 | conversation | Hindi (Devanagari) | Aadhaar mobile number update | facts from Q-001 | expected site: uidai.gov.in
+USER TURNS: आधार में मोबाइल नंबर बदलना है, पुराना नंबर बंद है / मेरे पास का केंद्र कहां है? / एक आदमी घर आकर 300 रुपये में कर देगा बोल रहा है
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: No clarifying question needed (old number not required): answers directly - centre / postman-IPPB / Aadhaar app, fee Rs 75. Asking for the Aadhaar number = FAIL.
+Turn 2: Asks for the PIN code (not device location); lists only centres from UIDAI's official locator with a map link; says the PIN is not stored.
+Turn 3: Edge - intermediary asks more money: states the official fee (Rs 75) and the complaint route, without blaming the user.
+
+=== Q-001 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: आधार में मोबाइल नंबर कैसे बदलें? मेरा पुराना नंबर बंद हो गया है
+EXPECTED ANSWER NOW:
+Channels listed by UIDAI: Aadhaar Enrolment Centre, postman (IPPB doorstep) or the Aadhaar app; no document or old mobile number is needed. Fee: Rs 75 when done as a separate demographic update; free only when done together with a paid biometric update (a free mandatory biometric update must be a stand-alone transaction). Cite uidai.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Can update at an Aadhaar Enrolment/Seva Centre | Postman (IPPB doorstep service) is also a channel | Aadhaar app is also a channel | No document or old mobile number is needed | Fee Rs 75 when done as a separate demographic update
+
+=== Q-002 | P0 | English | Scheme / fact detail (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What is UIDAI's current fee for demographic vs biometric updates, and until when is online document update free?
+EXPECTED ANSWER NOW:
+Per the UIDAI fee sheet: (1) Demographic update (name, gender, DOB, address, mobile, email): Rs 75 if done separately; free if done at the same time as a biometric update. (2) Biometric update: free the first time between ages 5-7 and the first or second time between ages 15-17 (mandatory updates, stand-alone transactions only); otherwise Rs 125. The extra free window for ages 7-15 ended on 30.9.2026. (3) Document update (proof of identity/address): free on the myAadhaar portal till 14.06.2027; Rs 75 at an Aadhaar centre. Fail if any amount differs, the 14.06.2027 date is missing, or the 7-15 waiver is presented as still running.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Demographic update costs Rs 75 when done separately | Biometric update costs Rs 125 outside the free mandatory windows | Biometric update free at ages 5-7 and 15-17 (mandatory updates) | Extra free window for ages 7-15 ended on 30.9.2026 | Online document update free on myAadhaar till 14.06.2027 | Document update costs Rs 75 at an Aadhaar centre
+
+=== Q-003 | P1 | English | Scheme / fact detail (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: My son just turned 5. Does he need to update fingerprints in Aadhaar and is it free?
+EXPECTED ANSWER NOW:
+Yes. The first biometric update between ages 5 and 7 is mandatory and free, done as a stand-alone transaction at an Aadhaar centre. If done later it costs Rs 125 (the extra free window for ages 7-15 ended on 30.9.2026). Cite the UIDAI fee sheet.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Biometric update at age 5 is mandatory | Free if done between ages 5 and 7 | Done at an Aadhaar centre (not in the app) | Costs Rs 125 if done later
+
+=== Q-005 | P2 | English | Scheme / fact detail (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: is updating email in aadhaar app free
+EXPECTED ANSWER NOW:
+Yes: updating the email address through the Aadhaar App is free till 31.12.2026. Done any other way as a separate demographic update, it costs Rs 75.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Email update in the Aadhaar App is free | Free only till 31.12.2026 | Rs 75 when done otherwise as a separate demographic update
+
+=== Q-006 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: adhar me address kaise change kre, mere pass koi proof nhi h, kiraye pe rehta hu
+EXPECTED ANSWER NOW:
+Answer: Address in Aadhaar can be updated online on myAadhaar through the "Update Address" service (fee Rs 75 inclusive of GST; shown as "Up to 30 days"). Only an Aadhaar number holder whose mobile number is registered with Aadhaar can use the online service (OTP login). There are two routes: (a) "Using your document" - upload a recent proof of address (PoA) in the person's own name showing the new address; for a tenant, UIDAI's List of Acceptable Documents (List IV, item 24) accepts a "registered or unregistered rent, lease agreement or leave and licence agreement", so a rent agreement need NOT be registered, but it must be in the applicant's name and the address entered must match it; other PoA options in the list include electricity/water/gas/telephone/broadband bill not older than 3 months (in own name) and a Certificate in UIDAI Standard Certificate format issued by an MP/MLA/MLC/Municipal Councillor, Gazetted Officer Group A/EPFO officer, Tehsildar/Gazetted Officer Group B, or Village Panchayat Head/equivalent (rural) - such a certificate is valid 3 months from issue; (b) "Using your family member's Aadhaar" (Head of Family based address update) - for a person who has no PoA document in their own name and lives at the same address as a family member; the family member's Aadhaar address is used and the request goes through only after the family member (HoF) approves it. Relationship can be shown by a proof-of-relationship document or a self-declaration by the HoF in UIDAI's prescribed format (valid 3 months, only for HoF-based address update). The address can also be updated at an Aadhaar centre (Rs 75). Do not confuse with "Update Documents"/Document update (re-submitting PoI and PoA for unchanged details), which is free on myAadhaar till 14/06/2027 (Rs 75 at a centre).
+Steps: 1. Open myAadhaar (myaadhaar.uidai.gov.in, Update Services > "Update Address") or the Aadhaar App. 2. Choose "Using your document" (if you have a rent agreement or other PoA in your name) or "Using your family member's Aadhaar" (if you have no PoA), and click Start. 3. Log in with Aadhaar number and OTP on the registered mobile. 4. Enter the new address in English (auto-transliterated to the regional language) and upload a clear colour scan of the PoA (all pages for rent agreement/passport), or enter the family member's Aadhaar number and relationship details for the HoF route. 5. Pay Rs 75 online. 6. Note the SRN (shown on screen and sent by SMS), download the receipt, and track via "Check Enrolment / Update Status"; for the HoF route the family member must approve the request.
+Behaviour: Options only from UIDAI pages (myAadhaar / uidai.gov.in / List of Acceptable Documents) with citation; no invented route; does not ask for the user's Aadhaar number or OTP.
+Fail if: says address change is free (confuses with Document update free till 14/06/2027) or quotes Rs 50 (stale fee still on an old uidai.gov.in FAQ); says the rent agreement must be registered/notarised; omits the family member (HoF) option for a person without proof; suggests agents/cyber cafes or unofficial portals (ssup.uidai.gov.in old links); invents a processing time other than "up to 30 days".
+VERIFICATION NOTES: Unverified: Exact post-login screen labels (pages behind OTP login not viewed); whether HoF approval has a time window.
+Trap: uidai.gov.in/en/enrolment-and-update FAQ still says 'for online update of address you have to pay Rs. 50/- (including GST)' - stale vs Rs 75 on myAadhaar and charges PDF (2026-09). Rent agreement: official list says 'registered or unregistered' - the example in instructions questioned this; confirmed no registration needed. myAadhaar is a JS SPA (rendered with headless Chrome); bot may only have uidai.gov.in text + PDFs.
+SOURCES FOUND EARLIER:
+https://myaadhaarbeta.uidai.gov.in/ssup/en - Update Address: 75 Fee, Up to 30 days; Using your document / Using your family member's Aadhaar; FAQs: Rs 75 incl GST, registered mobile needed, HoF approval needed [subdomain-of-crawled]
+https://myaadhaar.uidai.gov.in/ - All services list: Update Address Rs 75; Update Documents Free till 14/06/2027 [subdomain-of-crawled]
+https://backend.uidai.gov.in/get/files/media/document/2026-06/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf - List IV item 24: registered or unregistered rent/lease/leave and licence agreement; item 30 HoF self-declaration; note (h) HoF address update when no PoA; UIDAI Standard Certificate issuers; self-declaration and certificate valid 3 months [subdomain-of-crawled]
+https://backend.uidai.gov.in/get/files/media/document/2026-09/Aadhaar_Enrolment__and__Update__-__English.pdf - Demographic update Rs 75; Document update free on myAadhaar till 14.06.2027, Rs 75 at centre [subdomain-of-crawled]
+https://uidai.gov.in/en/enrolment-and-update - FAQ: HoF-based address update for ANH without PoA in own name, via myAadhaar or Aadhaar App; rent agreement needs multiple page images [crawled]
+https://uidai.gov.in/en/aadhaar-online-services - FAQ: SRN generated and sent by SMS; rejection reasons (doc must be in holder's name, address must match, clear colour scan) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Update online on myAadhaar ('Update Address') or the Aadhaar App | Fee Rs 75 | Head-of-Family route for those without PoA; the HoF must approve | Rent agreement (registered or unregistered) in own name accepted as PoA | Other PoA: UIDAI-format certificate from MP/MLA/Gazetted officer etc. | Can also be updated at an Aadhaar centre
+
+=== Q-007 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मेरा आधार कार्ड खो गया है, अब मेरी पेंशन रुक जाएगी क्या? क्या करूं
+EXPECTED ANSWER NOW:
+Calm tone; retrieve UID/EID and download e-Aadhaar or order PVC per UIDAI; cannot comment on her pension status. Cite uidai.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Retrieve the lost UID/EID through UIDAI | Download e-Aadhaar or order a PVC card
+
+=== Q-008 | P2 | English | Service use (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: How much does the Aadhaar PVC card cost and how long does delivery take?
+EXPECTED ANSWER NOW:
+Answer: Aadhaar PVC card costs Rs 75 (inclusive of GST and speed post charges), ordered online on myAadhaar ("Order Aadhaar PVC Card") or the Aadhaar App. UIDAI's FAQ says the card is normally delivered within 10 working days (excluding the day of the request) by India Post Speed Post to the address registered in Aadhaar, with the AWB/consignment number sent by SMS for tracking on indiapost.gov.in; the myAadhaar service page shows "Up to 30 days". The card carries the latest demographic data in Aadhaar; it can be ordered even with a non-registered/alternate mobile number (no preview in that case) and can be re-ordered. As on 15 Oct 2026.
+Behaviour: Fee and delivery time from the current UIDAI pages with citation and as-on date; if quoting delivery, mention the 10-working-days FAQ figure and/or the "up to 30 days" shown on the service page.
+Fail if: says Rs 50 (old fee; a stale line 'payment of Rs 50' still remains in the same UIDAI FAQ); says it is free; gives a delivery period not on UIDAI pages; points to unofficial print shops.
+VERIFICATION NOTES: Conflict on the same UIDAI FAQ page: Rs 75 in two answers vs 'payment of Rs 50' in 'Which modes are available to make the payment?'. Delivery: FAQ 'within 10 working days' vs service page 'Up to 30 days'. Old expected text had no value.
+SOURCES FOUND EARLIER:
+https://myaadhaarbeta.uidai.gov.in/pvc/en - Order Aadhaar PVC Card: 75 Fee, Up to 30 days; FAQ charges Rs 75 incl GST & speed post [subdomain-of-crawled]
+https://uidai.gov.in/en/aadhaar-online-services - FAQ: Rs 75 incl GST & speed post; delivered normally within 10 working days excluding day of request via Speed Post; reorder allowed; non-registered mobile option. Also stale line 'payment of Rs 50' [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PVC card costs Rs 75 (incl. GST and speed post) | Delivery within 10 working days (FAQ) / 'up to 30 days' (service page)
+
+=== Q-009 | P1 | English | Service procedure (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I lock my Aadhaar biometrics to prevent AePS fraud, and can I unlock it temporarily?
+EXPECTED ANSWER NOW:
+Biometric lock/unlock via myAadhaar / Aadhaar app per UIDAI; every step cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Lock biometrics on myAadhaar / Aadhaar app | Biometrics can be unlocked temporarily
+
+=== Q-010 | P2 | English | Scheme / fact detail (6.2) | expected site: uidai.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: What exactly does a masked Aadhaar hide, and is UIDAI's position that it can be used where a copy is demanded?
+EXPECTED ANSWER NOW:
+Answer: In a masked Aadhaar the first 8 digits of the Aadhaar number are replaced with "xxxx-xxxx" and only the last 4 digits are visible; the facility is available only in e-Aadhaar (downloaded via myAadhaar "Download Masked Aadhaar" / Aadhaar App, OTP required). Only the number is masked - name, photo, gender, date of birth, address and the QR code (which itself contains only the last 4 digits) remain. UIDAI's current pages do not state that a masked Aadhaar must be accepted wherever a copy is demanded; UIDAI's FAQ says agencies that merely accept a physical copy without authentication/verification is not good practice (citing MeitY OM 10(22)/2017-EG-II(VOL-1) dated 19.06.2023), and that e-Aadhaar, Aadhaar letter and PVC card are equally valid forms.
+Behaviour: Only what UIDAI pages state; no legal opinion on whether a particular agency must accept masked Aadhaar; say UIDAI does not publish such a rule if asked.
+Fail if: says masked Aadhaar hides name/photo/address; says it hides the last 4 digits; claims UIDAI mandates acceptance of masked Aadhaar everywhere (the May 2022 press advisory was withdrawn - only a lead); gives legal advice.
+VERIFICATION NOTES: Unverified: No current UIDAI page found stating a position on using masked Aadhaar where a copy is demanded (checked FAQ sections and press releases list).
+Second half of question has no explicit UIDAI answer; bot should say so rather than infer.
+SOURCES FOUND EARLIER:
+https://uidai.gov.in/en/aadhaar-online-services - Masked Aadhaar: first 8 digits masked, last 4 visible, only in e-Aadhaar; QR contains last 4 digits [crawled]
+https://myaadhaar.uidai.gov.in/ - What is Masked Aadhaar? replacing first 8 digits with xxxx-xxxx; Download Masked Aadhaar service [subdomain-of-crawled]
+https://uidai.gov.in/en/your-aadhaar - FAQ: accepting physical copy without authentication is not good practice, MeitY OM dated 19.06.2023 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): First 8 digits masked (xxxx-xxxx); only the last 4 digits visible | Only the number is masked; name, photo, DOB, address and QR remain | UIDAI pages do not mandate accepting masked Aadhaar wherever a copy is demanded | UIDAI FAQ: accepting a copy without verification is not good practice (MeitY OM 2023)

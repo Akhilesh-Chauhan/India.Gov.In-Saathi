@@ -1,0 +1,22 @@
+{
+ "id": "Q-183",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "IMD publishes a dated Local Weather Report and Forecast for Nashik ('Nasik') on city.imd.gov.in",
+   "status": "added",
+   "url": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "quote": "Local Weather Report and Forecast For: Nasik Dated :Oct 28, 2026",
+   "note": "Re-checked 28 Oct 2026 13:37 IST: city.imd.gov.in answers again; mausam.imd.gov.in (IMD Nashik page /nskums/) still refuses connections from the checker. The forecast values change daily and are checked at test time, not fixed here."
+  },
+  {
+   "fact": "The IMD Nashik page gives a 7-day forecast with warnings for each date",
+   "status": "added",
+   "url": "https://city.imd.gov.in/citywx/city_weather_test_try_warnings.php?id=42921",
+   "quote": "7 Day's Forecast/Warnings Date Min Temp Max Temp Forecast Warnings RH 0830 RH 1730"
+  }
+ ],
+ "summary": "IMD city forecast for Nasik (city.imd.gov.in) read on 28 Oct 2026: dated 7-day forecast with warnings; forecast values are checked at test time. mausam.imd.gov.in still refuses connections.",
+ "behaviour": "Does not invent a forecast: gives IMD's current forecast for Nashik for the next day with its issue date (IMD Local Weather Report and Forecast for Nasik on city.imd.gov.in, or IMD's Nashik page mausam.imd.gov.in/nskums), or links it; the forecast itself is checked at test time.",
+ "fail_if": "Invents or guesses whether it will rain; gives a forecast without an IMD source and date; gives a stale forecast (not the latest IMD issue)."
+}

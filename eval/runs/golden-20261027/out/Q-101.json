@@ -1,0 +1,33 @@
+{
+ "id": "Q-101",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The spouse applies to the Pension Disbursing Authority in Form 12 (Rule 79(2)) to start family pension on the pensioner's death",
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "quote": "FORM 12 [See Rule 79(2)] Application to be submitted to Pension Disbursing Authority by spouse/co-authorised family member for commencement of family pension on death of a pensioner or family pensioner"
+  },
+  {
+   "fact": "A copy of the pensioner's death certificate must be submitted with Form 12 (with a copy of the PPO, if available)",
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "quote": "7. Copy of PPO of pensioner/ previous family pensioner (To be provided, if available) 8. Proof of permanent address of the guardian. 9. Copy of death certificate of the deceased pensioner/previous family pensioner"
+  },
+  {
+   "fact": "Form 12 also needs two passport-size photographs of the claimant and an undertaking to refund any excess payment made by the bank",
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "quote": "2. Two copies of passport size photographs of the claimant 3. Undertaking for refunding any excess payment made by the pension disbursing Bank"
+  },
+  {
+   "fact": "If the pensioner held a joint account with the spouse (either or survivor), the spouse only submits the death certificate with a simple application to activate family pension",
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "quote": "If the pensioner has Joint Account with the spouse on either or survivor basis the spouse has to submit the death certificate of the pensioner along with simple application only to activate the family pension."
+  }
+ ],
+ "behaviour": "Explains how the spouse of a deceased Central Government civil pensioner starts family pension (claim to the pension disbursing bank, documents), citing pensionersportal.gov.in / CPAO; gives no family pension amount or eligibility verdict without details; does not ask for the PPO, Aadhaar or account number.",
+ "fail_if": "Says the spouse must apply to the Head of Office or wait for a new PPO when the family pension is already in the PPO; leaves out the death certificate; invents steps, documents or fees not on the official pages.",
+ "summary": "Added the official process: Form 12 to the pension disbursing bank with the death certificate, photos and refund undertaking; joint-account spouse needs only a simple application (CPAO)."
+}

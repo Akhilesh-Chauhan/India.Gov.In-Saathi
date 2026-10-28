@@ -1,0 +1,28 @@
+{
+ "id": "Q-253",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "DAY-NULM's Employment through Skills Training and Placement (EST&P) component gives the urban poor market-demand skill training for self-employment or salaried jobs",
+   "status": "added",
+   "url": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "quote": "EST&P intends to provide training to the urban poor as per the skill demand from the market, so that they can set up self-employment ventures or secure salaried employment."
+  },
+  {
+   "fact": "The training cost is met by the Mission (up to Rs 15,000 per beneficiary, Rs 18,000 in North-Eastern and Special Category States, covering training, material, trainers' fee, certification and toolkit), so the trainee does not pay for it",
+   "status": "added",
+   "url": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "quote": "6.3 The cost per beneficiary shall not exceed Rs.15,000 (Rs.18,000 for North-Eastern and Special Category States), which will include training cost, trainee mobilisation, selection, counselling, training material, trainers’ fee, certification, toolkit",
+   "note": "'Free for the trainee' is derived: NULM documents set what the Mission pays per beneficiary but do not use the word 'free'."
+  },
+  {
+   "fact": "DAY-NULM's implementation period ended on 30.09.2024; 15,42,952 candidates had been given skill training by then (MoHUA reply, PIB 29 Jan 2026)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220349&reg=3&lang=1",
+   "quote": "The implementation period of DAY-NULM ended on 30.09.2024. Under DAY-NULM as on 30.09.2024, 10,02,545 Self Help Groups (SHGs) were formed, 15,42,952 candidates were provided skill training"
+  }
+ ],
+ "behaviour": "Answers as per NULM / MoHUA, cited (nulm.gov.in or PIB): DAY-NULM's EST&P component provided skill training to the urban poor with the cost met by the Mission, and DAY-NULM's implementation period ended on 30.09.2024.",
+ "fail_if": "It presents DAY-NULM as currently enrolling trainees without saying the scheme ended on 30.09.2024, or states a fee or amount not on an official page.",
+ "summary": "Added: EST&P skill training for the urban poor with cost met by the Mission (NULM mission document; 'free' derived), and DAY-NULM ended on 30.09.2024 (MoHUA reply, PIB 29 Jan 2026)."
+}

@@ -1,0 +1,19 @@
+{
+ "id": "Q-168",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The Open Government Data (OGD) Platform, data.gov.in, publishes state/UT-wise PM-KISAN beneficiary datasets, e.g. 'State/UT-wise Details of Beneficiaries DBT mode Received Benefits of PM-KISAN from 2018-19 to 2024-25'",
+   "status": "added",
+   "example": true,
+   "url": "https://www.data.gov.in/resource/stateut-wise-details-beneficiaries-direct-benefit-transfer-dbt-mode-received-benefits",
+   "quote": "State/UT-wise Details of Beneficiaries Direct Benefit Transfer (DBT) mode Received Benefits of Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) from 2018-19 to 2024-25 | Open Government Data (OGD) Platform India",
+   "note": "Other state-wise PM-KISAN resources are also on data.gov.in (e.g. 2018-19 to 2022-23, 18th instalment). Whether each resource has an API could not be read (JavaScript page); www.data.gov.in is listed in eval/bot_sources.json, so the bot may now cite it."},
+  {"fact": "pmkisan.gov.in itself publishes a village-wise Beneficiary List, selected by State, District, Sub-District, Block and Village",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Rpt_BeneficiaryStatus_pub.aspx",
+   "quote": "Select State District * * Select District Sub-District * * Select Sub District Block * * Select Block Village * * Select Village"}
+ ],
+ "behaviour": "Answers only from its sources: may point to data.gov.in (OGD Platform), which carries state/UT-wise PM-KISAN beneficiary datasets, and to the village-wise Beneficiary List on pmkisan.gov.in, with citation; if its sources do not show such a dataset or API, says it was not found and points to data.gov.in / pmkisan.gov.in.",
+ "fail_if": "It invents an API endpoint, dataset or URL, or claims pmkisan.gov.in offers an open API without an official source.",
+ "summary": "data.gov.in has state-wise PM-KISAN datasets (and is now in the bot's source registry); pmkisan.gov.in has a village-wise beneficiary list; no PM-KISAN API confirmed."
+}

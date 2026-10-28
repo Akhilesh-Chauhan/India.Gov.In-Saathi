@@ -1,0 +1,18 @@
+{
+ "id": "Q-496",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "POPSK stands for Post Office Passport Seva Kendra", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/FaqWhereToApply",
+   "quote": "What is a Passport Seva Kendra (PSK)/ Post Office Passport Seva Kendra (POPSK)?"},
+  {"fact": "POPSKs are extended arms of Passport Offices that render front-end passport services", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "Passport Seva Kendras and Post Office Passport Seva Kendras are extended arms of Passport Offices and render front-end services related to Passport issuance.",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqWhereToApply)"},
+  {"fact": "Their functions run from token issuance to granting of the application for passport issue/re-issue", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "These Kendras cover functionalities from token issuance to granting of application for Passport issue/re-issue and other services.",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqWhereToApply)"}
+ ],
+ "summary": "Passport Seva FAQ definition of PSK/POPSK unchanged."
+}

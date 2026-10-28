@@ -1,0 +1,22 @@
+{
+ "id": "Q-502",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Open sarathi.parivahan.gov.in and select the State",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Can I apply for renewal/duplicate/AEDL/IDP simultaneously. Steps follow to apply for RENEWAL of License:- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state"},
+  {"fact": "Choose 'Services on Drivers License (Renewal/Duplicate/AEDL/Others)' from the Driving License menu",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "3. Click on \"Services on Drivers License(Renewal/Duplicate/AEDL/Others)\" from \"Driving License\" menu 4. Fill up application form 5. Click on \"Next Button\" to proceed 6. Visit RTO on scheduled date, with original documents & Fee Slip"},
+  {"fact": "Fill the application form and click Next",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "4. Fill up application form 5. Click on \"Next Button\" to proceed 6. Visit RTO on scheduled date, with original documents & Fee Slip Note : In case Drivers License is expired"},
+  {"fact": "Visit the RTO on the scheduled date with the original documents and the fee slip",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "6. Visit RTO on scheduled date, with original documents & Fee Slip Note : In case Drivers License is expired for more than one years, you need to undergo Driving test or may be required issuance of learning license."},
+  {"fact": "If the licence expired more than one year ago, a driving test or a fresh learner's licence may be required (as per State policy)",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "In case Drivers License is expired for more than one years, you need to undergo Driving test or may be required issuance of learning license. The condition may be changed as per the state policy."}
+ ],
+ "summary": "All renewal steps and the over-one-year condition confirmed on the Parivahan FAQ; expected answer unchanged."
+}

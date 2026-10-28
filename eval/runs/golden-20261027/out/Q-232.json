@@ -1,0 +1,16 @@
+{
+ "id": "Q-232",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "eSanjeevani, the Health Ministry's National Telemedicine Service, has a patient-to-doctor service (eSanjeevaniOPD) for consulting a doctor from home on a smartphone or laptop",
+   "status": "added",
+   "url": "https://esanjeevani.mohfw.gov.in/#/about",
+   "quote": "2. Patient to Provider telemedicine platform: it empowers citizens to access health services in the confines of their homes through smartphones or laptops etc."},
+  {"fact": "eSanjeevani consultations are free of cost",
+   "status": "added",
+   "url": "https://esanjeevani.mohfw.gov.in/#/about",
+   "quote": "by providing free of cost consultations to one and all."}
+ ],
+ "behaviour": "Replies in Hindi; recommends eSanjeevani OPD (esanjeevani.mohfw.gov.in) for a free online doctor consultation from home, cited.",
+ "summary": "Added from the eSanjeevani About page: patient-to-doctor teleconsultation from home on smartphone/laptop, free of cost."
+}

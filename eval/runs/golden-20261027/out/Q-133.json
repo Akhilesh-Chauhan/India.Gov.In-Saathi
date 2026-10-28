@@ -1,0 +1,116 @@
+{
+ "id": "Q-133",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The rules are in the Sukanya Samriddhi Account Scheme, 2019 (G.S.R. 914(E), 12 December 2019)",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "This Scheme may be called the Sukanya Samriddhi Account Scheme, 2019."
+  },
+  {
+   "fact": "A guardian can open the account in the name of a girl child who has not reached 10 years on the date of opening, so a 3-year-old daughter is eligible",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "The account may be opened by one of the guardian in the name of a girl child, who has not attained the age of ten years as on the date of opening of the account."
+  },
+  {
+   "fact": "Only one account per girl child",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "Every account holder shall have a single account under this Scheme."
+  },
+  {
+   "fact": "At most two girl children per family can have accounts",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "An account under this Scheme may be opened for a maximum of two girl children in one family"
+  },
+  {
+   "fact": "More than two are allowed for twins/triplets on an affidavit by the guardian with birth certificates",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "Provided that more than two accounts may be opened in a family if such children are born in the first or in the second order of birth or in both, on submission of an affidavit by the guardian supported with birth certificates of the twins/triplets"
+  },
+  {
+   "fact": "The application is made in Form-1 with the girl's birth certificate and the guardian's required documents",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "The application in Form-1 for opening an account shall be accompanied by birth certificate of the girl child in whose name the account is to be opened, along with required documents of guardian."
+  },
+  {
+   "fact": "The account can be opened at a post office or an authorised bank",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89",
+   "quote": "Account can be opened in Post offices and in authorised banks."
+  },
+  {
+   "fact": "Minimum initial deposit Rs 250; further deposits in multiples of Rs 50; at least Rs 250 per financial year",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "The account may be opened with a minimum initial deposit of two hundred and fifty rupees and in multiples of fifty rupees thereafter and subsequent deposits shall be in multiples of fifty rupees subject to the condition that a minimum of two hundred and fifty rupees shall be made as deposit in a financial year"
+  },
+  {
+   "fact": "Maximum deposit Rs 1,50,000 per financial year",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "quote": "A minimum deposit of Rs.250 is mandatory every financial year from April 1 to March 31, but a maximum of Rs.1,50,000 can be deposited annually."
+  },
+  {
+   "fact": "A defaulted account can be regularised within 15 years from opening on paying a penalty of Rs 50 per year of default",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "an account under default may be regularised any time till completion of a period of fifteen years from the date of opening of account on payment of a penalty of fifty rupees for each year of default"
+  },
+  {
+   "fact": "The account matures 21 years from the date of opening",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+   "quote": "The account shall mature on completion of a period of twenty-one years from the date of its opening."
+  },
+  {
+   "fact": "Current interest rate 8.2% p.a., compounded yearly (India Post)",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Sukanya Samriddhi Account (SSA) Rate of Interest: 8.2% per annum calculated on yearly basis, Yearly compounded."
+  },
+  {
+   "fact": "Rates for October-December 2026 (Q3 2026-27) were set by DEA's OM dated 30.09.2026",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"
+  },
+  {
+   "fact": "DEA's OM of 30.09.2026 keeps small-savings rates for Q3 2026-27 unchanged from Q2, so Sukanya Samriddhi stays at 8.2%",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter",
+   "note": "DEA OM F.No.1/4/2019-NS dated 30.09.2026, read by OCR of the scanned PDF. 8.2% is derived: the OM gives no rates; the current 8.2% is from India Post (fact 12)."
+  },
+  {
+   "fact": "To open it, bring a date-of-birth document for the girl, an address document of the parent/guardian and a photo, and deposit at least Rs 250",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "quote": "To open the account, you need a document for the child's date of birth, a document for the address of the father, mother, or legal guardian, a photo, and an initial deposit of Rs.250 only."
+  },
+  {
+   "fact": "The account has a passbook",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "quote": "In case the passbook pages for public provident fund/Sukanya Samriddhi/post savings accounts are exhausted."
+  },
+  {
+   "fact": "Later deposits can be made at the post office or through India Post Payments Bank (IPPB)",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "quote": "Deposit can also be made through India Post Payments Bank (IPPB)"
+  },
+  {
+   "fact": "Deposits into SSA can also be made through India Post net banking (from a Post Office Savings Account)",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Operate your Post Office Savings Account online - open RD/TD accounts, deposit into RD, PPF and SSA, and view your transaction details."
+  }
+ ],
+ "summary": "All claims confirmed from the SSA Scheme 2019, India Post features booklet and Saving Schemes page, and NSI; the Q3 2026-27 OM (30.09.2026) keeping rates unchanged is confirmed from the OCR of DEA's R.pdf."
+}

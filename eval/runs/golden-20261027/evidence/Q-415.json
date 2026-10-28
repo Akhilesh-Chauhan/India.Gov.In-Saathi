@@ -1,0 +1,22 @@
+{
+ "id": "Q-415",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:11+05:30",
+   "sha256": "e71466ec55ebd1f6d6a72768a6180de8fa14ea079b6d61172b4829a5cb6c2155",
+   "copy": "afda46a0033731fc00c9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

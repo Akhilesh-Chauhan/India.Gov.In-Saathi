@@ -1,0 +1,18 @@
+{
+ "id": "Q-393",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM Vishwakarma registration needs Aadhaar, mobile number, bank details and ration card (all mandatory)", "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "quote": "Required documents or information: Aadhaar, Mobile number, Bank details, Ration card mandatory for the registration."},
+  {"fact": "A beneficiary without a ration card must produce the Aadhaar cards of all family members", "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "quote": "In case of a beneficiary not having a ration card, they would be required to produce Aadhaar cards of all family members."},
+  {"fact": "A beneficiary without a bank account must first open one, with hand-holding by the CSC", "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "quote": "If beneficiary does not have bank account, they will be first required to open a bank account for which hand holding shall be done by the CSC."}
+ ],
+ "behaviour": "Lists the documents exactly as in the myScheme PM Vishwakarma record (myscheme.gov.in/schemes/pmv), citing it; if a field is not published it says so rather than inventing documents.",
+ "fail_if": "It adds documents not in the record (e.g. income or caste certificate) as required, omits the ration card requirement, or cites a non-official site.",
+ "summary": "Added the documents from the myScheme PM Vishwakarma record (slug 'pmv'): Aadhaar, mobile, bank details, ration card; family Aadhaar if no ration card; bank account opened via CSC if none."
+}

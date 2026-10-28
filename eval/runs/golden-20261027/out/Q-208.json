@@ -1,0 +1,127 @@
+{
+ "id": "Q-208",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "File on RTI Online (rtionline.gov.in, DoPT), only for Central Ministries/Departments and other central public authorities listed on the portal",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "An applicant who desires to obtain information under the RTI Act, 2005 can make a request through this RTI Online Portal to the Central Ministries/Departments and other Central Public Authorities mentioned in ONLINE RTI request form."
+  },
+  {
+   "fact": "Applications for State Government bodies, including NCT of Delhi, are returned without refund of the fee",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "It may be noted that RTI applications filed through this portal for the state public authorities, including NCT of Delhi, would be returned, without any refund of fee"
+  },
+  {
+   "fact": "The application fee is Rs 10 (RTI Rules, 2012)",
+   "status": "confirmed",
+   "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "quote": "An application under sub-section (1) of Section 6 of the Act shall be accompanied by a fee of rupees ten"
+  },
+  {
+   "fact": "Pay online by internet banking, credit/debit card (Master/Visa), RuPay card or UPI",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "The applicant can pay the prescribed fee through the following modes: (a) Internet banking; (b) Using credit/debit card of Master/Visa; (c) Using UPI (d) Using RuPay Card."
+  },
+  {
+   "fact": "Below Poverty Line applicants pay no fee but must attach a copy of the BPL certificate issued by the appropriate government",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "No RTI fee is required to be paid by any citizen who is below poverty line as per RTI Rules, 2012. However, the applicant must attach a copy of the certificate issued by the appropriate government in this regard, alongwith the application."
+  },
+  {
+   "fact": "The request text box takes up to 3000 characters; longer text can be uploaded as a PDF in 'Supporting Document'",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "In case, the text of an application contains more than 3000 characters, it can be uploaded as a PDF attachment in the \"Supporting Document\" column of the form."
+  },
+  {
+   "fact": "The supporting-document PDF can be up to 1 MB",
+   "status": "manual",
+   "url": "https://rtionline.gov.in/viewPDF.php?file=um_citizen.pdf",
+   "note": "Stated in the RTI Online citizen user manual; the portal serves that PDF through viewPDF.php and the checker reads only raw PDF bytes (no text), and the direct um_citizen.pdf link returns no text either. Not on the HTML guidelines or FAQ. Retried 28 Oct 2026 (second reader): same result."
+  },
+  {
+   "fact": "Do not upload Aadhaar, PAN or any other personal ID (except the BPL card)",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "Do not upload Aadhar Card or PAN Card or any other personal Identification (Except BPL Card)."
+  },
+  {
+   "fact": "User registration is not mandatory: you can file directly through 'Submit Request'",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "Is it mandatory to create user account on RTI online web portal? No. You can directly file your RTI on \"Submit Request\" tab."
+  },
+  {
+   "fact": "Any additional fee for providing information is intimated by the CPIO and paid through 'View Status'",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "For payment of additional fee online, the applicant needs to use the option ‘View Status’ in the RTI Online Portal and on providing the registration number of the request, option for \"Make Payment\" will be available."
+  },
+  {
+   "fact": "No fee is payable for the first appeal",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "As per RTI Act, no fee has to be paid for first appeal."
+  },
+  {
+   "fact": "Step 1: on rtionline.gov.in click 'Submit Request' and fill in the details on the page that appears",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "On clicking at \"Submit Request\", the applicant has to fill the required details on the page that will appear."
+  },
+  {
+   "fact": "Step 2: read the guidelines and tick 'I have read and understood the above guidelines'",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "All the requirements for filing an RTI application and first appeal as well as other provisions regarding time limit, exemptions etc., as provided in the RTI Act, 2005 will continue to apply. I have read and understood the above guidelines."
+  },
+  {
+   "fact": "Step 3: fields marked * are mandatory",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "The fields marked * are mandatory while the others are optional."
+  },
+  {
+   "fact": "Step 3: in the Online RTI Request Form select the Ministry/Department/Apex body and answer 'Is the Applicant Below Poverty Line?' (Yes = upload the BPL certificate and submit without fee)",
+   "status": "manual",
+   "url": "https://rtionline.gov.in/viewPDF.php?file=um_citizen.pdf",
+   "note": "These form labels appear only on the request form, which opens after accepting the guidelines in a browser session (the checker is redirected to the home page, also with --render on 28 Oct 2026), and in the user manual PDF the checker cannot read."
+  },
+  {
+   "fact": "Step 5: click 'Make Payment' and pay the fee",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "quote": "After filling the first page, the applicant has to click on \"Make Payment\" to make payment of the prescribed fee."
+  },
+  {
+   "fact": "Step 6: on submission a unique registration number is issued for future reference; the application goes to the Nodal Officer of the Ministry/Department, who sends it to the CPIO",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "On submission of an application, a unique registration number will be issued, which may be referred by the applicant for any future reference. It may be noted that the application filed through this RTI Online Portal will reach electronically to the \"Nodal Officer\" of the said Ministry/Department"
+  },
+  {
+   "fact": "SMS alerts are sent if the applicant gives a mobile number (optional)",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "Though optional, the mobile number can be provided by the applicant/ appellant in order to receive SMS alerts."
+  },
+  {
+   "fact": "Step 7: track it through 'View Status', which sends an OTP to the e-mail id and mobile number",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/request/status.php",
+   "quote": "OTP will be sent to both email id and mobile number (If provided during submission of RTI Request)."
+  },
+  {
+   "fact": "If money is debited but no registration number comes, wait 24-48 working hours (reconciliation) and use 'Payment Reconciliation'; do not pay again",
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "Use \"Payment Reconciliation\" feature Please do not attempt to make payment repeatedly or try to submit request once again. Kindly wait for the 24 to 48 working hours as registration number will be generated after reconciliation."
+  }
+ ],
+ "summary": "All fee, payment, BPL, scope and step claims confirmed on rtionline.gov.in and the RTI Rules 2012 (Rs 10); the 1 MB PDF limit and form labels are manual (user manual PDF unreadable). Note: since 16 Jun 2025 the portal also verifies e-mail by OTP for every request."
+}

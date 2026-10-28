@@ -1,0 +1,52 @@
+{
+ "id": "Q-158",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "final": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:57+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "488a46408826f57bc0d2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "final": "https://pmkisan.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:11+05:30",
+   "sha256": "7afd837e60514a2d2e50132b02b2d697cd59b3f01b7b1776603b09d0ab3346d9",
+   "copy": "f8131e3c5fdc9e1b6716.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "final": "https://pmkisan.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:11+05:30",
+   "sha256": "7afd837e60514a2d2e50132b02b2d697cd59b3f01b7b1776603b09d0ab3346d9",
+   "copy": "f8131e3c5fdc9e1b6716.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,10 @@
+{
+ "id": "Q-087",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An ESIC insured person is treated at the ESI dispensary, ESI hospital or diagnostic centre (and recognised institutions) to which they are attached: outpatient, specialist and in-patient care", "status": "added", "url": "https://www.esic.gov.in/information-benefits", "quote": "IPs may avail treatment at the ESI Dispensary/Hospital/Diagnostic Centre and recognised institutions to which they are attached, including: Outpatient treatment Specialist consultation In-patient treatment (hospitalisation)"},
+  {"fact": "Treatment not available at the ESIC hospital, such as super-speciality care, is given cashless at empanelled (tie-up) hospitals on referral", "status": "added", "url": "https://okhlahospital.esic.gov.in/esichospital-external-referral-services", "quote": "A dedicated SST Branch is functioning to manage the referral for cashless super specialty treatment of our Insured persons (IPs) & their dependents/ patients in our empaneled to hospitals (PEH) for the services not currently available in this hospital."}
+ ],
+ "behaviour": "Answers in simple Hinglish: treatment at ESIC/ESIS hospitals and ESI dispensaries, and at tie-up (empanelled) hospitals on referral, citing ESIC (esic.gov.in); may point to ESIC's Tie-up Hospitals list (esic.gov.in/ssts) for the user's state.",
+ "summary": "Added from ESIC pages: treatment at the attached ESI dispensary/hospital/diagnostic centre, and cashless referral to tie-up (empanelled) hospitals for services not available."
+}

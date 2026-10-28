@@ -1,0 +1,33 @@
+{
+ "id": "Q-130",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PPF matures in 15 years; deposit minimum Rs 500 and maximum Rs 1,50,000 per financial year; interest is tax-free and deposits qualify for Sec. 80C",
+   "status": "added",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "quote": "8 Public Provident Fund Scheme 15 Years Minimum Rs. 500/- & Maximum Rs. 150000/- in a F.Y. Tax free interest. Income tax rebate under sec.80C of IT Act is available."
+  },
+  {
+   "fact": "NSC (VIII Issue) matures in 5 years; minimum Rs 1,000 with no maximum; deposits qualify for Sec. 80C",
+   "status": "added",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "quote": "6 National Saving certificate (VIII issue) 5Years Minimum Rs. 1000/- and no maximum limit. Tax rebate under sec-80C of IT Act is available."
+  },
+  {
+   "fact": "PPF currently earns 7.1% per annum, compounded yearly",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Public Provident Fund Account (PPF) Rate of Interest: 7.1% per annum (compounded yearly)"
+  },
+  {
+   "fact": "NSC currently earns 7.7%, compounded yearly and paid at maturity",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "National Savings Certificates (VIII Issue) (NSC) Rate of Interest: 7.7% payable at maturity (compounded yearly)"
+  }
+ ],
+ "behaviour": "Gives no advice on which is better for the user; only compares the published terms of PPF and NSC (tenure, deposit limits, tax treatment, current rate), citing NSI (nsiindia.gov.in) or India Post.",
+ "fail_if": "It recommends PPF or NSC for the user, or states terms or rates that differ from the official pages.",
+ "summary": "Added the published PPF vs NSC terms (NSI at-a-glance: tenure, limits, tax) and current rates (India Post: PPF 7.1%, NSC 7.7%)."
+}

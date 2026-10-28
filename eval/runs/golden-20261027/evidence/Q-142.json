@@ -1,0 +1,82 @@
+{
+ "id": "Q-142",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/scheme",
+   "final": "https://pmjdy.gov.in/scheme",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:18+05:30",
+   "sha256": "707a72ba4637c107b66c4b29162d33737c411e12cc129fd941753bd9318603c9",
+   "copy": "c21f9c75a55d9b1b5bff.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "final": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:17+05:30",
+   "sha256": "aeac74be87e07956cafe485eb05aa26d4b6300d7e4af956518632eeea8f3b1b8",
+   "copy": "f1e80cf5cd569e0785f7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "final": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:17+05:30",
+   "sha256": "aeac74be87e07956cafe485eb05aa26d4b6300d7e4af956518632eeea8f3b1b8",
+   "copy": "f1e80cf5cd569e0785f7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pradhan-mantri-jan-dhan-yojana-pmjdy",
+   "final": "https://financialservices.gov.in/pradhan-mantri-jan-dhan-yojana-pmjdy",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:36+05:30",
+   "sha256": "5afa40c38a579b80db84582e98ccbb77c250c35ccb8792a76a960f4ae132c74b",
+   "copy": "8c92b5f1838f651f1e45.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "final": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:17+05:30",
+   "sha256": "aeac74be87e07956cafe485eb05aa26d4b6300d7e4af956518632eeea8f3b1b8",
+   "copy": "f1e80cf5cd569e0785f7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

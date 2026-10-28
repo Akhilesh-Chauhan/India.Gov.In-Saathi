@@ -1,0 +1,23 @@
+{
+ "id": "Q-195",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under NFSA 2013, Priority Household (PHH) members are entitled to 5 kg of foodgrains per person per month",
+   "status": "confirmed", "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "quote": "The Act entitles 35 kg of foodgrains per AAY Household per month, whereas 5 Kg of foodgrain per PHH Person per month."},
+  {"fact": "Antyodaya Anna Yojana (AAY) households, the poorest of the poor, are entitled to 35 kg per household (family) per month, regardless of family size",
+   "status": "confirmed", "url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "quote": "While AAY households, which constitute poorest of the poor are entitled to 35 kg of foodgrains per family per month, priority households are entitled to 5 kg per person per month.",
+   "note": "'Regardless of family size' is derived: the AAY entitlement is fixed per family, unlike the per-person PHH entitlement."},
+  {"fact": "NFSA covers up to 75% of the rural and 50% of the urban population",
+   "status": "confirmed", "url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "quote": "NFSA covers upto 75% of the rural population and 50% of the urban population under under Antyodaya Anna Yojana (AAY) and priority households."},
+  {"fact": "States/UTs identify the beneficiaries",
+   "status": "confirmed", "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "quote": "Identification of beneficiaries/households under NFSA is done by respective State/UT Government, which is required to frame its own criteria."},
+  {"fact": "Since 1 January 2024 these foodgrains are free of cost under PMGKAY (for five years)",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "Free food grains (rice , wheat and coarse grains/millets) under PMGKAY for 5 years from 1.1.2024 will strengthen food security"}
+ ],
+ "summary": "All confirmed: PHH 5 kg/person/month, AAY 35 kg/family/month (nfsa.gov.in), 75%/50% coverage, States identify beneficiaries, free under PMGKAY from 1.1.2024 (PIB)."
+}

@@ -1,0 +1,22 @@
+{
+ "id": "Q-472",
+ "checked_at": "2026-10-28T14:03:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf",
+   "final": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:33+05:30",
+   "sha256": "0cafea15259f7d577fb7ac506e9bef3c421a4c0f4d2c8d2bf8dac57a2a418285",
+   "copy": "1b9b40d4f80c029a6ce1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

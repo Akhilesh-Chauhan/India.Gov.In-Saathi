@@ -1,0 +1,37 @@
+{
+ "id": "Q-192",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "final": "https://nfsa.gov.in/portal/apply_ration_card",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:25:35+05:30",
+   "sha256": "f604b4041cbdd966be2f71f2ec3c9b92718d73d807b82e914d8992937ae2b041",
+   "copy": "fba9d6e908bbf8c1e33f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "final": "https://nfsa.gov.in/portal/apply_ration_card",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:25:35+05:30",
+   "sha256": "f604b4041cbdd966be2f71f2ec3c9b92718d73d807b82e914d8992937ae2b041",
+   "copy": "fba9d6e908bbf8c1e33f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

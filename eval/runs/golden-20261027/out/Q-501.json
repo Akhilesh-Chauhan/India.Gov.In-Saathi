@@ -1,0 +1,15 @@
+{
+ "id": "Q-501",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A service voter's proxy appointment application must reach the Returning Officer before the last date for filing nomination papers",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Application for appointment of a proxy should be received by the Returning Officer before the last date of filing of nomination papers."},
+  {"fact": "A revocation of the proxy takes effect from the date the Returning Officer receives it",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Revocation will become effective from the date it is received by the Returning Officer."}
+ ],
+ "summary": "Confirmed in ECI's electoral roll FAQ (Q64-Q65)."
+}

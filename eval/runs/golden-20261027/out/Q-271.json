@@ -1,0 +1,21 @@
+{
+ "id": "Q-271",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Tricycles for persons with disabilities are given under DEPwD's ADIP scheme, which provides aids and assistive devices including tricycles/wheelchairs",
+   "status": "added", "url": "https://depwd.gov.in/en/adip-scheme/",
+   "quote": "The Scheme provides various aids and assistive devices, including Hearing Aids, Motorised Tricycles/Wheelchairs, Artificial Limbs/Prostheses/Orthoses, TLM Kits, Smartphones/Magnifiers and other devices as per the comprehensive list."},
+  {"fact": "Eligibility: a UDID card (or enrolment number) with at least 40% disability certificate, and Aadhaar (or enrolment ID)",
+   "status": "added", "url": "https://depwd.gov.in/en/adip-scheme/",
+   "quote": "The beneficiary should have a UDID Card/UDID Enrolment Number with at least 40% disability certificate and Aadhaar/Aadhaar Enrolment Number."},
+  {"fact": "The aid is free (100% subsidy) if monthly family income is up to Rs 22,500, and 50% subsidised for Rs 22,501 to Rs 30,000",
+   "status": "added", "url": "https://depwd.gov.in/en/adip-scheme/",
+   "quote": "100% subsidy: Monthly family income up to ₹22,500 50% subsidy: Monthly family income ₹22,501–₹30,000"},
+  {"fact": "To apply, approach the nearest Implementing Agency or Pradhan Mantri Divyasha-Vayoshri Kendra (PMD-VK), or request online on the ARJUN portal (adip.depwd.gov.in)",
+   "status": "added", "url": "https://depwd.gov.in/en/adip-scheme/",
+   "quote": "Eligible beneficiaries can approach the nearest Implementing Agency, Pradhan Mantri Divyasha-Vayoshri Kendra (PMD-VK) or submit an online request through the ARJUN Portal"}
+ ],
+ "behaviour": "Replies in Hindi; explains the ADIP scheme route for a free tricycle as given by DEPwD (depwd.gov.in), citing it.",
+ "fail_if": "Does not name the ADIP scheme, invents eligibility or income limits, or cites unofficial sites.",
+ "summary": "DEPwD ADIP page: tricycles under ADIP; UDID with 40%+ disability and Aadhaar; free up to Rs 22,500/month family income, 50% up to Rs 30,000; apply via implementing agency, PMD-VK or ARJUN portal."
+}

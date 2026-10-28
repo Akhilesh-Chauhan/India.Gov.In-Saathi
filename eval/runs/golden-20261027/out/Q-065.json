@@ -1,0 +1,130 @@
+{
+ "id": "Q-065",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Finance Act 2025 extended the s.139(8A) (1961 Act) time limit for an updated return from 24 to 48 months from the end of the relevant AY",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2025/262125.pdf",
+   "quote": "(a) for the words “twenty-four months”, the words “forty-eight months” shall be substituted;"
+  },
+  {
+   "fact": "An ITR-U cannot be filed beyond four years from the end of the relevant AY, so for AY 2022-23 (AY ended 31.03.2023) the last date is 31 March 2027",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/raise-e-filing-service-requests-um",
+   "quote": "In case of filing ITR-U the taxpayer cannot file return beyond four years from the end of relevant assessment year and also has to pay i.e. 25%/ 50%/ 60%/70% additional tax as per section 139(8A).",
+   "note": "Derived: the quote gives the four-year rule; 31 March 2027 for AY 2022-23 is counted from it (AY 2022-23 ended 31.03.2023)."
+  },
+  {
+   "fact": "After 1 April 2026 an updated return for AY 2025-26 or earlier years (so AY 2025-26, 2024-25, 2023-24 and 2022-23 in FY 2026-27) can still be filed, subject to the s.139(8A) time limits",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "However, a taxpayer may still file his updated return (ITR -U), subject to the time limits prescribed under Section 139(8A) of the old Act.",
+   "note": "Derived: the list of AYs open in FY 2026-27 follows from the four-year limit; the quote states only that ITR-U for AY 2025-26 or earlier can still be filed subject to s.139(8A)."
+  },
+  {
+   "fact": "The e-Filing portal has utilities for filing an updated return for AY 2022-23 (ITR-1 to 7)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/",
+   "quote": "Excel utilities for filing Updated return for ITR-1 to 7 for AY 2022-23 as per Finance Act, 2026 are available for filing"
+  },
+  {
+   "fact": "Additional tax (s.140B) is 25% of tax plus interest if filed within 12 months from the end of the relevant AY",
+   "status": "confirmed",
+   "url": "https://www.indiabudget.gov.in/budget2022-23/doc/Finance_Bill.pdf",
+   "quote": "shall be equal to twenty-five per cent. of aggregate of tax and interest payable, as determined above, if such return is furnished after expiry of the time available under sub-section (4) or sub-section (5) of section 139 and before completion of period of twelve months"
+  },
+  {
+   "fact": "Additional tax is 50% if filed after 12 months but within 24 months from the end of the relevant AY",
+   "status": "confirmed",
+   "url": "https://www.indiabudget.gov.in/budget2022-23/doc/Finance_Bill.pdf",
+   "quote": "before completion of the period of twenty-four months from the last date of the relevant assessment year, the additional income-tax payable shall be fifty per cent. of aggregate of tax and interest payable"
+  },
+  {
+   "fact": "Additional tax is 60% if filed after 24 months but within 36 months from the end of the relevant AY",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2025/262125.pdf",
+   "quote": "(iii) sixty per cent. of aggregate of tax and interest payable, as determined in sub-section (1) or sub-section (2), as the case may be, if such return is furnished after the expiry of twenty-four months from the end of the relevant assessment year"
+  },
+  {
+   "fact": "Additional tax is 70% if filed after 36 months but within 48 months from the end of the relevant AY, so an ITR-U for AY 2022-23 filed now (after 31.03.2026) attracts 70%",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2025/262125.pdf",
+   "quote": "(iv) seventy per cent. of aggregate of tax and interest payable, as determined in sub-section (1) or sub-section (2), as the case may be, if such return is furnished after the expiry of thirty-six months from the end of the relevant assessment year",
+   "note": "Derived: that AY 2022-23 filed after 31.03.2026 falls in the 36-48 month band is counted from the rule."
+  },
+  {
+   "fact": "Not allowed if it lowers the tax liability or results in or increases a refund",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news/10964",
+   "quote": "(b) has the effect of decreasing the total tax liability determined on the basis of return furnished under sub-section (1) or sub-section (4) or sub-section (5); or (c) results in refund or increases the refund due"
+  },
+  {
+   "fact": "Not allowed if it is a return of a loss, except that (Finance Act 2026) a person who filed a return of loss in time may file an updated return that reduces the loss",
+   "status": "changed",
+   "was": "ITR-U is not allowed if it results in a loss",
+   "url": "https://egazette.gov.in/WriteReadData/2026/271439.pdf",
+   "quote": "(iii) in the sixth proviso, after the words “return of income”, the words “or such updated return has the effect of reducing the loss” shall be inserted;"
+  },
+  {
+   "fact": "Not allowed after a search or requisition (s.132/132A) or a survey (s.133A) in the person's case",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news/10964",
+   "quote": "(a) a search has been initiated under section 132 or books of account or other documents or any assets are requisitioned under section 132A in the case of such person; or (b) a survey has been conducted under section 133A"
+  },
+  {
+   "fact": "Not allowed where assessment, reassessment, recomputation or revision is pending or completed for that AY, except (Finance Act 2026) an updated return filed in response to a s.148 notice within the period given in that notice",
+   "status": "changed",
+   "was": "Not allowed where assessment or reassessment is pending or completed (no exception)",
+   "url": "https://egazette.gov.in/WriteReadData/2026/271439.pdf",
+   "quote": "Provided also that an updated return may be furnished by a person for the relevant assessment year in pursuance of a notice under section 148 within such period as specified in the said notice"
+  },
+  {
+   "fact": "An updated return filed in response to a s.148 notice pays a further 10% of tax plus interest on top of the normal additional tax (s.140B(3A) of the 1961 Act, from 1 March 2026)",
+   "status": "changed",
+   "was": "No extra 10% applies to AY 2022-23 (the old answer treated the +10% as a new-Act s.280 rule only)",
+   "url": "https://egazette.gov.in/WriteReadData/2026/271439.pdf",
+   "quote": "with effect from the 1st day of March, 2026, namely:–– “(3A) Where an updated return is filed in pursuance of a notice issued under section 148 within the period specified in the said notice, the additional income-tax payable under sub-section (3) shall be increased by a further sum of ten per cent."
+  },
+  {
+   "fact": "Not allowed once prosecution proceedings (Chapter XXII) have been initiated for that AY",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news/10964",
+   "quote": "(e) any prosecution proceedings under the Chapter XXII have been initiated for the relevant assessment year in respect of such person, prior to the date of furnishing of return under this sub-section"
+  },
+  {
+   "fact": "Not allowed where a s.148A show-cause notice was issued after 36 months from the end of the relevant AY",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2025/262125.pdf",
+   "quote": "Provided also that no updated return shall be furnished by any person where any notice to show-cause under section 148A has been issued in his case after thirty-six months from the end of the relevant assessment year"
+  },
+  {
+   "fact": "That bar does not apply where an order under s.148A(3) holds it is not a fit case to issue a s.148 notice",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2025/262125.pdf",
+   "quote": "Provided also that the fourth proviso shall not apply where an order is passed under sub-section (3) of section 148A determining that it is not a fit case to issue notice under section 148"
+  },
+  {
+   "fact": "Only one updated return can be filed for an AY",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news/10964",
+   "quote": "No updated return can be furnished by any person for the relevant assessment year, where— (a) an updated return has been furnished by him under this sub-section for the relevant assessment year"
+  },
+  {
+   "fact": "The 1961 Act continues to govern earlier years such as AY 2022-23 after 1 April 2026",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "The old Act continues to govern all proceedings relating to tax years before 1st April, 2026."
+  },
+  {
+   "fact": "The Finance Act 2026 changes to s.139 of the 1961 Act (including the updated-return exceptions above) apply with effect from 1 March 2026",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/271439.pdf",
+   "quote": "5. In section 139 of the Income-tax Act, with effect from the 1st day of section 139. March, 2026",
+   "note": "Clause 5 of the Finance Act, 2026; the PDF prints the margin heading 'section 139.' inside the sentence."
+  }
+ ],
+ "behaviour": "Cite the official pages (incometax.gov.in; the Finance Acts on egazette.gov.in / indiabudget.gov.in). No personal eligibility verdict. If the bot only sees incometax.gov.in, it should say ITR-U for earlier AYs remains available subject to the s.139(8A) time limits (four years from the end of the AY), and link the ITD page. It must not invent percentages.",
+ "fail_if": "Says AY 2022-23 is time-barred (old 24-month rule); quotes only 25%/50%; applies the new-Act s.280-notice rates (35/60/70/80%) to AY 2022-23; says the extra 10% applies to a voluntary ITR-U (it applies only when filed in response to a s.148 notice); gives deadline 31 March 2025.",
+ "summary": "48 months, 25/50/60/70% and the exclusions confirmed (Finance Acts 2022/2025, ITD pages); Finance Act 2026 (from 1.3.2026) added an ITR-U route in response to a s.148 notice with a further 10% (s.140B(3A)) and allowed a loss-reducing updated return."
+}

@@ -1,0 +1,193 @@
+=== Q-034 | P0 | English | Scheme / fact detail (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the FASTag annual pass price now and how many toll crossings does it cover?
+EXPECTED ANSWER NOW:
+Answer: The FASTag Annual Pass costs Rs 3,075 with effect from 1 April 2026 (it was Rs 3,000 for the base year from launch on 15 Aug 2025 to 31 Mar 2026; price updated as per NH Fee Rules, 2008). It covers 200 crossings (transactions) or one year (365 days) from activation, whichever is earlier, after which the FASTag reverts to a regular FASTag and the pass must be re-activated. Valid only at National Highway and National Expressway fee plazas (not State-run highways/expressways); only for private non-commercial car/jeep/van; activated on the existing FASTag (properly affixed, linked to vehicle registration number, not blacklisted) only via the Rajmargyatra app or NHAI website; payment cannot be made from FASTag wallet; non-transferable. A point-based plaza crossing counts as one (to-and-fro = two); in closed tolling one entry-exit pair counts as one.
+Behaviour: Price and trip limit with as-on date (15 Oct 2026) and citation; mention that the price is revised annually under NH Fee Rules; purchase only via Rajmargyatra/NHAI.
+Fail if: quotes Rs 3,000 as the current price (stale - IHMCL FAQ PDF still says Rs 3,000 'for base year 2025-26'); says unlimited trips or 'one year' without the 200 cap; says it works on State highways; links to any non-official 'buy pass' site.
+VERIFICATION NOTES: Unverified: Rs 3,075 seen only in an image-only IHMCL PDF (OCR); text-searchable IHMCL pages still show Rs 3,000 base-year figure - the bot may not be able to read the current price.
+Correction vs old expected text: current price is Rs 3,075 (since 1 Apr 2026), not Rs 3,000. TRAP/SECURITY: ihmcl.co.in homepage has a 'Buy Monthly FASTag Pass' link pointing to http://sujeetkumar-001-site1.itempurl.com/ (non-government host) alongside the official rajmargyatra.nhai.gov.in link - bot must never surface it; report to IHMCL. RE-VERIFY ON DEMO DAY.
+SOURCES FOUND EARLIER:
+https://ihmcl.co.in/wp-content/uploads/2026/10/Fastag-Booklet-.pdf - FASTag Annual Pass report (Oct 2026): Pass price INR 3000 (15 Aug'25-31 Mar'26), INR 3,075 w.e.f. 1 Apr'26, update as per NH Fee Rule 2008; validity 200 transactions or 365 days (image-only PDF; text read by OCR) [crawled]
+https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf - Annual Pass FAQ: 200 crossings/1 year, NH/NE only, private car/jeep/van, Rajmargyatra/NHAI only, Rs 3,000 for base year 2025-26, crossing counting [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Annual pass price is Rs 3,075 from 1 April 2026 | Covers 200 crossings or one year, whichever is earlier
+
+=== Q-035 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: fastag ka kyc update kaise kare, tag band ho gaya
+EXPECTED ANSWER NOW:
+KYV/KYC through issuer bank as per IHMCL; cite.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Update KYC/KYV through the FASTag issuer bank (per IHMCL)
+
+=== Q-036 | P1 | English | Service procedure (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: My FASTag was charged twice at the same toll plaza. How do I get a refund?
+EXPECTED ANSWER NOW:
+Answer: Report the incorrect/excess deduction to your FASTag issuer bank's call centre within 40 days of the transaction date. The bank raises a chargeback on your behalf against the toll plaza; this normally takes up to 20-30 working days, and amounts proven to be incorrectly deducted are reversed after the case is represented with the toll plaza. You can check each deduction from the SMS sent to your registered mobile. If the issuer bank's customer care does not respond, escalate by email to etc.nodal@ihmcl.com (IHMCL grievance). The 1033 National Highways helpline handles toll-plaza-level FASTag issues (tag not read/accepted, wrongly stopped as blacklisted, etc.) and 'any other applicable issue for FASTag'.
+Steps: 1. Note the date/time/plaza from the SMS. 2. Call the issuer bank's FASTag customer care (numbers listed on ihmcl.co.in) within 40 days and register a complaint. 3. Wait for chargeback (up to 20-30 working days). 4. If unresolved, email etc.nodal@ihmcl.com; for plaza-level issues dial 1033.
+Behaviour: Cite IHMCL FAQ; cannot see the user's transactions; does not ask for tag/bank account details.
+Fail if: says the toll plaza refunds cash on the spot; omits the 40-day window or issuer bank route; gives only 1033 as the refund channel; invents a refund timeline.
+VERIFICATION NOTES: Old expected text ('issuer bank / NHAI helpline 1033') is incomplete: primary route is issuer bank within 40 days; 1033 is for plaza-level issues.
+SOURCES FOUND EARLIER:
+https://ihmcl.co.in/faq/ - Incorrect deduction: call centre within 40 days, bank chargeback 20-30 working days; SMS alerts; 1033 helpline scope; escalation etc.nodal@ihmcl.com [crawled]
+https://ihmcl.co.in/grievance/ - Grievance email etc.nodal@ihmcl.com [crawled]
+https://ihmcl.co.in/fastag-user/ - Issuer bank helpline numbers [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Report to the issuer bank's FASTag call centre within 40 days | Bank raises a chargeback against the toll plaza | Chargeback normally takes up to 20-30 working days | If the bank does not respond, escalate to etc.nodal@ihmcl.com
+
+=== Q-037 | P2 | English | Current rule or circular (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What does the 'One Vehicle One FASTag' rule mean for a car that has two tags?
+EXPECTED ANSWER NOW:
+As stated by IHMCL/NHAI with date; cite.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): One active FASTag per vehicle; older tags deactivated (as stated by IHMCL/NHAI) | Gives the date of the rule
+
+=== Q-038 | P2 | Hindi (Devanagari) | Service use (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: फास्टैग कहां से खरीदें? असली वाला कैसे पहचानें?
+EXPECTED ANSWER NOW:
+Authorised banks/channels listed by IHMCL; no third-party sellers.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Buy from authorised banks/channels listed by IHMCL
+
+=== Q-039 | P0 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: monthly fastag pass kahan se kharide, link do
+EXPECTED ANSWER NOW:
+Gives only official channels and links that open (ihmcl.co.in / NHAI / issuer bank). Trap: the ihmcl.co.in homepage button 'Buy Monthly FASTag Pass' points to http://sujeetkumar-001-site1.itempurl.com - a non-government free-hosting host that does not resolve (checked 15-Oct-2026). Fail if that link or any other non-government host is shown.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Official channels only: IHMCL / NHAI / acquirer bank or toll plaza
+
+=== Q-410 | P1 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: ihmcl.co.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: toll plaza pe ek aadmi annual pass 4000 me de raha hai, sahi hai?
+EXPECTED ANSWER NOW:
+No: the official FASTag Annual Pass is Rs 3,075 (w.e.f. 1 Apr 2026; Rs 3,000 before) and is activated only through the Rajmargyatra app or the NHAI website - do not pay a middleman (G16). A conflict note is fine because IHMCL's text FAQ still says Rs 3,000 (G05).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): No: Rs 4,000 from a middleman is not the official price | official FASTag Annual Pass is Rs 3,075 (w.e.f. 1 Apr 2026) | activated only via the Rajmargyatra app or NHAI website
+
+=== Q-186 | P2 | English | Scheme / fact detail (6.2) | expected site: imdagrimet.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is this week's agromet advisory for wheat sowing in Punjab?
+EXPECTED ANSWER NOW:
+Latest district/State advisory with date from imdagrimet.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest Punjab agromet advisory for wheat sowing, with date, from imdagrimet.gov.in
+
+=== Q-047 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Has CBDT extended the ITR due date for audit cases for AY 2026-27? Please cite the circular.
+EXPECTED ANSWER NOW:
+Yes. CBDT Circular No. 07/2026 dated 28 Sep 2026 extended the AY 2026-27 return due date for persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) (cases requiring audit) from 31 Oct 2026 to 21 Nov 2026. Fail if 31 Oct 2026 is given as the current deadline.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): AY 2026-27 ITR due date extended from 31 Oct 2026 to 21 Nov 2026 | CBDT Circular No. 07/2026 dated 28 Sep 2026 | Applies to Sl. No. 2 (audit) cases under Explanation 2 to s.139(1)
+
+=== Q-048 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Tax audit report due date for AY 2026-27 after extension?
+EXPECTED ANSWER NOW:
+Extended from 30 Sep 2026 to 21 Oct 2026 by the same CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Tax audit report due date extended from 30 Sep 2026 to 21 Oct 2026 | By CBDT Circular No. 07/2026 dated 28 Sep 2026
+
+=== Q-049 | P0 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: audit wale case me ITR ki last date 31 October hai na?
+EXPECTED ANSWER NOW:
+Corrects the user: 31 Oct 2026 was extended to 21 Nov 2026 by CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Audit-case ITR due date extended from 31 Oct 2026 to 21 Nov 2026 | By CBDT Circular No. 07/2026 dated 28 Sep 2026
+
+=== Q-050 | P1 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: I'm salaried and missed the due date for AY 2026-27. Can I still file, till when, and what's the late fee?
+EXPECTED ANSWER NOW:
+Answer: Yes. AY 2026-27 (income of FY 2025-26) is governed by the Income-tax Act, 1961, not the 2025 Act. A belated return u/s 139(4) of the 1961 Act can be filed on or before 31 December 2026 or before completion of assessment, whichever is earlier. Late fee u/s 234F (1961 Act): Rs 1,000 if total income does not exceed Rs 5,00,000; Rs 5,000 in all other cases. Original due date for a non-audit salaried individual was 31 July 2026 (ITD FAQ). The CBDT extension to 21 Nov 2026 (Circular 07/2026 dt 28.09.2026) applies only to audit cases (sl. no. 2 of Explanation 2 to s.139(1)). It does not help salaried persons. A belated return does not let a non-business (salaried) taxpayer opt out of the default new regime. That option must be exercised in an ITR filed on or before the s.139(1) due date (ITD salaried page). After 31 Dec 2026 a belated return is not possible; only an updated return (ITR-U) remains. Return must be verified within 30 days of uploading.
+Steps: 1. Log in to the e-Filing portal (eportal.incometax.gov.in). 2. e-File > Income Tax Returns > File Income Tax Return, select AY 2026-27 and filing section 139(4) (belated). 3. Pay the s.234F fee and any tax/interest through e-Pay Tax (select Income Tax Act, 1961 for AY 2026-27). 4. Submit and e-verify within 30 days.
+Behaviour: Cite the ITD ITR FAQ for each figure. Name the 1961 Act/section. Does not compute the user's own tax or fee.
+Fail if: says the deadline is 31 Mar 2027 or quotes old dates; applies the 21 Nov 2026 audit-case extension to salaried persons; quotes the pre-2021 Rs 10,000 fee; cites s.428 of the 2025 Act as the fee for AY 2026-27 (that applies from Tax Year 2026-27); says regime can be switched to old in a belated return.
+VERIFICATION NOTES: Unverified: Exact portal menu labels for belated filing not re-checked (portal is login-only). Interest u/s 234A not checked.
+Trap: FAQ 16 text '31st July, 2026 or 31st August for non-audit cases' is ambiguous; ITR-4 FAQ gives 31 Aug 2026 for ITR-4 (presumptive). Salaried ITR-1/2 = 31 July 2026. Circular 07/2026 also extends audit report date to 21.10.2026 (the search snippet showed only this, which misleads).
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq - FAQ 7: belated return AY 2026-27 by 31 Dec 2026, s.234F fee Rs 1,000/5,000; FAQ 16: due date 31 July 2026; FAQ 25: s.428 of 2025 Act applies from TY 2026-27 only [crawled]
+https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf - Circular 07/2026 dt 28.09.2026: only audit-case due date extended 31.10.2026 -> 21.11.2026 [crawled]
+https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1 - Non-business option to change default regime only in ITR filed by s.139(1) due date [crawled]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns - 30-day verification [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Yes, a belated return can still be filed | Deadline 31 Dec 2026 or before assessment completes, whichever is earlier | Late fee u/s 234F is Rs 1,000 if total income is up to Rs 5 lakh | Late fee is Rs 5,000 in all other cases
+
+=== Q-051 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Which law governs income earned in FY 2026-27 - the Income-tax Act 1961 or the Income-tax Act 2025 - and what is a 'tax year'?
+EXPECTED ANSWER NOW:
+Answer: Income earned in FY 2026-27 is governed by the Income-tax Act, 2025, which came into force on 01.04.2026. The 1961 Act stands repealed from that date. Its provisions continue under the savings clause, s.536, for tax years beginning before 1 April 2026 (e.g., AY 2026-27 returns, pending assessments). A 'tax year' is the twelve-month financial year starting 1 April. It is shorter for a business or income source started during the year: it runs from that start date to 31 March. 'Tax year' replaces 'previous year'. The 2025 Act has no 'assessment year'. Tax Year 2026-27 = FY 2026-27. Per ITD FAQ 'Are AY 2026-27 and Tax Year 2026-27 the same?': No, these are two separate obligations. AY 2026-27 covers income of FY 2025-26, filed under the 1961 Act on old ITR forms; its due date was 31 July 2026 (31 Aug for certain non-audit cases). Tax Year 2026-27 covers income of FY 2026-27 under the 2025 Act; that return is not due until July 2027. Advance tax for TY 2026-27 (from June 2026) is under the 2025 Act. Both returns must be filed; filing one does not cover the other.
+Behaviour: Answer with citation to the ITD FAQ pages and their date (pages show 'Last reviewed and updated on 15-Oct-2026'). Keep AY and Tax Year distinct.
+Fail if: says the 1961 Act governs FY 2026-27 income; says AY and Tax Year 2026-27 are the same; says two returns are due in 2026 for the same income; invents a return due date for TY 2026-27 other than 'July 2027' as stated.
+VERIFICATION NOTES: The FAQ exists on the ITR FAQs page (Q16), not on the General Questions page.
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq - FAQ 16 'Are AY 2026-27 and Tax Year 2026-27 the same?'; FAQ 3, 4, 19 [crawled]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act - 1961 Act repealed 01.04.2026; tax year definition (FAQ 9, 10); s.536 transition; parallel running (FAQ 21) [crawled]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/General%20Questions-faqs - FAQ 5-6: no AY under 2025 Act; Tax Year 2026-27 = FY 2026-27; payments for TY 2026-27 under 2025 Act [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): FY 2026-27 income is governed by the Income-tax Act, 2025 (in force 1.4.2026) | 1961 Act continues for earlier years (e.g. AY 2026-27) via the savings clause | Tax year = 12-month financial year from 1 April (shorter for a new business) | 'Tax year' replaces 'previous year'; the 2025 Act has no 'assessment year' | Tax Year 2026-27 = FY 2026-27 | AY 2026-27 and Tax Year 2026-27 are different obligations
+
+=== Q-052 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: इनकम टैक्स रिटर्न क्या होता है? क्या मेरे पापा को भरना पड़ेगा, वो किसान हैं
+EXPECTED ANSWER NOW:
+Simple explanation from ITD; agricultural income treatment as per source; no personal determination.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Simple explanation of what an ITR is (from ITD) | Treatment of agricultural income as per ITD
+
+=== Q-053 | P1 | English | Personal record (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My income tax refund for last year hasn't come. Can you check it?
+EXPECTED ANSWER NOW:
+Cannot access personal records; link e-filing refund status; ITD helpline.
+
+=== Q-054 | P0 | English | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What are the income tax slabs under the new regime for this year? Is income up to 12 lakh really tax-free?
+EXPECTED ANSWER NOW:
+Answer: 'This year' = Tax Year 2026-27 (FY 2026-27), under s.202 of the Income-tax Act, 2025. The Finance Bill 2026 made no change: the slabs are the same as AY 2026-27 under s.115BAC(1A) of the 1961 Act. Slabs: up to Rs 4,00,000 Nil; 4,00,001-8,00,000 5%; 8,00,001-12,00,000 10%; 12,00,001-16,00,000 15%; 16,00,001-20,00,000 20%; 20,00,001-24,00,000 25%; above 24,00,000 30%. Health & Education cess 4% applies on tax plus surcharge. Surcharge: 10%/15%/25% above Rs 50 lakh/1 crore/2 crore (max 25% in new regime). 'Up to 12 lakh tax-free' is true with qualifiers. A resident individual whose total income does not exceed Rs 12,00,000 gets a rebate of up to Rs 60,000, so tax is nil. It applies only in the new (default) regime. It does not cover special-rate income such as capital gains or lottery winnings. A salaried person also gets the Rs 75,000 standard deduction, so salary up to Rs 12,75,000 bears no tax. Marginal relief applies to income just above Rs 12 lakh, up to Rs 12,70,588. Example: income Rs 12,10,000 pays Rs 10,000 instead of Rs 61,500. A return must still be filed to claim the rebate.
+Behaviour: Give the year label (TY 2026-27 / AY 2026-27) and the Act section with each figure. No personal tax computation or verdict.
+Fail if: gives old pre-2025 slabs (3/7/10/12/15 lakh) or the Rs 7 lakh / Rs 25,000 rebate; says 12 lakh is tax-free for everyone, including on capital gains, non-residents or old regime; omits the year label.
+VERIFICATION NOTES: Unverified: Section number of the rebate provision in the 2025 Act not confirmed.
+The crawled ITD page is labelled AY 2026-27 (FY 2025-26); TY 2026-27 figures come from incometaxindia.gov.in (not crawled). Figures are identical. The bot may cite the crawled page but should say the rates are unchanged for TY 2026-27 only if it can source that.
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1 - New regime slabs for AY 2026-27 u/s 115BAC; rebate Rs 60,000 up to Rs 12 lakh; surcharge; cess 4% [crawled]
+https://www.incometaxindia.gov.in/documents/20117/15766092/FAQs-Budget-2026%2BUpdated.pdf/daf54d14-aca9-c4ea-b786-598fd2f8d4c4 - Budget 2026 FAQs: identical slabs u/s 202 for TY 2026-27; resident-only rebate; 12,75,000 for salaried; marginal relief to 12,70,588; no rebate on special-rate income [not-available]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act - FAQ 22: new regime under s.202 of 2025 Act, default regime [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): New-regime slabs: up to 4L nil, then 5/10/15/20/25%, above 24L 30% | Rebate up to Rs 60,000 makes tax nil for residents with income up to Rs 12 lakh | Rebate does not cover special-rate income (e.g. capital gains) | Salaried get Rs 75,000 standard deduction, so salary up to Rs 12.75 lakh is tax-free
+
+=== Q-055 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: itr bharna jaruri hai kya agar meri dukaan ki kamai 4 lakh saal ki hai
+EXPECTED ANSWER NOW:
+Basic exemption / filing conditions from ITD with citation; no determination for the user.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Basic exemption limit / filing conditions as per ITD
+
+=== Q-056 | P1 | English | Service procedure (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: My PAN has become inoperative. How do I make it operative again and what's the fee?
+EXPECTED ANSWER NOW:
+Answer: Link Aadhaar with the PAN on the e-Filing portal after paying the fee of Rs 1,000. Pay it on e-Pay Tax under Major head 0021, Minor head 500 'Other Receipts', sub-type 'Fee for delay in Linking PAN with Aadhaar'. Legal basis: s.139AA of the 1961 Act / s.262 of the 2025 Act. The PAN becomes operative again within 30 days of intimating Aadhaar after paying the fee (CBDT press release of 28.03.2023). While inoperative there is no refund and no interest on refund, and TDS/TCS applies at higher rates. Exempt from linking: residents of Assam, J&K and Meghalaya; non-residents; persons aged 80+; non-citizens. Note: if you have already paid, wait 4-5 working days before submitting the link request. If the names/DOB in PAN and Aadhaar do not match, correct them with Protean/UTIITSL or UIDAI, or use biometric authentication at PAN service-provider centres.
+Steps: 1. On the e-Filing portal home page, click Quick Links > 'Link Aadhaar' (or after login: Profile > Link Aadhaar). 2. Enter PAN and Aadhaar and click Validate, then click 'Continue to Pay Through e-Pay Tax'. 3. Select 'Income Tax Act, 2025', enter PAN and mobile number, then verify the OTP. 4. On the 'Income Tax' tile click Proceed. Select Tax Year, Type of Payment 'Other Receipts (500)', Sub type 'Fee for delay in Linking Pan with Aadhaar'. The amount pre-fills; pay. 5. After 4-5 working days, Link Aadhaar again, then Validate > Continue > enter details > 'Link Aadhaar' > enter the 6-digit OTP. 6. Check via 'Link Aadhaar Status'.
+Behaviour: Steps and fee only from ITD pages with citation. Do not ask for or accept the user's PAN/Aadhaar numbers. Cannot see the user's PAN status.
+Fail if: says the fee is Rs 500 or that linking is free; gives the 30 June 2023 deadline as still open; directs to unofficial agents; omits the fee-then-link order.
+VERIFICATION NOTES: Unverified: The 30-day figure was seen only in the search excerpt of the 2023 press release (PDF not opened). The fee section under the 2025 Act is not confirmed.
+The Link Aadhaar FAQ still has the stale 'till 30 June 2023' wording (Q4).
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um - Fee payment and link steps; s.139AA/s.262; select Income Tax Act 2025; 4-5 working day wait [crawled]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20Link%20Aadhaar-faq - Rs 1,000 fee; consequences; exempt categories; Notification 26/2025 (Aadhaar Enrolment ID PANs, 31.12.2025) [crawled]
+https://www.incometax.gov.in/iec/foportal/sites/default/files/2023-03/Refer%20Press%20Release.pdf - PAN operative again in 30 days after Aadhaar intimation with Rs 1,000 fee (search excerpt) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Pay the fee first, then link Aadhaar via e-Filing 'Link Aadhaar' | Fee is Rs 1,000 | Pay on e-Pay Tax under Other Receipts (500) | PAN becomes operative within 30 days of intimating Aadhaar | Wait 4-5 working days after paying before submitting the link request
+
+=== Q-057 | P2 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Within how many days must I e-verify my return after filing?
+EXPECTED ANSWER NOW:
+Answer: Within 30 days of uploading the return (Notification No. 2/2024 dated 31.03.2024; ITD FAQ). If verified within 30 days, the upload date counts as the filing date. If verified after 30 days, the date of e-verification / receipt of ITR-V at CPC is treated as the filing date, and all late-filing consequences follow (e.g., late fee). A return never verified is invalid, although a condonation request can be made for genuine delay. Example: uploaded 5 July 2025 and verified 10 August 2025, so the filing date is 10 August 2025. Under the 2025 Act (s.265) there is no substantive change in the manner of verification.
+Behaviour: Cite the ITD FAQ. No personal determination.
+Fail if: says 120 days (the pre-August 2022 rule); says late verification has no consequence.
+VERIFICATION NOTES: Other ITD pages cite 'w.e.f. 01/08/2022'; the FAQ cites Notification 2/2024. Both give 30 days.
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns - 30-day limit, consequences, example [crawled]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq - FAQ 23: no substantive change under s.265 of 2025 Act [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): E-verify within 30 days of uploading | Verified within 30 days: the upload date is the filing date | Verified after 30 days: verification date is the filing date, with late consequences | A return never verified is invalid (condonation possible)
+
+=== Q-058 | P2 | English | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What's the difference between Form 26AS and AIS, and where do I download each?
+EXPECTED ANSWER NOW:
+Explanation and download path from ITD with citations.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 26AS shows TDS/TCS; AIS shows wider information and allows feedback | Form 26AS path: e-Filing > e-File > View Form 26AS (TRACES) | AIS path: e-Filing > AIS menu > Proceed to the AIS portal

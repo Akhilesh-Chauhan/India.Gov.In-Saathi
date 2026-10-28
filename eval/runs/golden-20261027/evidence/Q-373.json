@@ -1,0 +1,37 @@
+{
+ "id": "Q-373",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "final": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:09:51+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "97d9f588fabef4402526.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "final": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:09:51+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "97d9f588fabef4402526.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,21 @@
+{
+ "id": "Q-156",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "OTP-based e-KYC is done on the PM-KISAN portal or mobile app and needs an active mobile number linked to Aadhaar",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "quote": "To execute, OTP based eKYC, the farmer is required to have Aadhaar linked active mobile number."},
+  {"fact": "Biometric e-KYC is available at Common Service Centres (CSCs) and State Seva Kendras (SSKs)",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "quote": "(ii) Biometric based e-KYC (available at Common Service Centres (CSCs) and State Seva Kendra (SSKs))"},
+  {"fact": "Face-authentication e-KYC is available on the PM-KISAN mobile app",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf",
+   "quote": "(iii) Face authentication-based e-KYC (available on PM KISAN Mobile app which is used by millions of farmers)"}
+ ],
+ "behaviour": "Explains the PM-KISAN e-KYC options as published on pmkisan.gov.in, cited: OTP e-KYC (needs an Aadhaar-linked mobile number), biometric e-KYC at a CSC / State Seva Kendra, and face-authentication e-KYC on the PM-KISAN mobile app; since the OTP does not arrive, points to the biometric or face-authentication route.",
+ "fail_if": "It gives only the OTP route, invents other e-KYC methods, or cites no official page.",
+ "summary": "Added the three e-KYC modes from pmkisan.gov.in's e-KYC note (OTP needs Aadhaar-linked mobile; biometric at CSC/SSK; face authentication on the app)."
+}

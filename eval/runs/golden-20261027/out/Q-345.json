@@ -1,0 +1,27 @@
+{
+ "id": "Q-345",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "At present 81 pairs of Vande Bharat chair car train services are operated on the Indian Railways network",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288381",
+   "quote": "At present, 81 pairs Vande Bharat train services (Chair Car) are being operated on the Indian Railways network",
+   "note": "PIB release posted 23 JUL 2026 from the Railway Minister's Lok Sabha reply given 'on Wednesday' (22 July 2026); 81 pairs = 162 services (fact 2 headline)."
+  },
+  {
+   "fact": "In addition there are 2 Vande Bharat Sleeper train services (one pair)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288381",
+   "quote": "162 Vande Bharat (Chair Car) & 2 Vande Bharat (Sleeper) Train Services Driving a New Era of Fast, Comfortable and Modern Rail Travel"
+  },
+  {
+   "fact": "The first Vande Bharat Sleeper service, 27575/27576 Howrah-Kamakhya, has run regularly since 22.01.2026",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288381",
+   "quote": "The first Vande Bharat Sleeper service viz. 27575/27576 Howrah - Kamakhya Vande Bharat Sleeper Express has commenced regular operation w.e.f. 22.01.2026."
+  }
+ ],
+ "behaviour": "Gives the number of Vande Bharat train services with its as-on date, citing Railways/PIB (latest official count found: 162 chair car + 2 sleeper services, PIB 23.07.2026); a newer official figure with its date is also acceptable.",
+ "summary": "Latest official count found: 162 Vande Bharat chair car services (81 pairs) and 2 sleeper services, PIB 23.07.2026; no newer figure on pib.gov.in as of 28 Oct 2026."
+}

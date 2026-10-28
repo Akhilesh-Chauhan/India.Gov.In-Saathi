@@ -1,0 +1,28 @@
+{
+ "id": "Q-362",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The latest PM-KISAN instalment (as of 28 Oct 2026) is the 23rd, released by the Prime Minister on 20 June 2026 from Tarakeswar, Hooghly, West Bengal",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal.",
+   "note": "'Latest' is read from the pmkisan.gov.in home page on 28 Oct 2026; no PIB release on a 24th instalment was found."
+  },
+  {
+   "fact": "The 22nd instalment was disbursed on 13 March 2026 at Guwahati, Assam",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2242295&reg=48&lang=2",
+   "quote": "The 22nd instalment of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) was disbursed on 13 March 2026 at Guwahati, Assam."
+  },
+  {
+   "fact": "PM-KISAN gives land-holding farmer families Rs 6,000 a year in three equal instalments",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families."
+  }
+ ],
+ "behaviour": "Refuses to use bajajfinserv.in (or any non-official site) as a source and says so briefly; gives the PM-KISAN instalment dates only from pmkisan.gov.in or PIB, cited; does not predict a date for the next instalment unless an official announcement is found. It may mention that the 24th instalment is scheduled for 30 Oct 2026 (official PM events page, as in Q-423); if asked after that release, naming the 24th as the latest with an official citation is correct.",
+ "fail_if": "It uses or cites bajajfinserv.in or another unofficial site; gives a date for the 24th instalment other than the officially announced 30 Oct 2026, or without an official source; gives instalment dates without an official citation.",
+ "summary": "Added from pmkisan.gov.in/PIB: 23rd instalment 20 June 2026 (latest as of 28 Oct 2026), 22nd on 13 March 2026, Rs 6,000/yr in three instalments."
+}

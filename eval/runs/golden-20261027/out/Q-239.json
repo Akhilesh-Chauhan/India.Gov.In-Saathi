@@ -1,0 +1,15 @@
+{
+ "id": "Q-239",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "112 is the integrated emergency helpline (ERSS: police, fire and rescue, health services)",
+   "status": "confirmed",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "quote": "112 Loading... Integrated Helpline (Emergency Response Support System (ERSS) Police, Fire & Rescue, Health services etc)"},
+  {"fact": "108 is the ambulance emergency response number for critical care, trauma and accident patients",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1217&lid=189",
+   "quote": "Dial 108 is predominantly an emergency response system, primarily designed to attend to patients of critical care, trauma and accident victims etc."}
+ ],
+ "summary": "Emergency numbers named in the expected answer confirmed: 112 (ERSS, india.gov.in helpline directory) and 108 ambulance emergency response (NHM)."
+}

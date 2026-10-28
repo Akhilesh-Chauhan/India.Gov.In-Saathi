@@ -1,0 +1,134 @@
+{
+ "id": "Q-236",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "ASHAs are community health volunteers under NHM, paid through task/activity-based incentives, not a fixed central salary",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1606212&reg=48&lang=2",
+   "quote": "Under the National Health Mission, ASHA are envisaged to be community health volunteers. Under the National Health Mission, ASHA are entitled to task/activity based incentives."
+  },
+  {
+   "fact": "The NHM ASHA page says ASHAs receive performance-based incentives",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=150&lid=226",
+   "quote": "The ASHAs will receive performance-based incentives for promoting universal immunization, referral and escort services for Reproductive & Child Health (RCH) and other healthcare programmes"
+  },
+  {
+   "fact": "Routine and recurrent activities pay Rs 2,000 a month in total (Lok Sabha answer of 7 Feb 2025); the NHM 2025-26 Annexure I items also add up to Rs 2,000 (200+150+150+5x300)",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU902_hA8S4p.pdf?source=pqals",
+   "quote": "ASHAs receive a fixed monthly incentive of Rs. 2000 per month in the country, for routine and recurring activities.",
+   "note": "The Rs 2,000 total for the 2025-26 list is derived by adding the Annexure I line items (the PDF gives no total line); the Jul-2026 Lok Sabha answer no longer states a figure."
+  },
+  {
+   "fact": "Routine: Rs 200 per session for mobilising and attending Village/Urban Health and Nutrition Day (NHM list 2025-26)",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Mobilizing and attending Village Health and Rs.200/session Nutrition Days"
+  },
+  {
+   "fact": "Routine: Rs 150 for the monthly VHSNC/MAS meeting",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Conveying and guiding monthly meetings of Rs. 150 VHSNC /MAS"
+  },
+  {
+   "fact": "Routine: Rs 150 for attending the monthly Block PHC/UPHC meeting",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Attending monthly meetings at Block PHC/UPHC Rs. 150"
+  },
+  {
+   "fact": "Routine: Rs 300 for the household line-listing and Rs 300 for the village health register",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "a.Line listing of households done at beginning of Rs. 300 the year and updated every six months b.Main Rs. 300 taining village health register"
+  },
+  {
+   "fact": "Routine: Rs 300 each for the immunisation due list, the ANC beneficiary list and the eligible-couple list",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "c. Preparation of due list of children to be Rs. 300 immunized on monthly basis d. Preparation of list of ANC beneficiaries to be Rs. 300 updated on monthly basis e. Preparation of list of eligible couple on monthly Rs. 300"
+  },
+  {
+   "fact": "JSY: Rs 300 (rural) / Rs 200 (urban) for ensuring antenatal care, and again Rs 300 / Rs 200 for facilitating institutional delivery",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "a. For ensuring antenatal care for the woman 1 b. For facilitating institutional delivery Rs.300 for Rural areas and Rs. 200 for Urban areas Rs. 300 for Rural areas and Rs. 200 for Urban areas"
+  },
+  {
+   "fact": "Home-based newborn care (home visits for the newborn and post-partum mother): Rs 250",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Home Visit for the newborn and post-Partum mother (2) Rs. 250"
+  },
+  {
+   "fact": "Mobilising children for routine immunisation: Rs 150 per session",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Mobilisation of children for Routine Immunization Rs 150/session"
+  },
+  {
+   "fact": "CPHC new service packages: Rs 1,000 per ASHA per month, linked with activities",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Delivery of new service packages under CPHC Rs. 1000/ASHA/PM (linked component with activities)"
+  },
+  {
+   "fact": "At Ayushman Arogya Mandirs ASHAs can also get Team Based Incentives of up to Rs 1,000 a month (Lok Sabha answer of 24 Jul 2026)",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "After the launch of Ayushman Arogya Mandir, ASHAs are eligible additionally for Team Based Incentives (TBIs) based on monitored performance indicators (up to 1000 per month)."
+  },
+  {
+   "fact": "Certification: Rs 5,000 cash award for each certificate from NIOS",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Incentive award in cash for ASHAs and ASHA Rs. 5000 for all ASHAs Facilitators who have certified in two independent and ASHA Facilitators who certificates: successfully receive 1RMNCHA+N certification by NIOS"
+  },
+  {
+   "fact": "Certification: Rs 10,000 in total for both certificates",
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/New-Update-2025-26/ASHA-incentive/ASHA%20Incentives.pdf",
+   "quote": "Total incentive: Rs 5000*2 (two independent certificates)= Rs 10,000"
+  },
+  {
+   "fact": "ASHAs leaving after at least 10 years get a Rs 20,000 cash award and a citation",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "The Government has also approved a cash award of ₹20,000/- and a citation to ASHAs who leave the programme after working as ASHAs for minimum of 10 years"
+  },
+  {
+   "fact": "Social security: PMJJBY and PMSBY cover of Rs 2 lakh each, with the annual premium paid by GoI",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "Pradhan Mantri Jeevan Jyoti Beema Yojana (PMJJBY) with a benefit Rs. 2.00 Lakh in case of death of the insured (annual premium contributed by GOI). Pradhan Mantri Suraksha Beema Yojana (PMSBY) with a benefit of Rs.2.00 lakh for accidental death or permanent disability"
+  },
+  {
+   "fact": "Social security: PM-SYM pension is available to ASHAs",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "Pradhan Mantri Shram Yogi Maan Dhan (PM-SYM) with pension benefit of ₹3,000/- pm after age of 60 years"
+  },
+  {
+   "fact": "Social security: AB-PMJAY health cover of Rs 5 lakh a year has been extended to all ASHAs",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "a health care annual coverage of ₹5 Lakhs under Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB- PMJAY) has been extended to all ASHAs workers and their families."
+  },
+  {
+   "fact": "States pay extra incentives (top-ups) from their own budget on top of NHM",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1116_yzEly9.pdf?source=lsapps",
+   "quote": "ASHAs also receive incentives over and above provided under NHM from their respective State Budget to supplement the amount received under NHM."
+  },
+  {
+   "fact": "State top-ups vary: e.g. Maharashtra Rs 3,500 per month per ASHA (annexure to the Lok Sabha answer of 7 Feb 2025)",
+   "status": "confirmed",
+   "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU902_hA8S4p.pdf?source=pqals",
+   "quote": "13 Maharashtra Rs. 3500/month/ASHA"
+  }
+ ],
+ "summary": "All claims confirmed on the NHM ASHA incentive list 2025-26, the NHM ASHA page, PIB (13 Mar 2020) and Lok Sabha answers of 7 Feb 2025 and 24 Jul 2026 (TBI up to Rs 1,000, Rs 20,000 exit award, PMJJBY/PMSBY/PM-SYM/AB-PMJAY, State top-ups); the Rs 2,000 routine total is also the sum of the 2025-26 items."
+}

@@ -1,0 +1,16 @@
+{
+ "id": "Q-504",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes, a learner's licence requires passing the online test (STALL test)",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Yes, you have to pass the online test (STALL Test) to get Learner's License."},
+  {"fact": "Sample questions for the test are on Sarathi (Learner License menu)",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "You can practice (sample set of questions) here:- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Select \"Sample Question for Learners' License Test\" from \"Learner License\" menu"},
+  {"fact": "For the test, the applicant reports to the concerned RTO or its authorised learner's licence test centre",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Can I give exam from home or I will have to go to the concerned RTO? You need to report the concerned RTO or their authorized learning license test center."}
+ ],
+ "summary": "STALL test, sample questions on Sarathi and reporting to the RTO/authorised LL test centre all confirmed on the Parivahan FAQ; expected answer unchanged."
+}

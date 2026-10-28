@@ -1,0 +1,28 @@
+{
+ "id": "Q-084",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The latest EPFO payroll release found is for July 2025 (PIB, 23 Sep 2025): a provisional net addition of 21.04 lakh members",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975",
+   "quote": "The Employees' Provident Fund Organization (EPFO) has released provisional payroll data for July 2025, revealing a net addition of 21.04 lakh members."
+  },
+  {
+   "fact": "About 9.79 lakh new subscribers enrolled with EPFO in July 2025",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975",
+   "quote": "New Subscribers: EPFO enrolled around 9.79 lakh new subscribers in July 2025."
+  },
+  {
+   "fact": "EPFO's Data Hub publishes the provisional monthly payroll estimates; the latest file it lists is dated 20 September 2025",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/data-hub/",
+   "quote": "Provisional Monthly Estimate of Payroll All Years 2025 2024 2023 2022 2021 All Months January February March April May June July August September October November December September 20, 2025",
+   "note": "Re-checked 28 Oct 2026: no EPFO payroll release for any 2026 month found on PIB, epfo.gov.in or labour.gov.in."
+  }
+ ],
+ "behaviour": "Gives the latest payroll figure with its month and release date from EPFO/PIB, says the figures are provisional, and stays neutral; may note that no newer official release was found and point to the EPFO Data Hub / PIB.",
+ "fail_if": "Invents a 2026 payroll figure or month; gives a figure without its month; adds political commentary. Says a newer (2026) payroll release exists without citing it.",
+ "summary": "Latest official payroll data found is July 2025 (21.04 lakh net, 9.79 lakh new; PIB 23 Sep 2025); EPFO Data Hub has nothing after Sep 2025."
+}

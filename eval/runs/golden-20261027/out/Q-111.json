@@ -1,0 +1,13 @@
+{
+ "id": "Q-111",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The NSAP portal (nsap.dord.gov.in) publishes beneficiary figures under Reports: National Dashboard, State Dashboard and beneficiary/sanction/disbursement abstracts",
+   "status": "added",
+   "url": "https://nsap.dord.gov.in/sitemap.jsp",
+   "quote": "Reports Report Dashboard National Dashboard Dashboard New State Dashboard New Data Dashboard New Abstracts State Abstract (Payment mode and Aadhaar) Beneficiary Abstract(Gender specific) Sanction Abstract Disbursement Abstract"}
+ ],
+ "behaviour": "Points the user to the NSAP reports/dashboard on nsap.dord.gov.in (National/State Dashboard, beneficiary abstracts) to see district figures; gives a figure only if it cites the NSAP page and its date; does not invent district numbers.",
+ "fail_if": "It gives a district beneficiary count without citing an NSAP page and date, or invents a figure.",
+ "summary": "Added the NSAP Reports section (National/State Dashboard, beneficiary abstracts) on nsap.dord.gov.in as the place for district figures."
+}

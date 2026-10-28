@@ -1,0 +1,110 @@
+{
+ "id": "Q-270",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Apply online on the UDID portal swavlambancard.gov.in ('Apply For UDID' / 'Apply for Disability Certificate & UDID Card')",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "Apply For UDID Steps to Get Your UDID Card and Disability Certificate",
+   "note": "The homepage's Related Links still carry 'Apply for Disability Certificate & UDID Card' in the rendered HTML, but that block is not in the checker's text copy."
+  },
+  {
+   "fact": "On the homepage, click 'Apply Now'; 'Track Your Application' is there too",
+   "status": "confirmed",
+   "url": "https://www.swavlambancard.gov.in/",
+   "quote": "UNIQUE DISABILITY ID (UDID) APPLY NOWTRACK YOUR APPLICATION"
+  },
+  {
+   "fact": "A UDID app is available",
+   "status": "confirmed",
+   "url": "https://www.swavlambancard.gov.in/",
+   "quote": "NOW YOU CAN DOWNLOAD UDID APP"
+  },
+  {
+   "fact": "Help with applying is also given through application counters and registration camps run by District Welfare Officers",
+   "status": "confirmed",
+   "url": "https://depwd.gov.in/en/unique-disability-id-udid/",
+   "quote": "District Welfare Officers: These officers assist PwDs by managing application counters and facilitating registration camps."
+  },
+  {
+   "fact": "CMO offices and Medical Boards process the applications: they verify, assess and issue the certificate and UDID card",
+   "status": "confirmed",
+   "url": "https://depwd.gov.in/en/unique-disability-id-udid/",
+   "quote": "Medical Authorities: CMO Offices and Medical Boards use the portal to process applications, verify details, perform assessments and issue Disability Certificates and UDID cards electronically."
+  },
+  {
+   "fact": "Aadhaar is mandatory for applying for a UDID card (2023 notification for adults)",
+   "status": "confirmed",
+   "url": "https://www.swavlambancard.gov.in/",
+   "quote": "Notification for making Aadhaar number mandatory for applying for UDID card for Adult."
+  },
+  {
+   "fact": "Step 1: submit the application on the portal",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "Double-check all details and submit the application through the Portal."
+  },
+  {
+   "fact": "Step 2: when the status shows 'Submitted', visit the UDID/disability certification section of the hospital chosen in the application",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "When it shows Submitted Mode visit the concerned UDID/Disability Certification Section at the Hospital that has been chosen at the time of submission of application."
+  },
+  {
+   "fact": "Step 3: the hospital/medical authority verifies the application",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "Get your application verified by the concerned Hospital or Medical Authority or make corrections if required for verification."
+  },
+  {
+   "fact": "Step 4: specialist doctor(s) assess the disability",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "After verification, the concerned medical authority will assign specialist doctor(s) to assess your disability."
+  },
+  {
+   "fact": "Step 5: the Medical Board reviews the report and fixes the type and percentage of disability",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "They will determine the type and percentage of your disability and validate the disability certificate."
+  },
+  {
+   "fact": "Step 6: the medical authority generates the disability certificate and UDID card",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "Based on the Medical Boards assessment, the concerned medical authority will generate your UDID card and disability certificate."
+  },
+  {
+   "fact": "DEPwD dispatches the UDID card to the registered address by Speed Post",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "will dispatch the card to your registered address via Speed Post."
+  },
+  {
+   "fact": "Application status can be tracked on the portal",
+   "status": "confirmed",
+   "url": "https://depwd.gov.in/en/unique-disability-id-udid/",
+   "quote": "they can apply for a Disability Certificate and UDID card, track application status"
+  },
+  {
+   "fact": "No minimum disability percentage is needed for a disability certificate / UDID card: the RPwD Act sets no 40% condition",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/uploads/news/173986278827202407301669930458.pdf",
+   "quote": "The RPwD Act, 2016 does not impose any condition for issuance of disability certificates/UDID cards to PwDs who are diagnosed with below 40% of disability."
+  },
+  {
+   "fact": "DEPwD (letter of 05-07-2024) asked States to direct hospitals not to deny certificates/UDID cards to persons assessed below 40%",
+   "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/uploads/news/173986278827202407301669930458.pdf",
+   "quote": "issue directions to all notified authorities/Hospitals not to deny disability certificates/UDID cards to Persons who are diagnosed with below 40% of disability."
+  },
+  {
+   "fact": "Benchmark disability (40% or more) is needed for benefits such as reservation under the RPwD Act",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082717",
+   "quote": "Section 34 of the said Act provides for 4 % reservation in the government employment to the persons with benchmark (40% or above) disabilities."
+  }
+ ],
+ "summary": "All UDID facts confirmed: 6-step process on swavlambancard.gov.in, Aadhaar mandatory, no 40% minimum for the card (DEPwD 05-07-2024), benchmark 40% for reservation (PIB)."
+}

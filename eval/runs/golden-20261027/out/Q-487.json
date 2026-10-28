@@ -1,0 +1,15 @@
+{
+ "id": "Q-487",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An establishment already registered with EPFO does not need fresh registration for PM Viksit Bharat Rozgar Yojana",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq/",
+   "quote": "Establishments already registered with the Employees' Provident Fund Organisation (EPFO) are not required to undergo fresh registration under the Pradhan Mantri Viksit Bharat Rozgar Yojana."},
+  {"fact": "It must furnish the establishment's PAN, its GSTN and the employer's PAN-linked bank account number",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq/",
+   "quote": "However, these establishments are required to furnish the following details: PAN of the establishment GSTN (Goods and Services Tax Number) PAN-linked bank account number of the employer"}
+ ],
+ "summary": "EPFO PM-VBRY FAQ still says no fresh registration; furnish PAN, GSTN and PAN-linked bank account; all confirmed."
+}

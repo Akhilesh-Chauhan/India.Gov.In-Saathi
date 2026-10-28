@@ -1,0 +1,12 @@
+{
+ "id": "Q-390",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Stand-Up India (Ministry of Finance) is open to women applicants aged 18 or more (men only if SC/ST) for a new (greenfield) enterprise, if not in default to any bank", "status": "added", "example": true, "url": "https://www.myscheme.gov.in/schemes/sui", "quote": "Finance is provided for Greenfield Enterprises. If the applicant is a male, he must be from SC / ST category. The age of the applicant must be at least 18 years. The applicant must not be in default to any bank/financial institution.", "note": "Q-310 marks a conflict: DFS (financialservices.gov.in) says the SUPI scheme period was up to 31.03.2025, while myScheme and a June 2026 PIB explainer still describe it."},
+  {"fact": "Stand-Up India gives a composite bank loan between Rs 10 lakh and Rs 100 lakh", "status": "added", "example": true, "url": "https://www.myscheme.gov.in/schemes/sui", "quote": "Facilitation of composite loan (inclusive of term loan and working capital) between ₹10 Lakhs and ₹100 Lakhs."},
+  {"fact": "Under PMEGP (Ministry of MSME, credit-linked subsidy for new micro-enterprises), women are a special-category beneficiary", "status": "added", "example": true, "url": "https://www.myscheme.gov.in/schemes/pmegp", "quote": "Special Category (including SC, ST, OBC, Minorities, Women, Ex-Servicemen, Transgenders, Differently abled, NER, Aspirational Districts, Hill and Border areas(as notified by the Government), etc."}
+ ],
+ "behaviour": "Replies in Hinglish/Hindi and uses only the stated facts (age 25, female, graduate): lists Central schemes whose published criteria fit them (e.g. Stand-Up India, PMEGP), each with its criteria and citation to the myScheme record; does not assume caste, income, marital status or State; may ask what kind of help she wants (job, study, business); no eligibility verdict.",
+ "fail_if": "It assumes her caste, income or State; lists schemes whose published criteria exclude a 25-year-old graduate woman; gives an eligibility verdict; lists State schemes as Central.",
+ "summary": "Added two Central schemes whose published criteria fit only the stated facts: Stand-Up India (women 18+, greenfield, Rs 10-100 lakh loan) and PMEGP (women are special category), from myScheme."
+}

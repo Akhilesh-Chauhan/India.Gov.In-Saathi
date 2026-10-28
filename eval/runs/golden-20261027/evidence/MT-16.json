@@ -1,0 +1,37 @@
+{
+ "id": "MT-16",
+ "checked_at": "2026-10-28T14:02:19+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "final": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:45+05:30",
+   "sha256": "18c96e2413423743cc9eae438a1a64cbf35ecf3d44760383aece7c3791725ae0",
+   "copy": "4e425cca04e6c00fd518.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "final": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:45+05:30",
+   "sha256": "18c96e2413423743cc9eae438a1a64cbf35ecf3d44760383aece7c3791725ae0",
+   "copy": "4e425cca04e6c00fd518.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

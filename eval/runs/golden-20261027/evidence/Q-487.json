@@ -1,0 +1,37 @@
+{
+ "id": "Q-487",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq/",
+   "final": "https://www.epfo.gov.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:16+05:30",
+   "sha256": "26de5f8522625945ca092a2fc8f746a86cec12b020725b547e816d6a790a4d0d",
+   "copy": "62d78b1c7bf06ae0cae8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq/",
+   "final": "https://www.epfo.gov.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:16+05:30",
+   "sha256": "26de5f8522625945ca092a2fc8f746a86cec12b020725b547e816d6a790a4d0d",
+   "copy": "62d78b1c7bf06ae0cae8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

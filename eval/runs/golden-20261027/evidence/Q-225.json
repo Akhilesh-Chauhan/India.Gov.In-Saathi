@@ -1,0 +1,52 @@
+{
+ "id": "Q-225",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "final": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:13+05:30",
+   "sha256": "c369e92068c3250f486ba10866fdaf50d4bf45bf9ea25fa7846efc84e0c8b704",
+   "copy": "fe9f52648d5922b89ba9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "final": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:13+05:30",
+   "sha256": "c369e92068c3250f486ba10866fdaf50d4bf45bf9ea25fa7846efc84e0c8b704",
+   "copy": "fe9f52648d5922b89ba9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://haryana.nalsa.gov.in/event/national-lok-adalat-successfully-organized-on-12-09-2026-under-the-aegis-of-haryana-state-legal-services-authority/",
+   "final": "https://haryana.nalsa.gov.in/event/national-lok-adalat-successfully-organized-on-12-09-2026-under-the-aegis-of-haryana-state-legal-services-authority/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:35+05:30",
+   "sha256": "d4fd2d379896346bbfccc483fb319c0e648d42b38589ad2cd6af565b621f8868",
+   "copy": "b3e1a5de9bb8b824e6a0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

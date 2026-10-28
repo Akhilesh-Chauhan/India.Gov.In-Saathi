@@ -1,0 +1,15 @@
+{
+ "id": "Q-481",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The criterion is cultivable land owned by the farmer family as per the land records of the State/UT",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "minor children who own cultivable land as per the land records of the concerned State/UT"},
+  {"fact": "Someone cultivating land that is in the father's name is not covered: the land must be in his or her own name",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "No. The land must be in his / her own name. lf the land ownership has been transferred in his / her name on account of succession then he / she will be eligible."}
+ ],
+ "summary": "PM-KISAN's own Revised FAQ (Q16, Q17) states the own-name land-records criterion, so the citation need not be the PM-KMY FAQ; confirmed."
+}

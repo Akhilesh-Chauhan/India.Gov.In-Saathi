@@ -1,0 +1,578 @@
+[
+ {
+  "id": "MT-03",
+  "fact": 7,
+  "issue": "manual: OM PDF scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of the OM; rate marked derived in note"
+ },
+ {
+  "id": "MT-03",
+  "fact": 3,
+  "issue": "fact said 'birth certificate'; the India Post quote says a document for the child's date of birth",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-119",
+  "fact": 4,
+  "issue": "manual: OM PDF scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of the OM; rate marked derived in note"
+ },
+ {
+  "id": "Q-123",
+  "fact": 5,
+  "issue": "manual: OM PDF scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of the OM; rate marked derived in note"
+ },
+ {
+  "id": "Q-127",
+  "fact": 5,
+  "issue": "manual: OM PDF scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of the OM; rate marked derived in note"
+ },
+ {
+  "id": "Q-431",
+  "fact": 4,
+  "issue": "manual: OM PDF scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of the OM; rate marked derived in note"
+ },
+ {
+  "id": "Q-006",
+  "fact": 6,
+  "issue": "lead: Fail if allowed only 'up to 30 days', but UIDAI's Citizen's Charter gives 'normally up to 60 days' for the HoF route",
+  "action": "added fact 6 (changed) with the Charter quote; fail_if now accepts 30 days (own document) and 60 days (HoF route); behaviour carries the old behaviour and steps"
+ },
+ {
+  "id": "Q-006",
+  "fact": 31,
+  "issue": "manual: myAadhaar status label unreadable; the UIDAI FAQ names the status check",
+  "action": "confirmed with the FAQ quote; fact reworded to its wording"
+ },
+ {
+  "id": "Q-025",
+  "fact": 9,
+  "issue": "fact added that applicants approach the Branch Secretariat/RPO through the providers; the quote states only the decentralisation",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-025",
+  "fact": 15,
+  "issue": "'per apostille sticker' was not in the quote",
+  "action": "quote replaced with the fee table row"
+ },
+ {
+  "id": "Q-029",
+  "fact": 2,
+  "issue": "'(and within its validity)' added a condition the quote lacks",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-029",
+  "fact": 6,
+  "issue": "manual retried (Sarathi was down)",
+  "action": "still unreadable; kept manual, note updated"
+ },
+ {
+  "id": "Q-034",
+  "fact": 3,
+  "issue": "dates 15 Aug 2025-31 Mar 2026 are not in the quote",
+  "action": "note marks them derived"
+ },
+ {
+  "id": "Q-034",
+  "fact": 5,
+  "issue": "'(365 days)' is not in the quote (it says 'one year')",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-034",
+  "fact": 6,
+  "issue": "manual retried with OCR",
+  "action": "still manual: the PDF has a text layer (page footers only), so the code does not OCR it; note updated"
+ },
+ {
+  "id": "Q-034",
+  "fact": 14,
+  "issue": "closed-tolling rule was not in the quote",
+  "action": "quote extended to the whole Q11 answer"
+ },
+ {
+  "id": "Q-043",
+  "fact": 3,
+  "issue": "table row without column headers",
+  "action": "quote replaced with the table including its headers"
+ },
+ {
+  "id": "Q-043",
+  "fact": 4,
+  "issue": "table row without column headers",
+  "action": "quote replaced with the table including its headers"
+ },
+ {
+  "id": "Q-052",
+  "fact": 3,
+  "issue": "'above that another ITR form (e.g. ITR-2)' was not in the quote",
+  "action": "reworded; quote extended; note marks the consequence derived"
+ },
+ {
+  "id": "Q-060",
+  "fact": 3,
+  "issue": "'(other income takes the person out of the exemption)' is not in the quote",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-060",
+  "fact": 4,
+  "issue": "'(interest from another bank or the post office does not qualify)' is not in the quote",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-060",
+  "fact": 9,
+  "issue": "'AY 2026-27' is not in the quote",
+  "action": "note says where it comes from"
+ },
+ {
+  "id": "Q-060",
+  "fact": 11,
+  "issue": "manual retried",
+  "action": "still HTTP 403 for the checker; kept manual, note updated"
+ },
+ {
+  "id": "Q-067",
+  "fact": 9,
+  "issue": "'precious metals and stones' is not in the quote (it lists Schedules IV-VI and their rates)",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-067",
+  "fact": 10,
+  "issue": "fact gave 'until 31 Jan 2026'; the quote says until the compensation cess loans are repaid",
+  "action": "reworded; date marked derived"
+ },
+ {
+  "id": "Q-087",
+  "fact": 2,
+  "issue": "'ESIC publishes the state-wise lists of tie-up hospitals' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-094",
+  "fact": 3,
+  "issue": "lead: manual because the clc.gov.in order is scanned; retried with OCR",
+  "action": "still manual: the code does not OCR this PDF (it has a text annex); note updated"
+ },
+ {
+  "id": "Q-094",
+  "fact": 4,
+  "issue": "lead: manual because the clc.gov.in order is scanned; retried with OCR",
+  "action": "still manual: the code does not OCR this PDF (it has a text annex); note updated"
+ },
+ {
+  "id": "Q-094",
+  "fact": 5,
+  "issue": "lead: manual because the clc.gov.in order is scanned; retried with OCR",
+  "action": "still manual: the code does not OCR this PDF (it has a text annex); note updated"
+ },
+ {
+  "id": "Q-094",
+  "fact": 6,
+  "issue": "lead: manual because the clc.gov.in order is scanned; retried with OCR",
+  "action": "still manual: the code does not OCR this PDF (it has a text annex); note updated"
+ },
+ {
+  "id": "Q-094",
+  "fact": 7,
+  "issue": "lead: manual because the clc.gov.in order is scanned; retried with OCR",
+  "action": "still manual: the code does not OCR this PDF (it has a text annex); note updated"
+ },
+ {
+  "id": "Q-094",
+  "fact": 8,
+  "issue": "'(so the next revision is due 01.04.2027)' is derived",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-094",
+  "fact": 11,
+  "issue": "'where the Central Government is the appropriate Government; State rates differ' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-102",
+  "fact": 3,
+  "issue": "fact listed five ToR items; the quote gave only the first",
+  "action": "quote extended to items i-iii and the fact reworded to them"
+ },
+ {
+  "id": "Q-174",
+  "fact": 2,
+  "issue": "quote was the tail of a sentence and did not say that States/UTs issue the notification",
+  "action": "quote replaced with the whole sentence"
+ },
+ {
+  "id": "Q-174",
+  "fact": 4,
+  "issue": "a newer official page (PIB 02 Dec 2025) says the Rabi cut-off 'generally is 31st Dec', against the guideline's 'not beyond 15th December'",
+  "action": "marked conflict with both quotes; behaviour accepts either when cited; fail_if no longer fails a cited 'generally 31 Dec'"
+ },
+ {
+  "id": "Q-174",
+  "fact": 10,
+  "issue": "negative fact (no 2026-27 schedule) with a quote that only shows a 2018 notification",
+  "action": "reworded to the positive finding; absence marked derived in the note"
+ },
+ {
+  "id": "Q-174",
+  "fact": 6,
+  "issue": "manual retried",
+  "action": "still only on pmfby.amnex.co.in; kept manual, note updated"
+ },
+ {
+  "id": "Q-119",
+  "fact": 1,
+  "issue": "'last updated 19.10.2026' citation detail was in the fact, not the quote (aligned with pack 2, Q-122/Q-430)",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-431",
+  "fact": 1,
+  "issue": "'last updated 19.10.2026' citation detail was in the fact, not the quote (aligned with pack 2, Q-122/Q-430)",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-123",
+  "fact": 1,
+  "issue": "'last updated 19.10.2026' citation detail was in the fact, not the quote (aligned with pack 2, Q-122/Q-430)",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-127",
+  "fact": 1,
+  "issue": "'last updated 19.10.2026' citation detail was in the fact, not the quote (aligned with pack 2, Q-122/Q-430)",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-119",
+  "fact": 3,
+  "issue": "negative 'has no Oct-Dec 2026 row yet' is not a gradable fact (aligned with pack 2, Q-430)",
+  "action": "dropped from the fact; kept in the note"
+ },
+ {
+  "id": "Q-431",
+  "fact": 3,
+  "issue": "negative 'has no Oct-Dec 2026 row yet' is not a gradable fact (aligned with pack 2, Q-430)",
+  "action": "dropped from the fact; kept in the note"
+ },
+ {
+  "id": "Q-132",
+  "fact": 4,
+  "issue": "'doubles in 115 months' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-136",
+  "fact": 3,
+  "issue": "'(and obscene articles, lottery matter, gold coins/bullion above the limit, etc.)' is not in the quote",
+  "action": "trimmed to the quote"
+ },
+ {
+  "id": "Q-159",
+  "fact": 1,
+  "issue": "'subject to exclusions' is not in the quote",
+  "action": "quote extended to the Exclusions heading that follows"
+ },
+ {
+  "id": "Q-189",
+  "fact": 1,
+  "issue": "table row without column headers (which % is the government's)",
+  "action": "quote replaced with the table including its headers"
+ },
+ {
+  "id": "Q-189",
+  "fact": 2,
+  "issue": "table row without column headers (which % is the government's)",
+  "action": "quote replaced with the table including its headers"
+ },
+ {
+  "id": "Q-224",
+  "fact": 1,
+  "issue": "'Register and log in' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-224",
+  "fact": 4,
+  "issue": "'uses the State's online receipt portal and net banking' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-229",
+  "fact": 2,
+  "issue": "'(ABDM website or app)' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-263",
+  "fact": 2,
+  "issue": "'The Central cash benefit' implied it is the only one; the quote does not say so",
+  "action": "reworded"
+ },
+ {
+  "id": "Q-268",
+  "fact": 3,
+  "issue": "'composite medical health support' was not in the MoU quote",
+  "action": "quote replaced with the components sentence; PM-JAY detail moved to the note"
+ },
+ {
+  "id": "Q-277",
+  "fact": 1,
+  "issue": "'tribal community-owned' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-285",
+  "fact": 1,
+  "issue": "'sent back for correction' is not in the quote",
+  "action": "quote extended to the FAQ question it answers; fact reworded"
+ },
+ {
+  "id": "Q-291",
+  "fact": 3,
+  "issue": "'(originally 28 October 2026)' is on the 08.10.2026 notice, not on the quoted 27.10.2026 notice",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-320",
+  "fact": 1,
+  "issue": "'register with your personal and contact details' was not in the quote",
+  "action": "quote extended to step 1(b)"
+ },
+ {
+  "id": "Q-369",
+  "fact": 1,
+  "issue": "'(the passbook route in UMANG is the EPFO department)' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-021",
+  "fact": 1,
+  "issue": "'without returning to India' is not in the quote",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-299",
+  "fact": 9,
+  "issue": "'in force from 11 September 2025' was not in the quote",
+  "action": "quote extended to the next sentence"
+ },
+ {
+  "id": "Q-299",
+  "fact": 11,
+  "issue": "manual: BOAT notices scanned; now read by OCR",
+  "action": "confirmed with the OCR quote of BOAT(WR) circular BOAT WR/2026/529 of 13.05.2026"
+ },
+ {
+  "id": "Q-299",
+  "fact": 14,
+  "issue": "'an establishment may pay more' was not in the quote",
+  "action": "quote replaced with the BOAT(WR) circular sentence that states it"
+ },
+ {
+  "id": "Q-299",
+  "fact": 21,
+  "issue": "'click Student Registration' was not in the quote",
+  "action": "quote extended to step 3 of the manual"
+ },
+ {
+  "id": "Q-299",
+  "fact": 28,
+  "issue": "the five profile steps were not all in the quote (it shows steps 4 and 5)",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-259",
+  "fact": 2,
+  "issue": "lead: manual because the SOP PDF repeats whole words; tried WCD/Mission Vatsalya/PIB",
+  "action": "confirmed from PIB (Ministry of Education reply): textbooks give children 1098 with the POCSO e-Box for child sexual abuse; fact reworded to that"
+ },
+ {
+  "id": "Q-259",
+  "fact": 7,
+  "issue": "lead: manual because the SOP PDF repeats whole words; tried WCD/Mission Vatsalya/PIB",
+  "action": "confirmed from the JJ Act 2015 s.31(1) on cara.wcd.gov.in; 'rescue' dropped (not in the Act's text)"
+ },
+ {
+  "id": "Q-259",
+  "fact": 11,
+  "issue": "'A teacher can also inform the local police' and 's.19: to the SJPU or local police' are not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-328",
+  "fact": 1,
+  "issue": "discovery question: schemes picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-328",
+  "fact": 2,
+  "issue": "discovery question: schemes picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-328",
+  "fact": 3,
+  "issue": "discovery question: schemes picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-328",
+  "fact": 4,
+  "issue": "discovery question: schemes picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-333",
+  "fact": 1,
+  "issue": "list question (key Budget announcements): announcements picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-333",
+  "fact": 2,
+  "issue": "list question (key Budget announcements): announcements picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-333",
+  "fact": 3,
+  "issue": "list question (key Budget announcements): announcements picked by the checker were required facts",
+  "action": "flagged example: true"
+ },
+ {
+  "id": "Q-333",
+  "fact": 4,
+  "issue": "list question; also 'animal husbandry gets a credit-linked subsidy programme (paras 76-77)' is not in the quote",
+  "action": "flagged example: true; trimmed to the quote"
+ },
+ {
+  "id": "Q-310",
+  "fact": 8,
+  "issue": "manual retried (standupmitra.in was down)",
+  "action": "still DNS failure; kept manual, note updated"
+ },
+ {
+  "id": "Q-310",
+  "fact": 11,
+  "issue": "manual retried (standupmitra.in was down)",
+  "action": "still DNS failure; kept manual, note updated"
+ },
+ {
+  "id": "Q-310",
+  "fact": 14,
+  "issue": "manual retried (standupmitra.in was down)",
+  "action": "still DNS failure; kept manual, note updated"
+ },
+ {
+  "id": "Q-390",
+  "fact": 1,
+  "issue": "consistency with Q-310: DFS says the Stand-Up India scheme period was up to 31.03.2025 (conflict there)",
+  "action": "note added; the example stays (myScheme still lists the scheme)"
+ },
+ {
+  "id": "Q-106",
+  "fact": 1,
+  "issue": "'so it can be generated at home' is not in the quote",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-315",
+  "fact": 4,
+  "issue": "'so the subsidy is credit-linked, not a cash grant' is not in this quote",
+  "action": "note marks it derived"
+ },
+ {
+  "id": "Q-328",
+  "fact": 0,
+  "issue": "consistency: NSAP schemes were renamed (PIB 14 Oct 2026); Q-459 and pack 4 (Q-329, Q-460) accept the new names",
+  "action": "behaviour now accepts the old or new scheme names"
+ },
+ {
+  "id": "MT-17",
+  "fact": 0,
+  "issue": "consistency: NSAP schemes were renamed (PIB 14 Oct 2026); Q-459 and pack 4 accept the new names",
+  "action": "behaviour now accepts the old or new scheme names"
+ },
+ {
+  "id": "Q-181",
+  "fact": 3,
+  "issue": "'(pilots being started)' was not in the quote",
+  "action": "quote extended to the end of the sentence (nation-wide pilots being initiated)"
+ },
+ {
+  "id": "Q-237",
+  "fact": 4,
+  "issue": "'eligible pregnant women' and 'for institutional delivery' were not in the quote",
+  "action": "quote extended to the JSY objective sentence; fact reworded"
+ },
+ {
+  "id": "Q-199",
+  "fact": 2,
+  "issue": "'by the State rather than cut off' is not in the quote",
+  "action": "reworded to the quote"
+ },
+ {
+  "id": "Q-094",
+  "fact": 3,
+  "issue": "manual: scanned order not OCR'd by the code (text annex); code now forces OCR",
+  "action": "confirmed with the OCR quote; Code on Wages part split into new fact 12"
+ },
+ {
+  "id": "Q-094",
+  "fact": 4,
+  "issue": "manual: scanned order not OCR'd by the code (text annex); code now forces OCR",
+  "action": "confirmed with the OCR table of the construction order; sweeping/cleaning and loading/unloading split into new facts 13-14 with their own tables"
+ },
+ {
+  "id": "Q-094",
+  "fact": 5,
+  "issue": "manual: scanned order not OCR'd by the code (text annex); code now forces OCR",
+  "action": "confirmed with the OCR table of the agriculture order"
+ },
+ {
+  "id": "Q-094",
+  "fact": 6,
+  "issue": "manual: scanned order not OCR'd by the code (text annex); code now forces OCR",
+  "action": "confirmed with the OCR table of the non-coal mines order"
+ },
+ {
+  "id": "Q-094",
+  "fact": 7,
+  "issue": "manual: scanned order not OCR'd by the code (text annex); code now forces OCR",
+  "action": "confirmed with the OCR quote"
+ },
+ {
+  "id": "Q-094",
+  "fact": 12,
+  "issue": "Code on Wages basis was part of manual fact 3",
+  "action": "new confirmed fact with the OCR quote"
+ },
+ {
+  "id": "Q-094",
+  "fact": 13,
+  "issue": "sweeping and cleaning rates were part of manual fact 4",
+  "action": "new confirmed fact with the OCR table of that order"
+ },
+ {
+  "id": "Q-094",
+  "fact": 14,
+  "issue": "loading and unloading rates were part of manual fact 4",
+  "action": "new confirmed fact with the OCR table of that order"
+ },
+ {
+  "id": "Q-034",
+  "fact": 6,
+  "issue": "manual: image-only booklet not OCR'd by the code; code now forces OCR",
+  "action": "confirmed with the OCR quote of the policy table"
+ }
+]

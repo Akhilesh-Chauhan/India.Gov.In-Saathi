@@ -1,0 +1,7 @@
+{
+ "id": "Q-240",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "Source-not-available check: NBEMS (natboard.edu.in) is not ingested and the page checker does not count it as an official domain, so there is no fixed value to verify; the bot must say the source is not available and must not guess a date. (Search of natboard.edu.in on 28 Oct 2026 found no NEET-PG 2027 date notice.)",
+ "summary": "No facts: behaviour check for a non-ingested source (NBEMS); no NEET-PG 2027 date notice found."
+}

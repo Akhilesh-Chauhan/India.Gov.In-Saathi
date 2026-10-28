@@ -1,0 +1,20 @@
+{
+ "id": "Q-202",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Mera Ration is a mobile app developed by the National Informatics Centre (NIC), Government of India, that gives ration card holders information on their ration card and NFSA entitlements",
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "quote": "The Mera Ration App is a mobile application developed by the National Informatics Centre, Government of India. It helps citizens access information related to their Ration Card System and entitlements under the National Food Security Act (NFSA)."},
+  {"fact": "In the app you can view your ration card details, check your monthly foodgrain entitlement, see past foodgrain transactions and find the nearest Fair Price Shop",
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "quote": "- Ration Card Details: View ration card information. - Food Entitlement Information: Check monthly food grain entitlements. - Transaction History: View past food grain transactions. - Locate Nearest FPS: Find nearby Fair Price Shops (FPS)."},
+  {"fact": "You can file a grievance through the app and track its status",
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "quote": "Yes, users can submit grievances through the app and monitor the status of their redressal."}
+ ],
+ "behaviour": "Describes the Mera Ration app and its features as published by NFSA (nfsa.gov.in), cited.",
+ "summary": "Added from the NFSA Mera Ration 2.0 FAQ: NIC app for NFSA ration card holders; ration card details, entitlement, transactions, nearest FPS; grievance filing and tracking."
+}

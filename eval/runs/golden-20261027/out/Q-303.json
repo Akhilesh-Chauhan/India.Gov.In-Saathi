@@ -1,0 +1,25 @@
+{
+ "id": "Q-303",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "As of 28 Oct 2026 no Agniveer (Navy) application window is open: the latest one, for Agniveer SSR and MR (INET 26), went live on 14 Mar 2026 and is marked Closed",
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "quote": "Online application for AVR (SSR), AVR (MR) and SSR (Med) for INET 26 is live from 14 Mar 26. Download advertisements. (Closed)"},
+  {"fact": "The Agniveer MR (Musician) 02/26 batch window ran till 30 Apr 2026 and is closed",
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "quote": "Application window for AVR MR (Musician) 02/26 batch extended till 30 Apr 26. (Closed)"},
+  {"fact": "Current stage: call-up letters for Stage-II for the Agniveer SSR, MR & Apprentice 1/27 batch have been issued",
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "quote": "Agniveer SSR, MR & Apprentice - 1/27 Batch - Callup for Stage-II at NREs issued."},
+  {"fact": "The Sailor/Agniveer recruitment helpline is 011-24051233",
+   "status": "added",
+   "url": "https://www.joinindiannavy.gov.in/",
+   "quote": "Helpline number for Sailor/Agniveer recruitment has been changed to 011-24051233."}
+ ],
+ "behaviour": "Gives the Agniveer (Navy) application status with dates from joinindiannavy.gov.in: no window open as of the check (latest INET 26 window closed), and points to joinindiannavy.gov.in for the next advertisement.",
+ "fail_if": "It says Agniveer (Navy) applications are open now without a current notice, or invents application dates.",
+ "summary": "joinindiannavy.gov.in (updated 28/09/2026): Agniveer windows (INET 26 from 14 Mar 26; MR 02/26 till 30 Apr 26) are closed; 1/27 batch Stage-II call-ups issued; helpline 011-24051233."
+}

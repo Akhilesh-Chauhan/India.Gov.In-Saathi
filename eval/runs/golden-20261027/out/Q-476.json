@@ -1,0 +1,32 @@
+{
+ "id": "Q-476",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN gives Rs 6,000 a year per land-holding farmer family in three equal instalments",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families."
+  },
+  {
+   "fact": "The instalments are paid every four months",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "financial benefit of Rs.60001 per annum per family payable in three equal installments of Rs.20001 each, every four months."
+  },
+  {
+   "fact": "The 2-hectare limit applied only at launch; the scheme was revised from 1.6.2019 to cover all farmer families irrespective of landholding size",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "with combined landholding upto 2 hectare. The Scheme was later on revised w.e.f. 1 .6.2019 and extended to all farmer families irrespective of the srze of their",
+   "note": "Quoted as the page text prints it (OCR-like errors in the PDF text layer, e.g. 'srze' for 'size')."
+  },
+  {
+   "fact": "Coverage is subject to the scheme's exclusion criteria",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "There are various Exclusion Categories for the scheme."
+  }
+ ],
+ "summary": "Rs 6,000 a year per family in three equal instalments every four months; the 2-ha limit was dropped from 1.6.2019 (Revised FAQ), subject to exclusions."
+}

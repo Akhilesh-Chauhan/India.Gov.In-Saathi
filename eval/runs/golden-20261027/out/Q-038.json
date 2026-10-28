@@ -1,0 +1,21 @@
+{
+ "id": "Q-038",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "FASTags are issued by banks certified by IHMCL (currently 26 banks)", "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Currently 26 banks have been certified by IHMCL for issuance of FASTag in India and 12 banks have been certified to carry out acquiring services at toll plazas."},
+  {"fact": "Offline, a FASTag can be bought at point-of-sale counters at all NH toll plazas, POS locations and selected branches of the certified banks, RTOs and transport hubs", "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Offline: Point-of-sale (POS) set up at following locations All NH toll plazas Over 40,000 Point-of-Sale locations set up by 26 member banks Selected bank branches of 26 certified banks RTOs Transport hubs"},
+  {"fact": "Online, a bank-issued FASTag can be bought from that bank's own portal", "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "For all other bank issued FASTag – FASTag can be purchased from respective bank portals."},
+  {"fact": "The status of FASTags linked to a vehicle can be checked on NPCI's official 'check your NETC FASTag status' page", "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "To check the status of multiple FASTags linked to your vehicle, you can follow below steps: Visit the official link: https://www.npci.org.in/what-we-do/netc-fastag/check-your-netc-fastag-status"}
+ ],
+ "behaviour": "Replies in Hindi: buy a FASTag only from the authorised issuer banks/channels listed by IHMCL (bank branches, bank POS at NH toll plazas, the bank's own portal), citing ihmcl.co.in; to be sure a tag is genuine, buy from these channels and check its status on the official NPCI page.",
+ "fail_if": "Recommends roadside agents, social-media sellers or any non-official website not listed by IHMCL or an issuer bank; invents a way to identify a genuine tag that is not on an official page.",
+ "summary": "Added IHMCL FAQ purchase channels (26 certified banks, NH toll-plaza POS, bank branches, RTOs, bank portals) and the NPCI tag-status check."
+}

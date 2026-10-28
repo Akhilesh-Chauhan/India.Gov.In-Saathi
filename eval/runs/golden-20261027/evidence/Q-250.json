@@ -1,0 +1,52 @@
+{
+ "id": "Q-250",
+ "checked_at": "2026-10-28T14:03:27+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "final": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:59+05:30",
+   "sha256": "c3e73b7107ee281e8c875478604722d0fdb8234ed0f4ebd8644a79d7722c43be",
+   "copy": "178c9b879e3f61483c40.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "final": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:59+05:30",
+   "sha256": "c3e73b7107ee281e8c875478604722d0fdb8234ed0f4ebd8644a79d7722c43be",
+   "copy": "178c9b879e3f61483c40.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmsvanidhi.mohua.gov.in/",
+   "final": "https://pmsvanidhi.mohua.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:50+05:30",
+   "sha256": "57229360cfec06e8c65d72004a5c3fd2a80b3a7c3b944f1db1936fe563395e3b",
+   "copy": "f0e75a2935dd033f9022.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

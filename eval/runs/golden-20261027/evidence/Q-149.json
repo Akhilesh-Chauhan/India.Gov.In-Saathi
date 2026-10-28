@@ -1,0 +1,67 @@
+{
+ "id": "Q-149",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "final": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:55:45+05:30",
+   "sha256": "302306f34c96f0b15a1db07f288b3cf8ac92a742f1546e4b1e1b2e3840f74303",
+   "copy": "bbbe5f673b4e85ad261a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "final": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:55:45+05:30",
+   "sha256": "302306f34c96f0b15a1db07f288b3cf8ac92a742f1546e4b1e1b2e3840f74303",
+   "copy": "bbbe5f673b4e85ad261a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "final": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:55:45+05:30",
+   "sha256": "302306f34c96f0b15a1db07f288b3cf8ac92a742f1546e4b1e1b2e3840f74303",
+   "copy": "bbbe5f673b4e85ad261a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "final": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:55:45+05:30",
+   "sha256": "302306f34c96f0b15a1db07f288b3cf8ac92a742f1546e4b1e1b2e3840f74303",
+   "copy": "bbbe5f673b4e85ad261a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

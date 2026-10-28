@@ -1,0 +1,139 @@
+{
+ "id": "Q-243",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Interest Subsidy Scheme (ISS) vertical of PMAY-U 2.0 is implemented as a Central Sector Scheme",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The Mission, will implement Interest Subsidy Scheme (ISS) vertical as a Central Sector Scheme to expand institutional credit flow to the affordable housing sector."
+  },
+  {
+   "fact": "Income limits: EWS up to Rs 3 lakh, LIG Rs 3-6 lakh, MIG Rs 6-9 lakh annual household income",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "EWS households are defined as households with an annual income of up to ₹3 lakh. LIG is defined as households with an annual income from ₹3 lakh up to ₹6 lakh. MIG is defined as households with an annual income from ₹6 lakh up to ₹9 lakh."
+  },
+  {
+   "fact": "The interest subsidy is 4.0% on the first Rs 8 lakh of the loan",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Households having income up to ₹9 lakh, loan value up to ₹25 lakh for property value up to ₹35 lakh would be eligible for a subsidy at 4.0 % on first ₹8 lakh for a tenure up to 12 years."
+  },
+  {
+   "fact": "The 4% subsidy is for a loan tenure of up to 12 years",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Households having income up to ₹9 lakh, loan value up to ₹25 lakh for property value up to ₹35 lakh would be eligible for a subsidy at 4.0 % on first ₹8 lakh for a tenure up to 12 years."
+  },
+  {
+   "fact": "Only home loans up to Rs 25 lakh qualify",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Only loan up to ₹25 lakh with the house value up to ₹35 lakh will be eligible for subsidy under this vertical."
+  },
+  {
+   "fact": "The house value must be up to Rs 35 lakh",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Only loan up to ₹25 lakh with the house value up to ₹35 lakh will be eligible for subsidy under this vertical."
+  },
+  {
+   "fact": "The carpet area of the house must be up to 120 sqm",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The carpet area of houses under this component shall be up to 120 sqm."
+  },
+  {
+   "fact": "The maximum subsidy is Rs 1.80 lakh actual release",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years."
+  },
+  {
+   "fact": "The maximum subsidy has an NPV of Rs 1.50 lakh at an 8.5% discount rate",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years."
+  },
+  {
+   "fact": "The subsidy is available only for a loan tenure of more than 5 years",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years."
+  },
+  {
+   "fact": "The subsidy is released in 5 equal yearly instalments",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy to the beneficiaries will be released in 5 equal yearly instalments."
+  },
+  {
+   "fact": "The instalments are paid by DBT into the beneficiary's loan account",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The subsidy will be released in 5 yearly instalments through DBT in loan accounts of beneficiary provided loan is active at the time of release of subsidy and more than 50% principal is outstanding."
+  },
+  {
+   "fact": "Each instalment is released only if the loan is active and more than 50% of the principal is outstanding",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The subsidy will be released in 5 yearly instalments through DBT in loan accounts of beneficiary provided loan is active at the time of release of subsidy and more than 50% principal is outstanding."
+  },
+  {
+   "fact": "The subsidy is credited against (deducted from) the principal loan amount",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy will be credited by the PLI to the borrower’s account upfront by deducting it from the principal loan amount of the borrower."
+  },
+  {
+   "fact": "Only home loans sanctioned and disbursed on or after 01.09.2024 qualify",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy will be provided on home loans sanctioned and disbursed on 01.09.2024 or after to eligible beneficiaries of EWS/LIG and MIG for purchase/ re-purchase/construction of houses."
+  },
+  {
+   "fact": "The loan must be for purchase, re-purchase or construction of a house",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy will be provided on home loans sanctioned and disbursed on 01.09.2024 or after to eligible beneficiaries of EWS/LIG and MIG for purchase/ re-purchase/construction of houses."
+  },
+  {
+   "fact": "The family must not own a pucca house anywhere in the country",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Families belonging to EWS/LIG/MIG category, living in urban areas, having no pucca house anywhere in the country, are eligible to purchase or construct a house under PMAY-U 2.0."
+  },
+  {
+   "fact": "A borrower who moves the loan to another lender by balance transfer cannot claim the subsidy again",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "In case a borrower has taken a housing loan from one PLI and later on switches to another PLI for balance transfer, such beneficiary will not be eligible to claim the benefit of interest subsidy again."
+  },
+  {
+   "fact": "The subsidy is given only once for a property",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The subsidy under the scheme will be provided only once for a property."
+  },
+  {
+   "fact": "Demand is registered on the PMAY-U 2.0 unified web portal and the application is then forwarded to the lending institution (PLI)",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "For availing the benefit under ISS vertical, eligible beneficiaries will be required to register their demand through Unified web-portal. Subsequently, the application will be forwarded to the concerned PLIs"
+  },
+  {
+   "fact": "The pmaymis.gov.in portal has the 'Apply for PMAY-U 2.0' option for applicants",
+   "status": "confirmed",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PmayDefault.aspx",
+   "quote": "Citizen Services List of Applications Under PMAY 2.O ISS Subsidy Calculator Track Application Status Support/FAQs List of ULB Apply for PMAY-U 2.0"
+  },
+  {
+   "fact": "The old CLSS vertical of PMAY-U closed on 31.03.2022",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/about",
+   "quote": "The component of CLSS has been closed on 31.03.2022."
+  }
+ ],
+ "summary": "All ISS terms (4% on first Rs 8 lakh, 12 years, Rs 25/35 lakh caps, 120 sqm, Rs 1.80 lakh / NPV 1.50 lakh, 5 yearly DBT instalments, loans from 01.09.2024) confirmed in the PMAY-U 2.0 guidelines."
+}

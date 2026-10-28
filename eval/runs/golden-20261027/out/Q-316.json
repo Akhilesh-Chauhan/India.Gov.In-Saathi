@@ -1,0 +1,16 @@
+{
+ "id": "Q-316",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The last date for startups to apply under the Startup India Seed Fund Scheme was 31 May 2026 (final, extended deadline), so new startup applications are closed as of 28 Oct 2026", "status": "added",
+   "url": "https://seedfund.startupindia.gov.in/",
+   "quote": "Final Notice (Extended): Last date for startups to apply under SISFS – 31 May 2026 | Incubators to complete 100% startup selection by – 30 June 2026.",
+   "note": "'Closed as of 28 Oct 2026' is derived from the published final deadline; no later extension notice was found on the SISFS portal or startupindia.gov.in."},
+  {"fact": "Incubators had to complete 100% of startup selection by 30 June 2026", "status": "added",
+   "url": "https://seedfund.startupindia.gov.in/",
+   "quote": "Final Notice (Extended): Last date for startups to apply under SISFS – 31 May 2026 | Incubators to complete 100% startup selection by – 30 June 2026."}
+ ],
+ "behaviour": "Gives the SISFS application status with the date, as published on seedfund.startupindia.gov.in (startup applications closed after the final extended deadline of 31 May 2026), with citation.",
+ "fail_if": "Says startups can still apply now, or gives a different deadline without an official notice.",
+ "summary": "SISFS portal: final extended deadline for startup applications was 31 May 2026 (incubator selection by 30 June 2026); closed now."
+}

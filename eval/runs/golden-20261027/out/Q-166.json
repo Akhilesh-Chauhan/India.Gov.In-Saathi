@@ -1,0 +1,25 @@
+{
+ "id": "Q-166",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "New registration is done through 'New Farmer Registration' on pmkisan.gov.in, which asks for the Aadhaar number, mobile number and State",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "quote": "NEW FARMER REGISTRATION FORM English Assamese Gujarati Hindi Kannada Malayalam Marathi Tamil Telugu Odia Bengali Back Enter Aadhaar No : Enter Mobile No : State"},
+  {"fact": "Registration proceeds only after the Aadhaar number is authenticated with UIDAI",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+   "quote": "Your Aadhaar will be authenticated with UIDAI. You will be able to proceed for registration only if your Aadhaar is authenticated."},
+  {"fact": "The PM-KISAN mobile app lets farmers self-register (and track payments and do e-KYC)",
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026319829701.pdf",
+   "quote": "The application enables farmers to undertake self-registration, track the status of benefit transfers, and complete e-KYC verification."},
+  {"fact": "Enrolment needs an Aadhaar card, landholding papers and a savings bank account",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "quote": "Step 1: The following are the prerequisites for the enrollment process: Aadhaar Card Landholding paper Savings bank account"}
+ ],
+ "behaviour": "Explains new farmer registration on the PM-KISAN portal ('New Farmer Registration' on pmkisan.gov.in) or the PM-KISAN mobile app, with citation; may mention a CSC as an alternative.",
+ "fail_if": "It gives no official portal/app route, or sends the user to an unofficial site or app.",
+ "summary": "Added the New Farmer Registration route (pmkisan.gov.in form: Aadhaar, mobile, State; Aadhaar authenticated with UIDAI), self-registration in the PM-KISAN app (PIB Mar 2026) and the documents needed (myScheme)."
+}

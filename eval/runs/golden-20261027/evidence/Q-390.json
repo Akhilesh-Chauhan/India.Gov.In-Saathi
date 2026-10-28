@@ -1,0 +1,52 @@
+{
+ "id": "Q-390",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/sui",
+   "final": "https://www.myscheme.gov.in/schemes/sui",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:29:37+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "d74113766924cc2370ee.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/sui",
+   "final": "https://www.myscheme.gov.in/schemes/sui",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:29:37+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "d74113766924cc2370ee.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "final": "https://www.myscheme.gov.in/schemes/pmegp",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:31+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "7e1c48bba02e46ccee4c.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

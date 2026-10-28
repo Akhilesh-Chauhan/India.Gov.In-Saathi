@@ -1,0 +1,52 @@
+{
+ "id": "Q-027",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "final": "https://ociservices.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:23+05:30",
+   "sha256": "5988cd7e22835f0477b1c7469562c26f8bc13920639fca93aecdafbd7e62800b",
+   "copy": "b2cb027961158c5ec1c7.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "final": "https://ociservices.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:23+05:30",
+   "sha256": "5988cd7e22835f0477b1c7469562c26f8bc13920639fca93aecdafbd7e62800b",
+   "copy": "b2cb027961158c5ec1c7.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "final": "https://ociservices.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:23+05:30",
+   "sha256": "5988cd7e22835f0477b1c7469562c26f8bc13920639fca93aecdafbd7e62800b",
+   "copy": "b2cb027961158c5ec1c7.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

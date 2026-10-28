@@ -1,0 +1,62 @@
+{
+ "id": "Q-068",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A shop supplying only goods is exempt from registration until its aggregate turnover in a financial year exceeds Rs 40 lakh (Notification 10/2019-Central Tax)",
+   "status": "confirmed",
+   "url": "https://gstcouncil.gov.in/sites/default/files/2024-05/notfctn-10-central-tax-english-2019.pdf",
+   "quote": "Any person, who is engaged in exclusive supply of goods and whose aggregate turnover in the financial year does not exceed forty lakh rupees, except,"
+  },
+  {
+   "fact": "The Rs 40 lakh limit applies w.e.f. 01.04.2019 (1 April 2019)",
+   "status": "confirmed",
+   "url": "https://gstcouncil.gov.in/sites/default/files/2024-05/notfctn-10-central-tax-english-2019.pdf",
+   "quote": "This notification shall come into force on the 1st day of April, 2019."
+  },
+  {
+   "fact": "For goods suppliers the limit is Rs 20 lakh in Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Puducherry, Sikkim, Telangana, Tripura and Uttarakhand",
+   "status": "confirmed",
+   "url": "https://cbic-gst.gov.in/pdf/01052019-GST-An-Update.pdf",
+   "quote": "Registration mandatory for suppliers of goods only if the turnover exceeds Rs.40 lakhs (Rs.20 lakhs in case of States of Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Puducherry, Sikkim, Telangana, Tripura and Uttarakhand)",
+   "note": "Notification 10/2019 excludes intra-State suppliers in these ten States. The CGST Act s.22(1) proviso sets Rs 10 lakh for the special category States (Manipur, Mizoram, Nagaland, Tripura) unless enhanced by notification; CBIC's 2019 documents give Rs 20 lakh for goods there. No later notice of a State opting into Rs 40 lakh was found."
+  },
+  {
+   "fact": "The Rs 40 lakh limit does not apply to persons who must register compulsorily under section 24 of the CGST Act",
+   "status": "confirmed",
+   "url": "https://gstcouncil.gov.in/sites/default/files/2024-05/notfctn-10-central-tax-english-2019.pdf",
+   "quote": "(a) persons required to take compulsory registration under section 24 of the said Act;"
+  },
+  {
+   "fact": "Making any inter-State taxable supply requires compulsory registration under section 24",
+   "status": "confirmed",
+   "url": "https://cbic-gst.gov.in/pdf/CGST-Act-2017-amended-01012022.pdf",
+   "quote": "(i) persons making any inter-State taxable supply; (ii) casual taxable persons making taxable supply;"
+  },
+  {
+   "fact": "Dealers in ice cream, pan masala or tobacco products are excluded from the Rs 40 lakh limit",
+   "status": "confirmed",
+   "url": "https://gstcouncil.gov.in/sites/default/files/2024-05/notfctn-10-central-tax-english-2019.pdf",
+   "quote": "Ice cream and other edible ice, whether or not containing cocoa. 2 2106 90 20 Pan masala 3 24 All goods, i.e. Tobacco and manufactured tobacco substitutes"
+  },
+  {
+   "fact": "For those excluded, the general limit of Rs 20 lakh aggregate turnover (section 22(1)) applies",
+   "status": "confirmed",
+   "url": "https://cbic-gst.gov.in/pdf/CGST-Act-2017-amended-01012022.pdf",
+   "quote": "from where he makes a taxable supply of goods or services or both, if his aggregate turnover in a financial year exceeds twenty lakh rupees"
+  },
+  {
+   "fact": "A shop that also supplies services must register above Rs 20 lakh (Rs 10 lakh in Manipur, Mizoram, Nagaland and Tripura)",
+   "status": "confirmed",
+   "url": "https://cbic-gst.gov.in/pdf/01052019-GST-An-Update.pdf",
+   "quote": "Registration mandatory for suppliers of services only if the turnover exceeds Rs.20 lakhs (Rs.10 lakhs in case of States of Manipur, Mizoram, Nagaland and Tripura)."
+  },
+  {
+   "fact": "Voluntary registration is allowed even if not liable to register",
+   "status": "confirmed",
+   "url": "https://cbic-gst.gov.in/pdf/CGST-Act-2017-amended-01012022.pdf",
+   "quote": "A person, though not liable to be registered under section 22 or section 24 may get himself registered voluntarily"
+  }
+ ],
+ "summary": "All thresholds confirmed on Notification 10/2019-CT, the CGST Act (CBIC copy) and CBIC's 2019 GST update; the Act's Rs 10 lakh proviso for Manipur/Mizoram/Nagaland/Tripura is noted against CBIC's Rs 20 lakh for goods there."
+}

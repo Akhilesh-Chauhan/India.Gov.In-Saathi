@@ -1,0 +1,62 @@
+{
+ "id": "Q-175",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Kharif foodgrain and oilseed crops (all cereals, millets, pulses, oilseeds): the farmer pays at most 2.0% of the sum insured or the actuarial rate, whichever is less",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/faq",
+   "quote": "1 Kharif All foodgrain and Oilseeds crops(all Cereals, Millets, Pulses and Oilseeds crops) 2.0% of SI or Actuarial rate, whichever is less"
+  },
+  {
+   "fact": "Rabi foodgrain and oilseed crops: at most 1.5% of the sum insured or the actuarial rate, whichever is less",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/faq",
+   "quote": "2 Rabi All foodgrain and Oilseeds crops(all Cereals, Millets, Pulses and Oilseeds crops) 1.5% of SI or Actuarial rate, whichever is less"
+  },
+  {
+   "fact": "Annual commercial / annual horticultural crops (Kharif and Rabi): at most 5% of the sum insured or the actuarial rate, whichever is less",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/faq",
+   "quote": "3 Kharif and Rabi Annual Commercial / Annual Horticultural crops 5% of SI or Actuarial rate, whichever is less"
+  },
+  {
+   "fact": "Perennial horticultural / commercial crops (pilot basis): at most 5% of the sum insured or the actuarial rate, whichever is less",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "Perennial horticultural / commercial 5% of SI or Actuarial rate, crops (pilot basis) whichever is less"
+  },
+  {
+   "fact": "The rates (including the perennial pilot rate) are in the PMFBY Operational Guidelines; the latest are the 2023 Operational Guidelines listed on pmfby.gov.in",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/guidelines",
+   "quote": "2023 Operational Guidelines of Pradhan Mantri Fasal Bima Yojana - (PMFBY) 07/11/2024 3.60 MB Download",
+   "note": "The 2023 PDF itself is hosted on pmfby.amnex.co.in (not counted as official by the checker); its rate table matches the 2020 guidelines quoted here."
+  },
+  {
+   "fact": "The rest of the actuarial premium is paid as subsidy by the Centre and the State 50:50, or 90:10 in North-Eastern and Himalayan States/UTs",
+   "status": "confirmed",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "quote": "The Central & State Governments subsidizes the remaining premium in 50:50 proportion. For the farmers in North- Eastern & Himalayan States/UTs, the contribution of Central & State Govt. subsidy is in a 90:10 proportion."
+  },
+  {
+   "fact": "States/UTs may give additional subsidy from their own budget, so some States reduce the farmer's share further",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "However, the States/ UTs are free to extend additional subsidy over and above the normal subsidy from their budget."
+  },
+  {
+   "fact": "The premium for a specific crop/district can be checked with the Insurance Premium Calculator on pmfby.gov.in",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/",
+   "quote": "Do you want to know insurance premium before Crop Insurance? Then Click Below! Insurance Premium Calculator Know your insurance premium before Calculate Now"
+  },
+  {
+   "fact": "Premium paid by non-loanee farmers is rounded off to the nearest rupee",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "*Note: Premium paid by non loanee farmers should be rounded off to nearest Rupee."
+  }
+ ],
+ "summary": "Premium caps 2%/1.5%/5% (FAQ) and 5% perennial pilot, State top-up subsidy and rounding (OG 2020) confirmed; 50:50 / 90:10 NE & Himalayan sharing confirmed by PIB backgrounder of 29 Aug 2026; premium calculator on pmfby.gov.in."
+}

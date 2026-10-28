@@ -1,0 +1,52 @@
+{
+ "id": "Q-186",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://mausam.imd.gov.in/chandigarh/mcdata/agromet_pun.pdf",
+   "final": "https://mausam.imd.gov.in/chandigarh/mcdata/agromet_pun.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:34+05:30",
+   "sha256": "f94e75d65d5d2b79c69d353c2e8cf4a30aa795cdb5341d05cf51dbc4550eacf2",
+   "copy": "d25200906ead2afa2595.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "final": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:52+05:30",
+   "sha256": "ba5946dffac88b532cfb8be46a32cadd11ba581416b89d74e407dc430fd98325",
+   "copy": "e0d6a9462e6d1edbef25.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "final": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:52+05:30",
+   "sha256": "ba5946dffac88b532cfb8be46a32cadd11ba581416b89d74e407dc430fd98325",
+   "copy": "e0d6a9462e6d1edbef25.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

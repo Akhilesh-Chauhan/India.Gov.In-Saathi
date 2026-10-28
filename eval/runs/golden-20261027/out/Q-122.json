@@ -1,0 +1,33 @@
+{
+ "id": "Q-122",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "India Post's savings page gives the PPF rate as 7.1% per annum, compounded yearly",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Public Provident Fund Account (PPF) Rate of Interest: 7.1% per annum (compounded yearly)",
+   "note": "The India Post page shows 'Last Updated On: 19.10.2026' (within Q3 FY 2026-27)."
+  },
+  {
+   "fact": "The NSI table shows PPF at 7.1% up to 30.09.2026 (covering Jul-Sep 2026)",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=178",
+   "quote": "01.07.2019 TO 31.03.2020 7.9 01.04.2020 TO 30.09.2026 7.1"
+  },
+  {
+   "fact": "Rates for 1 Oct - 31 Dec 2026 (Q3 FY 2026-27) were set by DEA's Office Memorandum dated 30.09.2026",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"
+  },
+  {
+   "fact": "DEA's OM of 30.09.2026 keeps all small savings rates for Oct-Dec 2026 (Q3 FY 2026-27) unchanged from Q2, so PPF stays at 7.1%",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "note": "Quoted from the OCR of the scanned OM. The 7.1% is derived: the OM keeps Q2 rates, and NSI shows PPF at 7.1% to 30.09.2026.",
+   "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter"
+  }
+ ],
+ "summary": "PPF 7.1% confirmed (India Post current page; NSI to 30.09.2026); DEA Q3 OM dated 30.09.2026 confirmed; 'unchanged' only in the scanned OM (manual)."
+}

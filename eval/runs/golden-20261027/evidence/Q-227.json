@@ -1,0 +1,37 @@
+{
+ "id": "Q-227",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.sci.gov.in/live-streaming/",
+   "final": "https://www.sci.gov.in/live-streaming/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:54+05:30",
+   "sha256": "21a6c581129965a9114eb81e2f8d130b757462ee59d90e60e33360bba01833eb",
+   "copy": "e4a0aff5640e6b7191ad.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.sci.gov.in/live-streaming/",
+   "final": "https://www.sci.gov.in/live-streaming/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:54+05:30",
+   "sha256": "21a6c581129965a9114eb81e2f8d130b757462ee59d90e60e33360bba01833eb",
+   "copy": "e4a0aff5640e6b7191ad.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,5 @@
+anthropic==1.14.0
+boto3==1.43.114
+deepeval==4.2.9
+openpyxl==3.1.5
+playwright==1.64.0

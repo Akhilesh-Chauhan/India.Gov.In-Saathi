@@ -1,0 +1,31 @@
+{
+ "id": "Q-399",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN: eligible landholding farmer families get Rs 6,000 a year in three equal instalments by DBT",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292460&reg=3&lang=1",
+   "quote": "Under the Scheme, eligible landholding farmer families receive financial assistance of Rs.6,000 per year, transferred directly into their bank accounts in three equal instalments.",
+   "example": true,
+   "note": "The same PIB release (31 Jul 2026) is titled 'Cabinet approves continuation of the PM-KISAN Scheme from 2026-27 to 2030-31'."
+  },
+  {
+   "fact": "PM Fasal Bima Yojana (crop insurance): the farmer pays at most 2% premium for Kharif food and oilseed crops, 1.5% for Rabi, and 5% for annual commercial or horticultural crops; the rest is subsidised",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmfby",
+   "quote": "The maximum premium payable by the farmer will be 2% for the Kharif food and oilseed crops. For rabi food and oilseeds crop, it is 1.5% and for yearly commercial or horticultural crops it will be 5%.",
+   "example": true
+  },
+  {
+   "fact": "PM Kisan Maandhan Yojana: assured pension of Rs 3,000 a month for small and marginal farmers (up to 2 hectares) who join between ages 18 and 40",
+   "status": "added",
+   "url": "https://pmkmy.gov.in/",
+   "quote": "Eligibility For Small and Marginal Farmers Entry Age between 18 to 40 years Cultivable land up to 2 hectares as per land records of the concerned State/UT Features Assured pension of Rs. 3000/- month",
+   "example": true
+  }
+ ],
+ "behaviour": "Handles the romanised Hindi (7.4.5) and replies in Hinglish/Hindi; gives a short list of Central farmer schemes (e.g. PM-KISAN, PMFBY, PM Kisan Maandhan) with their key benefit or criteria, each cited to the myScheme record or the Ministry/PIB page; links myScheme for the full list; no eligibility verdict.",
+ "fail_if": "It lists State schemes as Central, gives amounts not on the cited source, or dumps a long uncited list.",
+ "summary": "Added three core Central farmer schemes with their published benefit: PM-KISAN Rs 6,000/yr (PIB 31 Jul 2026, continued to 2030-31), PMFBY premium caps 2%/1.5%/5% (myScheme), PM-KMY Rs 3,000/month pension, entry age 18-40 (pmkmy.gov.in)."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-360",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.digilocker.gov.in/web/partners/requesters",
+   "final": "https://www.digilocker.gov.in/web/partners/requesters",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:21+05:30",
+   "sha256": "c1e73f782d9e3cb8399e3daea38f9f87c0ae6c7bed858b89b7d8147d3fab59f7",
+   "copy": "6d229a0e1cd7b3b7107b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://apisetu.gov.in/digilocker",
+   "final": "https://apisetu.gov.in/digilocker",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:35+05:30",
+   "sha256": "6bd1773f53ebe1ad76f961c123765c9a14e2e42be7c03efb88caa50998fdcd0b",
+   "copy": "18a93efb7f08e316b9c8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://apisetu.gov.in/digilocker",
+   "final": "https://apisetu.gov.in/digilocker",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:35+05:30",
+   "sha256": "6bd1773f53ebe1ad76f961c123765c9a14e2e42be7c03efb88caa50998fdcd0b",
+   "copy": "18a93efb7f08e316b9c8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

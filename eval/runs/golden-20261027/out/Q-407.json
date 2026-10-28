@@ -1,0 +1,13 @@
+{
+ "id": "Q-407",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Farmers check their own PM-KISAN status on 'Know Your Status' on pmkisan.gov.in",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Farmers are requested to check their eligibility status on Know Your Status (KYS) of PM KISAN website/ mobile app or Kisan eMitra chatbot for further details."
+  }
+ ],
+ "summary": "Know Your Status on pmkisan.gov.in confirmed; rest is privacy behaviour."
+}

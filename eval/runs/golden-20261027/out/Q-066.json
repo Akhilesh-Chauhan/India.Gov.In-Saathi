@@ -1,0 +1,13 @@
+{
+ "id": "Q-066",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "As of 28 Oct 2026 the most recent item on the ITD Latest News page is dated 27-Oct-2026: CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026 (new Rule 281A and Form 173A for claiming exemption on interest and capital gains from Government securities)", "status": "changed",
+   "was": "the Circular 07/2026 due-date item (latest as of 13 Oct 2026)",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "quote": "27-Oct-2026 CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025."}
+ ],
+ "behaviour": "Reports the top item on the live ITD Latest News page (incometax.gov.in/iec/foportal/latest-news) with its date and cites the page. The page changes often: any item that is the newest on the live page when the test runs is acceptable if its date is given; on 28 Oct 2026 that was the 27-Oct-2026 Seventh Amendment Rules item.",
+ "fail_if": "Gives an item without its date, invents an item not on the page, or presents an older item (such as the 29-Sep-2026 Circular 07/2026 item) as the latest when newer items are on the live page.",
+ "summary": "Latest ITD news item is now the 27-Oct-2026 proposed Income-tax (Seventh Amendment) Rules, 2026 (Rule 281A, Form 173A), not the Circular 07/2026 item."
+}

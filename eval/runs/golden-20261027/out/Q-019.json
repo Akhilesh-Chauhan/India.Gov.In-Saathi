@@ -1,0 +1,32 @@
+{
+ "id": "Q-019",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The application fee for a fresh passport for a minor (below 18) is Rs 1,750",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "3 Fresh Passport/Re-issue of Passport for Minors (below 18 years of Age), of 5 years validity or till the minor attains the age of 18 whichever is earlier (36 pages) Rs.1,750/-",
+   "note": "The '52 chunks' in the expected answer is the bot's index count from the developer seed (a behaviour note), not a fact about the passport fee; nothing to check on an official page."
+  },
+  {
+   "fact": "A minor's passport has 36 pages and is valid for 5 years or until the child turns 18, whichever is earlier",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "Fresh Passport/Re-issue of Passport for Minors (below 18 years of Age), of 5 years validity or till the minor attains the age of 18 whichever is earlier (36 pages)"
+  },
+  {
+   "fact": "Fresh applications for minors aged 8 or below get a 10% rebate on the basic passport fee",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "For fresh Passport application, a rebate of 10% on basic Passport fee will be applicable for minor applicants (age <= 8 years) and senior citizens (age > 60 years)."
+  },
+  {
+   "fact": "Tatkaal adds Rs 2,500, paid on top of the application fee",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "(36 pages) Rs.1,750/- Rs.2,500/ 4 Replacement of Passport"
+  }
+ ],
+ "summary": "Passport Seva fee page still lists Rs 1,750 for a minor's 36-page passport (5 years/till 18), 10% rebate for age 8 or below, Tatkaal Rs 2,500 extra."
+}

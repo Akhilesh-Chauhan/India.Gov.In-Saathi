@@ -1,0 +1,82 @@
+{
+ "id": "Q-329",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:54+05:30",
+   "sha256": "1c4aa36925dc7516615d77c7d5973a609f2a792860a1a3277d78df5f0af70409",
+   "copy": "681727ad557573ef190e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2152593",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2152593&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:39+05:30",
+   "sha256": "85d1bfcf4e1b35cd5baa41bd82124d252d06a4660c4746d1df2e4273fa5c02af",
+   "copy": "a401a8a419757fc3f2c0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "final": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:28:22+05:30",
+   "sha256": "5be9ffacba3e8a1c4e04a90cf354830c05e715fd25e74261096ada606cd03c7e",
+   "copy": "5800407269a73dc3f327.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "final": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:28:22+05:30",
+   "sha256": "5be9ffacba3e8a1c4e04a90cf354830c05e715fd25e74261096ada606cd03c7e",
+   "copy": "5800407269a73dc3f327.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "final": "https://www.indiapost.gov.in/banking-services/savings",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:38+05:30",
+   "sha256": "fee399b8d68f72e56c3e9d370b315d9474b9eb228dab7cdee4918aaa24dc3203",
+   "copy": "8fe2b69106bc1f41d9f4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "Q-489",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Around 80 crore persons are covered under NFSA at present (nfsa.gov.in NFSA Act page; the page gives no date)",
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "quote": "around 80 crore persons have been covered under NFSA at present for receiving highly subsidized foodgrains."},
+  {"fact": "Official pages differ on the maximum (intended) coverage under NFSA: 81.34 crore persons on the nfsa.gov.in NFSA Act page, 81.35 crore in PIB's factsheet of 12 Aug 2026",
+   "status": "conflict",
+   "was": "maximum coverage of 81.34 crore",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "quote": "out of maximum coverage of 81.34 crore persons , around 80 crore persons have been covered under NFSA at present",
+   "also": [{"url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150838&reg=1&lang=1",
+             "quote": "As of February 2026, under the National Food Security Act (NFSA), against the intended coverage of 81.35 crore , the States/UTs have identified 80.56 crore persons for the provision of subsidized foodgrains."}],
+   "note": "Searched nfsa.gov.in, dfpd.gov.in and pib.gov.in (28 Oct 2026): the undated NFSA page says 81.34 crore; the dated PIB factsheet (12 Aug 2026) says 81.35 crore. A 0.01 crore rounding difference; no notice settles it."},
+  {"fact": "Dated figure: as of February 2026, States/UTs had identified 80.56 crore persons under NFSA for subsidised foodgrains (PIB factsheet, 12 Aug 2026)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150838&reg=1&lang=1",
+   "quote": "As of February 2026, under the National Food Security Act (NFSA), against the intended coverage of 81.35 crore , the States/UTs have identified 80.56 crore persons for the provision of subsidized foodgrains."},
+  {"fact": "Dated figure: around 79.8 crore beneficiaries were covered under NFSA as of December 2025 (PIB factsheet, 12 Aug 2026)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150838&reg=1&lang=1",
+   "quote": "Around 79.8 crore beneficiaries are covered across the country under NFSA, as of December 2025."}
+ ],
+ "behaviour": "Says about 80 crore persons are covered under NFSA out of a maximum of about 81.3 crore, citing nfsa.gov.in (NFSA Act page) or PIB, and gives the date of the figure where the source has one (PIB: 80.56 crore identified as of Feb 2026; about 79.8 crore covered as of Dec 2025); says the nfsa.gov.in figure is undated if it uses that. Either 81.34 crore (nfsa.gov.in) or 81.35 crore (PIB) is accepted as the maximum coverage when the page is cited.",
+ "fail_if": "Gives the 81.34/81.35 crore ceiling as the number actually covered, or gives a coverage figure that is not on an official page.",
+ "summary": "About 80 crore covered confirmed; maximum coverage is 81.34 crore on nfsa.gov.in but 81.35 crore in PIB's 12-Aug-2026 factsheet; added PIB's dated figures (80.56 crore identified Feb 2026, 79.8 crore covered Dec 2025)."
+}

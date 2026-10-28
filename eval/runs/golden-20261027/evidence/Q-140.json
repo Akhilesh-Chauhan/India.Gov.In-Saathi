@@ -1,0 +1,52 @@
+{
+ "id": "Q-140",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmjdy.gov.in/scheme",
+   "final": "https://pmjdy.gov.in/scheme",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:18+05:30",
+   "sha256": "707a72ba4637c107b66c4b29162d33737c411e12cc129fd941753bd9318603c9",
+   "copy": "c21f9c75a55d9b1b5bff.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmjdy.gov.in/scheme",
+   "final": "https://pmjdy.gov.in/scheme",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:18+05:30",
+   "sha256": "707a72ba4637c107b66c4b29162d33737c411e12cc129fd941753bd9318603c9",
+   "copy": "c21f9c75a55d9b1b5bff.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566",
+   "final": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:49+05:30",
+   "sha256": "9a297c5a868c257151e74944567acdf7c852f6ee3eafc2fabefe83a5f9dce0c3",
+   "copy": "e4f70c243c9fde0e7a9a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

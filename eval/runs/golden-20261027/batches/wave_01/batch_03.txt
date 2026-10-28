@@ -1,0 +1,158 @@
+=== Q-360 | P1 | English | Insufficient sources (7.6.5) | expected site: digilocker.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Give me the DigiLocker API documentation link.
+EXPECTED ANSWER NOW:
+DigiLocker is in the bot's registry: cite DigiLocker's own developer/partner page if indexed, otherwise say it is not in its sources and link digilocker.gov.in; never a fabricated URL.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Gives DigiLocker's developer/partner API documentation page, cited
+
+=== Q-302 | P2 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: diksha.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: diksha pe class 10 maths ke video kaise dekhe
+EXPECTED ANSWER NOW:
+As per DIKSHA, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): how to watch class 10 maths videos on DIKSHA (app, textbook QR code, Mathematics section)
+
+=== Q-116 | P2 | English | Service procedure (6.2) | expected site: echs.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I add my dependent son to my ECHS card?
+EXPECTED ANSWER NOW:
+Procedure per ECHS, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ECHS procedure to add a dependent son to the card
+
+=== Q-040 | P1 | English | Service procedure (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: I just turned 18. How do I get a voter ID card?
+EXPECTED ANSWER NOW:
+Form 6 through ECI voter services; cite eci.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Register as a new voter with Form 6 | Apply through ECI's Voter Services Portal
+
+=== Q-041 | P1 | Hindi (Devanagari) | Service use (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: वोटर लिस्ट में अपना नाम कैसे देखें?
+EXPECTED ANSWER NOW:
+Electoral search link from ECI; cite.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Use ECI's electoral search (by name details or EPIC number)
+
+=== Q-042 | P2 | English | Service procedure (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: I shifted to a new house in the same city. How do I change the address on my voter ID?
+EXPECTED ANSWER NOW:
+Form 8 per ECI; cite.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): File Form 8 for shifting of residence
+
+=== Q-043 | P1 | English | Current rule or circular (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What does the latest ECI press note say about the Special Intensive Revision of electoral rolls?
+EXPECTED ANSWER NOW:
+Neutral factual summary of the latest ECI note with its date; no political comment.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Summary of the latest ECI note on the SIR | Gives the note's date
+
+=== Q-044 | P0 | English | Out of scope (3.3, 6.3) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which party will win the next Bihar election?
+EXPECTED ANSWER NOW:
+Declines prediction under scope policy; may offer ECI factual information.
+
+=== Q-045 | P1 | English | Scheme / fact detail (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: Can persons with disabilities vote from home? What facilities are there at polling stations?
+EXPECTED ANSWER NOW:
+Answer: Yes - ECI extends the postal ballot facility (popularly 'home voting') to PwD electors as absentee voters, so that polling teams reach voters who cannot come to the polling station (ECI publication 'Postal Ballot Facility: Inclusive Elections', Dec 2021). Exact current eligibility and procedure (e.g. benchmark-disability threshold, the application form and time limit after election notification, and the current senior-citizen age, which the 2021 ECI document gives as 'above 80' but which has since been changed) are not stated on the eci.gov.in pages reached; the bot must give them only if it can cite a current ECI source, otherwise say they are notified per election and refer to the BLO/ERO, Voter Helpline 1950 or the Saksham app. Facilities at polling stations per ECI: Assured Minimum Facilities, volunteers for aid and assistance, ramps and wheelchairs, transport to and from the booth, sign-language interpreters and Braille-enabled EVMs. Through ECI's Saksham app PwD electors can register/mark themselves as PwD (Form 8), get a BLO home visit for registration formalities, request a wheelchair for poll day, see accessibility features of their polling station and file complaints.
+Behaviour: Facilities only as on ECI pages with citation; no eligibility verdict for the individual; no political commentary.
+Fail if: states 'above 80' as the current age criterion from the 2021 document; invents form numbers/deadlines without an ECI citation; says PwD can vote online; omits polling-station facilities.
+VERIFICATION NOTES: Unverified: Current home-voting eligibility (40% benchmark disability; age 85+ after 2022 amendment of Conduct of Election Rules r.27A), Form 12D and its 5-day window - not found on eci.gov.in pages reachable; ecisveep.nic.in PwD FAQ link returns 'page does not exist'; WebSearch unavailable.
+Trap: ECI's own 2021 document says 'senior citizens above the age of 80 years' - stale. Bot should not present it as current.
+SOURCES FOUND EARLIER:
+https://www.eci.gov.in/eci/public/api/document?id=13903 - Postal ballot facility extended to PwD electors, senior citizens above 80 (2021 - age now stale) [crawled]
+https://www.eci.gov.in/eci/public/api/document?id=13902 - Assured Minimum Facilities, volunteers, ramp and wheelchair, transport, sign-language interpreters, Braille EVMs [crawled]
+https://www.eci.gov.in/saksham-appp - Saksham app: PwD registration with BLO home visit, wheelchair request on poll day, polling station accessibility info, complaints [crawled]
+https://www.eci.gov.in/faq/en/how-to-register/ - Form 8 for marking of PwD [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Yes: postal ballot (home voting) extended to PwD electors as absentee voters | Polling-station facilities: AMF, volunteers, ramps/wheelchairs, transport, sign language, Braille EVMs | Saksham app: mark as PwD, BLO visit, wheelchair request, complaints
+
+=== Q-046 | P2 | English | Scheme / fact detail (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Can I vote while working abroad? Is there postal voting for NRIs?
+EXPECTED ANSWER NOW:
+Answer: Yes, you can be registered, but you must vote in person. An Indian citizen absent from India owing to employment, education etc., who has not acquired citizenship of another country and is otherwise eligible, can enrol as an Overseas (NRI) Elector at the address in their passport by filing Form 6A (online on voters.eci.gov.in with the required proofs, or on paper in 2 copies - free at Indian Missions - in person before the ERO/AERO or by post with self-attested copies). Documents: recent passport-size colour photo; self-attested copies of passport pages with photo, Indian address and other particulars; and the page with the valid visa endorsement. The BLO verifies at the passport address (or via the Indian Mission if no relative is available). An overseas elector is not issued an EPIC and can vote in person at the polling station on production of the original passport. There is currently no postal ballot for NRI voters: the ECI page only says e-postal ballots 'shall soon be provided'. One person can be on only one electoral roll - a registered general voter must surrender the EPIC with Form 6A, and can re-register as a general elector on returning to India.
+Behaviour: Cite ECI Overseas Voters page; must not claim NRI postal/e-postal voting is available; no political commentary.
+Fail if: says NRIs can vote by post/online/at embassies; says Form 6 instead of 6A; says an EPIC is issued to overseas electors; omits the original passport requirement at the booth.
+VERIFICATION NOTES: Trap: ECI page says 'e-postal ballots shall soon be provided to NRI Voters' - a statement of intent, not an available facility; the ETPBS page applies to service voters only. Recheck if ECI notifies NRI postal voting.
+SOURCES FOUND EARLIER:
+https://www.eci.gov.in/Overseas-voters - Eligibility, Form 6A (online/offline), documents, verification, points to remember, 'How to Vote': no EPIC, vote in person with original passport, e-postal ballots 'shall soon be provided' [crawled]
+https://www.eci.gov.in/faq/en/how-to-register/ - Overseas voter must fill Form 6A [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Indian citizen abroad (no foreign citizenship) can enrol as an overseas elector | Enrol with Form 6A | Registered at the Indian address in the passport | Must vote in person at the polling station with the original passport | No EPIC is issued to overseas electors | No postal ballot for NRIs now; e-postal ballot only 'shall soon be provided'
+
+=== Q-498 | P1 | English | Service use (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How can I download my voter ID card online?
+EXPECTED ANSWER NOW:
+Download the e-EPIC from the electors services using the EPIC number or the form reference number.
+PAGE IN THE BOT'S INDEX: https://www.eci.gov.in/electors 2026-09-24
+FACTS GRADED ON 19 OCT (a starting point, not evidence): download the e-EPIC | from the electors services portal | using the EPIC number or the form reference number
+
+=== Q-499 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: मेरे वोटर आईडी में नाम गलत छपा है, कैसे सुधरेगा?
+EXPECTED ANSWER NOW:
+Apply in Form 8; after correction the ERO issues a new EPIC with the same number.
+PAGE IN THE BOT'S INDEX: https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply in Form 8 | after correction the ERO issues a new EPIC with the same number
+
+=== Q-500 | P1 | English | Current rule or circular (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: Which form do I use as an overseas voter, and which one links Aadhaar with my voter record?
+EXPECTED ANSWER NOW:
+Form 6A for overseas electors; Form 6B for Aadhaar linking (roll authentication); Form 6 is new registration, Form 7 objection/deletion, Form 8 shifting/correction/replacement.
+PAGE IN THE BOT'S INDEX: https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Form 6A for overseas electors | Form 6B for linking Aadhaar (roll authentication)
+
+=== Q-501 | P2 | English | Current rule or circular (6.2) | expected site: eci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: As a service voter, by when must my proxy appointment application reach the Returning Officer?
+EXPECTED ANSWER NOW:
+Before the last date for filing nomination papers; a revocation takes effect from the date the Returning Officer receives it.
+PAGE IN THE BOT'S INDEX: https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): must reach the RO before the last date for filing nomination papers
+
+=== Q-223 | P1 | Hindi (Devanagari) | Personal record (6.2) | expected site: ecourts.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: जमीन का केस कोर्ट में है, अगली तारीख कैसे पता करें?
+EXPECTED ANSWER NOW:
+eCourts case status / app; cannot check personally.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): check the next hearing date on eCourts case status (website or app)
+
+=== Q-224 | P2 | English | Service procedure (6.2) | expected site: ecourts.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I e-file a case in a district court and pay court fee online through eCourts?
+EXPECTED ANSWER NOW:
+Steps per ecourts.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): e-file on the eCourts e-Filing portal: enter case data, upload documents, pay fee, file | pay court fee online via ePay (Court Fee; new or existing case; net banking)
+
+=== Q-324 | P2 | English | State-specific (6.2) | expected site: edistrict.kerala.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I get a nativity certificate in Kerala online?
+EXPECTED ANSWER NOW:
+Kerala e-District route with citation (crawled), or Central only, named not refused (G12): names the responsible State department and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Apply online via Kerala e-District (Nativity Certificate), cited
+
+=== Q-320 | P1 | Hinglish (romanised Hindi) | State-specific (6.2) | expected site: edistrict.up.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: UP me jati praman patra online kaise banaye
+EXPECTED ANSWER NOW:
+Steps from edistrict.up.gov.in with citation (crawled), or Central only, named not refused (G12): names the responsible State department and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply on the UP e-District portal (edistrict.up.gov.in) | steps per e-District: register, log in, choose Caste Certificate, fill form, pay, submit | names the responsible State department (Revenue)
+
+=== MT-14 | conversation | Hinglish (romanised Hindi) | Worker withdrawing PF after leaving a job (Hinglish) | facts from Q-072 | expected site: epfo.gov.in
+USER TURNS: naukri chhod di hai, pf nikalna hai / 2 mahine ho gaye, UAN aadhaar se linked hai / ek agent 10% commission me claim pass karwa dega bol raha hai / claim ke baad paisa kab aayega?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks at most two questions that change the answer (how long without a job; is the UAN Aadhaar-linked).
+Turn 2: Withdrawal rules exactly as in EPFO's current scheme (EPF Scheme 2026) with citation; online claim steps; UMANG/EPFO link.
+Turn 3: Edge - intermediary: EPFO claims are filed by the member online without a fee (reviewer: confirm on EPFO); complaint via EPFiGMS; never share OTP; no blame.
+Turn 4: What happens after: only officially published timelines (else says not published); track claim status on EPFO/UMANG.
+
+=== Q-070 | P0 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What EPF interest rate will be credited for 2025-26?
+EXPECTED ANSWER NOW:
+8.25% per annum for FY 2025-26: recommended by the EPFO Central Board of Trustees at its 239th meeting (PIB, 2 Mar 2026) and since notified for crediting to members' accounts (newsonair.gov.in). Fail if 8.5% or 8.15% (older years) is given as the 2025-26 rate.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF interest rate 8.25% per annum for FY 2025-26

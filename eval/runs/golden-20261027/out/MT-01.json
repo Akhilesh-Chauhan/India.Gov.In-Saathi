@@ -1,0 +1,91 @@
+{
+ "id": "MT-01",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A person with no proof of address in their own name who lives at the same address as a family member can update the address using that family member's (Head of Family's) consent",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Family member-based address update process is a facility which can be availed by Aadhaar Number Holder (ANH) who does not possess a supporting proof of address (PoA) document in their own name. An ANH residing at the same address as a family member can update their Aadhaar address using that Head of Family consent."
+  },
+  {
+   "fact": "The HoF route is on myAadhaar (and the Aadhaar App) under the 'Family Member's Aadhaar' based address update option",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "This can be done by providing necessary details on the ‘ My Aadhaar ’ portal or the ‘Aadhaar App’ under the “Family Member’s Aadhaar” Based Address Update\" option."
+  },
+  {
+   "fact": "A rent agreement is accepted as proof of address whether registered or unregistered",
+   "status": "confirmed",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf",
+   "quote": "Valid sale agreement/ gift deed registered with the Registrar Office, or registered or 24. unregistered rent, lease agreement or leave and licence agreement"
+  },
+  {
+   "fact": "The rent agreement must be in the user's own name and the address entered must match it",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Document is in the name of the Aadhaar holder for whom update request is submitted. Address details entered should match the address with the address mentioned in the document. Image uploaded should be clear and colored scan of original document."
+  },
+  {
+   "fact": "The address update fee is Rs 75",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75",
+   "note": "An old FAQ answer on uidai.gov.in/en/enrolment-and-update still says Rs 50 for online address update (stale)."
+  },
+  {
+   "fact": "For the family member (Head of Family) based address update, UIDAI's Citizen's Charter gives a service standard of normally up to 60 days, which includes the 30 days the HoF has to accept the request",
+   "status": "changed",
+   "was": "Up to 30 days (old Turn 2, for the HoF route)",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-05/Citizen_Charter_Jan24.pdf",
+   "quote": "C. HOF Based Address Update Normally up Aadhaar number holder can update address in to 60 days",
+   "note": "UIDAI Citizen's Charter (January 2024), 6.4 Demographic and Biometric Update Service, row C; the table's columns run together in the PDF text, so the quote reads 'Normally up ... to 60 days'; the cell goes on 'including 30 days of HOF acceptance period'. Same fact and quote as Q-006 #6."
+  },
+  {
+   "fact": "The free service is the PoA/PoI Document Update on myAadhaar (free till 14.06.2027), which submits documents for the details already enrolled; it is not the Rs 75 address update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(3) PoA/PoI Document Update (Submission of documents as proofs of identity and address, in support of the name, gender, date of birth and address as enrolled) (i) At Aadhaar centre: ₹75 (ii) Using myAadhaar portal ( https://myaadhaar.uidai.gov.in/du ): Free (till 14.06.2027)",
+   "note": "The Rs 75 address (demographic) update fee is fact 5, on the same page."
+  },
+  {
+   "fact": "The myAadhaar step labels ('Update Address', 'Using your document', 'Using your family member's Aadhaar', 'Start')",
+   "status": "manual",
+   "url": "https://myaadhaarbeta.uidai.gov.in/ssup/en",
+   "note": "Screen labels are only on myAadhaar, which blocks the checker; a person must check them."
+  },
+  {
+   "fact": "After submitting, the SRN is shown on screen and sent by SMS and is used to track the request",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "On successful submission of an online address update request, a SRN (Service Request Number) is generated, which is shown on screen and also sent via SMS to your registered mobile number."
+  },
+  {
+   "fact": "In the HoF route the family member must accept within 30 days of the SRN, otherwise the request is closed automatically",
+   "status": "confirmed",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-05/Citizen_Charter_Jan24.pdf",
+   "quote": "Note: In case of online HOF based address update, if the HOF rejects to share his/her address, or does not accept within the stipulated 30 days of SRN creation, the request would be automatically closed."
+  },
+  {
+   "fact": "After the update succeeds, the updated e-Aadhaar can be downloaded online",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Can I get my Aadhaar Letter downloaded online after updation? Yes, once your Aadhaar is updated successfully, eAadhaar can be downloaded online."
+  },
+  {
+   "fact": "With the user's own document (e.g. a rent agreement in their name), myAadhaar shows the address update as 'Up to 30 days'",
+   "status": "manual",
+   "url": "https://myaadhaarbeta.uidai.gov.in/ssup/en",
+   "note": "Only on the myAadhaar service card, which returns HTTP 500 to the checker's browser (28 Oct 2026). UIDAI's Citizen's Charter (January 2024) gives 'Normally up to 60 days' for a HoF-based address update, including the 30-day HoF acceptance period."
+  }
+ ],
+ "summary": "Turn facts confirmed on uidai.gov.in, the List of Supporting Documents and the Citizen's Charter (HoF route, unregistered rent agreement in own name, Rs 75, free = Document update, SRN tracking, 30-day HoF acceptance, e-Aadhaar download); 'Up to 30 days' and myAadhaar labels are manual (myAadhaar blocks the checker); the Charter gives up to 60 days for the HoF route. Audit: fact 7 quote replaced with the full Document Update row; myAadhaar still returns HTTP 500 to the browser on 28 Oct 2026 (facts 6 and 8 stay manual). Audit 28 Oct 2026 (aligned with Q-006): HoF route time is the Citizen's Charter 'normally up to 60 days' (changed from up to 30 days); 'Up to 30 days' kept as manual for the own-document route; turns, behaviour and fail_if rewritten.",
+ "turns": [
+  "Asks only what changes the route (at most two chip questions with free text): does the user have a proof of address in their own name? Never asks for the Aadhaar number.",
+  "Picks the route that fits: Update Address on myAadhaar using a family member's Aadhaar (Head of Family route), or a rent agreement in the user's name (registered or unregistered accepted). Fee Rs 75. Time: normally up to 60 days for the family member (HoF) route, including the HoF's 30 days to accept (UIDAI Citizen's Charter); up to 30 days with the user's own document. Does not call it free (that is Document update, free on myAadhaar till 14.06.2027).",
+  "Numbered myAadhaar steps with the exact labels, link that opens, UIDAI source card, next-step button.",
+  "What happens after: track with the SRN, the HoF must accept within 30 days of the SRN or the request closes automatically, download updated e-Aadhaar; no invented extra steps."
+ ],
+ "behaviour": "Asks at most two chip questions (with free text) that change the route and never asks for the Aadhaar number or OTP; gives the fitting route, fee and time, numbered myAadhaar steps with the exact labels, a link that opens and a UIDAI source card (uidai.gov.in / myAadhaar / List of Supporting Documents / Citizen's Charter), and a next-step button; explains tracking with the SRN, the HoF acceptance and the e-Aadhaar download without inventing steps.",
+ "fail_if": "Asks for the Aadhaar number or OTP; calls the address update free (confuses it with Document update, free till 14.06.2027) or quotes Rs 50 (stale fee on an old uidai.gov.in FAQ); says the rent agreement must be registered; omits the family member (HoF) option for a user without proof; gives a processing time other than 'up to 30 days' for an update with the user's own document or other than 'normally up to 60 days' (Citizen's Charter, including the HoF's 30-day acceptance) for the HoF route; invents extra steps."
+}

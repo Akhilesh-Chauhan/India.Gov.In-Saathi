@@ -1,0 +1,67 @@
+{
+ "id": "Q-106",
+ "checked_at": "2026-10-28T14:02:53+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:20+05:30",
+   "sha256": "39810ec988ca51d1554a903b75eb182171c352d6182867d76c5d64889a65f971",
+   "copy": "7c2590e6221f911018ea.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "final": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:53+05:30",
+   "sha256": "35bd4d9e46ce579c82f85045374356c859fd6b7b84b9f217d5cf3b6dfc8ee054",
+   "copy": "9992246434e9406deff0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "final": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:03:05+05:30",
+   "sha256": "9432d8e3009bacd42419216551905ad6d8a514f24a3f3cb24c5b1c9a3c427f69",
+   "copy": "faed45e13395a45a8229.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:20+05:30",
+   "sha256": "39810ec988ca51d1554a903b75eb182171c352d6182867d76c5d64889a65f971",
+   "copy": "7c2590e6221f911018ea.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

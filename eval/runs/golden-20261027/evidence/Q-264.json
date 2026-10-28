@@ -1,0 +1,52 @@
+{
+ "id": "Q-264",
+ "checked_at": "2026-10-28T14:03:29+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://wcd.gov.in/offerings/mission-shakti-guidelines-for-implementation-mission-shakti",
+   "final": "https://wcd.gov.in/offerings/mission-shakti-guidelines-for-implementation-mission-shakti",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:43+05:30",
+   "sha256": "03a978da7c39c35af70bb9a25236b5475e982fc5edff980be40b81ba55c9f4aa",
+   "copy": "76099c7319d7e7cabdf4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://wcd.gov.in/women/palna",
+   "final": "https://wcd.gov.in/women/palna",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:22+05:30",
+   "sha256": "884229275dcb0f630e355e57d8858def14ff6fb51eeb929a472a24e5a3433172",
+   "copy": "3962100951c8cdad2dd2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://wcd.gov.in/women/palna",
+   "final": "https://wcd.gov.in/women/palna",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:22+05:30",
+   "sha256": "884229275dcb0f630e355e57d8858def14ff6fb51eeb929a472a24e5a3433172",
+   "copy": "3962100951c8cdad2dd2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

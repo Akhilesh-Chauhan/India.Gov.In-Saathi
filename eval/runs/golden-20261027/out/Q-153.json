@@ -1,0 +1,35 @@
+{
+ "id": "Q-153",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "As of 28 Oct 2026 the latest released PM-KISAN instalment is the 23rd instalment",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal.",
+   "note": "Derived: the home page text on 28 Oct 2026 still announces the 23rd as the latest release; its period-wise table ends at APR-JUL 2026-27."
+  },
+  {
+   "fact": "The 23rd instalment was released on 20 June 2026",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  },
+  {
+   "fact": "The Prime Minister released it from Tarakeswar, Hooghly, West Bengal",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  },
+  {
+   "fact": "The 24th instalment is scheduled for 30 October 2026: a Prime Minister's event in Gujarat to transfer it to more than 9.34 crore PM-KISAN beneficiaries",
+   "status": "added",
+   "url": "https://pmevents.mygov.in/en/home/",
+   "quote": "Upcoming Events Transfer of 24th installment to more than 9.34 Crore PM-KISAN beneficiaries 30th October 2026 Gujarat",
+   "note": "The pmkisan.gov.in home-page banner image (new_images/PMKisantwentyfortyinstallment.jpg) also announces the PM's release of the 24th instalment on 30 Oct 2026 (9.34 crore+ farmers, Rs 18,680 crore+); no PIB text release found on 28 Oct 2026."
+  }
+ ],
+ "behaviour": "Names the latest released instalment with its date, citing pmkisan.gov.in or PIB: up to 30 Oct 2026 that is the 23rd instalment, released by the Prime Minister on 20 June 2026 from Tarakeswar, Hooghly (West Bengal); the 24th is scheduled for 30 Oct 2026 (Gujarat). If the question is asked after the 24th has been released and the bot cites an official page showing that release, naming the 24th (30 Oct 2026) as the latest is correct.",
+ "fail_if": "It names a wrong instalment number or date, calls the 20 June 2026 release the '20th' instalment, says the 24th has been released without an official source, or quotes blog/YouTube dates.",
+ "summary": "23rd (20 Jun 2026, Tarakeswar) still latest on 28 Oct 2026, but the 24th is officially scheduled for 30 Oct 2026 (PM Events listing; pmkisan.gov.in banner image); answer rebuilt to accept the 24th once released."
+}

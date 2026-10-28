@@ -1,0 +1,12 @@
+{
+ "id": "Q-127",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "India Post's savings page gives the Post Office Monthly Income Scheme rate as 7.4% per annum, payable monthly", "status": "confirmed", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "Post Office Monthly Income Scheme Account (MIS) Rate of Interest: 7.4% per annum payable monthly", "note": "The India Post page shows 'Last Updated On: 19.10.2026' (within Q3 FY 2026-27)."},
+  {"fact": "The NSI table shows MIS at 7.4% from 1.4.2023 to 30.09.2026 (covering Jul-Sep 2026)", "status": "confirmed", "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=183", "quote": "1.1.2023 to 31.03.2023 7.1 1.4.2023 to 30.09.2026 7.4"},
+  {"fact": "6.6% was the MIS rate from April 2020 to September 2022, not the current rate", "status": "confirmed", "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=183", "quote": "1.07.2019 to 31.03.2020 7.6 1.4.2020 to 30.09.2022 6.6"},
+  {"fact": "Rates for 1 Oct - 31 Dec 2026 (Q3 FY 2026-27) were set by DEA's Office Memorandum dated 30.09.2026", "status": "confirmed", "url": "https://dea.gov.in/budget-division/475", "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"},
+  {"fact": "The 30.09.2026 OM kept all small savings rates for Oct-Dec 2026 (Q3 FY 2026-27) unchanged from Q2, so MIS stays at 7.4%", "status": "confirmed", "url": "https://dea.gov.in/files/budget_division_documents/R.pdf", "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter", "note": "DEA OM F.No.1/4/2019-NS dated 30.09.2026, read by OCR of the scanned PDF. The 7.4% MIS rate is derived: the OM gives no rates; it keeps Q2 rates, and NSI shows this rate to 30.09.2026 and India Post shows it now."}
+ ],
+ "summary": "MIS 7.4% confirmed (India Post current page; NSI to 30.09.2026), 6.6% confirmed as the 2020-22 rate; DEA Q3 OM dated 30.09.2026 confirmed; 'unchanged' only in the scanned OM (manual)."
+}

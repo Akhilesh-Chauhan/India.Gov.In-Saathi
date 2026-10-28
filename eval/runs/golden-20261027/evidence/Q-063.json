@@ -1,0 +1,67 @@
+{
+ "id": "Q-063",
+ "checked_at": "2026-10-28T14:02:26+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1546538&reg=3&lang=2",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1546538&reg=3&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:29+05:30",
+   "sha256": "95e1967e93f0ea063f12d5b44161ce6d744a8101596b82ab7f860e85b7592875",
+   "copy": "5d9310982761cd7d2189.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2020-08/Press-Release-Anti-Phishing-email-05-02-2016.pdf",
+   "final": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2020-08/Press-Release-Anti-Phishing-email-05-02-2016.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:43+05:30",
+   "sha256": "f7171b35b729619f4dce4a0c292b90a08525928971006338d6095e80bb75f6e7",
+   "copy": "4e3945a25c103d23e072.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/e-filing%20account%20misuse",
+   "final": "https://www.incometax.gov.in/iec/foportal/e-filing%20account%20misuse",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:01:46+05:30",
+   "sha256": "68cb8c3761adbe261c9451acf2026a4584ddf325ae17576c9760b1816c82a242",
+   "copy": "17e2eae4b0718a0379df.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://cybercrime.gov.in/",
+   "final": "https://cybercrime.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:45+05:30",
+   "sha256": "4273467a926860d9672fb55507b616d29db4ed52a080c98c44977441bd507ee5",
+   "copy": "73a89146b8613fe507ad.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

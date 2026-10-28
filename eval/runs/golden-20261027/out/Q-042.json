@@ -1,0 +1,21 @@
+{
+ "id": "Q-042",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Form 8 is the form for shifting of residence (also used for correction of entries, replacement EPIC and marking PwD)",
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Please fill Form 8 (Link to online form) for shifting of Residence/Correction of Entries in Existing Electoral Roll/Replacement of EPIC / Marking of PwD."},
+  {"fact": "Submit Form 8, online or offline, to the ERO of the constituency where the new residence is",
+   "status": "added",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "In case of shifting, please fill form 8 and submit to the ERO of the constituency (online/offline) where your new residence is located."},
+  {"fact": "The ERO then issues a new EPIC with the same number showing the new address",
+   "status": "added",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "Registration Officer will issue a new EPIC, with the same number, of the shifted address."}
+ ],
+ "behaviour": "Explains Form 8 per ECI; cites eci.gov.in.",
+ "fail_if": "It names Form 6 or Form 7 for a change of address, or gives no ECI citation.",
+ "summary": "ECI: Form 8 for shifting of residence, filed online/offline with the ERO of the new address; new EPIC with the same number."
+}

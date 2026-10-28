@@ -1,0 +1,33 @@
+{
+ "id": "Q-058",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "From AY 2023-24, Form 26AS (on the TRACES portal) shows only TDS/TCS data; other information is in the AIS",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "quote": "From AY 2023-24 onwards, Annual Tax Statement (Form 26AS) available on TRACES portal displays only TDS/TCS related data of the taxpayer. Other details pertaining to the taxpayer are available in the AIS (Annual Information Statement)."
+  },
+  {
+   "fact": "AIS is a comprehensive view of a taxpayer's information and lets the taxpayer give feedback on reported transactions",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "quote": "AIS also provides the taxpayer the option to give feedback on the transactions reported."
+  },
+  {
+   "fact": "Form 26AS: log in to the e-Filing portal > e-File > Income Tax Return > View Form 26AS",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "It is available on e-Filing Portal: Login > e-File > Income Tax Return > View Form 26AS"
+  },
+  {
+   "fact": "AIS: log in to incometax.gov.in, click the AIS menu on the dashboard, click Proceed to go to the AIS portal and open the AIS tile",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "quote": "Step 2: After login, click Annual Information Statement (AIS) menu on dashboard. Step 3: Click on Proceed button which will redirect to AIS portal and click on AIS tile to view the Annual Information Statement."
+  }
+ ],
+ "behaviour": "Explains the difference between Form 26AS and AIS and gives the download path for each from the Income Tax Department pages (incometax.gov.in), with citations.",
+ "fail_if": "Says Form 26AS still shows all information (SFT, interest etc.) after AY 2023-24; gives a non-official site for downloading either statement.",
+ "summary": "Added ITD AIS FAQ: 26AS shows only TDS/TCS (from AY 2023-24), AIS is wider with feedback; paths via e-File > View Form 26AS and AIS menu > Proceed."
+}

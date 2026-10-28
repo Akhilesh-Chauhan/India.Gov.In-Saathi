@@ -1,0 +1,16 @@
+{
+ "id": "Q-429",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The AY 2026-27 return due date for persons at Sl. No. 2 of the table below Explanation 2 to s.139(1) was extended from 31 Oct 2026 to 21 Nov 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+   "quote": "hereby extends the due date for furnishing Return of Income for the Assessment Year 2026-27 (Previous Year 2025-26) for the persons referred in sl.no.2 of the table below Explanation 2 to sub-section (1) of section 139 of the Act, from 31.10.2026 to 21.11.2026."},
+  {"fact": "The extension is by CBDT Circular No. 07/2026 dated 28 September 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+   "quote": "Circular No. 07/2026 F. No. 225/128/2026/ITA-II Government of India Ministry of Finance Department of Revenue Central Board of Direct Taxes New Delhi, dated 28th September, 2026"},
+  {"fact": "Sl. No. 2 covers audit cases: companies, assessees whose accounts must be audited, and partners of firms whose accounts must be audited", "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/271439.pdf",
+   "quote": "(ii) Assessee (other than a company) whose accounts are required to be audited under this Act or under any other law for the time being in force;"}
+ ],
+ "summary": "21 Nov 2026 (from 31 Oct 2026) for Sl. No. 2 audit cases under CBDT Circular 07/2026 dated 28 Sep 2026 confirmed; no later extension on the ITD news page as of 28 Oct 2026."
+}

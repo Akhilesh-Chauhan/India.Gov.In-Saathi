@@ -1,0 +1,19 @@
+{
+ "id": "Q-022",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The additional Tatkaal fee is Rs 2,500 (e.g. a 36-page 10-year fresh/re-issue passport: application fee Rs 2,500 plus additional Tatkaal fee Rs 2,500)",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "Application Fee Additional Tatkaal Fee 1 Fresh Passport/Re-issue of Passport including additional booklet due to exhaustion of visa pages (36 pages) of 10 years validity (including minors between 15 to 18 years of age, who wish to get a 10 years full validity passport) Rs.2,500/- Rs.2,500/-"
+  },
+  {
+   "fact": "The Tatkaal fee is paid on top of the normal application fee",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument",
+   "quote": "Tatkaal fee is to be paid in addition to the application fee mentioned above."
+  }
+ ],
+ "summary": "Passport Seva fee page confirms Rs 2,500 additional Tatkaal fee, paid in addition to the application fee."
+}

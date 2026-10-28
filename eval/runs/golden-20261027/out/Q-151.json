@@ -1,0 +1,27 @@
+{
+ "id": "Q-151",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Search for unclaimed deposits on RBI's UDGAM portal (udgam.rbi.org.in), which searches across multiple banks at one place",
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "quote": "It facilitates the registered users to search unclaimed deposits/accounts across multiple banks at one place in a centralised manner."
+  },
+  {
+   "fact": "To search, give the account holder's name, the bank(s) and one or more of PAN, driving licence, voter ID, passport number or date of birth",
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "quote": "a user has to provide inputs such as name of the account holder, name of the bank (one or more banks can be selected) and any one or more of the five inputs viz., Permanent Account Number (PAN), Driving License Number, Voter ID Number, Passport Number and Date of Birth of the account holder."
+  },
+  {
+   "fact": "UDGAM only searches; the money can be claimed only from the bank concerned",
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "quote": "The unclaimed deposits can be claimed only from the respective bank."
+  }
+ ],
+ "behaviour": "Points to RBI's UDGAM portal for the search and to the bank for the claim, citing rbi.org.in.",
+ "fail_if": "It does not mention UDGAM, or says the money can be claimed from RBI or through UDGAM itself.",
+ "summary": "RBI's UDGAM FAQ: search unclaimed deposits across banks on udgam.rbi.org.in (name, bank and an ID or date of birth); claim from the bank."
+}

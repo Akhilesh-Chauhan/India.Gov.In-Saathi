@@ -1,0 +1,37 @@
+{
+ "id": "Q-347",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html",
+   "final": "https://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:11+05:30",
+   "sha256": "92cb3aee8b799a5317116dabab026899283124944f25ac96780bd21b110b8710",
+   "copy": "394751ca605ae9732b22.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "final": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:55+05:30",
+   "sha256": "d39bc252d2b640e660e3e217ed6eccacde9024581532736c53a24b1075adce60",
+   "copy": "1eaeb06c0c816d0686f8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

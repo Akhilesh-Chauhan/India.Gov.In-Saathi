@@ -1,0 +1,104 @@
+{
+ "id": "Q-246",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PMAY-U 2.0 has four verticals: BLC, AHP, ARH and ISS",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The Scheme will be implemented through following four verticals: i. Beneficiary Led Construction (BLC) ii. Affordable Housing in Partnership (AHP) iii. Affordable Rental Housing (ARH) iv. Interest Subsidy Scheme (ISS)"
+  },
+  {
+   "fact": "BLC gives financial assistance to individual EWS families to build a new pucca house on their own land",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The BLC vertical of the Scheme shall provide financial assistance to individual eligible families belonging to EWS categories to construct new pucca houses (an all-weather dwelling unit) on their own available land."
+  },
+  {
+   "fact": "A BLC house is 30 to 45 sqm carpet area",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "The beneficiaries under this vertical may be allowed to construct all-weather pucca house of minimum 30 sqm. and maximum of 45 sqm. carpet area"
+  },
+  {
+   "fact": "For landless beneficiaries, States/UTs may give land rights (pattas)",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "In the case of landless beneficiaries, States/UTs at their own expense may provide heritable, but non-transferable land rights (pattas) to the family, making them eligible beneficiaries under the BLC vertical."
+  },
+  {
+   "fact": "BLC funds are released to beneficiaries after each geo-tagged construction stage is approved",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "States/UTs/Implementing Agencies will have to release the funds to the beneficiaries through DBT within 7 days of approval of each level of Geo-tagging of a house in MIS"
+  },
+  {
+   "fact": "AHP: houses built by public/private agencies are made available for allotment to EWS families",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "This vertical is a supply side intervention where affordable houses of 30-45 sqm carpet area will be constructed by Public/Private Agencies and made available for allotment to the eligible beneficiaries of EWS category."
+  },
+  {
+   "fact": "AHP includes Redeemable Housing Vouchers for EWS buyers in whitelisted projects",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Central Assistance shall be provided to the beneficiaries of EWS categories in the form of Redeemable Housing Vouchers (RHV) for purchase of house under whitelisted projects in PMAY-U 2.0 as well as open market projects."
+  },
+  {
+   "fact": "AHP includes in-situ redevelopment of tenable slums",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Under AHP vertical, States/UTs may also propose ‘Redevelopment’ or ‘In-situ Improvement’ projects for tenable slums having dilapidated buildings located on Government/ULB/Public land."
+  },
+  {
+   "fact": "ARH Model-1 converts existing government-funded vacant houses into rental housing",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Model-1: Converting existing Government funded vacant houses into ARH through Public Private Partnership mode or by Public Agencies."
+  },
+  {
+   "fact": "ARH Model-2 is construct, operate and maintain rental housing by private/public entities for urban poor, working women, industrial workers and others",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Model-2: Construct, Operate and Maintain rental housing by Private/Public Entities for urban poor, working women, employees of Industries, Industrial Estates, Institutions and other eligible EWS/LIG families."
+  },
+  {
+   "fact": "ISS gives an interest subsidy of up to Rs 1.80 lakh (actual release)",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years."
+  },
+  {
+   "fact": "BLC/AHP in North-Eastern States, Himachal Pradesh, Uttarakhand and the UTs of J&K, Puducherry and Delhi: Rs 2.25 lakh Centre + at least Rs 0.25 lakh State (Rs 2.50 lakh per unit)",
+   "status": "confirmed",
+   "url": "https://pmaymis.gov.in/pmaymis2_2024/faq.html",
+   "quote": "North-Eastern Region States, Himachal Pradesh, Uttarakhand and Union Territory (UT) of J&K, Puducherry and Delhi ₹2.25 Lakh Min ₹0.25 Lakh",
+   "note": "The Rs 2.50 lakh total is derived (2.25 + 0.25). The guidelines' funding table (para 8.1) gives the same split."
+  },
+  {
+   "fact": "BLC/AHP in all other UTs: Rs 2.50 lakh per unit from the Centre",
+   "status": "confirmed",
+   "url": "https://pmaymis.gov.in/pmaymis2_2024/faq.html",
+   "quote": "All other UTs ₹2.50 Lakh - All other States ₹1.50 Lakh Min ₹1 Lakh"
+  },
+  {
+   "fact": "BLC/AHP in all other States: Rs 1.5 lakh Centre + at least Rs 1.0 lakh State per unit",
+   "status": "confirmed",
+   "url": "https://pmaymis.gov.in/pmaymis2_2024/faq.html",
+   "quote": "All other UTs ₹2.50 Lakh - All other States ₹1.50 Lakh Min ₹1 Lakh"
+  },
+  {
+   "fact": "ARH projects get a Technology Innovation Grant of Rs 3,000/sqm from the Centre plus Rs 2,000/sqm from the State",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A TIG of ₹3,000 per sqm on carpet up area (including internal infrastructure) shall be released by MoHUA as Central Assistance and State/UT Government shall release ₹2,000/sqm as part of State Share for construction of ARH projects."
+  },
+  {
+   "fact": "The PMAY-U 2.0 scheme guidelines are dated September 2024",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Housing for All Mission Scheme Guidelines September 2024"
+  }
+ ],
+ "summary": "All four verticals (BLC, AHP, ARH, ISS), their features and the BLC/AHP/ARH funding pattern confirmed in the Sept 2024 PMAY-U 2.0 guidelines and the PMAY-U 2.0 FAQ."
+}

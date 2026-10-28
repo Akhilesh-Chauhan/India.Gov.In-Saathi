@@ -1,0 +1,52 @@
+{
+ "id": "Q-014",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://bhuvan-app3.nrsc.gov.in/aadhaar/",
+   "final": "https://bhuvan-app3.nrsc.gov.in/aadhaar/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:30+05:30",
+   "sha256": "b7174baa2ec410a696393d8bdc5286d4b1ec7f284f45708ee3e481d04f59d658",
+   "copy": "142bdd75d9434733a1a8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

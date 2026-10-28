@@ -1,0 +1,13 @@
+{
+ "id": "Q-285",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "'Defective' means the Institute Nodal Officer or the Scheme Nodal Officer has marked the application defective; the student can then update (correct) it", "status": "added", "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf", "quote": "How can I update my application if it has been marked as defective? Application may be marked defective by Institute Nodal officers or Scheme Nodal officer"},
+  {"fact": "To fix a defect in scheme details: in My Applications click Proceed against the Application ID, open Fill/Edit Application form, make the corrections and submit the application again", "status": "added", "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf", "quote": "Click on Proceed button provided against the Application ID in My Applications. Click on Fill/Edit Application form menu. Make the corrections and submit the Application."},
+  {"fact": "A defect in Basic Information can be corrected only when the student has just one active application (other applications must be withdrawn first)", "status": "added", "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf", "quote": "If there is more than 1 active application then you have to withdraw all the other applications in order to make the corrections in Basic information."},
+  {"fact": "For 2026-27, defective-application verification is open till 15-11-2026 for most schemes, so the corrected application must be resubmitted before then", "status": "added", "url": "https://scholarships.gov.in/All-Scholarships", "quote": "Defective Application Verification Open till:15-11-2026 Institute Verification Open till:15-11-2026", "note": "Scheme-wise dates on Schemes on NSP; PM YASASVI Top Class Education in Schools has 15-12-2026."}
+ ],
+ "behaviour": "Explains in general what 'defective' means on NSP and how to correct and resubmit the application, citing NSP; says it cannot see the user's application record and points to the NSP login / application status to read the defect remarks.",
+ "fail_if": "Claims to know the status or reason for this user's application; says a defective application is rejected and cannot be corrected; cites a third-party site.",
+ "summary": "Added the meaning of 'defective' and the correction steps from NSP's application FAQ, plus the 15-11-2026 defective-verification date."
+}

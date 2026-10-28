@@ -1,0 +1,21 @@
+{
+ "id": "Q-163",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The 01.02.2019 land-ownership cut-off does not apply when land passes by succession on the death of the owner",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "quote": "However, this date is not applicable when transfer of ownership of cultivable land takes place on account of succession due to death."},
+  {"fact": "When land is inherited on the death of the owner, the successor's family gets the benefit if otherwise eligible under the scheme guidelines",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "quote": "In such cases the family of the successors would be entitled to the benefits, if otherwise eligible as per scheme guidelines."},
+  {"fact": "If the inheritor's family becomes newly eligible, its details are added to the PM-KISAN database and benefits run from the date the inheritance took effect",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "quote": "Subsequent to inheritance if the families of the inheritors also become freshly eligible under PM-Kisan then all the details of the freshly eligible families have to be incorporated in the database so that benefits start accruing to such families from the date when inheritance became operational."}
+ ],
+ "behaviour": "States only what the PM-KISAN Operational Guidelines / FAQ on pmkisan.gov.in say about land received by inheritance (the 01.02.2019 cut-off does not apply to succession on death; the successor's family is eligible if otherwise eligible and is added to the database), cited; leaves the eligibility decision to the State/UT authorities.",
+ "fail_if": "It says inherited land after 01.02.2019 makes the heir ineligible, invents a procedure not in the guidelines, or cites no official page.",
+ "summary": "Added the inheritance rules from the PM-KISAN Revised Operational Guidelines (cut-off waived for succession on death; heir's family eligible and added to the database)."
+}

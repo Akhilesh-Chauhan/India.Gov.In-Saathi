@@ -1,0 +1,52 @@
+{
+ "id": "Q-181",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:49+05:30",
+   "sha256": "fbea6acacc46d5864d6408dac2b23a7bf85361b5fc8b72ea42c5819a329ed33f",
+   "copy": "c6f376ff54761d640b01.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:49+05:30",
+   "sha256": "fbea6acacc46d5864d6408dac2b23a7bf85361b5fc8b72ea42c5819a329ed33f",
+   "copy": "c6f376ff54761d640b01.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:49+05:30",
+   "sha256": "fbea6acacc46d5864d6408dac2b23a7bf85361b5fc8b72ea42c5819a329ed33f",
+   "copy": "c6f376ff54761d640b01.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

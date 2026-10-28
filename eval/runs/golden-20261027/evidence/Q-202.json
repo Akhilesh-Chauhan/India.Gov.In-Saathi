@@ -1,0 +1,52 @@
+{
+ "id": "Q-202",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "final": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:21+05:30",
+   "sha256": "32b79b2c41525299a182ca4c67206bc88a64740d27fb8ec01b0af526b7bbc7a6",
+   "copy": "c284ca9610b46508c0a0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "final": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:21+05:30",
+   "sha256": "32b79b2c41525299a182ca4c67206bc88a64740d27fb8ec01b0af526b7bbc7a6",
+   "copy": "c284ca9610b46508c0a0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "final": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:21+05:30",
+   "sha256": "32b79b2c41525299a182ca4c67206bc88a64740d27fb8ec01b0af526b7bbc7a6",
+   "copy": "c284ca9610b46508c0a0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

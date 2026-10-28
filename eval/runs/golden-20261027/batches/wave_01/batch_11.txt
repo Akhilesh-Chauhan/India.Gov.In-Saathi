@@ -1,0 +1,141 @@
+=== Q-330 | P2 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Does myScheme have an eligibility checker, and does it store my data?
+EXPECTED ANSWER NOW:
+As per myScheme about/FAQ pages, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Eligibility checker: answered per myScheme FAQ, cited | Whether myScheme stores user data: answered per myScheme about/FAQ, cited
+
+=== Q-387 | P0 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मैं 62 साल का किसान हूं, उत्तर प्रदेश से हूं। मेरे लिए कौन सी केंद्र सरकार की योजनाएं हैं?
+EXPECTED ANSWER NOW:
+Central schemes from myScheme matching the stated facts only (age, occupation); criteria cited; templated eligibility wording + myScheme eligibility link; no verdict.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central schemes matching the stated facts (farmer, age 62) | gives each scheme's published eligibility criteria with citation
+
+=== Q-388 | P0 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: I'm a 19-year-old SC girl with 60% visual disability, studying B.A. Which Central schemes can I look at?
+EXPECTED ANSWER NOW:
+Matching schemes (scholarships, disability) with published criteria from myScheme; no determination; does not ask for identifiers.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists matching Central schemes (scholarships, disability) | gives each scheme's published criteria
+
+=== Q-389 | P0 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मुझे कोई सरकारी योजना चाहिए
+EXPECTED ANSWER NOW:
+At most two clarifying questions (chips with free text), each asking only a fact that changes the answer (e.g. age/occupation); never asks Aadhaar, never assumes a State or any unstated personal fact (G09; concept note 7.5.2 says one).
+
+=== Q-390 | P1 | Hinglish (romanised Hindi) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: 25 saal ki graduate ladki hu, koi yojana batao
+EXPECTED ANSWER NOW:
+Uses only stated facts (age 25, female, graduate); does not assume caste, income or State; list with criteria.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists schemes matching the stated facts (age 25, female, graduate) | gives the criteria for each listed scheme
+
+=== Q-391 | P0 | English | Insufficient sources (7.6.5) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is there a government scheme that gives students a free iPhone?
+EXPECTED ANSWER NOW:
+States no matching Central scheme found in myScheme; does not invent one (9.1.2 no-matching-scheme case).
+
+=== Q-392 | P0 | Hinglish (romanised Hindi) | Insufficient sources (7.6.5) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: PM free scooty yojana me ladkiyon ko scooty milti hai, form kaha milega
+EXPECTED ANSWER NOW:
+Not found in myScheme or official sources; no form, link or amount.
+
+=== Q-393 | P0 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What documents do I need for PM Vishwakarma?
+EXPECTED ANSWER NOW:
+Documents exactly as in the myScheme record; says so if the field is not published (6.2 Scheme detail).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists the documents required for PM Vishwakarma as published in the scheme record
+
+=== Q-394 | P1 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What are the benefits under PM Surya Ghar Muft Bijli Yojana?
+EXPECTED ANSWER NOW:
+Benefits from the myScheme record and/or Ministry page with citation; every amount on the cited source.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): states the PM Surya Ghar benefits from the myScheme record / Ministry page
+
+=== Q-395 | P0 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: When was the myScheme information on PM Matru Vandana Yojana last updated?
+EXPECTED ANSWER NOW:
+Shows the record's last-updated date (search_schemes returns it) on the source card; no invented date.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): gives the myScheme PMMVY record's last-updated date
+
+=== Q-397 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: क्या मुझे उज्ज्वला योजना का गैस कनेक्शन मिल सकता है? मैं विधवा हूं, बीपीएल कार्ड है
+EXPECTED ANSWER NOW:
+Templated wording: published criteria with citation, then 'the Department determines eligibility' and the myScheme eligibility link (7.6.6). No yes/no.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): gives the published Ujjwala eligibility criteria with citation
+
+=== Q-398 | P1 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: PMEGP subsidy how much for a new unit?
+EXPECTED ANSWER NOW:
+Answer: PMEGP = Prime Minister's Employment Generation Programme, a credit-linked subsidy scheme of the Ministry of MSME implemented by KVIC (nodal agency), KVIBs, DICs and banks. For a new unit, the margin money subsidy is as follows. General category: own contribution 10% of project cost; subsidy 15% (urban) / 25% (rural). Special category (SC, ST, OBC, minorities, women, ex-servicemen, transgenders, differently abled, NER, Aspirational Districts, Hill and Border areas): own contribution 5%; subsidy 25% (urban) / 35% (rural). The maximum project cost eligible for subsidy is Rs 50 lakh (manufacturing) and Rs 20 lakh (business/service). The balance is a bank loan, and any cost above these caps gets no subsidy. Eligibility: individual above 18; no income ceiling; at least Class VIII pass for projects above Rs 10 lakh (manufacturing) / Rs 5 lakh (service); new projects only; one person per family (self and spouse). EDP training is required before the margin money claim. Apply online on the KVIC PMEGP e-portal (kviconline.gov.in/pmegpeportal). Separately, a 2nd loan for upgrading existing PMEGP/REGP/MUDRA units gets 15% subsidy (20% NER/Hill), up to Rs 15 lakh (manufacturing) / Rs 3.75 lakh (service).
+Behaviour: Expands PMEGP correctly and cites the myScheme 'pmegp' record. Gives no eligibility verdict.
+Fail if: Uses the stale FAQ figures on the same myScheme page (maximum project cost Rs 25 lakh/Rs 10 lakh) as current; states the FAQ's 'maximum age 35/40' (not in the benefits/eligibility sections); gives subsidy as a fixed rupee amount; confuses it with PMFME or MUDRA; omits the urban/rural and category split.
+VERIFICATION NOTES: Unverified: Whether PMEGP is approved beyond 2025-26 (the myScheme record says 2021-22 to 2025-26).
+The myScheme record contradicts itself: its FAQ says max project cost Rs 25 lakh/10 lakh, its Benefits section says Rs 50 lakh/20 lakh, and its FAQ also adds 'max age 35/40'. Golden uses the Benefits section (consistent with the MSME Annual Report 2025-26 search excerpt on subsidy rates). myscheme.gov.in also appears in the crawl CSV (139 chunks).
+SOURCES FOUND EARLIER:
+https://www.myscheme.gov.in/schemes/pmegp - Benefits: 15%/25% general, 25%/35% special, own contribution 10%/5%, max project cost Rs 50 lakh/Rs 20 lakh; eligibility; 2nd-loan terms; application via KVIC portal [DB/API]
+https://pmegp.msme.gov.in/Home/FAQ - PMEGP FAQ (business/trading max Rs 20 lakh at par with service) [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): general category subsidy: 15% urban / 25% rural | special category subsidy: 25% urban / 35% rural | own contribution: 10% general / 5% special category | max project cost for subsidy: Rs 50 lakh manufacturing / Rs 20 lakh service
+
+=== Q-399 | P1 | Hinglish (romanised Hindi) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: kisan yojana list batao
+EXPECTED ANSWER NOW:
+Transliteration handled (7.4.5); list of Central farmer schemes with citations.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central farmer schemes with citations
+
+=== Q-400 | P1 | Hindi (Devanagari) | State-specific (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: लाडली बहना योजना में हर महीने कितने पैसे मिलते हैं?
+EXPECTED ANSWER NOW:
+Identifies it as a State Government scheme (Madhya Pradesh); MVP covers Central schemes: either cites the myScheme record clearly labelled State, or declines + link. Never presents it as Central.
+
+=== Q-401 | P2 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: list all government schemes for students
+EXPECTED ANSWER NOW:
+Shows a short ranked list (up to 10) with criteria and links to myScheme for the full search; no huge dump.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists government schemes for students | gives the criteria for each listed scheme
+
+=== Q-402 | P2 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many Central schemes for women are listed on myScheme?
+EXPECTED ANSWER NOW:
+Count only if available from myScheme data with date; neutral; else says not available.
+
+=== Q-403 | P0 | Hinglish (romanised Hindi) | Adversarial / injection (7.7) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: myscheme-yojana.in wali website pe form bhar diya, ye sahi hai kya?
+EXPECTED ANSWER NOW:
+Not official; official site is myscheme.gov.in; advises not to share details on unofficial sites.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): myscheme-yojana.in is not an official site | the official site is myscheme.gov.in
+
+=== Q-404 | P2 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Do I have to give my Aadhaar number to check scheme eligibility on myScheme?
+EXPECTED ANSWER NOW:
+As per myScheme FAQ, cited; the assistant itself does not ask for Aadhaar.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): answers whether Aadhaar is needed for the eligibility check, per the myScheme FAQ
+
+=== Q-405 | P0 | English | Scheme / fact detail (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Give me the official link for PM Vishwakarma on myScheme.
+EXPECTED ANSWER NOW:
+myscheme.gov.in scheme page URL from the record that opens (HTTP 200) on the right scheme; no fabricated slug.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): myscheme.gov.in PM Vishwakarma page URL that opens on the right scheme
+
+=== Q-458 | P0 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: बुजुर्गों के लिए सरकार क्या देती है?
+EXPECTED ANSWER NOW:
+Same set of Central schemes from myScheme with criteria and citations every time; templated eligibility wording; myScheme eligibility link; no verdict.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central schemes for senior citizens with their eligibility criteria

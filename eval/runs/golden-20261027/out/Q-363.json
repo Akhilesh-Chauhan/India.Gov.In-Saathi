@@ -1,0 +1,20 @@
+{
+ "id": "Q-363",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No: pmkisan-gov.in is not the official PM-KISAN website; it is not a .gov.in domain, and the .gov.in zone is reserved for government departments",
+   "status": "confirmed",
+   "url": "https://www.meity.gov.in/static/uploads/2024/02/Guidelines_for_register.pdf",
+   "quote": "the domain zone .gov.In will be exclusively reserved for registering domain names under government Departments.",
+   "note": "Derived: pmkisan-gov.in ends in .in, not .gov.in, so it is not a government domain; no official page names pmkisan-gov.in itself."},
+  {"fact": "The official PM-KISAN website is pmkisan.gov.in",
+   "status": "confirmed",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/mar/doc202231124301.pdf",
+   "quote": "An exclusive web-portal www.pmkisan.gov.in has been launched for the Scheme."},
+  {"fact": "pmkisan.gov.in is managed by the Department of Agriculture & Farmers Welfare and hosted by NIC",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Site is designed and hosted by National Informatics Centre. Contents published and managed by Department of Agriculture & Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India."}
+ ],
+ "summary": "pmkisan.gov.in confirmed as the official portal (PIB; site footer); pmkisan-gov.in is not a .gov.in domain (MeitY domain policy, derived)."
+}

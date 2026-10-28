@@ -1,0 +1,20 @@
+{
+ "id": "Q-252",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest results are Swachh Survekshan 2024-25, whose awards the President conferred on 17 July 2025",
+   "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145461",
+   "quote": "Posted On: 17 JUL 2025 2:18PM by PIB Delhi The results are out! Hon'ble President of India, Smt. Droupadi Murmu conferred Swachh Survekshan 2024-25 Awards at Vigyan Bhagwan, New Delhi",
+   "note": "sbmurban.org's press releases up to 5 Oct 2026 announce no later results (it lists only the SS 2025-26 toolkit)."},
+  {"fact": "Indore, Surat and Navi Mumbai entered the new Super Swachh League (the earlier top cities, ranked separately)",
+   "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145461",
+   "quote": "President Confers Swachh Survekshan 2024-25 Awards Indore, Surat, Navi Mumbai enter the premier Super Swachh League Ahmedabad, Bhopal, and Lucknow emerge as India’s New Clean Cities"},
+  {"fact": "Among cities of more than 10 lakh population, Ahmedabad is the top Swachh Shehar, followed by Bhopal and Lucknow",
+   "status": "added", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/jul/doc2025717588801.pdf",
+   "quote": "B. Presidential Awardees: Swachh Shehar in 5 Population Categories Population S. No. Category State City 1. More than 10 Lakh GUJARAT AHMEDABAD 2. MADHYA PRADESH BHOPAL 3. UTTAR PRADESH LUCKNOW",
+   "note": "The PIB release says 'Ahmedabad, Bhopal and Lucknow emerging as top Swachh Shehar' in that order."}
+ ],
+ "behaviour": "Names the latest Swachh Survekshan edition (2024-25, results 17 July 2025) with its date and cites sbmurban.org / MoHUA (PIB); explains that Indore, Surat and Navi Mumbai are in the separate Super Swachh League and Ahmedabad topped the 10 lakh+ category.",
+ "fail_if": "Presents an older edition (2023 or earlier) as the latest; gives no edition or date; cites news sites.",
+ "summary": "Added SS 2024-25 (17 July 2025) as the latest edition: Indore, Surat, Navi Mumbai in the Super Swachh League; Ahmedabad top in 10 lakh+ (PIB release and awardee list)."
+}

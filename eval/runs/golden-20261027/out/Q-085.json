@@ -1,0 +1,151 @@
+{
+ "id": "Q-085",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Government approved the Employment Linked Incentive (ELI) Scheme on 1 July 2025; it runs as the Pradhan Mantri Viksit Bharat Rozgar Yojana (PM-VBRY)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2159009",
+   "quote": "The Government on 01.07.2025 approved the Employment Linked Incentive (ELI) Scheme named as Pradhan Mantri Viksit Bharat Rojgar Yojna"
+  },
+  {
+   "fact": "The scheme took effect on 1 August 2025",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "Effective Date of Scheme: 01.08.2025 is the Effective date from when the scheme will be applicable."
+  },
+  {
+   "fact": "The PM launched PM-VBRY on 15 August 2025",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "The Board was informed about the launch of the Pradhan Mantri Viksit Bharat Rozgar Yojana (PMVBRY) by Hon’ble PM on 15 th August."
+  },
+  {
+   "fact": "Jobs created in the registration period 01.08.2025 to 31.07.2027 are covered",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "The registration period of the scheme will be from 01.08.2025 to 31.07.2027. All the employees joining an establishment during this period will be considered towards deciding Threshold, additionality and calculation of incentives."
+  },
+  {
+   "fact": "Outlay Rs 99,446 crore, target over 3.5 crore jobs, implemented by EPFO",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "This scheme of MoL&E will be implemented by EPFO. It is a Rs. 99,446 crore initiative approved on July 1, 2025 to generate over 3.5 crore jobs from August 2025 to July 2027."
+  },
+  {
+   "fact": "Part B pays the employer for 2 years for each additional employee above the baseline, with at least 2 additional employees if the baseline is below 50 or at least 5 if it is 50 or more",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "incentives will be provided to the employer at the following rates for two years in respect of employment generated over and above the baseline fulfilling the threshold limit i.e., at least 2 additional employments with baseline of less than 50 and at least 5 additional employments with baseline of 50 or above."
+  },
+  {
+   "fact": "EPF wage up to Rs 10,000: up to Rs 1,000 per additional employee per month",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "<= 10,000* Up to 1000 >10,000 to<=20,000 2000 > 20,000-1,00,000# 3000"
+  },
+  {
+   "fact": "Below Rs 10,000 EPF wage, the incentive is 10% of the EPF wage",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "In respect of employees getting EPF wages below ₹ 10,000, the incentive at the rate of 10% of EPF wage will be provided as an additional risk mitigation measure."
+  },
+  {
+   "fact": "EPF wage above Rs 10,000 up to Rs 20,000: Rs 2,000 per month",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "<= 10,000* Up to 1000 >10,000 to<=20,000 2000 > 20,000-1,00,000# 3000"
+  },
+  {
+   "fact": "EPF wage above Rs 20,000 up to Rs 1 lakh: Rs 3,000 per month",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "<= 10,000* Up to 1000 >10,000 to<=20,000 2000 > 20,000-1,00,000# 3000"
+  },
+  {
+   "fact": "The employer incentive applies to new employees with gross wage up to Rs 1 lakh at joining",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "Incentive will be paid in respect of new employees with Gross wage up to ₹ 1 Lakh at the time of joining the establishment."
+  },
+  {
+   "fact": "The manufacturing sector also gets the incentive in years 3 and 4",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "For the manufacturing sector, the incentive to the employer will continue for the third and the fourth year."
+  },
+  {
+   "fact": "Payment is six-monthly in a lump sum after six ECRs are filed, for first-timers or re-joinees who stay at least 6 months with the same employer",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "The benefits will be provided to all eligible establishments on six monthly lump sum basis after filing of six completed months’ ECRs based on eligibility of the employer and employee as elaborated in previous paras."
+  },
+  {
+   "fact": "Each new hire (first-timer or re-joinee) must complete at least 6 months with the same employer",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "the benefits will be provided in respect of those First Timers and Re-joinees who complete six months of employment with the same employer."
+  },
+  {
+   "fact": "No incentive accrues for months in which the threshold is not met, and the incentive period is not extended",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "The benefits to the employer will not accrue for any month in which the employer is not eligible as per the threshold criteria laid out in the Scheme. In such cases, there will be no extension of the incentive period."
+  },
+  {
+   "fact": "Part A: first-time employees with gross wages up to Rs 1 lakh are eligible",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "All ‘First-Timers’ who had Gross wages up to ₹ 1 Lakh at the time of joining the establishment registered with EPFO as well as exempted establishments, will be eligible for the incentive under this Part of the scheme"
+  },
+  {
+   "fact": "Part A pays one month's EPF wage, capped at Rs 15,000",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "The incentives under Part A to the First Timer shall be equivalent to the one completed month EPF wage, subject to a maximum of ₹15,000/-"
+  },
+  {
+   "fact": "Part A is paid in two instalments, after 6 and 12 months of service, the second after a financial-literacy programme",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141129",
+   "quote": "The 1 st installment will be payable after 6 months of service and the 2 nd installment will be payable after 12 months of service and completion of a financial literacy programme by the employee."
+  },
+  {
+   "fact": "From 01.08.2025 new UANs must be generated through Face Authentication on the UMANG app",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf",
+   "quote": "With effect from 01.08.2025, for generation of UAN, the Facial Authentication Technology (FAT) facility as provided on UMANG Mobile App, has to be utilised."
+  },
+  {
+   "fact": "As of PIB 1 Aug 2026, the scheme completed one year with over 72 lakh first-time employees joining",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292862",
+   "quote": "Over 72 lakh first-time employees have joined the formal workforce since August 2025."
+  },
+  {
+   "fact": "Part of the Part A incentive is kept in a savings instrument/deposit account for a fixed period",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141129",
+   "quote": "To encourage the habit of saving, a portion of the incentive will be kept in a savings instrument of deposit account for a fixed period and can be withdrawn by the employee at a later date."
+  },
+  {
+   "fact": "ELI as approved in July 2025 has two parts, Part A (first-timers) and Part B (employers), not the Budget 2024-25 Scheme A/B/C structure",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141129",
+   "quote": "The Scheme consists of two parts with Par A focused on first timers and Part B focused on employers:"
+  },
+  {
+   "fact": "The ELI Scheme was first announced in the Union Budget 2024-25",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2141129",
+   "quote": "The ELI Scheme was announced in the Union Budget 2024-25 as part of PM’s package of five schemes to facilitate employment, skilling and other opportunities for 4.1 Crore youth"
+  },
+  {
+   "fact": "On 3 Sep 2025 MoLE cautioned citizens against fake PM-VBRY portals",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163332",
+   "quote": "Ministry of Labour & Employment Cautions Citizens Against Fake PMVBRY Portals Posted On: 03 SEP 2025 3:53PM by PIB Delhi"
+  }
+ ],
+ "summary": "All PM-VBRY/ELI values confirmed against the MoLE Guidelines and PIB releases (1 Jul 2025, 13 Oct 2025, 1 Aug 2026); no change."
+}

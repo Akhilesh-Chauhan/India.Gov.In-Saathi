@@ -1,0 +1,19 @@
+{
+ "id": "Q-507",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Pre-Matric Scholarship for Students with Disabilities: parental/guardian income up to Rs 2.50 lakh a year",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "For Pre-Matric Scheme- The parental/guardian income from all sources should not exceed Rs.2.50 lakh per annum."},
+  {"fact": "Post-Matric Scholarship for Students with Disabilities: parental/guardian income up to Rs 2.50 lakh a year",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "For Post-Matric Scheme- The The parental/guardian income from all sources should not exceed Rs.2.50 lakh per annum."},
+  {"fact": "Top Class Education scholarship for Students with Disabilities: parental/guardian income up to Rs 8.00 lakh a year",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "For Top-Class scheme- - The parental/guardian income from all sources should not exceed Rs.8.00 lakh per annum."},
+  {"fact": "All three schemes are on the National Scholarship Portal",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "The Pre-Matric, Post Matric and Top Class Scholarship Schemes for Disabilities are online schemes which are on-boarded on National Scholarship Portal."}
+ ],
+ "summary": "Income limits (Rs 2.50 lakh Pre/Post-Matric, Rs 8.00 lakh Top Class) and NSP onboarding confirmed in the DEPwD FAQ on NSP."
+}

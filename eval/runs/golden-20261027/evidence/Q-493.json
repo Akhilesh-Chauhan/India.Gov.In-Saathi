@@ -1,0 +1,37 @@
+{
+ "id": "Q-493",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/State/UP",
+   "final": "https://nfsa.gov.in/State/UP",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:19:26+05:30",
+   "sha256": "ee5be9c197ea050ad10516c4bafdaac590a3f2e540fc121b77286f3c5efaeab5",
+   "copy": "e1f842565988c6d49f76.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/State/UP",
+   "final": "https://nfsa.gov.in/State/UP",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:19:26+05:30",
+   "sha256": "ee5be9c197ea050ad10516c4bafdaac590a3f2e540fc121b77286f3c5efaeab5",
+   "copy": "e1f842565988c6d49f76.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

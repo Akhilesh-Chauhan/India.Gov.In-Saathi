@@ -1,0 +1,67 @@
+{
+ "id": "Q-320",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "final": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:58:23+05:30",
+   "sha256": "2be2287faadbc544b02c67f8eba33a64a2013f43d90249bd62024f17432733b3",
+   "copy": "f0d63790d635fbac8c69.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "final": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:58:23+05:30",
+   "sha256": "2be2287faadbc544b02c67f8eba33a64a2013f43d90249bd62024f17432733b3",
+   "copy": "f0d63790d635fbac8c69.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "final": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:58:23+05:30",
+   "sha256": "2be2287faadbc544b02c67f8eba33a64a2013f43d90249bd62024f17432733b3",
+   "copy": "f0d63790d635fbac8c69.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "final": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:58:23+05:30",
+   "sha256": "2be2287faadbc544b02c67f8eba33a64a2013f43d90249bd62024f17432733b3",
+   "copy": "f0d63790d635fbac8c69.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

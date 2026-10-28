@@ -1,0 +1,21 @@
+{
+ "id": "Q-140",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A zero-balance Jan Dhan (PMJDY) account is a basic savings bank deposit (BSBD) account that can be opened at any bank branch or Business Correspondent (Bank Mitra) outlet by a person with no other account",
+   "status": "added",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "Under the scheme, a basic savings bank deposit (BSBD) account can be opened in any bank branch or Business Correspondent (Bank Mitra) outlet, by persons not having any other account."},
+  {"fact": "No minimum balance has to be kept in a PMJDY account",
+   "status": "added",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "There is no requirement to maintain any minimum balance in PMJDY accounts."},
+  {"fact": "For KYC the bank accepts Aadhaar (proof of possession) or another officially valid document such as passport, driving licence, voter ID or NREGA job card",
+   "status": "added",
+   "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566",
+   "quote": "“Officially Valid Document” (OVD) means the passport, the driving licence, 17 proof of possession of Aadhaar number, the Voter's Identity Card issued by the Election Commission of India, job card issued by NREGA duly signed by an officer of the State Government"}
+ ],
+ "behaviour": "Explains PMJDY account opening and the documents in Hindi, citing pmjdy.gov.in (and RBI KYC rules for documents); says the account is opened at a bank branch or Bank Mitra with the account opening form and KYC.",
+ "fail_if": "It says a minimum balance or fee is needed to open a PMJDY account, invents a document list not on an official source, or cites unofficial sites.",
+ "summary": "Added: BSBD account at any branch/Bank Mitra, no minimum balance (pmjdy.gov.in Scheme page); KYC by Aadhaar or another OVD (RBI KYC Master Direction)."
+}

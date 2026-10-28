@@ -1,0 +1,27 @@
+{
+ "id": "Q-226",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A woman is entitled to free legal aid from the Legal Services Authorities irrespective of her income, under Section 12(c) of the Legal Services Authorities Act, 1987",
+   "status": "added",
+   "url": "https://nalsa.gov.in/legal-aid/",
+   "quote": "Yes, a woman is entitled for free legal aid irrespective of her income or financial status. A woman is eligible to apply for free legal aid by virtue of Section 12(c) of the Legal Services Authorities Act, 1987."
+  },
+  {
+   "fact": "Women Helpline 181 gives 24x7 emergency and non-emergency response and links women to the police, One Stop Centres, hospitals and Legal Services Authorities",
+   "status": "added",
+   "url": "https://missionshakti.wcd.gov.in/",
+   "quote": "aims to provide 24x7x365 emergency and non-emergency response through telephonic short-code 181 to women, both in public and private spaces by linking them with appropriate authorities such as Police, One Stop Centres, Hospitals, Legal Services Authorities etc."
+  },
+  {
+   "fact": "One Stop Centres (under Sambal) give women survivors of violence medical, legal, temporary shelter, police assistance and counselling support",
+   "status": "added",
+   "url": "https://wcd.gov.in/offerings/one-stop-centre-scheme",
+   "quote": "The One Stop Centre (OSC), launched in 2015, is an under Sambal, aimed at providing comprehensive care to women survivors of abuse, violence, and trauma. OSCs offer a range of essential services such as medical, legal, temporary shelter, police assistance, psychological and counselling support."
+  }
+ ],
+ "behaviour": "Says yes, women are eligible for free legal aid (NALSA, Section 12), and also points to the 181 Women Helpline and One Stop Centres, with citations (nalsa.gov.in, wcd.gov.in / missionshakti.wcd.gov.in).",
+ "fail_if": "It says free legal aid for women depends on income; gives a wrong women helpline number; cites unofficial sites.",
+ "summary": "Added: women get free legal aid irrespective of income (NALSA, Sec 12(c)); 181 Women Helpline links to police/OSC/legal services; One Stop Centres give legal, medical, shelter and counselling support."
+}

@@ -1,0 +1,21 @@
+{
+ "id": "Q-223",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "On eCourts Services (services.ecourts.gov.in), enter the case's 16-character CNR number to see its current status and history, including the next date",
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "quote": "Enter the 16 digit alphanumeric CNR Number without any hyphen or space Click Search button to view current status and history of the case"},
+  {"fact": "Without the CNR number, use Case Status to search by case registration number, party name or advocate name",
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/ecourtindia_v6/?app_token=&p=home%2Findex",
+   "quote": "If you don't know the CNR number of the case, click on the Case Status icon on the left menu to search the case with other options like case registration number, party name, advocate name etc."},
+  {"fact": "The eCourts Services mobile app shows the case history, including hearing dates",
+   "status": "added",
+   "url": "https://services.ecourts.gov.in/App/appfaq.html",
+   "quote": "Case History includes case status, hearing dates, judge details, party and advocate information, FIR details, and court proceedings."}
+ ],
+ "behaviour": "Points to eCourts case status (website or eCourts Services app) with citation; says it cannot check the person's case itself; replies in Hindi.",
+ "fail_if": "It claims to look up or states the person's next hearing date, or gives a non-eCourts source.",
+ "summary": "eCourts: search by CNR (or case number/party/advocate) on services.ecourts.gov.in or the eCourts Services app to see hearing dates."
+}

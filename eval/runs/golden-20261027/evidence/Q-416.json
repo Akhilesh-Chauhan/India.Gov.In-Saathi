@@ -1,0 +1,52 @@
+{
+ "id": "Q-416",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://report.pmayg.dord.gov.in/netiay/newreport.aspx",
+   "final": "https://report.pmayg.dord.gov.in/netiay/newreport.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:17+05:30",
+   "sha256": "35ecd796761cc3312de2d042d1c07fa317bad25f52400b60c7201a2672a8e2df",
+   "copy": "3b1a45727c424541e153.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmayg.dord.gov.in/netiayHome/contact.aspx",
+   "final": "https://pmayg.dord.gov.in/netiayHome/contact.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:17+05:30",
+   "sha256": "8e18cecf00082d5928f6bbb88a4c5f92d62df6b0d9853195458d1ab68a9afcdb",
+   "copy": "9782da19be76388aaa36.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmayg.dord.gov.in/netiayHome/contact.aspx",
+   "final": "https://pmayg.dord.gov.in/netiayHome/contact.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:17+05:30",
+   "sha256": "8e18cecf00082d5928f6bbb88a4c5f92d62df6b0d9853195458d1ab68a9afcdb",
+   "copy": "9782da19be76388aaa36.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

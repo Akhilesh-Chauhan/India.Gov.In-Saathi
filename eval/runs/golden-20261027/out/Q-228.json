@@ -1,0 +1,7 @@
+{
+ "id": "Q-228",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "Out of scope: the user asks the bot to predict the outcome of a pending Supreme Court case; the expected answer is a polite decline of prediction or political comment and names no value, helpline or portal to check.",
+ "summary": "Case-outcome prediction decline; nothing to look up."
+}

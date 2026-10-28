@@ -1,0 +1,67 @@
+{
+ "id": "Q-122",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "final": "https://www.indiapost.gov.in/banking-services/savings",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:38+05:30",
+   "sha256": "fee399b8d68f72e56c3e9d370b315d9474b9eb228dab7cdee4918aaa24dc3203",
+   "copy": "8fe2b69106bc1f41d9f4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=178",
+   "final": "https://www.nsiindia.gov.in/(S(v1we5k55qeuewa45gmifshzd))/InternalPage.aspx?Id_Pk=178",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:34:03+05:30",
+   "sha256": "052b3dae2712e0a52b6306a30242b2a7c733d7dc669d783780ba33e41329e2c9",
+   "copy": "e1c4fa093d27bdc4e0a2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "final": "https://dea.gov.in/budget-division/475",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:41+05:30",
+   "sha256": "2ed86684a8501579208849767a946b8ecf418acfda778e408322203feb3ba85f",
+   "copy": "f227de03b3532fef0055.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "final": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:30+05:30",
+   "sha256": "18e352da8922616a181bdaa04ba7322805d3be19f6ffb4dbbdda1dedd7d42df0",
+   "copy": "f13b9d2f1348ac7af9f7.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

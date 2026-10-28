@@ -1,0 +1,17 @@
+{
+ "id": "Q-160",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No increase to Rs 12,000: the PM-KISAN benefit is still Rs 6,000 a year, in three equal instalments (PIB Cabinet release of 31 Jul 2026 continuing the scheme to 2030-31)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "quote": "Under the Scheme, eligible landholding farmer families receive financial assistance of Rs.6,000 per year, transferred directly into their bank accounts in three equal instalments.",
+   "note": "Searched pib.gov.in, pmkisan.gov.in and agriwelfare.gov.in on 28 Oct 2026: no official notice of an increase to Rs 12,000."},
+  {"fact": "Each of the three instalments is Rs 2,000",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&reg=48&lang=2",
+   "quote": "This is disbursed in three equal instalments of ₹2,000 through the Direct Benefit Transfer (DBT) mechanism into Aadhaar-seeded bank accounts .",
+   "note": "Rs 2,000 is stated in PIB's 20 Jun 2026 backgrounder; the 31 Jul 2026 release says Rs 6,000 in three equal instalments (= Rs 2,000 each)."}
+ ],
+ "summary": "Still Rs 6,000 a year in three Rs 2,000 instalments (PIB 20 Jun and 31 Jul 2026); no official increase to Rs 12,000 found."
+}

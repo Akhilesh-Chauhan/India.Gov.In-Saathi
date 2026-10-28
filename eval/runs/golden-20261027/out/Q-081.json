@@ -1,0 +1,21 @@
+{
+ "id": "Q-081",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The nominee or family files the PF death claim and the pension claim online on the EPFO Member Portal (Death Claim filing by Nominee - Claims / Pension)",
+   "status": "added",
+   "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "quote": "Death Claim filing by Nominee (Claims) Death Claim filing by Nominee (Pension) Pension Claim filing by Family or Nominee in case of member’s demise"},
+  {"fact": "On a member's death, EPS provides a widow/widower pension and children pension",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/pension-scheme-eps/",
+   "quote": "What benefits exist on death or disability? Widow/widower pension, children pension, disablement pension, and survivor benefits are available."},
+  {"fact": "If the member died in service, the nominee also gets the EDLI insurance (assurance) benefit from EPFO",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/insurance-scheme-edli/",
+   "quote": "In case of death during service, the nominee receives a minimum of ₹2.5 lakh and up to ₹7 lakh, based on the employee’s salary and EPF balance."}
+ ],
+ "behaviour": "Answers in Hindi with a compassionate tone; explains the three death claims (PF, EPS pension, EDLI insurance) as per EPFO and cites epfo.gov.in / the EPFO Member Portal; does not ask for the UAN, Aadhaar or OTP in chat.",
+ "fail_if": "Omits the pension or the EDLI insurance claim; points to agents or third-party services; asks for the UAN, Aadhaar or OTP in chat.",
+ "summary": "Added from EPFO pages: online death claims (PF and pension) on the Member Portal, EPS widow/children pension, EDLI benefit to the nominee."
+}

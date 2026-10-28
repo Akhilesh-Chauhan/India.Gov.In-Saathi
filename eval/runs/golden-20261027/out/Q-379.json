@@ -1,0 +1,22 @@
+{
+ "id": "Q-379",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A passport cannot be applied for inside UMANG: UMANG's Passport Seva section only gives details of passport services (locate centre, fee calculator, status tracker, document advisor, appointment availability)",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/passport-seva.html",
+   "quote": "Passport Seva Get details of various passport services.",
+   "note": "Derived: the section's full service list on 28 Oct 2026 has five tiles (Locate Centre, Fee Calculator, Status Tracker, Doc Advisor, Check Appointment Availability) and no application service."},
+  {"fact": "The official website for applying for passport services is www.passportindia.gov.in (Ministry of External Affairs)",
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "quote": "The official website of the Ministry of External Affairs, Government of India, for applying Passport services is www.passportindia.gov.in"},
+  {"fact": "Applicants can also use the Passport Seva mobile app (Android and iOS)",
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "quote": "Alternatively, applicants may also use the Passport Seva mobile App which can be downloaded from Android and iOS App store."}
+ ],
+ "behaviour": "Says a passport application cannot be made inside UMANG (UMANG's Passport Seva section has information and status-tracking services only) and hands off to the official Passport Seva portal (passportindia.gov.in) or the Passport Seva app; may link UMANG's Passport Seva status tracker if in the catalogue; never invents a UMANG deep link for applying.",
+ "fail_if": "Says the passport can be applied for inside UMANG; invents a UMANG application link; points to an unofficial passport website.",
+ "summary": "Added: UMANG Passport Seva has only info/tracking tiles (no application); apply on passportindia.gov.in or the Passport Seva app."
+}

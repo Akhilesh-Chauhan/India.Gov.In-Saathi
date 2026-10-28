@@ -1,0 +1,27 @@
+{
+ "id": "Q-032",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under MV Act s.4(1), no person under 18 may drive a motor vehicle in a public place",
+   "status": "confirmed", "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "No person under the age of eighteen years shall drive a motor vehicle in any public place:"},
+  {"fact": "The only exception: a motorcycle with engine capacity not exceeding 50cc may be driven after attaining 16 years",
+   "status": "confirmed", "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "Provided that 5[a motor cycle with engine capacity not exceeding 50cc] may be driven in a public place by a person after attaining the age of sixteen years."},
+  {"fact": "A learner's licence for a motorcycle without gear to a person under 18 needs the written consent of the parent/guardian",
+   "status": "confirmed", "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "No person under the age of eighteen years shall be granted a learner's licence to drive a motor cycle without gear except with the consent in writing of the person having the care of the person desiring the learner's licence."},
+  {"fact": "Most scooters sold today exceed 50cc",
+   "status": "unsupported",
+   "note": "No official page (parivahan.gov.in, MV Act on indiacode, morth.nic.in) states this market fact; searched 28 Oct 2026. The rule itself (only up to 50cc at 16) is confirmed."},
+  {"fact": "For a scooter or motorcycle above 50cc (a non-transport vehicle) the applicant must be 18",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/learners-license",
+   "quote": "The applicant who has completed the age of eighteen years of age is eligible to apply for a driving licence to drive a motor vehicle other than a transport vehicle."},
+  {"fact": "A licence to drive a transport vehicle needs age 20",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/learners-license",
+   "quote": "An applicant who has completed twenty years of age will be eligible for applying for a licence to drive a transport vehicle."}
+ ],
+ "behaviour": "Answers 'only in a limited case': at 16 only a motorcycle/scooter of up to 50cc, with written parent/guardian consent for the learner's licence; otherwise 18 (20 for transport vehicles). Cites the official source (MV Act / Parivahan); gives no individual eligibility verdict beyond stating the rule and does not assume the user's scooty is under 50cc.",
+ "fail_if": "Says yes for any gearless scooter at 16; says no licence at all is possible before 18; omits guardian consent.",
+ "summary": "MV Act s.4(1) 50cc-at-16 rule, s.7(2) guardian consent and 18/20 age limits confirmed (India Code consolidated Act, Parivahan); the claim that most scooters exceed 50cc has no official source (unsupported)."
+}

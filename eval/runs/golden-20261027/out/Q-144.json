@@ -1,0 +1,18 @@
+{
+ "id": "Q-144",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No: PMJDY is for every unbanked adult, giving a basic bank account with no minimum balance and no maintenance charges",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303643",
+   "quote": "PMJDY ensures that every unbanked adult has access to a basic bank account—with no minimum balance requirement and no maintenance charges."},
+  {"fact": "The account can be opened by any person who does not have another bank account; no income limit is set",
+   "status": "added",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "Under the scheme, a basic savings bank deposit (BSBD) account can be opened in any bank branch or Business Correspondent (Bank Mitra) outlet, by persons not having any other account.",
+   "note": "'No income limit' is derived: the scheme page's only condition is not having another account; no income criterion appears on pmjdy.gov.in or DFS pages."}
+ ],
+ "behaviour": "Corrects the assumption per PMJDY eligibility, citing pmjdy.gov.in / DFS / PIB: the account is for any unbanked adult, not only the poor.",
+ "fail_if": "It says PMJDY is only for BPL/poor people or gives an income limit.",
+ "summary": "Added: PMJDY is for every unbanked adult (PIB 27.08.2026); the only condition is having no other bank account (pmjdy.gov.in), so no income limit (derived)."
+}

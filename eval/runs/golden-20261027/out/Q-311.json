@@ -1,0 +1,21 @@
+{
+ "id": "Q-311",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "DPIIT startup recognition is applied for online on the National Single Window System (nsws.gov.in) by creating an account and adding the form 'Registration as a Startup'", "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "quote": "To apply, create an account on NSWS and add form ‘Registration as a Startup’."},
+  {"fact": "To be recognised, turnover must be under Rs 200 crore (Rs 300 crore for DeepTech) in every previous year and the entity counts as a startup for up to 10 years (20 for DeepTech) from incorporation", "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "quote": "Turnover should be less than INR 200 Crores (INR 300 Crores for DeepTech startups) in any of the previous financial years. An entity shall be considered a startup for up to 10 years (20 years for DeepTech startups) from the date of its incorporation."},
+  {"fact": "Tax benefit: after recognition and clearance, a startup can get a Section 80-IAC income-tax holiday for 3 consecutive financial years out of its first ten years", "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "quote": "Post getting clearance for Tax exemption, the Startup can avail tax holiday for 3 consecutive financial years out of its first ten years since incorporation."},
+  {"fact": "Only a recognised Private Limited company or LLP is eligible for the 80-IAC tax exemption", "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "quote": "Only Private limited or a Limited Liability Partnership is eligible for Tax exemption under Section 80IAC"}
+ ],
+ "behaviour": "Explains the DPIIT recognition process and the tax benefits as published on startupindia.gov.in, with citation.",
+ "fail_if": "Says recognition alone gives the tax exemption without the separate 80-IAC application, invents a fee for recognition, or gives other turnover or age limits.",
+ "summary": "Startup India page: apply via NSWS; turnover < Rs 200 cr (300 DeepTech), up to 10 (20) years; 80-IAC holiday 3 of first 10 years for Pvt Ltd/LLP after clearance."
+}

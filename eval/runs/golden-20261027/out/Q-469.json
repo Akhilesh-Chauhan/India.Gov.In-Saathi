@@ -1,0 +1,25 @@
+{
+ "id": "Q-469",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A person whose total income exceeds the maximum amount not chargeable to tax must apply for a PAN on or before 31 May of the tax year immediately following (rule 158 table, Sl. No. 1)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "quote": "Where the total income of the person or the total income of any On or before the 31st May of the tax other person in respect of which he is assessable under the Act year immediately succeeding the tax"
+  },
+  {
+   "fact": "A person carrying on business or profession whose sales, turnover or gross receipts are likely to exceed Rs 5,00,000 in a tax year must apply before the end of that tax year (Sl. No. 2)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "quote": "A person not falling under Sl. No. 1, but carrying on any busi- Before the end of that tax year. ness or profession, the total sales, turnover or gross receipts of which are or is likely to exceed ₹ 500000 in any tax year"
+  },
+  {
+   "fact": "The rule cited is in the notified Income-tax Rules, 2026",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "quote": "Short title and commencement.–(1) These rules may be called the Income-tax Rules, 2026."
+  }
+ ],
+ "summary": "Rule 158 table (Income-tax Rules 2026) confirmed: 31 May of the following tax year; business turnover above Rs 5 lakh before the end of that tax year."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-182",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:14:18+05:30",
+   "sha256": "1aeb07d0aefcd74e42ca612bfcea00585efce9388e4f6c6d44009b0b22860e93",
+   "copy": "6b0e61dfcbffb0a4aeed.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:14:18+05:30",
+   "sha256": "1aeb07d0aefcd74e42ca612bfcea00585efce9388e4f6c6d44009b0b22860e93",
+   "copy": "6b0e61dfcbffb0a4aeed.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:14:18+05:30",
+   "sha256": "1aeb07d0aefcd74e42ca612bfcea00585efce9388e4f6c6d44009b0b22860e93",
+   "copy": "6b0e61dfcbffb0a4aeed.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://soilhealth.dac.gov.in/",
+   "final": "https://soilhealth.dac.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:10:04+05:30",
+   "sha256": "0ba76965ef47c39191f21f4982ce7262f83f6db651cc0be78e3869287a81cbfb",
+   "copy": "fc088da2e3b8c5a963c1.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

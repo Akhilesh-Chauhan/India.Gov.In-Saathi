@@ -1,0 +1,52 @@
+{
+ "id": "Q-462",
+ "checked_at": "2026-10-28T14:03:38+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

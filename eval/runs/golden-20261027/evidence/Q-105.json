@@ -1,0 +1,67 @@
+{
+ "id": "Q-105",
+ "checked_at": "2026-10-28T14:02:53+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/",
+   "final": "https://pgportal.gov.in/pension/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:39+05:30",
+   "sha256": "9f6a5846c420d296c6ff9a1908aad33858c41b7b817e42ea520feb764ce1545f",
+   "copy": "0f409c2bf15bc2f8afa4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/New/cpengrams_manual.pdf",
+   "final": "https://pgportal.gov.in/pension/New/cpengrams_manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:12+05:30",
+   "sha256": "97a2c076a89e6fe46e046a711db2eefa342a46e8a9f97f20a8e495a600d4f323",
+   "copy": "f8a31e7b4d6813ce018c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/New/cpengrams_manual.pdf",
+   "final": "https://pgportal.gov.in/pension/New/cpengrams_manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:12+05:30",
+   "sha256": "97a2c076a89e6fe46e046a711db2eefa342a46e8a9f97f20a8e495a600d4f323",
+   "copy": "f8a31e7b4d6813ce018c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/",
+   "final": "https://pgportal.gov.in/pension/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:39+05:30",
+   "sha256": "9f6a5846c420d296c6ff9a1908aad33858c41b7b817e42ea520feb764ce1545f",
+   "copy": "0f409c2bf15bc2f8afa4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

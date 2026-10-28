@@ -1,0 +1,67 @@
+{
+ "id": "Q-093",
+ "checked_at": "2026-10-28T14:02:51+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "final": "https://eshram.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:42+05:30",
+   "sha256": "19a21587dfeeb24cf596f2f0c5f8be0f0e53b11106e11f57091eab069b6672c6",
+   "copy": "7925f23e70066cd7fb78.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "final": "https://eshram.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:42+05:30",
+   "sha256": "19a21587dfeeb24cf596f2f0c5f8be0f0e53b11106e11f57091eab069b6672c6",
+   "copy": "7925f23e70066cd7fb78.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "final": "https://eshram.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:42+05:30",
+   "sha256": "19a21587dfeeb24cf596f2f0c5f8be0f0e53b11106e11f57091eab069b6672c6",
+   "copy": "7925f23e70066cd7fb78.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "final": "https://eshram.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:42+05:30",
+   "sha256": "19a21587dfeeb24cf596f2f0c5f8be0f0e53b11106e11f57091eab069b6672c6",
+   "copy": "7925f23e70066cd7fb78.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

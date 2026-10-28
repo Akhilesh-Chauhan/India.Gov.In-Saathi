@@ -1,0 +1,44 @@
+{
+ "id": "Q-434",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Wheat MSP for RMS 2027-28 is Rs 2,610 per quintal",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "1 Wheat 2610 1264 106 2585 25"
+  },
+  {
+   "fact": "The wheat MSP rose by Rs 25 per quintal",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "For Lentil (Masur), barley, gram, and wheat, there is an increase of Rs.390 per quintal, Rs.136 per quintal, Rs.83 per quintal and Rs.25 per quintal respectively."
+  },
+  {
+   "fact": "The previous wheat MSP (RMS 2026-27) was Rs 2,585 per quintal",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "S. No. Crops MSP RMS 2027-28 Cost* of Production RMS 2027-28 Margin over cost (in percent) MSP RMS 2026-27 Increase in MSP (Absolute) 1 Wheat 2610 1264 106 2585 25"
+  },
+  {
+   "fact": "The expected margin over the all-India weighted average cost of production is 106% for wheat",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "The expected margin over All-India weighted average cost of production is 106 percent for wheat"
+  },
+  {
+   "fact": "Rapeseed & Mustard MSP rose by Rs 413 per quintal, more than wheat's Rs 25",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "The absolute highest increase in MSP has been announced for Safflower at Rs.675 per quintal followed by Rapeseed & Mustard at Rs.413 per quintal.",
+   "note": "The comparison is derived: Rs 413 here against wheat's Rs 25 in the next fact's quote."
+  },
+  {
+   "fact": "The decision is the CCEA's, released by PIB on 30 Sep 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "quote": "Cabinet Committee on Economic Affairs (CCEA) Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28 Posted On: 30 SEP 2026 3:06PM by PIB Delhi"
+  }
+ ],
+ "summary": "PIB 30 Sep 2026 CCEA release confirms wheat MSP Rs 2,610 (+Rs 25 from Rs 2,585), 106% margin, rapeseed & mustard +Rs 413."
+}

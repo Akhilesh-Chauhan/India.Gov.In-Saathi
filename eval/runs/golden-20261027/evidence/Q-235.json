@@ -1,0 +1,52 @@
+{
+ "id": "Q-235",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "final": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:04:39+05:30",
+   "sha256": "c5958163162ddd69a5b4b3b6e393e489b61526f42638949ae21b064ea490d3dd",
+   "copy": "cb87a54f3c9aaa15843c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "final": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:04:39+05:30",
+   "sha256": "c5958163162ddd69a5b4b3b6e393e489b61526f42638949ae21b064ea490d3dd",
+   "copy": "cb87a54f3c9aaa15843c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1741878",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1741878&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:40+05:30",
+   "sha256": "030aba270b7dc732c02f567759bc58499c83798bcd39ac1237c509115650a756",
+   "copy": "dd76889ff8fb738749bc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

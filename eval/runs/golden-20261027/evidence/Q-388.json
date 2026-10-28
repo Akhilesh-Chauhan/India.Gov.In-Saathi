@@ -1,0 +1,52 @@
+{
+ "id": "Q-388",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298357&reg=48&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298357&reg=48&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:30+05:30",
+   "sha256": "1b966f71daa90286ba3049c655e0d6aa6c7a5569fb3bc0965f557b60eedab0b0",
+   "copy": "73c3d7e73e8b3a166ac6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "final": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:16+05:30",
+   "sha256": "0ccfef636ca5f74c1344ed68c321ff477c7daf80288de43a40c2198db14cf406",
+   "copy": "46f8faddb9cbcb98b85c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "final": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:16+05:30",
+   "sha256": "0ccfef636ca5f74c1344ed68c321ff477c7daf80288de43a40c2198db14cf406",
+   "copy": "46f8faddb9cbcb98b85c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

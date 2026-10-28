@@ -1,0 +1,15 @@
+{
+ "id": "Q-420",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "112 is the integrated emergency number (ERSS), covering police, fire and rescue and health services",
+   "status": "confirmed",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "quote": "112 Loading... Integrated Helpline (Emergency Response Support System (ERSS) Police, Fire & Rescue, Health services etc)"},
+  {"fact": "101 is the Fire Helpline",
+   "status": "confirmed",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "quote": "100 Loading... Police Helpline 101 Loading... Fire Helpline"}
+ ],
+ "summary": "112 (ERSS incl. Fire & Rescue) and 101 (Fire Helpline) confirmed on the india.gov.in helpline directory."
+}

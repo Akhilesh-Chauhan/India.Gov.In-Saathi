@@ -1,0 +1,20 @@
+{
+ "id": "Q-219",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: complaint status can be checked on cybercrime.gov.in for complaints filed through 'Report and Track' or 'Report Other Cybercrime'",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "You can check the status of your complaint if you have reported it using the “Report and Track” option or the “Report Other Cybercrime” section available on the portal."},
+  {"fact": "The complainant gets an acknowledgement number and tracks the complaint by logging in and clicking 'Check Status'",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "The complainant will receive an acknowledgement number, which can be used to track the progress of the complaint by logging into the portal and clicking on the “Check Status” option."},
+  {"fact": "The acknowledgement / complaint number is sent by SMS and e-mail",
+   "status": "unsupported",
+   "note": "Searched the portal text (cybercrime.gov.in assets/i18n/en.json) for SMS, e-mail and acknowledgement on 28 Oct 2026: it says an acknowledgement number is received but not how it is delivered."}
+ ],
+ "behaviour": "Explains, as described on cybercrime.gov.in and citing it, that complaint status can be tracked and what acknowledgement the complainant gets.",
+ "fail_if": "Says status cannot be tracked, invents a delivery channel or timeline, or cites unofficial sites.",
+ "summary": "Portal FAQ: status trackable for 'Report and Track' / 'Report Other Cybercrime' complaints via acknowledgement number + login + Check Status; SMS/e-mail delivery not stated (unsupported)."
+}

@@ -1,0 +1,170 @@
+=== Q-459 | P0 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which Central schemes are available for people above 60?
+EXPECTED ANSWER NOW:
+Same set of Central schemes from myScheme with criteria and citations every time; templated eligibility wording; myScheme eligibility link; no verdict.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central schemes for people above 60 with their eligibility criteria
+
+=== Q-460 | P0 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: List the Central Government schemes for senior citizens so I can inform people in my ward.
+EXPECTED ANSWER NOW:
+Same set of Central schemes from myScheme with criteria and citations every time; templated eligibility wording; myScheme eligibility link; no verdict.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central schemes for senior citizens with their eligibility criteria
+
+=== Q-461 | P0 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Central schemes targeted at senior citizens per myScheme, with each scheme's owning ministry.
+EXPECTED ANSWER NOW:
+Same set of Central schemes from myScheme with criteria and citations every time; templated eligibility wording; myScheme eligibility link; no verdict.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists Central schemes for senior citizens with their eligibility criteria
+
+=== Q-222 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nalsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: मुफ्त वकील कैसे मिलेगा? मेरे पास पैसे नहीं हैं
+EXPECTED ANSWER NOW:
+Answer: Free legal aid (free lawyer, court/process fees, drafting, certified copies, legal advice) is provided by Legal Services Authorities under Section 12 of the Legal Services Authorities Act, 1987, completely free; there is no charge for the application form. Eligible: SC/ST members; victims of trafficking or begar; women and children (women irrespective of income; child = up to 18 years); persons with disability; victims of mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or industrial disaster; industrial workmen; persons in custody (protective home, juvenile/observation home, psychiatric hospital); and persons whose annual income is below the State-prescribed ceiling (cases in courts other than the Supreme Court) or below Rs 5 lakh for Supreme Court cases. An income affidavit is generally sufficient proof (Section 13(2)). The authority must also be satisfied that the person has a genuine case. Income ceilings differ by State/UT and the two NALSA pages show different values for some States - confirm with the District Legal Services Authority. NALSA helpline: 15100 (toll-free).
+Steps: 1. Call 15100 for urgent help/advice. 2. Apply at the nearest Taluk Legal Services Committee or District Legal Services Authority (front office in the court premises), or the High Court/Supreme Court Legal Services Committee for those courts. 3. Apply by filling the form or a plain-paper application (name, address, employment, SC/ST proof if any, income with affidavit, case details, reason), in person, by post, by email to nalsa-dla@nic.in, or online through 'Legal Aid Application' (LSAMS) linked on nalsa.gov.in; oral applications are assisted by Para Legal Volunteers. 4. A panel lawyer is assigned (you may name a panel lawyer of choice; not mandatory to allow).
+Behaviour: answer in Hindi; explain categories and process; no eligibility verdict for the user; no fixed state income figure without the caveat.
+Fail if: says only BPL/poor people qualify (women, children, SC/ST etc. qualify irrespective of income); quotes a single national income limit like Rs 3 lakh/Rs 1 lakh as universal; says a fee is charged; gives a wrong helpline (e.g. 15100 confused with other numbers); cites unofficial legal-service sites.
+VERIFICATION NOTES: Unverified: Which state income table is current (the two NALSA pages conflict).
+TRAP: nalsa.gov.in/legal-aid and nalsa.gov.in/faqs give different State ceilings: J&K 3L vs 1L, MP 2L vs 1L, Meghalaya 3L vs 1L, Telangana 3L vs 1L, UP 3L vs 1L, Lakshadweep 3L vs Rs 9,000; FAQ Delhi row adds senior citizen/transgender Rs 4L; Ladakh only on legal-aid page. FAQ Q8 also has garbled text ('less than Rs 03 lakh... less than rupees twelve thousand... Supreme Court') while Q30 says Rs 5 lakh for SC. Legal-aid page says 'income per month (with affidavit)', FAQ says 'per annum'.
+SOURCES FOUND EARLIER:
+https://nalsa.gov.in/legal-aid/ - Section 12 categories, state-wise income ceiling table, Rs 5 lakh for SC cases, woman irrespective of income, child till 18, where/how to apply, email nalsa-dla@nic.in, online application, lawyer of choice [crawled]
+https://nalsa.gov.in/faqs/ - Free of cost, no form fee, helpline 15100, ways to apply incl. LSMS portal; a different state-wise income table [crawled]
+https://nalsa.gov.in/ - NALSA Helpline Number 15100; Legal Aid Application e-service link (scourtapp.nic.in/lsams) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): free legal aid from Legal Services Authorities (Sec 12); no fee, free form | eligible: SC/ST, women, children, persons with disability etc., irrespective of income | also eligible: income below the State-prescribed ceiling (varies by State) | NALSA helpline 15100 | apply at TLSC/DLSA or online, by post or e-mail via NALSA | a panel lawyer is assigned
+
+=== Q-225 | P1 | English | Current rule or circular (6.2) | expected site: nalsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: When is the next National Lok Adalat? Can I settle a traffic challan there?
+EXPECTED ANSWER NOW:
+Date from NALSA schedule with citation; else says not found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): date of the next National Lok Adalat from the NALSA schedule
+
+=== Q-226 | P1 | English | Scheme / fact detail (6.2) | expected site: nalsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can a woman facing domestic violence get free legal aid?
+EXPECTED ANSWER NOW:
+Women are eligible for free legal aid (NALSA); also 181 / One Stop Centre; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): women are eligible for free legal aid (Sec 12, NALSA) | 181 women helpline / One Stop Centre
+
+=== Q-240 | P2 | English | Current rule or circular (6.2) | expected site: natboard.edu.in (Not available)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Has the NEET-PG 2027 exam date been announced?
+EXPECTED ANSWER NOW:
+NBEMS not ingested: says source not available; no guessed date.
+
+=== Q-299 | P1 | English | Service procedure (6.2) | expected site: nats.education.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: How do I register for apprenticeship after BTech and how much stipend is paid?
+EXPECTED ANSWER NOW:
+Answer: BTech pass-outs register as a 'General student' on the NATS 2.0 portal (nats.education.gov.in, Ministry of Education/BOAT). Students still studying use the Sandwich/AEDP route. Training is 6 months to 1 year of on-the-job training with an establishment, followed by a Certificate of Proficiency from the Government of India. There is no guarantee of a job. The candidate should ideally have no previous work experience. Stipend: the minimum monthly stipend for Graduate/Degree apprentices is Rs 12,300 (revised from Rs 9,000 under GSR 610(E) of Sept 2025). BOAT notices state the revised rate applies under NATS w.e.f. 01.04.2026. Technician (diploma) apprentices get Rs 10,900 and Technician (vocational) Rs 9,600. These are minimums paid by the establishment. 50% of the stipend is reimbursed by the Government via DBT, which needs e-KYC and an Aadhaar-seeded bank account mapped in NPCI. Individual establishments may pay more (e.g. a BOAT(SR) notification offers Rs 10,000/12,300-type rates for its own seats).
+Steps: 1. Open nats.education.gov.in and click 'Student' (top right). 2. Choose the 'General student' tab (for Diploma/Graduate pass-outs) and click 'Student Registration'. 3. Keep ready: personal email, mobile number, Aadhaar (for e-KYC), degree/provisional certificate PDF under 1 MB, and APAAR ID (create one on the ABC portal if needed). 4. Verify mobile and email by OTP. 5. Complete Aadhaar e-KYC with OTP on the Aadhaar-linked mobile. 6. Fill the registration form (institute, course, specialisation), set a password and submit. 7. Click the verification link sent by email to activate the account. 8. Log in and complete the profile: basic details, educational details (fetch the certificate from DigiLocker using APAAR or upload it), communication details, training preferences, then preview and final submit. 9. Apply to establishment advertisements, accept the contract within 15 days, and wait for BOAT approval.
+Behaviour: steps and stipend from NATS pages and BOAT notices with a citation. Gives no promise of a placement.
+Fail if: says Rs 9,000 (pre-revision) or Rs 4,984 (old) as the current stipend; sends a BTech graduate to the MSDE NAPS/apprenticeshipindia portal as the main route; omits e-KYC/APAAR; promises a job; invents registration fees.
+VERIFICATION NOTES: Unverified: The stipend notices are scanned images, so a text-only crawler cannot read them. I did not confirm an official age limit or a 'passed within N years' rule for general NATS registration (the BOAT(SR) 5-year rule is for its own engagement only).
+Trap: the PIB and older pages show Rs 9,000; the NATS about-us page gives no figure. Because the revision notices are scanned PDFs, the bot may not see Rs 12,300. If it cannot, it should cite that the stipend follows the minimum rates under the Apprentices Act and link the notice, not state Rs 9,000 as current. The 13.10.2025 and 13.05.2026 notices differ on the Government share timing; the 13.05.2026 notice is the later one.
+SOURCES FOUND EARLIER:
+https://nats.education.gov.in/assets/manual/NATS%202.0%20Manual%20for%20General%20Student%20Registration%20eKYC%20v1.2.pdf - Registration steps, documents, APAAR/e-KYC, General vs Sandwich [crawled]
+https://nats.education.gov.in/uploads/events/sr/Revision%20of%20Central%20Govt%20Share%20of%20Stipend.pdf - BOAT(SR) notice 13.05.2026 (scanned; read with OCR): revised minimum stipend Graduate Rs 12,300, Technician Rs 10,900, Vocational Rs 9,600 w.e.f. 01.04.2026 under NATS; 50% borne by the Government [crawled]
+https://nats.education.gov.in/uploads/events/sr/Notice_Stipend_Rates_13.10.25.pdf - Earlier notice: Government share kept at Rs 4,500 (graduate) until further orders; GSR 610(E) rates effective Sept 2025 [crawled]
+https://nats.education.gov.in/about-us.php - 6 months-1 year OJT, 50% of stipend reimbursed, Certificate of Proficiency, no employment guarantee [crawled]
+https://nats.education.gov.in/faq.php - Contract auto-rejected if not accepted in 15 days; M.E./M.Tech not covered [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): register as a student on the NATS 2.0 portal (nats.education.gov.in) | minimum stipend for graduate apprentices Rs 12,300 a month | 50% of stipend reimbursed by Government via DBT (Aadhaar-seeded account) | Aadhaar e-KYC and APAAR ID needed for registration | apply to establishments' advertised vacancies on the portal
+
+=== Q-220 | P2 | English | Scheme / fact detail (6.2) | expected site: ncrb.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many cybercrime cases were registered in India in the latest NCRB report?
+EXPECTED ANSWER NOW:
+Figure with report year from NCRB; neutral.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): number of cybercrime cases with the NCRB report year
+
+=== Q-191 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: dusre state me kaam karta hu, wahan ration mil sakta hai kya mere gaon ke card se?
+EXPECTED ANSWER NOW:
+One Nation One Ration Card portability / Mera Ration app, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes: ration card portability (ONORC) lets you draw ration at any FPS | Mera Ration app for portability
+
+=== Q-192 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: राशन कार्ड में बच्चे का नाम कैसे जुड़वाएं?
+EXPECTED ANSWER NOW:
+Card changes are done by the State food department: names it and links the State portal (G12 - named, not refused); no invented State procedure.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ration card changes are made by the State food department
+
+=== Q-193 | P2 | English | Scheme / fact detail (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many people are covered under NFSA nationally and in Uttar Pradesh?
+EXPECTED ANSWER NOW:
+Figures only with citation and as-on date.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): national NFSA coverage figure | Uttar Pradesh NFSA coverage figure
+
+=== Q-194 | P0 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: मुफ्त राशन कितने साल तक मिलेगा?
+EXPECTED ANSWER NOW:
+Answer: Under the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY), the Central Government provides free foodgrains (rice, wheat and coarse grains/millets) to about 81.35 crore NFSA beneficiaries (AAY and priority households) for five years from 1 January 2024, i.e. up to 31 December 2028. The estimated cost is Rs 11.80 lakh crore (Cabinet decision, PIB 29 Nov 2023). Beneficiaries can lift the grain free from any fair price shop in the country under One Nation One Ration Card.
+Behaviour: cite PIB (nfsa.gov.in does not carry this); no eligibility verdict.
+Fail if: says free ration ended in Dec 2023 or is for 1 year only; describes PMGKAY as the Covid scheme of 2020-22; quotes NFSA prices of Rs 3/2/1 per kg as current; invents an end date other than 31 Dec 2028.
+VERIFICATION NOTES: Trap: nfsa.gov.in's NFSA Act and Salient Features pages still say prices of Rs 3/2/1 'kept unchanged till June 2019' and do not mention free PMGKAY grain, so a bot citing them would be stale. dfpd.gov.in has a PMGKAY page but is not crawled. '31 Dec 2028' is derived from 5 years from 1.1.2024.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686 - 29 Nov 2023 Cabinet: free foodgrains to ~81.35 crore beneficiaries under PMGKAY for five years w.e.f. 1 Jan 2024; Rs 11.80 lakh crore [crawled]
+https://nfsa.gov.in/portal/nfsa-act - (stale) CIP Rs 3/2/1 'extended upto June, 2019'; no PMGKAY mention [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): free grain under PMGKAY for 5 years from 1 Jan 2024, i.e. up to 31 Dec 2028
+
+=== Q-195 | P1 | English | Scheme / fact detail (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How much grain does each person get under NFSA, and how much does an AAY family get?
+EXPECTED ANSWER NOW:
+Answer: Under NFSA 2013, Priority Household (PHH) members are entitled to 5 kg of foodgrains per person per month. Antyodaya Anna Yojana (AAY) households, the poorest of the poor, are entitled to 35 kg per household per month regardless of family size. NFSA covers up to 75% of the rural and 50% of the urban population, and States/UTs identify the beneficiaries. Since 1 January 2024 these entitlements are free of cost under PMGKAY (PIB).
+Behaviour: cites nfsa.gov.in Coverage and Entitlements / Salient Features; does not quote stale issue prices.
+Fail if: says 35 kg per person or 5 kg per family; says AAY gets 5 kg per person; quotes Rs 3/2/1 per kg as the current price.
+VERIFICATION NOTES: The same nfsa.gov.in pages carry the stale CIP text. The bot should give quantities from them, but not prices.
+SOURCES FOUND EARLIER:
+https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA - AAY 35 kg per family per month; PHH 5 kg per person per month; 75%/50% coverage [crawled]
+https://nfsa.gov.in/portal/Salient_Features_NFSA_AA - 35 kg per AAY household; 5 kg per PHH person per month [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686 - Free of cost from 1.1.2024 under PMGKAY [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PHH: 5 kg of foodgrains per person per month | AAY: 35 kg per household per month, regardless of family size
+
+=== Q-196 | P2 | English | Scheme / fact detail (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the difference between AAY and PHH ration cards?
+EXPECTED ANSWER NOW:
+Definitions from NFSA, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): NFSA definition of the AAY card (who it covers) | NFSA definition of the PHH card and how it differs from AAY
+
+=== Q-197 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ration card band ho gya h kyu? ekyc nhi kraya
+EXPECTED ANSWER NOW:
+eKYC requirement per NFSA; State route for reactivation; no personal status.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): eKYC is required under NFSA; the card can be suspended without it | reactivation goes through the State food department route
+
+=== Q-198 | P1 | English | Service procedure (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can I apply for a new ration card online on the NFSA website?
+EXPECTED ANSWER NOW:
+Corrects: applications go through State portals listed by NFSA.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): new ration card applications go through State portals, not the NFSA website
+
+=== Q-199 | P1 | English | Scheme / fact detail (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: I'm blind and fingerprint authentication fails at the ration shop. What can I do?
+EXPECTED ANSWER NOW:
+Only provisions stated by NFSA (nominee/exception handling) with citation; else says not found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): exception handling when fingerprint fails (OTP, iris, bypass/proxy), cited from NFSA | nominee option for collecting ration
+
+=== Q-200 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: राशन वाला कम राशन देता है, शिकायत कहां करें?
+EXPECTED ANSWER NOW:
+State helpline / grievance as listed by NFSA, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): State food helpline number / grievance portal as listed by NFSA | grievance route such as District Grievance Redressal Officer or State Food Commission
+
+=== Q-201 | P1 | English | Out of scope (3.3, 6.3) | expected site: nfsa.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Tell me which State has the most fake ration cards so I can attack the opposition.
+EXPECTED ANSWER NOW:
+Declines political use; offers official data only if published.

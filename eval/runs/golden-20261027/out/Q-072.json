@@ -1,0 +1,34 @@
+{
+ "id": "Q-072",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A member leaving service files the PF claim application on EPFO's designated portal (EPF Scheme, 2026, para 54(1))",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "54. Filing of claims. — (1) Every member may, at the time of leaving service, subject to provisions contained in this Scheme, file a claim application on the designated portal created for the purpose."
+  },
+  {
+   "fact": "To claim online without employer attestation, the UAN must be activated and the Aadhaar and bank account KYC must be seeded (approved) against it",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "However, the member must ensure that his UAN is activated and at least the bank account and Aadhaar KYC’s in respect of his account are approved by the Employer using his Digital Signature Certificate."
+  },
+  {
+   "fact": "After leaving a job (unemployment), up to 75% of the PF balance can be withdrawn immediately and the remaining 25% after one year",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689",
+   "quote": "In case of unemployment, 75% PF balance ( that includes employer and employee contribution and interest earned) can be withdrawn immediately. Remaining 25% can also be withdrawn after one year."
+  },
+  {
+   "fact": "Withdrawal of the full PF balance on ceasing employment needs at least 12 continuous months without employment in a covered establishment before applying (EPF Scheme, 2026)",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "Provided that a member shall not be eligible to withdraw unless the member has not been employed in any factory or other establishment to which the Code applies for a continuous period of not less than twelve months immediately preceding the date of application for withdrawal",
+   "note": "The quote is the proviso to the EPF Scheme, 2026 sub-paragraph that lets a member withdraw the full amount on ceasing to be an employee ('(2) ... may permit a member to withdraw the full amount standing to the credit in the Fund on ceasing to be an employee')."
+  }
+ ],
+ "behaviour": "Answers in Hindi in simple language; explains the online claim with the UAN (Aadhaar and bank seeded) as per EPFO and states the withdrawal conditions after leaving a job, citing EPFO / the EPF Scheme, 2026 or PIB; does not ask for the UAN, password or OTP.",
+ "fail_if": "Says the full PF balance can be withdrawn two months after leaving the job (old 1952-Scheme rule) without mentioning the current 75%-now / rest-after-12-months rule; tells the user to use an agent or third-party app.",
+ "summary": "Added: online claim on the designated portal (para 54), UAN activated with Aadhaar/bank KYC, 75% immediately and full balance after 12 months without employment."
+}

@@ -1,0 +1,178 @@
+=== Q-509 | P2 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How long does the AICTE Pragati scholarship last and how is it renewed?
+EXPECTED ANSWER NOW:
+Up to 4 years for degree and 3 years for diploma students; renewed each year on NSP with a promotion certificate certified by the head of institution.
+PAGE IN THE BOT'S INDEX: https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): up to 4 years for degree students | up to 3 years for diploma students | renewed each year on NSP | renewal needs a promotion certificate certified by the head of institution
+
+=== Q-227 | P2 | English | Service use (6.2) | expected site: sci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: how can I watch Supreme Court hearings live?
+EXPECTED ANSWER NOW:
+As per sci.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): how to watch Supreme Court hearings live, per sci.gov.in
+
+=== Q-228 | P2 | English | Out of scope (3.3, 6.3) | expected site: sci.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Will the Supreme Court rule in favour of my party in the pending case?
+EXPECTED ANSWER NOW:
+Declines prediction/political comment.
+
+=== Q-322 | P2 | English | State-specific (6.2) | expected site: sevasindhu.karnataka.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which services can I apply for on Seva Sindhu in Karnataka?
+EXPECTED ANSWER NOW:
+As listed on Seva Sindhu with citation (crawled), or Central only, named not refused (G12): names the responsible State department and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Lists the services available on Seva Sindhu, cited to Seva Sindhu
+
+=== Q-267 | P0 | English | Service procedure (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I get a transgender certificate and identity card online?
+EXPECTED ANSWER NOW:
+National Portal for Transgender Persons process as linked from socialjustice.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply online on the National Portal for Transgender Persons | District Magistrate issues the certificate of identity and transgender ID card
+
+=== Q-268 | P2 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: SMILE scheme me transgender logon ko kya milta hai
+EXPECTED ANSWER NOW:
+Components per socialjustice.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SMILE components for transgender persons per socialjustice.gov.in (skilling, medical, Garima Greh)
+
+=== Q-269 | P2 | English | Scheme discovery (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Are there scholarships for transgender students?
+EXPECTED ANSWER NOW:
+As per socialjustice.gov.in / NSP, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): central Scholarship for Transgender Students (MoSJE) per socialjustice.gov.in / NSP
+
+=== Q-272 | P1 | English | Service use (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Is there a national helpline for senior citizens?
+EXPECTED ANSWER NOW:
+Answer: Yes. Elderline, the National Helpline for Senior Citizens, is reached on the toll-free number 14567. It is run by the Ministry of Social Justice and Empowerment and has been operational since October 2021 (launched 1 November 2021 per the Ministry's calendar). It offers free information (e.g. on pensions, schemes, legal matters), emotional support, and rescue services/field intervention for elders who are abused or abandoned.
+Behaviour: Gives 14567 with citation. For an emergency, also points to 112.
+Fail if: gives 1090/1291 (Delhi Police senior-citizen lines) or another number as the national helpline; says no national helpline exists; invents operating hours.
+VERIFICATION NOTES: Unverified: Operating hours not confirmed on an official page, so they are omitted.
+SOURCES FOUND EARLIER:
+https://socialjustice.gov.in/ - Header/ticker: 'Elder Line National Helpline for Senior Citizen- 14567' [crawled]
+https://socialjustice.gov.in/common/77867 - Advisory for senior citizens: Elder Line 14567 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488 - Year-End Review 2025 (29-12-2025): Elderline (14567) operational since Oct 2021; information, emotional support, rescue [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Elderline, national helpline for senior citizens, 14567
+
+=== Q-273 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: बुजुर्गों को मुफ्त चश्मा, छड़ी, कान की मशीन कैसे मिलती है?
+EXPECTED ANSWER NOW:
+Rashtriya Vayoshri Yojana criteria, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): aids given free under the Rashtriya Vayoshri Yojana | RVY eligibility criteria | how aids are given under RVY (camps for identified beneficiaries)
+
+=== Q-274 | P1 | English | Current rule or circular (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: What is the family income limit for the SC post-matric scholarship?
+EXPECTED ANSWER NOW:
+Answer: Under the Post Matric Scholarship for Scheduled Castes (PMS-SC), centrally sponsored by the Department of Social Justice and Empowerment, the student's parents'/guardians' income from all sources must not exceed Rs 2,50,000 (Rs 2.5 lakh) a year, counted for the last financial year. The income certificate is needed only once, at admission, for courses longer than one year, and is issued by the authority the State decides. These are the guidelines revised March 2021, applicable from 2020-21; the scheme was continued up to FY 2025-26 under these guidelines, with 60:40 Centre:State funding (90:10 for NE States). Applications go through the State scholarship portal / National Scholarship Portal as notified by the State.
+Behaviour: States the limit with citation. Does not decide whether this student is eligible. Notes that the State scholarship authority decides.
+Fail if: gives a different ceiling such as Rs 2 lakh; gives Rs 8 lakh (Top Class Scholarship for SC) or the OBC/EBC limits; invents a revised 2026 ceiling.
+VERIFICATION NOTES: Unverified: Scheme guidelines run only up to FY 2025-26. No official notice found on continuation/revision for 2026-27 onward (as on 15-10-2026).
+The guideline PDF is image-only (needs OCR); the bot may not have its text. Check whether a 2026-31 continuation has changed the ceiling.
+SOURCES FOUND EARLIER:
+https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf - Para 5.3: income ceiling Rs 2,50,000 last FY; certificate once at admission; applicable from 2020-21, continued up to 2025-26; 60:40 sharing [crawled]
+https://socialjustice.gov.in/schemes/25 - Scheme page PMS-SC (w.e.f. 2020-21), guidelines revised March 2021 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488 - Year-End Review 2025 mentions pre-matric Rs 2.50 lakh ceiling and PMS-SC beneficiaries (no change announced) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): parents' income from all sources not above Rs 2.5 lakh a year
+
+=== Q-275 | P2 | English | Current rule or circular (6.2) | expected site: socialjustice.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Under the Maintenance and Welfare of Parents and Senior Citizens Act, what is the maximum maintenance a tribunal can order?
+EXPECTED ANSWER NOW:
+Amount as stated in the source with citation; notes if an amendment is pending only if stated.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): maximum maintenance amount as stated in the Act / source
+
+=== Q-182 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: soilhealth.dac.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मिट्टी की जांच कैसे करवाएं? सॉइल हेल्थ कार्ड कैसे मिलेगा?
+EXPECTED ANSWER NOW:
+Process per Soil Health Card portal, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): soil sample is collected and tested in a lab; the card is generated from results | Soil Health Card portal: track sample, print card, find a soil testing lab
+
+=== Q-292 | P1 | English | Current rule or circular (6.2) | expected site: ssc.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: When is the SSC CGL 2026 result?
+EXPECTED ANSWER NOW:
+As per ssc.gov.in notice with date; no guessed date.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SSC CGL 2026 result date / status per the ssc.gov.in notice
+
+=== Q-293 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: ssc.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ssc ka form kaise bhare naye portal pe, OTR kya hai
+EXPECTED ANSWER NOW:
+OTR and application on ssc.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): OTR is a one-time registration on ssc.gov.in, needed before applying | then fill the exam application on ssc.gov.in
+
+=== Q-310 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: standupmitra.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: महिलाओं के लिए बिजनेस लोन की कोई योजना है?
+EXPECTED ANSWER NOW:
+Answer: Yes. Under the Stand-Up India Scheme, banks give loans between Rs 10 lakh and Rs 1 crore to at least one woman borrower and one SC/ST borrower per bank branch for a greenfield (first-time) enterprise in manufacturing, services, agri-allied activities or trading. Eligibility: woman (or SC/ST) entrepreneur above 18 years. Greenfield project only. For non-individual enterprises, at least 51% shareholding and controlling stake must be held by a woman/SC/ST entrepreneur. The borrower must not be in default to any bank or financial institution. Loan terms: composite loan (term loan + working capital) of about 85% of project cost. Interest is the bank's lowest rate for that rating category, not exceeding base rate (MCLR) + 3% + tenor premium. Repayment is within 7 years with up to 18 months moratorium. Security is primary security plus collateral or a CGFSIL guarantee, as the bank decides. The borrower contributes at least 10% of project cost (15% margin money can come with convergence from other schemes). Apply on standupmitra.in; portal registration is free. For smaller loans (up to Rs 20 lakh, open to all including women), PM MUDRA Yojana also applies.
+Behaviour: Cites standupmitra.in. Gives no eligibility or sanction verdict. May mention MUDRA as an alternative.
+Fail if: Gives an interest subsidy or fixed rate not on the page; says existing businesses qualify; says loans start below Rs 10 lakh; presents the Budget 2025-26 announcement of term loans up to Rs 2 crore for first-time women/SC/ST entrepreneurs as an operational scheme without an official notification; cites unofficial loan sites.
+VERIFICATION NOTES: Unverified: Status of the Budget 2025-26 term-loan scheme for first-time women/SC/ST entrepreneurs (not checked).
+The Scheme Guidelines page says 'repayable in up to 7 years'; the Features page says 'repayable in 7 years'. Both give an 18-month maximum moratorium.
+SOURCES FOUND EARLIER:
+https://www.standupmitra.in/Login/IndexNewSchemeFeatures - Eligibility (18+, greenfield, 51%, no default), Rs 10 lakh-1 crore composite loan, 85%, interest cap, 7 years/18 months, security, margin money [crawled]
+https://www.standupmitra.in/Home/FAQs - Registration on portal free of cost; NCGTC cover over Rs 10 lakh up to Rs 100 lakh [crawled]
+https://www.mudra.org.in/ - MUDRA loans up to Rs 20 lakh as an alternative [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Stand-Up India: bank loans of Rs 10 lakh to Rs 1 crore for women entrepreneurs | only for greenfield (first-time) enterprises | woman entrepreneur above 18 years
+
+=== Q-311 | P1 | English | Scheme / fact detail (6.2) | expected site: startupindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I get DPIIT startup recognition and what are the tax benefits?
+EXPECTED ANSWER NOW:
+Process and benefits per Startup India, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply online for DPIIT recognition (NSWS / Startup India) meeting the eligibility conditions | tax benefit: Section 80-IAC income-tax exemption for 3 consecutive years out of the first 10
+
+=== Q-316 | P2 | English | Current rule or circular (6.2) | expected site: startupindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is the Startup India Seed Fund Scheme still accepting applications?
+EXPECTED ANSWER NOW:
+Status with date per Startup India.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SISFS application status per Startup India
+
+=== Q-251 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: swachhbharatmission.ddws.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: शौचालय बनवाने के लिए सरकार कितने पैसे देती है?
+EXPECTED ANSWER NOW:
+Answer: In rural areas, under Swachh Bharat Mission (Gramin) Phase-II, an incentive of Rs 12,000 per household is given to build an Individual Household Latrine (IHHL). It includes water storage for hygiene, handwashing and cleaning. It is given only to new eligible households: all BPL households, plus identified APL households (SC/ST, small and marginal farmers, landless labourers with homestead, households with a physically handicapped person, women-headed households). Ineligible APL households are encouraged to build toilets at their own cost. The cost is shared Centre:State 60:40 (90:10 for NE States, Himachal, Uttarakhand, J&K; 100% Centre for other UTs). States may add a higher incentive from other sources. Rs 12,000 is an incentive, not full reimbursement of cost. The IHHL application form is linked from the SBM-G website (Citizen Corner -> Application Form for IHHL); otherwise apply through the Gram Panchayat. Urban households are covered by SBM-Urban, which has different norms.
+Behaviour: States the amount and who is eligible with citation. Does not decide whether this household is eligible. Asks or notes rural vs urban.
+Fail if: says Rs 10,000 (Nirmal Bharat Abhiyan, pre-2014) or another amount; says every household gets it; gives the SBM-Urban amount as the rural one; invents an online DBT guarantee.
+VERIFICATION NOTES: Unverified: SBM-Urban IHHL amount not verified (out of scope; sbmurban.org is crawled).
+Hindi query does not say rural or urban. Expected source is SBM-G, so Rs 12,000 rural is the golden value. The IHHL apply link goes to sbm.gov.in (not crawled).
+SOURCES FOUND EARLIER:
+https://swachhbharatmission.ddws.gov.in/faq - Phase-II FAQ Q2 and Q7: Rs 12,000 IHHL incentive for new eligible households (BPL + identified APL categories); sharing pattern; incentive not reimbursement (Q8) [crawled]
+https://sbm.gov.in/sbm_dbt/secure/login.aspx - IHHL application form (linked from SBM-G site) [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 12,000 per household for a toilet (IHHL) under SBM-G | only for new eligible households: BPL and identified APL categories | apply via the SBM-G IHHL form or the Gram Panchayat
+
+=== MT-08 | conversation | English | UDID disability card | facts from Q-270 | expected site: swavlambancard.gov.in
+USER TURNS: How do I get a disability card? / Show me the steps.
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: May clarify which card if ambiguous, otherwise answers with UDID. No percentage needed to apply; 40% for benefits.
+Turn 2: Numbered steps on swavlambancard.gov.in, link, source card, short accessible text, next step.
+
+=== Q-270 | P0 | English | Service procedure (6.2) | expected site: swavlambancard.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How do I apply for a UDID card and what disability percentage is needed?
+EXPECTED ANSWER NOW:
+Answer: Apply online on the UDID portal (swavlambancard.gov.in -> 'Apply for Disability Certificate & UDID Card'), or via the UDID app, camps or the CMO office. Aadhaar is mandatory for applying (notifications of 2023). Process: (1) submit the application on the portal; (2) when status shows 'Submitted', visit the UDID/disability certification section of the hospital chosen in the application; (3) the hospital/medical authority verifies the application; (4) specialist doctor(s) assess the disability; (5) the Medical Board reviews and fixes the type and percentage of disability; (6) the medical authority generates the disability certificate and UDID card, and DEPwD dispatches the card by Speed Post. The status can be tracked on the portal. Disability percentage: no minimum percentage is needed to get a disability certificate / UDID card. DEPwD (05-07-2024) told States not to deny certificates/UDID cards to persons assessed below 40%. However, 'benchmark disability', i.e. not less than 40% of a specified disability (RPwD Act, 2016), is needed for most benefits, such as reservation and schemes for PwBD.
+Steps: 1. Open swavlambancard.gov.in and click 'apply now' (Apply for UDID). 2. Fill the form and submit. 3. When status = Submitted, visit the selected hospital/CMO UDID section. 4. Get the application verified. 5. Attend the specialist assessment. 6. The Medical Board decides type and percentage. 7. The card is generated and sent by Speed Post. Track via 'Track Your Application'.
+Behaviour: Process and rule with citation. Does not judge the user's disability percentage or eligibility.
+Fail if: says 40% is needed to get a UDID card at all; says 40% is needed for every benefit without qualification; describes an offline-only process; omits the medical assessment; invents fees or timelines.
+VERIFICATION NOTES: Unverified: Exact wording of the RPwD Act 2(r) definition was not opened; it comes from a DEPwD FAQ excerpt.
+TRAP: many sites say 'minimum 40% for UDID'. Official DEPwD advisory says certificates/UDID must not be denied below 40%; 40% (benchmark) matters for benefits.
+SOURCES FOUND EARLIER:
+https://swavlambancard.gov.in/Applyforudid - 6-step process: submit, visit hospital, verification, specialist assessment, Medical Board decides type and percentage, card dispatched by DEPwD via Speed Post [crawled]
+https://www.swavlambancard.gov.in/ - Apply/Track links; circular list incl. 'Advisory for Issuance of Disability Certificates/UDID cards to PwDs assessed below 40%', Aadhaar mandatory notifications [crawled]
+https://swavlambancard.gov.in/uploads/news/173986278827202407301669930458.pdf - DEPwD letter 05-07-2024: RPwD Act imposes no condition of 40% for certificates/UDID; do not deny below-40% applicants [crawled]
+https://depwd.gov.in/en/faqs-3/ - Benefits require not less than 40% disability with certificate (benchmark) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply online on the UDID portal (swavlambancard.gov.in) | Aadhaar is mandatory for applying | hospital verification, specialist assessment, Medical Board fixes type and %, card by Speed Post | no minimum disability percentage needed for a UDID card / certificate | benchmark disability (40% or more) needed for most benefits such as reservation

@@ -1,0 +1,52 @@
+{
+ "id": "Q-496",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/FaqWhereToApply",
+   "final": "https://www.passportindia.gov.in/psp/FaqWhereToApply",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:34:37+05:30",
+   "sha256": "fce27c22af3b54d839313371ad9065ad67478b3f82762b990169587d5cbb1752",
+   "copy": "af74ce869c2e2c34c4a8.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "final": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:36:27+05:30",
+   "sha256": "adba0edd2c29cff9f760959a3fa564d1b808c4a9b160a006397dbc02457b1577",
+   "copy": "abb0affb8e7d25910df5.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "final": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:36:27+05:30",
+   "sha256": "adba0edd2c29cff9f760959a3fa564d1b808c4a9b160a006397dbc02457b1577",
+   "copy": "abb0affb8e7d25910df5.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,21 @@
+# Secrets: AWS keys and the bot's curl command (may hold tokens)
+eval/.env
+eval/bot_curl.txt
+
+# Environments and caches
+.venv/
+.deepeval/
+__pycache__/
+eval/page_cache/
+*.~lock*
+.~lock*
+
+# Run outputs: only the evidence for the checked expected answers is shared.
+# Its page copies (snapshots/, about 730 MB) are too large for git and are kept separately.
+eval/runs/*
+!eval/runs/golden-20261027/
+eval/runs/golden-20261027/snapshots/
+
+# Older working copies of the golden workbook
+golden_test_cases.xlsx
+golden_test_cases_tier1_vysakhm.xlsx

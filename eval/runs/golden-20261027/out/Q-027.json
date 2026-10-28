@@ -1,0 +1,27 @@
+{
+ "id": "Q-027",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A minor child whose parents are both Indian citizens, or one of whose parents is an Indian citizen, is eligible for an OCI card",
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "quote": "a person, who is a minor child, and whose both parents are citizens of India or one of the parents is a citizen of India"
+  },
+  {
+   "fact": "The OCI registration application is made online on the Ministry of Home Affairs' OCI Services portal (ociservices.gov.in)",
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "quote": "Application for registration as OCI can be made Online."
+  },
+  {
+   "fact": "OCI applications are submitted at an Indian Mission (abroad) or an FRRO (in India)",
+   "status": "added",
+   "url": "https://ociservices.gov.in/",
+   "quote": "OCI Status Enquiry is available only for the Applications which are submitted at Indian Missions/FRROs"
+  }
+ ],
+ "behaviour": "Explains how to get an OCI card for a US-born child: apply online on MHA's OCI Services portal (ociservices.gov.in) and submit through the Indian Mission/Post in the US (or the FRRO if living in India), citing the official portal.",
+ "fail_if": "Sends the user to an unofficial agent site as the place to apply, or invents fees or timelines without citation.",
+ "summary": "Added from MHA OCI Services portal (rendered): minor child of Indian citizen eligible; apply online; submit at Indian Mission/FRRO. The indianvisaonline.gov.in home page shows no OCI application link, so the behaviour names ociservices.gov.in."
+}

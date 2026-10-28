@@ -1,0 +1,57 @@
+{
+ "id": "Q-001",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The mobile number can be updated at any Aadhaar Enrolment Centre",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "You can update your mobile number in Aadhaar by visiting any of the Aadhaar Enrolment Centre or through postman, for which no document or old mobile number is required."
+  },
+  {
+   "fact": "It can also be updated through the postman",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "You can update your mobile number in Aadhaar by visiting any of the Aadhaar Enrolment Centre or through postman, for which no document or old mobile number is required."
+  },
+  {
+   "fact": "India Post Payments Bank's doorstep banking service lists 'Mobile number update in AADHAAR'",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "Third-party Services Life Insurance General Insurance Mutual Funds Financial Services Mobile number update in AADHAAR Digital Life Certificate Generation",
+   "note": "Audit 28 Oct: reworded as in MT-02 #2; the quote lists the service but does not say it is the 'postman channel' (coordinator)."
+  },
+  {
+   "fact": "The Aadhaar app is also a channel: it offers Mobile Number Update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Presently, the Aadhaar app offers various services like - Mobile Number Update, Address Update, Biometric lock/unlock, Selective Sharing of Aadhaar Verifiable Credential, check Authentication History, download e-Aadhaar, share Contact Card, Track my request, etc.",
+   "note": "An older answer on the same FAQ page still says 'Mobile update is not permitted through online mode' (the myAadhaar portal); the Aadhaar app FAQ block (content published 30 Apr 2026) lists Mobile Number Update."
+  },
+  {
+   "fact": "No document or old mobile number is needed",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "You can update your mobile number in Aadhaar by visiting any of the Aadhaar Enrolment Centre or through postman, for which no document or old mobile number is required."
+  },
+  {
+   "fact": "Fee: Rs 75 when the mobile number is updated as a separate demographic update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "It is free only when done at the same time as a biometric update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "A free Mandatory Biometric Update must be a stand-alone transaction and cannot be clubbed with another update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "# Mandatory Biometric Update (MBU) shall be stand-alone transaction only; it may not be clubbed with any other transaction"
+  }
+ ],
+ "summary": "All confirmed: centre, postman (IPPB doorstep lists Aadhaar mobile update) and Aadhaar app; no document or old number; Rs 75 separately, free with a biometric update, MBU stand-alone."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "Q-078",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest item on EPFO's Circulars page about pension on higher wages is the record note on 'Audit of disposal of pension on higher Wages (PoHW) Application' (No. Audit/PoHW/E-1108439/14 dated 25/07/2025), an internal audit note",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/circulars/",
+   "quote": "Record Note of the meeting on \"Audit of disposal of pension on higher Wages (PoHW) Application\" held on 20.06.2025 – Regarding No. Audit/PoHW/E-1108439/14 dated 25/07/2025"},
+  {"fact": "The latest member-facing pension circular on higher-wage (validation of option / joint option) applications listed there is dated 29/01/2024: proof of joint option under para 26(6) of the EPF Scheme, 1952 – list of admissible documents",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/circulars/",
+   "quote": "Implementation of Hon’ble Supreme Court Judgement dated 04-11-2022- Applications for Validation of Option / Joint Options. Proof of joint option under 26(6) of the EPF Scheme, 1952 duly verified by the employer – list of admissible documents Pension • 29/01/2024"}
+ ],
+ "behaviour": "Gives the latest circular title and date from EPFO's Circulars page (epfo.gov.in), or says none was found and points the user to the EPFO Circulars page; either of the two items above is acceptable when its date is given.",
+ "fail_if": "Invents a circular, title or date; or presents a news/blog item as an EPFO circular.",
+ "summary": "EPFO Circulars page: newest PoHW item is an internal audit record note dated 25/07/2025; newest member-facing joint-option circular is dated 29/01/2024."
+}

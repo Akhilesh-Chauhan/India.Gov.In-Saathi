@@ -1,0 +1,506 @@
+{
+ "sources": [
+  {
+   "name": "UIDAI — Aadhaar",
+   "sourceId": "uidai-gov-in",
+   "notes": [
+    "QA note: several English-language chunks are indexed under `/hi/` URL paths — a crawler language-tagging inconsistency worth its own ticket, independent of content quality."
+   ],
+   "summary": "541 active chunks, 164 distinct pages, 100% HTML** (no PDF skew at all — the cleanest source of the ten)"
+  },
+  {
+   "name": "Income Tax Department — PAN",
+   "sourceId": "incometax-gov-in",
+   "notes": [
+    "Correction from the first pass: this source is better than originally described. The 1,817 HTML chunks are genuinely good — real e-filing help pages (ITR filing by taxpayer category, refund-status walkthroughs, e-filing dashboard user manuals, login guides), many mirrored in both Hindi and English. The PDF side (Gazette rule text, TDS forms) is separate and is where PAN-*allotment* procedure specifically lives.",
+    "QA note, narrowed: coverage is strong for *using an existing PAN* (e-filing, refund status, linking PAN–Aadhaar) and for the *legal/Gazette* definition of how PAN is allotted (section 262, Form 93–96). What's still thin is a single plain-language \"how do I get a brand-new PAN card\" page — the closest things indexed are the Gazette rule text (dense) and TDS procedures (assume you already have a PAN)."
+   ],
+   "summary": "5,749 active chunks, 308 distinct pages**, split **3,932 PDF / 1,817 HTML"
+  },
+  {
+   "name": "Indian Railways",
+   "sourceId": "indianrailways-gov-in",
+   "notes": [],
+   "summary": "1,713 active chunks, 229 distinct pages**, split **1,286 HTML / 427 PDF"
+  },
+  {
+   "name": "PM-KISAN",
+   "sourceId": "pmkisan-gov-in",
+   "notes": [
+    "Important finding — two different schemes share this one crawled source: the two largest pages by chunk count are `PM-KMY - Operational Guidelines.pdf` (80 chunks) and `PM-KMY - FAQs.pdf` (55 chunks) — together 41% of this source's volume. PM-KMY (Pradhan Mantri Kisan Maan-Dhan Yojana) is a voluntary old-age *pension* scheme (Rs. 3,000/month from age 60, contributory) — a completely different scheme from PM-KISAN (Pradhan Mantri Kisan Samman Nidhi), the direct income-support scheme (Rs. 6,000/year, non-contributory). Both are hosted on `pmkisan.gov.in` and both get the same `sourceId`. QA must tag golden questions by which scheme they're actually about — a question like \"how much pension do I get\" and \"how much income support do I get\" have different correct amounts (Rs. 3,000/month vs Rs. 6,000/year) from two different chunks in the same source."
+   ],
+   "summary": "332 active chunks, 43 distinct pages**, split **303 PDF / 29 HTML"
+  },
+  {
+   "name": "EPFO",
+   "sourceId": "epfo-gov-in",
+   "notes": [],
+   "summary": "1,088 active chunks, 75 distinct pages**, split **938 HTML / 150 PDF"
+  },
+  {
+   "name": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "notes": [
+    "Correction from the first pass: this source is NOT \"well covered\" in the sense that matters for a golden set. It's well covered in raw volume only."
+   ],
+   "summary": "20,475 active chunks across 326 distinct pages — but 99% of that volume (20,246 chunks) is PDF**, and almost all of it is ~300 \"Concurrent Evaluation\" district-level survey reports (methodology sections, demographic tables, district-by-district migration/employment statistics), each chunked into 190–240 pieces. That bulk is **not** citizen-facing procedural content — it's academic evaluation paperwork."
+  },
+  {
+   "name": "Passport Seva",
+   "sourceId": "passportindia-gov-in",
+   "notes": [
+    "QA note: likely under-crawled relative to how often passport questions come up — worth raising with the content/crawl team as a priority re-crawl candidate."
+   ],
+   "summary": "52 active chunks, 20 distinct pages, 100% HTML** — thinnest of the ten by far"
+  },
+  {
+   "name": "Election Commission of India — Voter ID",
+   "sourceId": "eci-gov-in",
+   "notes": [],
+   "summary": "192 active chunks, 45 distinct pages**, split **122 HTML / 70 PDF** (plus a separate `voters-eci-gov-in` sourceId with only 6 chunks)"
+  },
+  {
+   "name": "Parivahan / Sarathi — Driving licence",
+   "sourceId": "sarathi-parivahan-gov-in",
+   "notes": [],
+   "summary": "161 active chunks, 55 distinct pages, 100% HTML"
+  },
+  {
+   "name": "National Scholarship Portal",
+   "sourceId": "scholarships-gov-in",
+   "notes": [],
+   "summary": "782 active chunks, 85 distinct pages**, split **737 PDF / 45 HTML"
+  }
+ ],
+ "chunks": [
+  {
+   "key": "uidai-gov-in#A",
+   "source": "UIDAI — Aadhaar",
+   "sourceId": "uidai-gov-in",
+   "label": "what Aadhaar is",
+   "url": "https://uidai.gov.in/hi/your-aadhaar",
+   "title": "Your Aadhaar - Unique Identification Authority of India",
+   "lastUpdated": "2026-09-16",
+   "docType": "html",
+   "text": "What is Aadhaar? Aadhaar number is a 12 digit random number assigned to an individual seeking enrolment on completing the enrolment process. This is digital identity issued to an Aadhaar holder which can be authenticated through biometric or mobile OTP.  Data collected by the UIDAI is purely to issue Aadhaar numbers, and confirm the identity of Aadhaar number holders... No profiling and tracking information collected: The UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health."
+  },
+  {
+   "key": "uidai-gov-in#B",
+   "source": "UIDAI — Aadhaar",
+   "sourceId": "uidai-gov-in",
+   "label": "enrolment process and documents",
+   "url": "https://uidai.gov.in/en/aadhaar-enrolment",
+   "title": null,
+   "lastUpdated": null,
+   "docType": "html",
+   "text": "The Aadhaar enrolment process includes visiting Enrolment Centre, filling the enrolment form, getting demographic and biometric data captured, submitting proof of Identity and address documents, before collecting acknowledgement slip containing Enrolment ID. Aadhaar enrolment is free of cost. You can go to any authorized Aadhaar enrolment centre anywhere in India with your proof of identity and proof of address documents. Common proofs of identity and address are election photo ID card, Ration card, passport and driving license."
+  },
+  {
+   "key": "uidai-gov-in#C",
+   "source": "UIDAI — Aadhaar",
+   "sourceId": "uidai-gov-in",
+   "label": "biometric update rules",
+   "url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+   "title": null,
+   "lastUpdated": "2026-09-17",
+   "docType": "html",
+   "text": "Age <5 years at the time of initial enrolment — the child should be re-enroled when the child attains an age of 5 years and all biometric data should be provided. Age between 5 and 15 years — the Aadhaar number holder should furnish all biometrics for updates when he/she attains age of 15 years. Age >15 years — Aadhaar number holders are recommended to update their biometric data every 10 years."
+  },
+  {
+   "key": "incometax-gov-in#A",
+   "source": "Income Tax Department — PAN",
+   "sourceId": "incometax-gov-in",
+   "label": "PAN allotment rule (Gazette text — authoritative but dense)",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": "pdf",
+   "text": "158. Application for allotment of a Permanent Account Number. — (1) An application under section 262 for allotment of a Permanent Account Number shall be made in Form No. 93, Form No. 94, Form No. 95 and Form No. 96, as the case maybe, in accordance with sub-rule (8). (2) An applicant may also apply for allotment of a Permanent Account Number through a common application form as maybe, notified by the Central Government. (3) Any person, who has not been allotted a Permanent Account Number, but possesses the Aadhaar number may apply for allotment of the Permanent Account Number under section 262(1) or (2) or (11) to the authorities mentioned in sub-rule (4) by intimating his Aadhaar number."
+  },
+  {
+   "key": "incometax-gov-in#B",
+   "source": "Income Tax Department — PAN",
+   "sourceId": "incometax-gov-in",
+   "label": "PAN application deadlines by taxpayer category",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "The application referred to in sub-rule (1) shall be made by the person specified in Column B of the following Table within the time specified in column C thereof: [1] Where total income exceeds the non-taxable threshold and no PAN allotted — on or before 31 May of the tax year immediately succeeding; [2] A person carrying on business/profession with turnover likely to exceed ₹500,000 — before the end of that tax year; [3] A person required to furnish a return under section 349 — before the end of the tax year."
+  },
+  {
+   "key": "incometax-gov-in#C",
+   "source": "Income Tax Department — PAN",
+   "sourceId": "incometax-gov-in",
+   "label": "real HTML e-filing content: checking refund status (requires existing PAN)",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM",
+   "title": "Refund Status User Manual",
+   "lastUpdated": null,
+   "docType": "html",
+   "text": "Step 1: Go to the e-Filing portal homepage. Step 2: Enter the user ID and password. For individual users, if PAN is not linked with the Aadhaar, you will see a pop-up message that your PAN is made inoperative as it is not linked with your Aadhaar. To link the PAN with Aadhaar, click on Link Now button else click Continue. Step 3: Go to e-File tab > Income Tax Returns > View Filed Returns. Step 4: Now you can check the refund status for the desired Assessment year."
+  },
+  {
+   "key": "incometax-gov-in#D",
+   "source": "Income Tax Department — PAN",
+   "sourceId": "incometax-gov-in",
+   "label": "real HTML content: Form 10A condonation walkthrough",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "title": null,
+   "lastUpdated": null,
+   "docType": "html",
+   "text": "Step 1: Go to the e-Filing portal homepage and Click on Login. Step 2: Enter the User ID and Password. Step 3: Go to Services > Condonation request > Application for statutory Forms. Step 4: Click on +Create Condonation request... Step 7: Select mode of E-Verify and click continue. Step 8: After E-VERIFICATION your form will be submitted. Note the transaction ID for future reference."
+  },
+  {
+   "key": "indianrailways-gov-in#A",
+   "source": "Indian Railways",
+   "sourceId": "indianrailways-gov-in",
+   "label": "refunds and grievance channels (the single best citizen-relevant page found)",
+   "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf",
+   "title": "Citizen_Charter.pdf",
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Within 7 working days amount is transferred and deposited in the account from which the ticket was booked. Public Grievances Redressal: For emergency, assistance or Grievances on train or station service through RailMadad which can be accessed through: Helpline 139, Social Media (Facebook and Twitter @RailMinIndia), Web portal (railmadad.gov.in), Mobile App (Android and iOS), SMS to 139 \"Madad<space>Complaint text\", Email, Complaints & Suggestion Book available with Ticket checking staff and Station Master/Manager."
+  },
+  {
+   "key": "indianrailways-gov-in#B",
+   "source": "Indian Railways",
+   "sourceId": "indianrailways-gov-in",
+   "label": "GST on fares",
+   "url": "https://indianrailways.gov.in/GST/FAQs.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "In which class and category of trains, GST is applicable? GST is applicable on total fare of AC and First class only of all categories of trains. GST is not applicable in other classes like second sleeper, second class (reserved & unreserved) etc. Output Service of Railways under GST: Transportation of Goods by Indian Railways; Transportation of Passenger by Indian Railways; Rental of Immovable Property; Sale of Scrap."
+  },
+  {
+   "key": "indianrailways-gov-in#C",
+   "source": "Indian Railways",
+   "sourceId": "indianrailways-gov-in",
+   "label": "representative of the HTML majority (internal engineering code, NOT citizen content — included so QA can see what the bulk actually looks like)",
+   "url": "https://indianrailways.gov.in/railwayboard/uploads/codesmanual/EngCode/chapter-vii.htm",
+   "title": "CHAPTER VII ESTIMATES",
+   "lastUpdated": null,
+   "docType": null,
+   "text": "[Internal Railway Board engineering-code procedure on budget estimates and sanctioning authority for works expenditure — not citizen-facing; representative of the ~1,100 chunks of this kind that make up most of this source's volume.]"
+  },
+  {
+   "key": "pmkisan-gov-in#A",
+   "source": "PM-KISAN",
+   "sourceId": "pmkisan-gov-in",
+   "label": "PM-KISAN (income support) benefit and eligibility",
+   "url": "https://pmkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "\"Pradhan Mantri KIsan SAmman Nidhi (PM-KISAN)\" OPERATIONAL GUIDELINES. Landholder Farmer families with total cultivable holding upto 2 hectares shall be provided a benefit of Rs.6000 per annum per family payable in three equal installments, every four months. A Small and Marginal landholder farmer family is defined as \"a family comprising of husband, wife and minor children who collectively own cultivable land upto 2 hectare as per land records of the concerned State/UT\"."
+  },
+  {
+   "key": "pmkisan-gov-in#B",
+   "source": "PM-KISAN",
+   "sourceId": "pmkisan-gov-in",
+   "label": "PM-KISAN Aadhaar-linking rule history",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Whether giving Aadhaar details is mandatory for availing benefit under the Scheme? Aadhaar number was optional and not mandatory for release of 1st installment... only Aadhaar number was made mandatory for release of 2nd installment pertaining to the period 01.04.2019 to 31.07.2019... Assam, Meghalaya and Jammu & Kashmir, where Aadhaar has not penetrated much, have been given exemption from this mandatory requirement till 31.03.2020."
+  },
+  {
+   "key": "pmkisan-gov-in#C",
+   "source": "PM-KISAN",
+   "sourceId": "pmkisan-gov-in",
+   "label": "PM-KMY (the *different*, pension scheme) — included specifically so QA can see the distinction",
+   "url": "https://pmkisan.gov.in/Documents/PM-KMY%20-%20Salient%20Features.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Pradhan Mantri Kisan Maan-Dhan Yojana has been started to provide social security to all landholding Small and Marginal Farmers. Under this scheme, a fixed pension of Rs.3,000/- will be provided to all eligible small and marginal farmers... Farmers will have to contribute an amount between Rs.55 to Rs.200 per month in the Pension Fund till they reach the retirement date i.e. the age of 60 years. The Central Government will also make an equal contribution of the same amount in the pension fund. Farmers of age 18 to 40 years are eligible to join."
+  },
+  {
+   "key": "pmkisan-gov-in#D",
+   "source": "PM-KISAN",
+   "sourceId": "pmkisan-gov-in",
+   "label": "exclusion criteria (applies to PM-KISAN)",
+   "url": "https://pmkisan.gov.in/Documents/PM-KMY%20-%20FAQs.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Does any person/farmer who is not having land holding in his name is eligible to get benefit under the scheme? No. Land holding is the criteria to be eligible to get the benefit under the scheme. How the subscriber under the scheme will be identified and shortlisted? The prevailing land ownership system/record of land in different States/UTs will be used for identification."
+  },
+  {
+   "key": "epfo-gov-in#A",
+   "source": "EPFO",
+   "sourceId": "epfo-gov-in",
+   "label": "EPF contribution structure and withdrawal rules",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "title": null,
+   "lastUpdated": "2025-11-12",
+   "docType": "html",
+   "text": "Both employee and employer contribute 12% of basic wages + dearness allowance. Employee's entire contribution goes to EPF. Employer's share is split between EPF, Employees' Pension Scheme (EPS), and Employees' Deposit Linked Insurance (EDLI)... Each member is allotted a Universal Account Number (UAN) for portability across jobs... Full withdrawal allowed at retirement (58 years), permanent disability, or unemployment (after 2 months). Partial withdrawals/advances permitted for housing, medical treatment, children's education, or marriage."
+  },
+  {
+   "key": "epfo-gov-in#B",
+   "source": "EPFO",
+   "sourceId": "epfo-gov-in",
+   "label": "Scheme Certificate and UAN basics (real FAQ)",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Who is eligible to get a Scheme Certificate? A member whose service is 10 years or more and not attained the age of 58 years will be mandatorily issued scheme certificate... What is the Universal Account Number? UAN is a 12 digit number allotted to each subscriber by linking it to the member's currently active PF account number... The UAN can also be generated by any individual using his/her Aadhaar if his UAN is not already generated."
+  },
+  {
+   "key": "epfo-gov-in#C",
+   "source": "EPFO",
+   "sourceId": "epfo-gov-in",
+   "label": "grievance escalation",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "In case the PF amount is not settled within 20 days to whom the matter is to be reported? He can approach the Regional P.F. Commissioner in charge of grievances; file a complaint on the website using the EPFiGMS feature in the section 'FOR EMPLOYEES'. The url for the grievance page is http://epfigms.gov.in/ or he can appear before the Commissioner in the 'Nidhi Apke Nikat' program being conducted on 10th of every month."
+  },
+  {
+   "key": "epfo-gov-in#D",
+   "source": "EPFO",
+   "sourceId": "epfo-gov-in",
+   "label": "Pradhan Mantri Viksit Bharat Rozgar Yojana (a separate employer-incentive scheme also hosted here — another same-source-two-schemes case worth flagging, smaller scale than PM-KISAN/PM-KMY but same pattern)",
+   "url": "https://www.epfo.gov.in/faq/",
+   "title": null,
+   "lastUpdated": "2025-10-01",
+   "docType": "html",
+   "text": "Exempted establishments under the EPF & MP Act, 1952, must file returns and open UANs through EPFO for all their employees... Establishments already registered with EPFO are not required to undergo fresh registration under the Pradhan Mantri Viksit Bharat Rozgar Yojana. However, these establishments are required to furnish: PAN of the establishment, GSTN, PAN-linked bank account number of the employer."
+  },
+  {
+   "key": "nfsa-gov-in#A",
+   "source": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "label": "the core eligibility rule (from the one genuinely load-bearing page)",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "title": "National Food Security Act, (NFSA) 2013",
+   "lastUpdated": null,
+   "docType": null,
+   "text": "As a step towards women empowerment, the eldest woman of the household of age 18 years or above is mandated to be the head of the household for the purpose of issuing of ration cards under the Act. The Act is being implemented in all the States/UTs, and on an all India basis, out of maximum coverage of 81.34 crore persons, around 80 crore persons have been covered under NFSA at present for receiving highly subsidized foodgrains."
+  },
+  {
+   "key": "nfsa-gov-in#B",
+   "source": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "label": "entitlement quantities",
+   "url": "https://nfsa.gov.in/downloadfile/cmsdocument/356f8c67-17e6-4d26-b755-f8588c0f9b06",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "As per NFSA Act, the eligible persons (priority households) are entitled to receive 5 Kgs of food grains per person per month and the subsidized prices must not be greater than Rs. 3/2/1 per Kg for rice/wheat/coarse grains. The existing Antyodaya Anna Yojana (AAY) households, which constitute the poorest of the poor, will continue to receive 35 Kgs of food grains per household per month free of cost."
+  },
+  {
+   "key": "nfsa-gov-in#C",
+   "source": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "label": "Direct Benefit Transfer mode (same `NFSA-Act` page, different section)",
+   "url": "https://nfsa.gov.in/portal/NFSA-Act",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "The DBT experiment aims to (i) reduce the need for huge physical movement of foodgrains (ii) provide greater autonomy to beneficiaries to choose their consumption basket (iii) enhance dietary diversity (iv) reduce leakages (v) facilitate better targeting (vi) promote financial inclusion. Direct Cash Transfer in food was started in UTs of Chandigarh and Puducherry from the month of September, 2015 and part of Dadra & Nagar Haveli from March, 2016."
+  },
+  {
+   "key": "nfsa-gov-in#D",
+   "source": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "label": "PDS history/context (from `PDS_page`)",
+   "url": "https://nfsa.gov.in/portal/PDS_page",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Under the PDS, States were required to formulate and implement foolproof arrangements for identification of the poor for delivery of foodgrains and for its distribution in a transparent and accountable manner at the FPS level. The scheme, when introduced, was intended to benefit about 6 crore poor families for whom a quantity of about 72 lakh tonnes of food grains was earmarked annually."
+  },
+  {
+   "key": "nfsa-gov-in#E",
+   "source": "NFSA — Ration card / food security",
+   "sourceId": "nfsa-gov-in",
+   "label": "a representative state page, showing what the 36 state pages actually contain (contact/directory info, not procedure)",
+   "url": "https://nfsa.gov.in/State/UP",
+   "title": "State: Uttar Pradesh",
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Honourable Chief Minister: Shri Yogi Adityanath. Department: Department of Food and Civil Supplies, Uttar Pradesh Government — Website: State Food Department Website https://fcs.up.gov.in/, Grievance Redressal System for E2E PDS https://cms.up.gov.in/... Detailed Reports > Ration Cards: District-wise RC Count Report (Source-RCMS Uttar Pradesh)."
+  },
+  {
+   "key": "passportindia-gov-in#A",
+   "source": "Passport Seva",
+   "sourceId": "passportindia-gov-in",
+   "label": "appointment booking steps",
+   "url": "https://www.passportindia.gov.in/psp/applyFor",
+   "title": null,
+   "lastUpdated": "2026-10-06",
+   "docType": "html",
+   "text": "Select Online Payment option, Select the 'Appointment Quota' (Normal/Tatkaal). Tatkaal option is available only to the applicants with Tatkaal application. Select the preferred Passport Seva Kendra (PSK)/Post Office Passport Seva Kendra (POPSK) for appointment booking... Users can re-schedule appointments three times except in the case of tatkaal which is once. User will then receive an SMS on your registered mobile number with the details of the scheduled appointment date."
+  },
+  {
+   "key": "passportindia-gov-in#B",
+   "source": "Passport Seva",
+   "sourceId": "passportindia-gov-in",
+   "label": "where applications are processed",
+   "url": "https://www.passportindia.gov.in/psp/FaqWhereToApply",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "I want to apply for a fresh Passport. Can I apply for the Passport at a Passport Office as it is near to my place? No, you cannot apply for a Passport at a Passport Office. You need to visit Passport Seva Kendra/ Post Office Passport Seva Kendra to submit your Passport application."
+  },
+  {
+   "key": "passportindia-gov-in#C",
+   "source": "Passport Seva",
+   "sourceId": "passportindia-gov-in",
+   "label": "what a PSK is",
+   "url": "https://www.passportindia.gov.in/psp/FaqWhereToApply",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "What is a Passport Seva Kendra (PSK)/ Post Office Passport Seva Kendra (POPSK)? Passport Seva Kendras and Post Office Passport Seva Kendras are extended arms of Passport Offices and render front-end services related to Passport issuance. These Kendras cover functionalities from token issuance to granting of application."
+  },
+  {
+   "key": "passportindia-gov-in#D",
+   "source": "Passport Seva",
+   "sourceId": "passportindia-gov-in",
+   "label": "grievance/status channel",
+   "url": "https://www.passportindia.gov.in/psp/FaqCallCentre",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Who can help me in solving my queries? You can ask your queries at the following places: 1. By visiting our website www.Passportindia.gov.in 2. By calling call centre at 1800-258-1800 3. By visiting Helpdesk at your nearest Passport Seva Kendra. Can I ask the status of my application by calling the Call Centre? Yes, you can check the status of your application."
+  },
+  {
+   "key": "eci-gov-in#A",
+   "source": "Election Commission of India — Voter ID",
+   "sourceId": "eci-gov-in",
+   "label": "the core voter-services directory",
+   "url": "https://www.eci.gov.in/electors",
+   "title": "Electors | Election Commission of India",
+   "lastUpdated": "2026-09-24",
+   "docType": "html",
+   "text": "Register in Electoral Roll — Register Online or Download the Form for Registration. Track Application Status. Download Voter ID (E-EPIC) — Download electronic copy of EPIC Card. Update your Details in Electoral Roll — Submit Online or Download Application Form for shifting of Residence/Correction of Entries/Replacement of EPIC. Search Your Name in Electoral Roll. Know Your PC/AC, Polling Station, ERO, BLO."
+  },
+  {
+   "key": "eci-gov-in#B",
+   "source": "Election Commission of India — Voter ID",
+   "sourceId": "eci-gov-in",
+   "label": "EPIC correction procedure",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "You can make an application in Form 8 for rectification of the errors in your EPIC. The Electoral Registration Officer will issue a new EPIC, with the same number, after rectification. E-EPIC Download: User can download electronic copy of EPIC Card (E-EPIC) by providing EPIC no or reference no of the form."
+  },
+  {
+   "key": "eci-gov-in#C",
+   "source": "Election Commission of India — Voter ID",
+   "sourceId": "eci-gov-in",
+   "label": "the full list of online services available to a voter",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "(i) Search your name in electoral roll by name and relatives' name or EPIC No. (ii) Know your BLO, ERO and DEO by entering the EPIC number. (iii) Access to e-roll in pdf format via the CEO website. (iv) Apply online: New Voter Registration (Form 6), Inclusion for overseas electors (Form 6A), Aadhaar linking for roll authentication (Form 6B), Objection to Inclusion/Deletion (Form 7), Shifting of Residence/Correction/Replacement of EPIC (Form 8). (v) Track status of application via reference ID. (vi) Dashboard for Citizen. (vii) E-EPIC Download."
+  },
+  {
+   "key": "eci-gov-in#D",
+   "source": "Election Commission of India — Voter ID",
+   "sourceId": "eci-gov-in",
+   "label": "proxy voting timing rule",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Revocation will become effective from the date it is received by the Returning Officer. When should the application for appointment of a proxy be made? Application for appointment of a proxy should be received by the Returning Officer before the last date of filing of nomination papers."
+  },
+  {
+   "key": "sarathi-parivahan-gov-in#A",
+   "source": "Parivahan / Sarathi — Driving licence",
+   "sourceId": "sarathi-parivahan-gov-in",
+   "label": "licence renewal steps",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "title": null,
+   "lastUpdated": "2026-10-08",
+   "docType": "html",
+   "text": "Steps to follow to apply for RENEWAL of Licence: 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Services on Drivers License (Renewal/Duplicate/AEDL/Others)\" from \"Driving License\" menu 4. Fill up application form 5. Click \"Next\" to proceed 6. Visit RTO on scheduled date, with original documents & Fee Slip. Note: in case Drivers Licence is expired for more than 1 year, you need to undergo a Driving test or may be required issuance of a learning licence."
+  },
+  {
+   "key": "sarathi-parivahan-gov-in#B",
+   "source": "Parivahan / Sarathi — Driving licence",
+   "sourceId": "sarathi-parivahan-gov-in",
+   "label": "renewal validity window and commercial licence term",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "As per the latest amendment of CMV Act, renewal of a driving Licence could be done within one year prior to or after the expiry of the Driving Licence. Commercial Driving licence is valid for 5 years from the date of issue (Public Service Vehicle Badge validity is as per the state policy)."
+  },
+  {
+   "key": "sarathi-parivahan-gov-in#C",
+   "source": "Parivahan / Sarathi — Driving licence",
+   "sourceId": "sarathi-parivahan-gov-in",
+   "label": "learner's licence test requirement",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Select \"Sample Question for Learners' License Test\" from \"Learner License\" menu. Yes, you have to pass the online test (STALL Test) to get Learner's Licence. You need to report the concerned RTO or their authorized learning license test center."
+  },
+  {
+   "key": "sarathi-parivahan-gov-in#D",
+   "source": "Parivahan / Sarathi — Driving licence",
+   "sourceId": "sarathi-parivahan-gov-in",
+   "label": "mobile number update / licence status check",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "Steps follow for update mobile number in License: 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Mobile Number Update\" from \"Others\" menu. Steps to check License status: 1. Visit https://sarathi.parivahan.gov.in/..."
+  },
+  {
+   "key": "scholarships-gov-in#A",
+   "source": "National Scholarship Portal",
+   "sourceId": "scholarships-gov-in",
+   "label": "One Time Registration (the portal-wide login mechanism)",
+   "url": "https://scholarships.gov.in/home",
+   "title": null,
+   "lastUpdated": null,
+   "docType": "html",
+   "text": "One Time Registration (OTR) is a unique number allotted to the student and is applicable for entire academic career on National Scholarship Portal. OTR is required to apply for the scholarships on National Scholarship Portal from AY 2024-25. OTR can be generated using Aadhaar/Aadhaar Enrollment number (EID). NSP OTR App is available on Google Play Store."
+  },
+  {
+   "key": "scholarships-gov-in#B",
+   "source": "National Scholarship Portal",
+   "sourceId": "scholarships-gov-in",
+   "label": "income eligibility by scheme tier (disability scholarships)",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "What is the parental income limit to apply for the Scheme? For Pre-Matric Scheme — the parental/guardian income from all sources should not exceed Rs.2.50 lakh per annum. For Post-Matric Scheme — should not exceed Rs.2.50 lakh per annum. For Top-Class scheme — should not exceed Rs.8.00 lakh per annum. The Pre-Matric, Post Matric and Top Class Scholarship Schemes for Disabilities are online schemes which are on-boarded on National Scholarship Portal."
+  },
+  {
+   "key": "scholarships-gov-in#C",
+   "source": "National Scholarship Portal",
+   "sourceId": "scholarships-gov-in",
+   "label": "eligibility and reservation (SC Top Class scheme)",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "SC students with annual family income up to Rs.8.00 lakh, admitted in a full-time prescribed course in a notified institution, subject to the allotted slots, are eligible. Scholarships are awarded strictly on inter-se merit... Thirty percent of allotted slots are reserved for eligible SC girl students."
+  },
+  {
+   "key": "scholarships-gov-in#D",
+   "source": "National Scholarship Portal",
+   "sourceId": "scholarships-gov-in",
+   "label": "duration and renewal (AICTE PRAGATI scheme)",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+   "title": null,
+   "lastUpdated": null,
+   "docType": null,
+   "text": "For how long will I get the Scholarship? Maximum of 4 years duration for first year admitted Degree students and maximum of 3 years for Diploma Students. The scholarship will be renewed for the next year of study on receipt of renewal through National Scholarship Portal (NSP) by submitting Promotion Certificate duly certified by the Head of Institution in the online portal."
+  }
+ ]
+}

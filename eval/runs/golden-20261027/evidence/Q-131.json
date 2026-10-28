@@ -1,0 +1,52 @@
+{
+ "id": "Q-131",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "final": "https://www.nsiindia.gov.in/(S(1ivk1i3vrzj25j55vmkgjs3d))/InternalPage.aspx?Id_Pk=188",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:34:24+05:30",
+   "sha256": "e83a4517fb1e9aac3ce801a0a2e4d2287f496e43475a45967354c6f8bc62a7eb",
+   "copy": "28f1e6b176b679bffc01.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "final": "https://www.nsiindia.gov.in/(S(1ivk1i3vrzj25j55vmkgjs3d))/InternalPage.aspx?Id_Pk=188",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:34:24+05:30",
+   "sha256": "e83a4517fb1e9aac3ce801a0a2e4d2287f496e43475a45967354c6f8bc62a7eb",
+   "copy": "28f1e6b176b679bffc01.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "final": "https://www.nsiindia.gov.in/(S(1ivk1i3vrzj25j55vmkgjs3d))/InternalPage.aspx?Id_Pk=188",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:34:24+05:30",
+   "sha256": "e83a4517fb1e9aac3ce801a0a2e4d2287f496e43475a45967354c6f8bc62a7eb",
+   "copy": "28f1e6b176b679bffc01.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

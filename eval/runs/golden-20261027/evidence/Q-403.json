@@ -1,0 +1,37 @@
+{
+ "id": "Q-403",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/about",
+   "final": "https://www.myscheme.gov.in/about",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:25:47+05:30",
+   "sha256": "cbdb4ceb4d9917f8c2baacd0dc3b66a96b2aac16a042f8af32e37f465be52c21",
+   "copy": "8bfe2d82e40ae4f55b3b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "final": "https://www.myscheme.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:43+05:30",
+   "sha256": "07eb50abf859f1e665f8ba5bf317c54dc46060a86a0ac859f7613494101d118f",
+   "copy": "f6af00548a7eb19450f2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

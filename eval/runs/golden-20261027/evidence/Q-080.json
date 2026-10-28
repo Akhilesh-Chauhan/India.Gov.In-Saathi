@@ -1,0 +1,37 @@
+{
+ "id": "Q-080",
+ "checked_at": "2026-10-28T14:02:48+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/contact-us/",
+   "final": "https://www.epfo.gov.in/contact-us/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:18+05:30",
+   "sha256": "ba97249d9b3e684b166a22d21a347869b8f839d0e8308aee682b0aa05b6aa2f7",
+   "copy": "f16f8f50d19ad57159c3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/contact-us/",
+   "final": "https://www.epfo.gov.in/contact-us/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:18+05:30",
+   "sha256": "ba97249d9b3e684b166a22d21a347869b8f839d0e8308aee682b0aa05b6aa2f7",
+   "copy": "f16f8f50d19ad57159c3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,205 @@
+=== Q-453 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: pf ka byaj dar pichle saal jitna hi hai kya?
+EXPECTED ANSWER NOW:
+8.25% per annum for FY 2025-26, the same as FY 2024-25: recommended by the EPFO Central Board of Trustees at its 239th meeting (PIB, 2 Mar 2026) and since notified (newsonair.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, the rate is the same as FY 2024-25 | 8.25% per annum for FY 2025-26
+
+=== Q-482 | P1 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How much do I and my employer contribute to EPF?
+EXPECTED ANSWER NOW:
+Both contribute 12% of basic wages + dearness allowance; the employee's share goes fully to EPF; the employer's share is split between EPF, EPS and EDLI.
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/epf-scheme/ 2025-11-12
+FACTS GRADED ON 19 OCT (a starting point, not evidence): employee and employer each contribute 12% of basic wages + DA | the employee's share goes fully to EPF | the employer's share is split between EPF, EPS and EDLI
+
+=== Q-483 | P0 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Reviewer to fill golden value from cited page; Indexed chunk is outdated - golden follows the current official position
+QUESTION: naukri chhute 2 mahine ho gaye, kya poora PF nikal sakta hu?
+EXPECTED ANSWER NOW:
+The indexed EPFO page (last updated 12-11-2025) says full withdrawal after 2 months of unemployment; the EPF Scheme 2026 (Gazette 29-06-2026) replaced the 1952 scheme - the answer must follow the current scheme text with its date or flag the conflict (G05). Reviewer: confirm the 2026 final-settlement rule.
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/epf-scheme/ 2025-11-12
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF Scheme 2026 (Gazette 29-06-2026) has replaced the 1952 scheme
+
+=== Q-484 | P1 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: What is a UAN and can I generate it myself?
+EXPECTED ANSWER NOW:
+UAN is a 12-digit number linked to the member's active PF account; an individual can generate it using Aadhaar (currently via face authentication on UMANG).
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/faq-epfo/
+FACTS GRADED ON 19 OCT (a starting point, not evidence): UAN is a 12-digit number linked to the member's active PF account | yes, an individual can generate it using Aadhaar | currently via Aadhaar face authentication on UMANG
+
+=== Q-485 | P2 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: Who gets an EPS scheme certificate?
+EXPECTED ANSWER NOW:
+A member with 10 or more years of service who has not reached 58 is mandatorily issued a scheme certificate.
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/faq-epfo/
+FACTS GRADED ON 19 OCT (a starting point, not evidence): member with 10 or more years of service | who has not reached age 58 | is mandatorily issued a scheme certificate
+
+=== Q-486 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: पीएफ क्लेम 20 दिन से ज्यादा हो गए, पैसा नहीं आया, शिकायत किससे करूं?
+EXPECTED ANSWER NOW:
+Approach the Regional PF Commissioner (grievances); file a complaint on EPFiGMS (epfigms.gov.in, 'For Employees'); or attend 'Nidhi Aapke Nikat' held on the 10th of every month.
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/faq-epfo/
+FACTS GRADED ON 19 OCT (a starting point, not evidence): approach the Regional PF Commissioner (in charge of grievances) | file a complaint on EPFiGMS under 'For Employees' | attend 'Nidhi Aapke Nikat' on the 10th of every month
+
+=== Q-487 | P2 | English | Current rule or circular (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: My company is already registered with EPFO. Do we need to register again for PM Viksit Bharat Rozgar Yojana?
+EXPECTED ANSWER NOW:
+No fresh registration; the establishment must furnish its PAN, GSTN and the PAN-linked bank account of the employer. Must not confuse PM-VBRY with the EPF scheme itself.
+PAGE IN THE BOT'S INDEX: https://www.epfo.gov.in/faq/ 2025-10-01
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no fresh registration for an establishment already registered with EPFO | must furnish the establishment's PAN | must furnish the GSTN | must furnish the employer's PAN-linked bank account
+
+=== Q-233 | P1 | English | Service use (6.2) | expected site: eraktkosh.mohfw.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My friend needs O negative blood urgently. Where can I check availability?
+EXPECTED ANSWER NOW:
+e-RaktKosh availability search; emergency number.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): check availability on e-RaktKosh Blood Availability Search | emergency number for urgent help
+
+=== Q-232 | P1 | Hindi (Devanagari) | Service use (6.2) | expected site: esanjeevani.mohfw.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: घर बैठे डॉक्टर से फ्री में बात कैसे करें?
+EXPECTED ANSWER NOW:
+eSanjeevani OPD, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): use eSanjeevani OPD for a free online doctor consultation
+
+=== Q-087 | P1 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: esic.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ESIC card se kaunse hospital me ilaaj hota hai
+EXPECTED ANSWER NOW:
+ESIC hospitals/dispensaries and tie-up hospitals per ESIC; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): treatment at ESIC hospitals and ESI dispensaries | also at tie-up (empanelled) hospitals
+
+=== Q-088 | P1 | English | Scheme / fact detail (6.2) | expected site: esic.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How many weeks of maternity benefit does ESIC give?
+EXPECTED ANSWER NOW:
+Answer: An insured woman covered under the ESI Scheme gets maternity benefit for 26 weeks, at full wage. It can be extended by one more month on medical advice (e.g. complications). Eligibility: contributions paid for 70 days in the two preceding contribution periods. Adopting/commissioning mothers get 12 weeks from the date the child is handed over. Miscarriage/medical termination of pregnancy: 6 weeks from the date of the event. Sickness arising from pregnancy, confinement, premature birth, miscarriage or MTP: up to 1 more month. A medical bonus (confinement expenses) of Rs 15,000 per case is paid where confinement occurs at a place without ESI facilities. Maternity benefit cannot be drawn together with sickness or temporary disablement benefit for the same days, and it cannot also be claimed from the employer.
+Behaviour: cites the ESIC page; does not decide an individual claim.
+Fail if: says 12 weeks for a biological mother (the old figure); omits the 70-days contribution condition when asked about eligibility; or quotes an outdated medical bonus amount (Rs 5,000/7,500).
+VERIFICATION NOTES: The ESIC benefits pages have been rewritten for the Code on Social Security, 2020. The medical bonus on the page is Rs 15,000; older sources show Rs 5,000/7,500.
+SOURCES FOUND EARLIER:
+https://www.esic.gov.in/maternity-benefits - ESIC Maternity Benefits page: 26 weeks, extendable by one month, full wage, 70 days contribution in two contribution periods, 12 weeks adopting/commissioning mothers, Rs 15,000 medical bonus, 6 weeks miscarriage/MTP [crawled]
+https://www.esic.gov.in/information-benefits - ESIC Information-Benefits page with the same maternity text, referring to Chapter IV of the Code on Social Security, 2020 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 26 weeks of maternity benefit | extendable by one more month on medical advice
+
+=== Q-089 | P1 | English | Current rule or circular (6.2) | expected site: esic.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the current wage ceiling for ESIC coverage?
+EXPECTED ANSWER NOW:
+Answer: Employees earning up to Rs 21,000 per month are covered under ESI. For persons with disability the limit is Rs 25,000 per month (ESIC Coverage page; limit effective from 01.01.2017). The Labour Codes took effect on 21.11.2025, and ESI is now Chapter IV of the Code on Social Security, 2020. The Ministry of Labour's Additional FAQs (as on 16.03.2026) confirm that the Rs 21,000 per month limit notified for ESI coverage continues to apply. Wages for this purpose follow the Code's definition from 21.11.2025. Contribution rates (ESIC page): employee 0.75%, employer 3.25% of wages (w.e.f. 01.07.2019); employees with an average daily wage up to Rs 176 do not pay their share. No official notification revising the ESI ceiling was found as of 15 Oct 2026.
+Behaviour: gives the figure with source and as-on date; does not decide whether a specific employee is covered.
+Fail if: says Rs 25,000 is the general ESIC ceiling (confusing it with the PwD limit, or with the EPF wage ceiling raised to Rs 25,000 from 17.09.2026); quotes the old Rs 15,000 ESIC limit (before 2017); or states a revised ESIC ceiling with no official source.
+VERIFICATION NOTES: Unverified: Whether any ESI-specific wage-ceiling notification was issued under the Code after the Social Security (Central) Rules, 2026 (G.S.R. 344(E), 8 May 2026); none found. The rules text has no ESI ceiling figure.
+TRAP: the EPF (Chapter III) wage ceiling was raised from Rs 15,000 to Rs 25,000 w.e.f. 17.09.2026 (S.O. 5109(E), Gazette 17.09.2026; PIB 16 Sep 2026). This does NOT apply to ESIC. The ESIC Coverage page is stale: it still cites the ESI Act 1948 sections and was last reviewed 2025-04-04.
+SOURCES FOUND EARLIER:
+https://www.esic.gov.in/coverage - ESIC Coverage page: wage limit Rs 21,000/month from 01.01.2017; Rs 25,000 for persons with disability (page last reviewed 2025-04-04) [crawled]
+https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf - MoLE Additional FAQs on Labour Codes (as on 16.03.2026) Q12: from 21.11.2025 the CoSS wage definition applies; Rs 21,000/month notified for ESI coverage continues to apply [crawled]
+https://www.esic.gov.in/contribution - ESIC contribution rates 0.75%/3.25%; Rs 176 daily-wage exemption [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): general ESI wage ceiling Rs 21,000 per month | Rs 25,000 per month for persons with disability
+
+=== Q-090 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: esic.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: पति की ड्यूटी पर मौत हो गई, ESIC से क्या मदद मिलेगी?
+EXPECTED ANSWER NOW:
+Dependants' benefit as per ESIC, cited; compassionate.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ESIC Dependants' Benefit: monthly pension to the dependants
+
+=== Q-091 | P2 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: esic.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: meri dukaan me 10 workers hain, ESIC registration zaruri hai kya?
+EXPECTED ANSWER NOW:
+Answer: Under the Code on Social Security, 2020, in force from 21.11.2025, ESI (Chapter IV) applies under the First Schedule to every establishment employing 10 or more persons, except seasonal factories. A shop with 10 workers is therefore generally within ESI coverage and must register its eligible employees, if: (i) the ESI Scheme is implemented in the area where the shop is located (ESIC says the scheme is notified in 668 districts, some only partly), and (ii) the employees' wages are within the ESI ceiling (Rs 21,000/month; Rs 25,000 for persons with disability). The Code also says contributions are payable from the date ESI benefits are provided in that area, as notified. ESI also covers even a single employee in hazardous or life-threatening occupations notified by the Central Government. Employers register online through the ESIC Employer Portal or the Shram Suvidha portal.
+Steps: 1. Check that the shop's district/area is ESI-notified (ESIC Coverage page / regional office). 2. Register the establishment on the ESIC Employer Portal (portal.esic.gov.in) or the Shram Suvidha Portal. 3. Register eligible employees and pay contributions (employer 3.25%, employee 0.75%) by the 15th of the following month.
+Behaviour: explains the threshold and conditions with citation; gives no definitive legal verdict for the user's shop (suggests the ESIC regional office for confirmation); Hinglish query answered simply.
+Fail if: says ESIC applies only at 20 or more employees (old Central-sphere notification for shops under the ESI Act); says it is optional for 10 workers; or ignores the wage-ceiling/area conditions.
+VERIFICATION NOTES: Unverified: Whether ESIC has issued a 2026 notice applying the Code's 10-employee threshold to all shops in all notified areas; the ESIC Coverage page still describes the pre-Code position.
+CONFLICT: the ESIC Coverage page (last reviewed 2025-04-04) says that under the ESI Act shops are covered through State notifications at 10+, and in the Central sphere some establishments at 20+. The Code on Social Security (in force 21.11.2025) sets 10+ for every establishment. A good answer cites the Code threshold and notes the area/wage conditions.
+SOURCES FOUND EARLIER:
+https://www.labour.gov.in/static/uploads/2025/07/b0620548445580767b5c0d18c95c26f7.pdf - Code on Social Security, 2020, First Schedule: Chapter IV (ESIC) applies to every establishment with 10 or more persons other than seasonal factories; single employee in notified hazardous occupations; contributions from the notified date of benefits [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463 - PIB 21 Nov 2025: four Labour Codes effective from 21 Nov 2025 [crawled]
+https://www.esic.gov.in/coverage - ESIC Coverage page: 10-or-more threshold, shops covered by notifications, 668 districts notified, wage limit Rs 21,000 (Rs 25,000 PwD) [crawled]
+https://www.esic.gov.in/contribution - Contribution rates and due date (within 15 days of the end of the month) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ESI covers every establishment with 10+ persons under the Social Security Code (from 21.11.2025) | applies only where the ESI Scheme is implemented in the shop's area (notified district) | covers employees within the wage ceiling (Rs 21,000; Rs 25,000 for PwD) | register on the ESIC Employer Portal or Shram Suvidha portal
+
+=== Q-145 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: financialservices.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: 20 rupay wala bima kya hai, kaise milega
+EXPECTED ANSWER NOW:
+Answer: The 'Rs 20 insurance' is the Pradhan Mantri Suraksha Bima Yojana (PMSBY). It is one-year personal accident insurance, renewable every year, for the cover period 1 June to 31 May. The premium is Rs 20 per year per member, auto-debited from the bank/post office account. Cover: accidental death Rs 2 lakh; total and irrecoverable loss of both eyes or both hands/feet, or of one eye plus one hand/foot, Rs 2 lakh; loss of sight of one eye or use of one hand/foot Rs 1 lakh. Natural calamities and murder are covered; suicide is not. Eligibility: individual (single or joint) savings account holders of participating banks/post offices, aged 18-70, through one account only. Cover ends at age 70 (age nearer birthday), if the account is closed, or if the balance is insufficient for auto-debit. Late joiners pay the annual premium, and cover starts from the date of auto-debit. Premium is unchanged at Rs 20 (revised from Rs 12 w.e.f. 1 June 2022; no further revision as of Oct 2026).
+Steps: 1. Go to the bank or post office branch where the savings account is held (or a Bank Mitra/BC), or use the bank's net/mobile banking, or the Jan Suraksha portal. 2. Fill the PMSBY enrolment-cum-consent form and give auto-debit consent plus nominee details. 3. Rs 20 is debited and cover starts from the debit date; keep enough balance before 1 June every year for renewal.
+Behaviour: cite DFS/PIB; give no verdict on the user's eligibility; say the bot cannot enrol the user; jansuraksha.gov.in may be named as the official portal but its content is not in the bot's sources.
+Fail if: says the premium is Rs 12 (pre-2022) or Rs 20 a month; gives the age band as 18-50 (PMJJBY) or 18-60; says the cover is life insurance for any death; says hospitalisation expenses are reimbursed; directs the user to agents or third-party apps.
+VERIFICATION NOTES: Unverified: Enrolment menu labels on the Jan Suraksha portal (jansuraksha.gov.in, not crawled) and bank apps were not verified.
+No premium/cover revision found for 2025-26 or 2026-27 (DFS pages and PIB 09.05.2026 still show Rs 20). A YouTube/Facebook lead claimed the 'cover set to increase', with no official confirmation. The Nainital Bank FB post still quotes PMJJBY at Rs 330 (stale).
+SOURCES FOUND EARLIER:
+https://financialservices.gov.in/pmsby - PMSBY FAQ: Rs 20 p.a.; benefit table; 18-70; 1 June-31 May; auto-debit; termination at 70; suicide not covered [crawled]
+https://financialservices.gov.in/pradhan-mantri-suraksha-bima-yojana-pmsby - Scheme summary: one-year accident cover, ages 18-70, bank account + consent/auto-debit [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251 - 09.05.2026 (11 years): PMSBY premium Rs 20, cover Rs 2 lakh/Rs 1 lakh, 18-70, 1 June-31 May; online Jan Suraksha portal [crawled]
+https://financialservices.gov.in/sites/default/files/2026-01/Website-MDO-English--May-2022.pdf - May 2022: Government revised the annual premium rates of PMJJBY and PMSBY (to Rs 436 / Rs 20) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): the Rs 20 insurance is PMSBY, one-year accident cover | premium Rs 20 per year, auto-debited from the account | Rs 2 lakh accidental death/total disability; Rs 1 lakh partial disability | eligible: savings account holders aged 18-70 | enrol at the bank/post office branch, Bank Mitra or net banking with consent form
+
+=== Q-146 | P2 | English | Scheme / fact detail (6.2) | expected site: financialservices.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What's the premium and cover under PMJJBY?
+EXPECTED ANSWER NOW:
+Answer: Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is one-year term life insurance, renewable every year, for the cover period 1 June to 31 May. Cover: Rs 2 lakh paid to the nominee on the subscriber's death due to any cause. Premium: Rs 436 per year, auto-debited from the bank/post office account. New enrollees joining mid-year pay a pro-rata premium:
+- June-August: Rs 436
+- September-November: Rs 342
+- December-February: Rs 228
+- March-May: Rs 114
+The full Rs 436 is payable at renewal. Eligibility: savings account holders aged 18-50 (one account only). Once enrolled, cover can continue up to age 55 with annual renewal. There is a 30-day lien period: death other than by accident within 30 days of enrolment is not covered. Premium revised from Rs 330 to Rs 436 w.e.f. 1 June 2022; unchanged as of Oct 2026. Enrol through the bank/post office branch, Bank Mitra, net banking or the Jan Suraksha portal.
+Behaviour: cite DFS/PIB; no eligibility verdict; cannot see the user's policy status.
+Fail if: says Rs 330 (pre-2022); gives the pro-rata amounts wrongly or omits them; says the cover is Rs 4 lakh or covers only accidental death; gives entry age up to 55 or 60; omits the 30-day lien.
+VERIFICATION NOTES: No premium revision found after June 2022.
+SOURCES FOUND EARLIER:
+https://financialservices.gov.in/pmjjby - DFS FAQ (24 Dec 2025): Rs 2 lakh on death due to any cause; Rs 436 p.a.; pro-rata Rs 342/228/114; 18-50 entry, cover to 55; 30-day lien; 1 June-31 May [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251 - 09.05.2026: PMJJBY Rs 436, pro-rata schedule, Rs 2 lakh, 18-50, 30-day lien [crawled]
+https://financialservices.gov.in/pradhan-mantri-jeevan-jyoti-bima-yojana-pmjjby - Summary: Rs 2 lakh cover, ages 18-50, annual premium Rs 436 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): premium Rs 436 per year, auto-debited | cover Rs 2 lakh on death due to any cause | one-year term life cover, renewable every year | pro-rata premium for new joiners: Rs 436/342/228/114 by quarter | 30-day lien: non-accidental death in first 30 days not covered
+
+=== Q-147 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: financialservices.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: अटल पेंशन योजना में 40 साल के बाद जुड़ सकते हैं क्या?
+EXPECTED ANSWER NOW:
+Answer: No. Atal Pension Yojana (APY) can be joined only between 18 and 40 years; the DFS FAQ says a person aged 18 years to 39 years 364 days can join, and someone who has completed 40 cannot. Other conditions:
+- From 1 October 2022, anyone who is or has been an income-tax payer cannot join.
+- A savings account with a bank or post office is required.
+- One APY account per person.
+APY gives a Government-guaranteed minimum pension of Rs 1,000-5,000 a month from age 60, then the same pension to the spouse, then the corpus to the nominee. On 21 January 2026 the Union Cabinet approved continuing APY up to FY 2030-31, with funding for promotional/developmental activities and gap funding; it made no change to eligibility. A person over 40 can look at NPS (All Citizen model), open to citizens aged 18-85, which has no guaranteed pension.
+Behaviour: answer 'No' with the 18-40 rule and the income-tax exclusion, cited (DFS/NPS Trust/PIB); no eligibility verdict beyond stating the rule; do not promise an alternative guaranteed scheme.
+Fail if: says people up to 50 or 60 can join; omits the income-tax-payer exclusion; says APY was discontinued or ended in 2025-26; says the 2026 Cabinet decision changed the age limit; gives the NPS age limit as 18-70 (old).
+VERIFICATION NOTES: The DFS APY FAQ page (crawled) lists eligibility without the income-tax-payer exclusion and still discusses the expired 2015-16 co-contribution. The bot must combine it with NPS Trust/PIB. The Cabinet release exists twice (2216718 under 'Cabinet', 2216727 under 'Ministry of Finance') with identical text.
+SOURCES FOUND EARLIER:
+https://financialservices.gov.in/atal-pension-yojana - DFS APY FAQ: age 18-40; completed 40 cannot join (18 to 39 years 364 days); savings account mandatory; one account [crawled]
+https://npstrust.org.in/apy-eligibility - Age 18-40; from 1 Oct 2022 any citizen who is or has been an income-tax payer is not eligible [crawled]
+https://financialservices.gov.in/sites/default/files/2026-01/Annual-Report-2024-25.pdf - Income tax payer not eligible to join APY from 1 October 2022 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216727 - 21.01.2026 Cabinet: APY continued up to FY 2030-31 with promotional/developmental and gap funding; Rs 1,000-5,000 pension; 8.66 crore subscribers as of 19.01.2026 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251 - 09.05.2026: APY open to bank account holders aged 18-40 who are not income tax payers; 9.04 crore enrolled [crawled]
+https://npstrust.org.in/eligibility - NPS All Citizen model: 18-85 years [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no: APY entry only from 18 to 40 years | income-tax payers (current or past) barred from 1 Oct 2022
+
+=== Q-312 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: gem.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: GeM pe seller kaise bane, kya documents chahiye
+EXPECTED ANSWER NOW:
+Seller registration per GeM, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): seller registration steps on GeM | documents/details needed: PAN, Aadhaar or personal PAN, mobile, email (MSE / startup details)
+
+=== Q-349 | P2 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: hajcommittee.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: हज 2027 के लिए आवेदन कब शुरू होंगे?
+EXPECTED ANSWER NOW:
+As per Haj Committee with date; else not found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Haj 2027 application start date per Haj Committee, or says not found
+
+=== Q-296 | P2 | English | Service procedure (6.2) | expected site: ignou.ac.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is IGNOU admission open now for the January 2027 session?
+EXPECTED ANSWER NOW:
+Status with date from ignou.ac.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): January 2027 admission status per ignou.ac.in

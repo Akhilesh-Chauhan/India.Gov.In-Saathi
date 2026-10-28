@@ -1,0 +1,67 @@
+{
+ "id": "Q-058",
+ "checked_at": "2026-10-28T14:02:24+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "final": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:03+05:30",
+   "sha256": "1b7c784ff5621e092c6fa307f2961f214f996ce72d42ef470ef3bc30ebf246ad",
+   "copy": "2b70c6b8f3cb2b653cdd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "final": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:03+05:30",
+   "sha256": "1b7c784ff5621e092c6fa307f2961f214f996ce72d42ef470ef3bc30ebf246ad",
+   "copy": "2b70c6b8f3cb2b653cdd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:46:22+05:30",
+   "sha256": "c394823582f2d8dcc92a31e8e56144bc9ba31418e32ceb340b3004b984adceec",
+   "copy": "829c830aa96689bbe445.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "final": "https://www.incometax.gov.in/iec/foportal/ais-faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:03+05:30",
+   "sha256": "1b7c784ff5621e092c6fa307f2961f214f996ce72d42ef470ef3bc30ebf246ad",
+   "copy": "2b70c6b8f3cb2b653cdd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

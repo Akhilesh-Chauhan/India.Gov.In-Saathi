@@ -1,0 +1,52 @@
+{
+ "id": "Q-337",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.dbtbharat.gov.in/index.php/static-page-content/spagecont?id=1",
+   "final": "https://www.dbtbharat.gov.in/index.php/static-page-content/spagecont?id=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:37+05:30",
+   "sha256": "75bae780b40f366284853e76983f398819c5e3b3d81457335d931b5d56d4a865",
+   "copy": "cb6a89de464a40168fb2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.dbtbharat.gov.in/index.php/static-page-content/spagecont?id=1",
+   "final": "https://www.dbtbharat.gov.in/index.php/static-page-content/spagecont?id=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:37+05:30",
+   "sha256": "75bae780b40f366284853e76983f398819c5e3b3d81457335d931b5d56d4a865",
+   "copy": "cb6a89de464a40168fb2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://dbtbharat.gov.in/",
+   "final": "https://dbtbharat.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:19+05:30",
+   "sha256": "fad2c6e1263c00ec3e013926b408c3c2cef72471c83d4d2dde880004e987b458",
+   "copy": "11e21b5a61506a1aa0af.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,18 @@
+{
+ "id": "Q-309",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "No: MUDRA is a refinancing institution and does not lend directly to entrepreneurs",
+   "status": "added", "url": "https://www.mudra.org.in/",
+   "quote": "MUDRA is a refinancing Institution. MUDRA does not lend directly to the micro entrepreneurs / individuals."},
+  {"fact": "MUDRA loans are taken from a nearby branch of a bank, NBFC or MFI, or applied for online on the Udyamimitra portal (udyamimitra.in)",
+   "status": "added", "url": "https://www.mudra.org.in/",
+   "quote": "Mudra loans under Pradhan Mantri Mudra Yojana (PMMY) can be availed of from nearby branch office of a bank, NBFC, MFIs etc. Borrowers can also now file online application for MUDRA loans on Udyamimitra portal (www.udyamimitra.in)."},
+  {"fact": "MUDRA engages no agents or middlemen",
+   "status": "added", "url": "https://www.mudra.org.in/",
+   "quote": "Note:There are no agents or middleman engaged by MUDRA for availing of Mudra Loans. The borrowers are advised to keep away from persons posing as Agents/ facilitators of MUDRA/PMMY"}
+ ],
+ "behaviour": "Corrects the user: MUDRA loans are applied for through banks / NBFCs / MFIs (or the Udyamimitra portal), not directly on the MUDRA website; cites mudra.org.in.",
+ "fail_if": "Says MUDRA lends directly or that the application is made on mudra.org.in; recommends agents or loan-app sites.",
+ "summary": "Added mudra.org.in facts: MUDRA does not lend directly; apply at a bank/NBFC/MFI branch or on udyamimitra.in; no agents."
+}

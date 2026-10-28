@@ -1,0 +1,37 @@
+{
+ "id": "Q-364",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/refund_status_user_manual",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/refund_status_user_manual",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:49+05:30",
+   "sha256": "c08d9c5b1675ffd5c9d8381e8e37b3f6f329b3f821bcf04b7694ad02b24726ed",
+   "copy": "d043f7ad5e6346c20e0f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/refund_status_user_manual",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/refund_status_user_manual",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:49+05:30",
+   "sha256": "c08d9c5b1675ffd5c9d8381e8e37b3f6f329b3f821bcf04b7694ad02b24726ed",
+   "copy": "d043f7ad5e6346c20e0f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

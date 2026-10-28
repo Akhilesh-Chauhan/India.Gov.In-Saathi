@@ -1,0 +1,33 @@
+{
+ "id": "Q-336",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "To take part, register on MyGov (www.mygov.in)",
+   "status": "added",
+   "url": "https://www.mygov.in/mygov-faq",
+   "quote": "How can I join MyGov Register on https://www.mygov.in to participate."
+  },
+  {
+   "fact": "Registration/sign-up uses a valid email ID and 10-digit mobile number; login is by OTP sent to them",
+   "status": "added",
+   "url": "https://www.mygov.in/mygov-faq",
+   "quote": "registration and sign up on MyGov can be done through your valid email ID and your 10-digit Mobile number. While logging in, either the registered mobile number or email id can be used. Every time you enter your Mobile Number or Email ID, a One Time Password (OTP) shall be sent"
+  },
+  {
+   "fact": "Then take part in the quizzes hosted on MyGov, which are on national themes, government initiatives and key public issues",
+   "status": "added",
+   "url": "https://www.mygov.in/mygov-faq",
+   "quote": "Test your knowledge and awareness by participating in engaging quizzes hosted on MyGov. These quizzes are designed around important national themes, government initiatives, and key public issues"
+  },
+  {
+   "fact": "Top performers may get recognition, certificates and rewards",
+   "status": "added",
+   "url": "https://www.mygov.in/mygov-faq",
+   "quote": "Top performers may receive recognition, certificates, and exciting rewards, making learning both impactful and rewarding."
+  }
+ ],
+ "behaviour": "Explains how to take part in MyGov quizzes as per MyGov (mygov.in / quiz.mygov.in), with citation; each quiz's own terms (dates, questions, time) apply.",
+ "fail_if": "Gives an unofficial quiz site; invents registration fees or fixed prizes; cites non-MyGov sources.",
+ "summary": "Added MyGov FAQ facts: register on mygov.in with email/mobile (OTP login), play quizzes hosted on MyGov, top performers may get certificates/rewards."
+}

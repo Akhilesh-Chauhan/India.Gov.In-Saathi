@@ -1,0 +1,37 @@
+{
+ "id": "Q-348",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://kmy.gov.in/",
+   "final": "https://kmy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:34+05:30",
+   "sha256": "bfe11be0a575ce4ade773c7edee9e05eae22604fba30163120a420b963c96cae",
+   "copy": "86826ed49ed6deda6c3c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://kmy.gov.in/",
+   "final": "https://kmy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:34+05:30",
+   "sha256": "bfe11be0a575ce4ade773c7edee9e05eae22604fba30163120a420b963c96cae",
+   "copy": "86826ed49ed6deda6c3c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

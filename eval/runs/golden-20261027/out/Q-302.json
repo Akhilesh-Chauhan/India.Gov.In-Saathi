@@ -1,0 +1,25 @@
+{
+ "id": "Q-302",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Scan the QR code printed in the class 10 maths textbook with the DIKSHA mobile app (or enter its DIAL code) to open the digital textbook and its linked content",
+   "status": "added",
+   "url": "https://diksha.gov.in/help/energised-textbooks/consumption/access-qr-code.html",
+   "quote": "Users can scan the QR codes printed in textbooks or search for the DIAL codes on the portal to access these Digital textbooks and related content using the DIKSHA mobile app."},
+  {"fact": "In the DIKSHA app's Library tab you can search and filter content and play it online or download it",
+   "status": "added",
+   "url": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/library.html",
+   "quote": "On the Library tab you can: View the library content details Search and filter for content available in the library Download content Play content online"},
+  {"fact": "On the diksha.gov.in website you can browse by subject, including a Mathematics- X section",
+   "status": "added",
+   "url": "https://diksha.gov.in/",
+   "quote": "View All Subjects Science- IX Mathematics- IX Science- X Mathematics- X"},
+  {"fact": "The DIKSHA app lets you watch content online or offline (after downloading)",
+   "status": "added",
+   "url": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/",
+   "quote": "Consume content in online or offline mode"}
+ ],
+ "behaviour": "Explains how to watch class 10 maths videos as per DIKSHA (diksha.gov.in), with citation; replies in Hinglish.",
+ "fail_if": "It invents DIKSHA steps or features not on DIKSHA pages, or gives no DIKSHA citation.",
+ "summary": "DIKSHA help pages: scan the textbook QR code in the app, or browse the Library / Mathematics- X on diksha.gov.in; play online or offline."
+}

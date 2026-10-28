@@ -1,0 +1,67 @@
+{
+ "id": "Q-043",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "final": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:45:29+05:30",
+   "sha256": "591db9d733db4905ce259b04407735b0020c363d6a5698673b9cfaa860401d7c",
+   "copy": "4c54004a99918099bcf5.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "final": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:45:29+05:30",
+   "sha256": "591db9d733db4905ce259b04407735b0020c363d6a5698673b9cfaa860401d7c",
+   "copy": "4c54004a99918099bcf5.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "final": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:45:29+05:30",
+   "sha256": "591db9d733db4905ce259b04407735b0020c363d6a5698673b9cfaa860401d7c",
+   "copy": "4c54004a99918099bcf5.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "final": "https://www.eci.gov.in/eci/public/api/document?id=17539",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:45:29+05:30",
+   "sha256": "591db9d733db4905ce259b04407735b0020c363d6a5698673b9cfaa860401d7c",
+   "copy": "4c54004a99918099bcf5.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

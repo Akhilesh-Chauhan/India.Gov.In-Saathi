@@ -1,0 +1,38 @@
+{
+ "id": "Q-142",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Eligible PMJDY account holders can get an overdraft (OD) of up to Rs 10,000",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "An overdraft (OD) facility up to Rs. 10,000 to eligible account holders is available."
+  },
+  {
+   "fact": "The OD limit was raised from Rs 5,000 to Rs 10,000 in 2018",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "quote": "Existing OD limit of Rs 5,000 to be raised to Rs 10,000"
+  },
+  {
+   "fact": "OD up to Rs 2,000 has no conditions attached",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "quote": "There will not be any conditions attached for OD upto Rs 2,000."
+  },
+  {
+   "fact": "The OD of up to Rs 10,000 is subject to eligibility conditions",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pradhan-mantri-jan-dhan-yojana-pmjdy",
+   "quote": "Access to overdraft facility of upto Rs. 10,000, subject to eligibility conditions;",
+   "note": "That the bank applies its own conditions above Rs 2,000 is not stated on DFS/PMJDY pages (derived from the OD being a bank credit facility; fact 3 gives the no-conditions limit of Rs 2,000)."
+  },
+  {
+   "fact": "The age limit for OD is 18-65 years (raised from 18-60)",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+   "quote": "Age limit for availing OD facility to be revised from 18-60 years to 18-65 years."
+  }
+ ],
+ "summary": "All confirmed: OD up to Rs 10,000 (pmjdy.gov.in, DFS), raised from Rs 5,000, no conditions up to Rs 2,000, age 18-65 (Continuation of PMJDY, 2018)."
+}

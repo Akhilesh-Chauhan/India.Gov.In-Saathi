@@ -1,0 +1,37 @@
+{
+ "id": "Q-087",
+ "checked_at": "2026-10-28T14:02:49+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "final": "https://esic.gov.in/information-benefits",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:20+05:30",
+   "sha256": "4fca6767db062fa67df4450b56c9634f0cbb649e40daabfc8c4df88d831b5f1a",
+   "copy": "4eeffb117f58e903f142.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://okhlahospital.esic.gov.in/esichospital-external-referral-services",
+   "final": "https://okhlahospital.esic.gov.in/esichospital-external-referral-services",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:12+05:30",
+   "sha256": "48f2a42752139c2cd89231ed584b75e4966d831e40f7eacbe89cb860a7803bec",
+   "copy": "f41ae2a0720657a26232.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

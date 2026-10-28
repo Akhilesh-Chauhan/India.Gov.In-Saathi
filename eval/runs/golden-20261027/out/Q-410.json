@@ -1,0 +1,25 @@
+{
+ "id": "Q-410",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The official FASTag Annual Pass fee is Rs 3,075 from 1 April 2026 (Rs 3,000 before), so Rs 4,000 is not the official price",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240305&lang=1&reg=3",
+   "quote": "National Highways Authority of India has announced the revision of the applicable fee for the FASTag Annual Pass from the current Rs. 3,000 to Rs. 3,075 for the Financial Year 2026–27 . The increased fee will be applicable from 1st April 2026 ."
+  },
+  {
+   "fact": "The Annual Pass can be activated only through the Rajmargyatra app or the NHAI website",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "quote": "The Annual Pass can be activated only on the Rajmargyatra mobile application and NHAI website."
+  },
+  {
+   "fact": "IHMCL's text Annual Pass FAQ still gives Rs 3,000 (for the base year 2025-26)",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "quote": "the user must make a payment of ₹3,000 for the base year 2025–26 through the Rajmargyatra mobile application or NHAI website."
+  }
+ ],
+ "summary": "Rs 3,075 (w.e.f. 1 Apr 2026, from Rs 3,000) confirmed by the PIB/NHAI release; Rajmargyatra/NHAI-only activation confirmed in the IHMCL FAQ."
+}

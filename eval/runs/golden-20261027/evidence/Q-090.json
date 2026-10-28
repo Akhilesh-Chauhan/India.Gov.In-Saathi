@@ -1,0 +1,52 @@
+{
+ "id": "Q-090",
+ "checked_at": "2026-10-28T14:02:49+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "final": "https://esic.gov.in/information-benefits",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:20+05:30",
+   "sha256": "4fca6767db062fa67df4450b56c9634f0cbb649e40daabfc8c4df88d831b5f1a",
+   "copy": "4eeffb117f58e903f142.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "final": "https://esic.gov.in/information-benefits",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:20+05:30",
+   "sha256": "4fca6767db062fa67df4450b56c9634f0cbb649e40daabfc8c4df88d831b5f1a",
+   "copy": "4eeffb117f58e903f142.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "final": "https://esic.gov.in/information-benefits",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:20+05:30",
+   "sha256": "4fca6767db062fa67df4450b56c9634f0cbb649e40daabfc8c4df88d831b5f1a",
+   "copy": "4eeffb117f58e903f142.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

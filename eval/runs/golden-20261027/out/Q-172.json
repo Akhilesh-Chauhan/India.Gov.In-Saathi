@@ -1,0 +1,13 @@
+{
+ "id": "Q-172",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Wheat MSP for RMS 2027-28: Rs 2,610 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "MSP RMS 2027-28 Cost* of Production RMS 2027-28 Margin over cost (in percent) MSP RMS 2026-27 Increase in MSP (Absolute) 1 Wheat 2610 1264 106 2585 25"},
+  {"fact": "Barley MSP for RMS 2027-28: Rs 2,286 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "2 Barley 2286 1447 58 2150 136"},
+  {"fact": "Gram MSP for RMS 2027-28: Rs 5,958 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "3 Gram 5958 3751 59 5875 83"},
+  {"fact": "Lentil (Masur) MSP for RMS 2027-28: Rs 7,390 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "4 Lentil (Masur) 7390 3854 92 7000 390"},
+  {"fact": "Rapeseed & Mustard MSP for RMS 2027-28: Rs 6,613 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "5 Rapeseed & Mustard 6613 3367 96 6200 413"},
+  {"fact": "Safflower MSP for RMS 2027-28: Rs 7,215 per quintal", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941", "quote": "6 Safflower 7215 4810 50 6540 675"}
+ ],
+ "summary": "All six RMS 2027-28 Rabi MSPs match the PIB table of 30 Sep 2026."
+}

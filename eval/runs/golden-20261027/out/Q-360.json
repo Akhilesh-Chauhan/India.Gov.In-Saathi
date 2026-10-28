@@ -1,0 +1,21 @@
+{
+ "id": "Q-360",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "DigiLocker's Partner Integration page for requesters (digilocker.gov.in/web/partners/requesters) gives the DigiLocker Requestor API Specification PDF and a Swagger link at https://directory.apisetu.gov.in/api-collection/digilocker",
+   "status": "added",
+   "url": "https://www.digilocker.gov.in/web/partners/requesters",
+   "quote": "API Specification Document DigiLocker Requestor API Specification.pdf Swagger Link https://directory.apisetu.gov.in/api-collection/digilocker"},
+  {"fact": "API Setu's DigiLocker resource page (apisetu.gov.in/digilocker) lists the Requester API Specification (Version 1.12, Oct 2023)",
+   "status": "added",
+   "url": "https://apisetu.gov.in/digilocker",
+   "quote": "Requester API Specification (Version 1.12, Oct 2023) API specification document for Requester who want to integrate with the DigiLocker system on web or mobile while maintaining their own user interface."},
+  {"fact": "The same API Setu page lists the DigiLocker Issuer API Specification for Issuers (Version 1.13, May 2024)",
+   "status": "added",
+   "url": "https://apisetu.gov.in/digilocker",
+   "quote": "DigiLocker Issuer API Specification for Issuers (Version 1.13, May 2024) Issuer API specification for organization to issue documents through DigiLocker."}
+ ],
+ "behaviour": "Cites DigiLocker's own developer/partner page (digilocker.gov.in/web/partners or apisetu.gov.in/digilocker) if indexed; otherwise says it is not in its sources and links digilocker.gov.in; never a fabricated URL.",
+ "fail_if": "It gives a URL that is not an official DigiLocker or API Setu page, or invents an API documentation link.",
+ "summary": "DigiLocker's partner page links the Requester API spec PDF and the API Setu Swagger collection; API Setu lists the Requester (v1.12) and Issuer (v1.13) specs."
+}

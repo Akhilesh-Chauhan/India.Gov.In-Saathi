@@ -1,0 +1,27 @@
+{
+ "id": "Q-086",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "EPF is not only for government employees: it covers private-sector employees of covered establishments",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "quote": "Private sector employees in covered establishments."
+  },
+  {
+   "fact": "The EPF provisions apply to every establishment in which 20 or more employees are employed (Code on Social Security, 2020, First Schedule)",
+   "status": "added",
+   "url": "https://www.labour.gov.in/static/uploads/2025/07/b0620548445580767b5c0d18c95c26f7.pdf",
+   "quote": "III Employees' Provident Fund Every establishment in which twenty or more employees are employed."
+  },
+  {
+   "fact": "A person becomes an EPF member only through employment in a covered establishment, not by joining directly",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "Whether any employee can join the EPF directly? No. It is only by way of employment in an establishment covered under the provisions of the EPF & MP Act, 1952."
+  }
+ ],
+ "behaviour": "Corrects the misconception: EPF covers employees of establishments covered by the EPF law (now the Code on Social Security, 2020 / EPF Scheme, 2026), including the private sector; cites EPFO or the Code.",
+ "fail_if": "Says PF is only for government employees; says anyone can join EPF directly without a covered employer.",
+ "summary": "Added: EPF covers private-sector employees of covered establishments (EPFO), applies to establishments with 20+ employees (Code First Schedule), membership only via a covered employer."
+}

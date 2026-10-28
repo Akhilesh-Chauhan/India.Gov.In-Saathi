@@ -1,0 +1,52 @@
+{
+ "id": "Q-410",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240305&lang=1&reg=3",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240305&lang=1&reg=3",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:30+05:30",
+   "sha256": "f6419b9b50515017ef73c00754aaa5f8e236ea061ba7e1bf59a3ba7442b6bcaf",
+   "copy": "28bbecefe1c51c5b7170.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "final": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:35+05:30",
+   "sha256": "d67539851a86e3467e46f51985e108848065890a9452de9c84d0e2069d255212",
+   "copy": "48247a39bc6ee11e121e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "final": "https://ihmcl.co.in/wp-content/uploads/2025/08/FAQ-Annual-Pass_12.08.25-3.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:35+05:30",
+   "sha256": "d67539851a86e3467e46f51985e108848065890a9452de9c84d0e2069d255212",
+   "copy": "48247a39bc6ee11e121e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,17 @@
+{
+ "id": "Q-135",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "India Post's GDS Online Engagement portal shows that List-I of shortlisted candidates for GDS Online Engagement Schedule-II, July-2026 has been published (circle-wise lists)",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/gdsonlineengagement",
+   "quote": "GDS Online Engagement Schedule-II, July-2026 : List-I of Shortlisted Candidates Published"},
+  {"fact": "Shortlisted candidates in the circle List-1 (e.g. Maharashtra) must get their documents verified at the Divisional Office on or before 27/10/2026",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/gdsonlineengagement/api/results/list1?circle=Maharashtra",
+   "quote": "Shortlisted candidates should get their documents verified at the Divisional Office of the Division to which they are selected on or before 27/10/2026."}
+ ],
+ "behaviour": "Answers from the India Post GDS Online Engagement portal with its date: List-I of shortlisted candidates for Schedule-II (July-2026) has been published circle-wise; links the portal (indiapost.gov.in/gdsonlineengagement) for the circle lists. Does not invent cut-offs, later lists or dates not on the page.",
+ "fail_if": "Says no 2026 GDS result has been published, invents cut-off marks or dates, or cites unofficial job sites.",
+ "summary": "Found on the India Post GDS portal (28 Oct 2026): Schedule-II July-2026 List-I of shortlisted candidates published circle-wise; Maharashtra List-1 sets document verification by 27/10/2026."
+}

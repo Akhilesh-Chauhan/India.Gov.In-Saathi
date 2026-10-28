@@ -1,0 +1,13 @@
+{
+ "id": "Q-102",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The Union Cabinet approved the Terms of Reference of the 8th Central Pay Commission on 28 October 2025", "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289", "quote": "Posted On: 28 OCT 2025 3:03PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, today approved the Terms of Reference of 8th Central Pay Commission."},
+  {"fact": "The Commission was constituted by Government notification dated 3 November 2025", "status": "added", "url": "https://8cpc.gov.in/", "quote": "Eighth Central Pay Commission has been constituted by Government of India vide notification dated November 3, 2025."},
+  {"fact": "Its Terms of Reference ask it to keep in view the economic conditions and fiscal prudence, resources for development and welfare, and the unfunded cost of non-contributory pension schemes", "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289", "quote": "While making the recommendations the Commission will keep in view the followings: i. The economic conditions in the country and the need for fiscal prudence; ii. The need to ensure that adequate resources are available for developmental expenditure and welfare measures; iii. The unfunded cost of non-contributory pension schemes;"},
+  {"fact": "It will make its recommendations within 18 months of its constitution and may send interim reports", "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289", "quote": "It will make its recommendations within 18 months of the date of its constitution. It may consider, if necessary, sending interim reports on any of the matters as and when the recommendations are finalized."}
+ ],
+ "behaviour": "States only what official releases say (PIB / 8cpc.gov.in), with dates: ToR approved 28 Oct 2025, constituted 3 Nov 2025, report due within 18 months of constitution; no speculation on fitment factor, pay or pension increases, or an implementation date.",
+ "fail_if": "Gives a fitment factor, salary or pension increase, or a firm implementation date as official; says the report has already been submitted or implemented without an official source.",
+ "summary": "Added the official 8th CPC status: ToR approved 28 Oct 2025, constituted 3 Nov 2025, ToR considerations, recommendations within 18 months."
+}

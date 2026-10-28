@@ -1,0 +1,21 @@
+{
+ "id": "MT-16",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "In Bihar, caste certificates are a Right to Public Service (RTPS) service of the State's General Administration Department (GAD)",
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "quote": "RTPS Service of General Administration Department (GAD) Application Process Flow for Caste, Income & Residence Certificate at CO, SDO & DM level"},
+  {"fact": "The Bihar State portal for applying is the ServicePlus (RTPS) portal serviceonline.bihar.gov.in",
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "quote": "Bihar e-District through ServicePlus Portal (https://serviceonline.bihar.gov.in) RTPS Service of General Administration Department (GAD)"}
+ ],
+ "behaviour": "Central-only scope (G12), named not refused: names the Bihar State department responsible and links the State portal; never answers only 'not covered'; gives no invented State steps. In the follow-up it stays in scope politely, repeats the department and portal, and offers Central information where relevant.",
+ "fail_if": "It replies only that the service is not covered, or invents Bihar application steps, documents, fees or timelines.",
+ "turns": [
+  "Central only, named not refused (G12): names the Bihar State department responsible (General Administration Department, RTPS service) and links the State portal listed in IGOD (serviceonline.bihar.gov.in); never only 'not covered'; no invented State steps.",
+  "Stays in scope politely: repeats the department (General Administration Department) and portal (serviceonline.bihar.gov.in); offers Central information where relevant."
+ ],
+ "summary": "Bihar caste certificates are a GAD RTPS service on serviceonline.bihar.gov.in; department and portal added to the turns."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "Q-377",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "In UMANG, the Mera Ration service 'View Ration Card Details' shows the ration card details on entering the ration card number, district and last four digits of Aadhaar",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/mera-ration.html",
+   "quote": "View Ration Card Details User can view Ration Card related details by providing Ration Card Number, District and last four digits of Aadhaar"},
+  {"fact": "Issuing ration cards (AAY and PHH) under NFSA is handled by the respective State Government / UT Administration",
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "quote": "Identification of beneficiaries/households under the National Food Security Act, 2013 (NFSA) and issuance of Antodaya Anna Yojana (AAY) and Priority Household (PHH) ration cards is dealt by the respective State Government / UT Administration."}
+ ],
+ "behaviour": "Replies in Hindi; gives the deep link to the Mera Ration 'View Ration Card Details' service in UMANG (from the catalogue); notes that changes to the ration card are handled by the State/UT food department. Does not fetch the card itself.",
+ "fail_if": "Invents a link or service; says the Centre or UMANG makes changes to the card; asks for the full Aadhaar number.",
+ "summary": "Added: UMANG Mera Ration 'View Ration Card Details' (card no., district, last 4 Aadhaar digits); ration cards are issued by States/UTs (nfsa.gov.in)."
+}

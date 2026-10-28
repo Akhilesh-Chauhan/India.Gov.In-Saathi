@@ -1,0 +1,52 @@
+{
+ "id": "Q-397",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "final": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:51+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "1fce6044d1f7fd6cc654.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "final": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:51+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "1fce6044d1f7fd6cc654.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "final": "https://www.myscheme.gov.in/schemes/pmuy2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:16:51+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "1fce6044d1f7fd6cc654.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

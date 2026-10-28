@@ -1,0 +1,57 @@
+{
+ "id": "Q-409",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "final": "https://uidai.gov.in/en/aadhaar-online-services",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:08:03+05:30",
+   "sha256": "96630db5f130a235d8af3604fa7d15dbbc12a25f146cc8a4c04e5ea51ccda062",
+   "copy": "944c6161eb7ab5c0e00b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/official-memorandums",
+   "final": "https://uidai.gov.in/en/official-memorandums",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:16:40+05:30",
+   "sha256": "ce342040306a99d368e19dd694ea580bd8e3d9e25167b879aad3a09e47df054e",
+   "copy": "8e9f6efe8ac5fb3ba90f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "final": "https://uidai.gov.in/en/aadhaar-online-services",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:08:03+05:30",
+   "sha256": "96630db5f130a235d8af3604fa7d15dbbc12a25f146cc8a4c04e5ea51ccda062",
+   "copy": "944c6161eb7ab5c0e00b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "unsupported",
+   "url": ""
+  }
+ ],
+ "problems": []
+}

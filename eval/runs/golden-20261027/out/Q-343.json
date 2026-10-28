@@ -1,0 +1,62 @@
+{
+ "id": "Q-343",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under the Railway Passengers (Cancellation of Ticket and Refund of Fare) Rules, 2015, a confirmed ticket cancelled between 48 hours and 12 hours before scheduled departure attracts a 25% cancellation charge, subject to the minimum flat cancellation charge; the rest is refunded",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=133163",
+   "quote": "If confirmed ticket is presented for cancellation between 48 hours and upto 12 hours before the scheduled departure of the train, 25% cancellation charges is levied subject to minimum flat cancellation charge."
+  },
+  {
+   "fact": "The minimum flat cancellation charge for 3AC is Rs 180 per passenger, which is also the charge when a confirmed ticket is cancelled more than 48 hours before departure",
+   "status": "confirmed",
+   "url": "https://oldser.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,2,406,453,770,862",
+   "quote": "More than 48 hours before the scheduled departure of the train Rs: 240/- For 1A and EC Class Rs: 200/- For 2A and FC Class Rs: 180/-For 3A and CC Class"
+  },
+  {
+   "fact": "Cancellation charges for confirmed tickets are laid down in rule 6 of the 2015 Rules",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf",
+   "quote": "in rule 6, after sub-rule (3), the following sub-rules shall be inserted, namely: – “(4) In the case of Vande Bharat Sleeper Express, if a confirmed ticket is presented by the passenger or his representative for cancellation"
+  },
+  {
+   "fact": "Between 12 and 4 hours before departure the charge is 50%, subject to the same minimum flat charge",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=133163",
+   "quote": "If confirmed ticket is presented for cancellation between 12 hours and upto 4 hours before the scheduled departure of the train irrespective of distance, 50% cancellation charge is levied subject to minimum flat cancellation charge."
+  },
+  {
+   "fact": "Refund on a confirmed ticket is granted only up to 4 hours before scheduled departure",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=133163",
+   "quote": "Refund on confirmed ticket is granted only upto 4 hours before the scheduled departure of the train."
+  },
+  {
+   "fact": "For Vande Bharat Sleeper Express (G.S.R. 41(E) of 16.01.2026, Commercial Circular No. 08 of 2026), cancellation between 72 and 8 hours before departure (so at 30 hours) costs 50% of the fare",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf",
+   "quote": "if the ticket is presented for cancellation between seventy-two hours and upto eight hours before the scheduled departure of the train, the cancellation charge shall be fifty per cent. of the fare.",
+   "note": "Derived: 30 hours before departure falls in the 72-to-8-hour slab quoted here."
+  },
+  {
+   "fact": "For Vande Bharat Sleeper Express the charge is 25% of the fare if cancelled more than 72 hours before departure",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf",
+   "quote": "if the ticket is presented for cancellation more than seventy-two hours in advance of the scheduled departure of the train, the cancellation charge shall be twenty five per cent. of the fare."
+  },
+  {
+   "fact": "For Vande Bharat Sleeper Express no refund is given if the ticket is cancelled less than 8 hours before departure",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf",
+   "quote": "if the ticket is presented for cancellation in less than eight hours of the scheduled departure of the train, no refund shall be granted."
+  },
+  {
+   "fact": "Reserved tickets of Amrit Bharat II Express follow the same refund rules as Vande Bharat Sleeper Express",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf",
+   "quote": "The reserved ticket of Amrit Bharat II Express shall be governed by the rules as are applicable to the reserved ticket of Vande Bharat Sleeper Express"
+  }
+ ],
+ "summary": "All facts confirmed: 2015 rules 48-12h = 25% subject to minimum (PIB 14.12.2015), 3AC minimum Rs 180 (SER refund rules page), 12-4h 50%, no refund after 4h; Vande Bharat Sleeper/Amrit Bharat II 72-8h = 50% per CC 08/2026 (G.S.R. 41(E)). CC 65/2015 is a scanned PDF, so PIB and SER pages were used."
+}

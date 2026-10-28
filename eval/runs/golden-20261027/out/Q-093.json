@@ -1,0 +1,25 @@
+{
+ "id": "Q-093",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "e-Shram is a central Aadhaar-seeded database of unorganised workers, used to deliver social security benefits to them (it is not itself a cash benefit)",
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "quote": "It is envisaged that this portal will be used to facilitate delivery of various social security benefits to unorganised workers."},
+  {"fact": "Through the e-Shram One-Stop-Solution a worker can enrol in and track the integrated schemes with one UAN, without visiting separate portals",
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "quote": "Tracking of all integrated schemes through a unique identifier i.e., UAN. No need to visit multiple portals or fill out separate forms for each scheme."},
+  {"fact": "Schemes available through e-Shram include One Nation One Ration Card and the PM Shram Yogi Maan-dhan pension scheme, among others",
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "quote": "The following schemes are currently available under eShram OSS: One Nation One Ration Card (ONORC) Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)"},
+  {"fact": "In emergencies and pandemic-like situations the database may be used to give assistance to eligible unorganised workers",
+   "status": "added",
+   "url": "https://eshram.gov.in/faqs",
+   "quote": "In emergency and national pandemic like situations, this database may be utilised to provide necessary assistance to the eligible unorganised workers."}
+ ],
+ "behaviour": "Gives the e-Shram benefits as stated on labour.gov.in / eshram.gov.in, in Hindi, with citation; no invented cash benefit.",
+ "fail_if": "It says the e-Shram card itself pays a fixed cash amount or monthly allowance, or invents a benefit not on the official page.",
+ "summary": "Added from the eShram FAQs: Aadhaar-seeded database to deliver social security, One-Stop-Solution with one UAN, integrated schemes (ONORC, PM-SYM, etc.), emergency assistance; no cash benefit."
+}

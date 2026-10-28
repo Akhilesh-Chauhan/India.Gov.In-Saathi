@@ -1,0 +1,22 @@
+{
+ "id": "MT-10",
+ "checked_at": "2026-10-28T14:02:18+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1644807",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1644807&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:00+05:30",
+   "sha256": "e3ca608a5e2528c4f0a3321bb80cc2421539e3b414e787ec1532d132dad24bf9",
+   "copy": "98436e69d51a9296e851.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

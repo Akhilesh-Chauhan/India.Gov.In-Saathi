@@ -1,0 +1,37 @@
+{
+ "id": "Q-143",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmjdy.gov.in/account",
+   "final": "https://pmjdy.gov.in/account",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:03+05:30",
+   "sha256": "814ee282b7f1ca521ed57d05dd55b4f8117cc239daf414a6551953dbe3efee11",
+   "copy": "74c7f79d8b5c334c2c29.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmjdy.gov.in/account",
+   "final": "https://pmjdy.gov.in/account",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:03+05:30",
+   "sha256": "814ee282b7f1ca521ed57d05dd55b4f8117cc239daf414a6551953dbe3efee11",
+   "copy": "74c7f79d8b5c334c2c29.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

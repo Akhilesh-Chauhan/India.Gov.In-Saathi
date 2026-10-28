@@ -1,0 +1,17 @@
+{
+ "id": "Q-348",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "As of 28 Oct 2026 kmy.gov.in announces no 2027 registration date: it says the 2026 Yatra has been completed and the 2026 online portal is closed",
+   "status": "added",
+   "url": "https://kmy.gov.in/",
+   "quote": "The Kailash Manasarovar Yatra 2026 has been completed. The online portal for the 2026 Yatra is now closed."},
+  {"fact": "Queries go to the MEA KMY Cell helpdesk, phone 011-23088214 (email kmyatra@mea.gov.in)",
+   "status": "added",
+   "url": "https://kmy.gov.in/",
+   "quote": "Email kmyatra[at]mea[dot]gov[dot]in Phone / Mobile 011-23088214"}
+ ],
+ "behaviour": "Gives the KMY 2027 registration date from kmy.gov.in if announced; otherwise says it has not been announced yet (the 2026 Yatra has concluded) and points to kmy.gov.in / the KMY Cell helpdesk.",
+ "fail_if": "It invents a 2027 registration date or says registration is open.",
+ "summary": "kmy.gov.in shows only that the 2026 Yatra has concluded and its portal is closed; no 2027 registration date announced; KMY Cell helpdesk 011-23088214."
+}

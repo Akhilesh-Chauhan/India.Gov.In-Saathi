@@ -1,0 +1,71 @@
+{
+ "id": "Q-092",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Code on Wages 2019, Industrial Relations Code 2020, Code on Social Security 2020 and OSH&WC Code 2020 were made effective from 21 November 2025, rationalising 29 existing labour laws",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463",
+   "quote": "the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020 are being made effective from 21st November 2025 , rationalising 29 existing labour laws."
+  },
+  {
+   "fact": "The draft central rules were pre-published on 30 December 2025 for objections and suggestions",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/05/6eb0c35ba63b776487a025e5123b6b12.pdf",
+   "quote": "vide number G.S.R. 936 (E), dated the 30th December, 2025, inviting objections and suggestions from all persons likely to be affected thereby"
+  },
+  {
+   "fact": "The Code on Wages (Central) Rules were notified on 8 May 2026 as G.S.R. 343(E)",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/05/6eb0c35ba63b776487a025e5123b6b12.pdf",
+   "quote": "NOTIFICATION New Delhi, the 8th May, 2026 G.S.R. 343(E).—Whereas the draft of the Code on Wages (Central) Rules, 2025 were published"
+  },
+  {
+   "fact": "The final rules are called the Code on Wages (Central) Rules, 2026",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/05/6eb0c35ba63b776487a025e5123b6b12.pdf",
+   "quote": "These rules may be called the Code on Wages (Central) Rules, 2026."
+  },
+  {
+   "fact": "The Industrial Relations (Central) Rules, 2026 were notified on 8 May 2026 as G.S.R. 342(E)",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/05/f05a2c220dcdec0ea9c55e84d9ff791f.pdf",
+   "quote": "NOTIFICATION New Delhi, the 8th May, 2026 G.S.R. 342(E).—Whereas, the draft of the Industrial Relations (Central) Rules, 2025"
+  },
+  {
+   "fact": "The Social Security (Central) Rules, 2026 were notified on 8 May 2026 as G.S.R. 344(E)",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/05/49aa9b62c2125499c37399b90e969d67.pdf",
+   "quote": "NOTIFICATION New Delhi, the 8th May, 2026 G.S.R. 344(E).—Whereas, the draft of the Social Security (Central) Rules, 2025 were published"
+  },
+  {
+   "fact": "The new EPF Scheme, 2026 was notified on 29 June 2026 (G.S.R. 525(E))",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291296",
+   "quote": "For details regarding this Amnesty scheme, part C of Annexure to the Employees' Provident Fund Scheme, 2026 issued vide Gazette notification GSR 525(E) dated 29.06.2026 may be referred to"
+  },
+  {
+   "fact": "The scheme replacing the EPS, 1995 (the Employees' Pension Scheme, 2026) was notified on 29 June 2026 as G.S.R. 527(E)",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "MINISTRY OF LABOUR AND EMPLOYMENT NOTIFICATION New Delhi, the 29th June, 2026 G.S.R. 527(E).— In exercise of the powers conferred by clause (b) of sub-section (1) of section 15 of the Code on Social Security (36 of 2020) and in supersession of the Employees’ Family Pension Scheme, 1971 and the Employees’ Pension Scheme, 1995",
+   "note": "Para 1(1) of the same notification: 'This Scheme may be called the Employees' Pension Scheme, 2026.'"
+  },
+  {
+   "fact": "States/UTs frame and finalise their own rules under the Codes",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2229108",
+   "quote": "She also urged States/UTs to expedite the finalisation of Rules"
+  },
+  {
+   "fact": "The Employees' Deposit-Linked Insurance Scheme, 2026 (replacing the EDLI Scheme, 1976) was notified on 29 June 2026 as G.S.R. 526(E)",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "New Delhi, the 29th June, 2026 G.S.R. 526(E).— In exercise of the powers conferred by clause (c) of sub-section (1) of section 15 of the Code on Social Security (36 of 2020) and in supersession of the Employees’ Deposit-Linked Insurance Scheme, 1976",
+   "note": "Para 1(1) of the same notification names it the Employees' Deposit-Linked Insurance Scheme, 2026."
+  }
+ ],
+ "behaviour": "Factual status with dates and citation (PIB / labour.gov.in); no political commentary.",
+ "fail_if": "Says the Codes are not yet in force or are 'expected' to be implemented; gives 1 April 2025/2026 or the dates the Codes were passed (8 Aug 2019 / 29 Sep 2020) as the effective date; or confuses enactment with commencement.",
+ "summary": "Codes in force from 21 Nov 2025 (PIB), drafts 30.12.2025 and Wages/IR/SS Central Rules of 8 May 2026 (GSR 343/342/344(E)) and EPF Scheme 2026 of 29.06.2026 confirmed; the EPS/EDLI 2026 notification date is unsupported. Audit 28 Oct 2026: EPS, 2026 (G.S.R. 527(E)) and EDLI Scheme, 2026 (G.S.R. 526(E)) gazette notifications of 29 June 2026 found on egazette.gov.in; all facts now confirmed."
+}

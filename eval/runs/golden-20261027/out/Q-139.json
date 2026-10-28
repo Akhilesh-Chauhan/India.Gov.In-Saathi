@@ -1,0 +1,25 @@
+{
+ "id": "Q-139",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: with IPPB's Aadhaar ATM (AePS) you can withdraw cash from your Aadhaar-linked bank account",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "quote": "Withdraw cash from your Aadhaar-linked bank account with Aadhaar ATM by India Post Payments Bank (IPPB)"},
+  {"fact": "It works for IPPB customers and customers of other banks, at post offices and through doorstep banking (postman)",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "quote": "Available for IPPB customers and customers of other banks through assisted banking services at Post Offices and doorstep banking."},
+  {"fact": "You give your Aadhaar number and the name of the bank where the account is Aadhaar-seeded, and authenticate by fingerprint or iris",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "quote": "Share your Aadhaar number and Bank name where Account Seeded with Aadhaar. Biometric Authentication Verify your identity through fingerprint or iris scan."},
+  {"fact": "A doorstep service request can be raised through IPPB customer care 155299 or 033-22029000",
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "quote": "Raise Doorstep Service Request IPPB Customer Care 155299 | 033-22029000"}
+ ],
+ "behaviour": "Says yes and explains the IPPB AePS (Aadhaar ATM) doorstep cash withdrawal through the postman, citing the IPPB page; answers in simple Hinglish.",
+ "fail_if": "It says cash cannot be withdrawn at home with Aadhaar, or invents a fee or limit not on the IPPB page.",
+ "summary": "Added from IPPB's AePS page: Aadhaar-based cash withdrawal for any bank's customers at post offices and the doorstep, biometric authentication, request via 155299."
+}

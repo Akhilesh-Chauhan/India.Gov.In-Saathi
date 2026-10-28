@@ -1,0 +1,15 @@
+{
+ "id": "MT-07",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A victim of financial cyber fraud should call the National Cyber Crime Helpline 1930",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Any victim of financial cyber fraud can dial helpline number 1930"},
+  {"fact": "Report the fraud immediately on the National Cyber Crime Reporting Portal, cybercrime.gov.in (or call 1930)",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "If you are a victim of cybercrime, report immediately at https://www.cybercrime.gov.in/ or call 1930."}
+ ],
+ "summary": "cybercrime.gov.in (portal text in assets/i18n/en.json) still gives helpline 1930 and says report immediately on the portal; turn text unchanged."
+}

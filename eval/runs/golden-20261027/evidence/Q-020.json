@@ -1,0 +1,82 @@
+{
+ "id": "Q-020",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "final": "https://www.passportindia.gov.in/psp",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:12+05:30",
+   "sha256": "fce27c22af3b54d839313371ad9065ad67478b3f82762b990169587d5cbb1752",
+   "copy": "a4aaf9c8eabe5831582a.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "final": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:02+05:30",
+   "sha256": "535b1742cf6ba3f98f640288f40fde8472a16303f0e5cc67f533edbcce704a0b",
+   "copy": "d1999fae07c7de96a393.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "final": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:02+05:30",
+   "sha256": "535b1742cf6ba3f98f640288f40fde8472a16303f0e5cc67f533edbcce704a0b",
+   "copy": "d1999fae07c7de96a393.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "final": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:02+05:30",
+   "sha256": "535b1742cf6ba3f98f640288f40fde8472a16303f0e5cc67f533edbcce704a0b",
+   "copy": "d1999fae07c7de96a393.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "final": "https://www.passportindia.gov.in/psp",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:12+05:30",
+   "sha256": "fce27c22af3b54d839313371ad9065ad67478b3f82762b990169587d5cbb1752",
+   "copy": "a4aaf9c8eabe5831582a.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

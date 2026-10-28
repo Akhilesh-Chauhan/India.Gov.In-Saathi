@@ -1,0 +1,18 @@
+{
+ "id": "Q-304",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY, now PMKVY 4.0) of the Ministry of Skill Development and Entrepreneurship provides free short-duration skill training and skill certification",
+   "status": "added", "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "quote": "to encourage and promote skill development in the country by providing free short-duration skill training and incentivizing youth for skill certification."},
+  {"fact": "Candidates register on the Skill India Digital (Hub) portal or its mobile app",
+   "status": "added", "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "quote": "Candidates will be required to register on the Skill India Digital or the Mobile App developed for the purpose."},
+  {"fact": "Short-term training targets school/college dropouts, out-of-education and unemployed youth aged 15-45",
+   "status": "added", "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "quote": "The scheme targets school/college dropouts, out-ofeducation, and unemployed youths in the age group of 15-45 years."}
+ ],
+ "behaviour": "Points to free skill training under PMKVY / Skill India as published by MSDE, with citation (msde.gov.in / Skill India Digital).",
+ "fail_if": "Recommends paid private training institutes or agents as the route; invents fees, stipends or job guarantees; cites unofficial sites.",
+ "summary": "Added PMKVY 4.0 facts from MSDE guidelines: free short-duration training, register on Skill India Digital, target age 15-45."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-261",
+ "checked_at": "2026-10-28T14:03:29+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "final": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:54+05:30",
+   "sha256": "6a324ad4e918102ba90362ee69c6eccc5492e5868e8e63761de7d26ac7b46653",
+   "copy": "c123435eb90f48f4f0a0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "final": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:54+05:30",
+   "sha256": "6a324ad4e918102ba90362ee69c6eccc5492e5868e8e63761de7d26ac7b46653",
+   "copy": "c123435eb90f48f4f0a0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "final": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:54+05:30",
+   "sha256": "6a324ad4e918102ba90362ee69c6eccc5492e5868e8e63761de7d26ac7b46653",
+   "copy": "c123435eb90f48f4f0a0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

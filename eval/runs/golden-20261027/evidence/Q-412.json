@@ -1,0 +1,82 @@
+{
+ "id": "Q-412",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:41+05:30",
+   "sha256": "71c9b51e9606eaf5bbd60f83b5ec81b9e7d0a47a1e3ca227b2f46284fa69f547",
+   "copy": "408281d097e147af81a4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:41+05:30",
+   "sha256": "71c9b51e9606eaf5bbd60f83b5ec81b9e7d0a47a1e3ca227b2f46284fa69f547",
+   "copy": "408281d097e147af81a4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/contact-us/",
+   "final": "https://www.epfo.gov.in/contact-us/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:18+05:30",
+   "sha256": "ba97249d9b3e684b166a22d21a347869b8f839d0e8308aee682b0aa05b6aa2f7",
+   "copy": "f16f8f50d19ad57159c3.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://passbook.epfindia.gov.in/",
+   "final": "https://passbook.epfindia.gov.in/MemberPassBook/login",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:31+05:30",
+   "sha256": "c948ad6387269891e68cf8034ab41f3443beb06314677d7335e04b147b00ef01",
+   "copy": "3ed283d316e08667e701.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "final": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:31+05:30",
+   "sha256": "9f060c0fd183ae0498b2f97466558c0fa41713bcf45ca7f35a2eadf94943053e",
+   "copy": "198e340229f557e1f564.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-304",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "final": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:30:40+05:30",
+   "sha256": "ab048f598c35c8db912a38c0bda29b7830e53f5bbf89e3a8436455f1a396f82c",
+   "copy": "3e6444f4a23bb5f62ad9.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "final": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:30:40+05:30",
+   "sha256": "ab048f598c35c8db912a38c0bda29b7830e53f5bbf89e3a8436455f1a396f82c",
+   "copy": "3e6444f4a23bb5f62ad9.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "final": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:30:40+05:30",
+   "sha256": "ab048f598c35c8db912a38c0bda29b7830e53f5bbf89e3a8436455f1a396f82c",
+   "copy": "3e6444f4a23bb5f62ad9.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

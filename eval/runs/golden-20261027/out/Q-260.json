@@ -1,0 +1,21 @@
+{
+ "id": "Q-260",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A resident Indian prospective adoptive parent registers online on CARA's CARINGS portal (Child Adoption Resource Information and Guidance System), filling the Schedule-6 application form and uploading the documents",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/",
+   "quote": "Every resident Indian Prospective Adoptive Parent (PAP), who intends to adopt a child, shall register online in Child Adoption Resource Information and Guidance System by filling up the application form as provided in Schedule-6 and uploading the relevant documents."},
+  {"fact": "CARA gives no fixed waiting time: it depends on the parents' seniority and on the availability of children matching their preferences (age, gender, health, State/UT)",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "quote": "How long should we wait to get a child? Reply : Time period depends upon PAP’s seniority and availability of children as per their preference of children regarding age, gender, health State/UT of child etc."},
+  {"fact": "Parents can see their seniority by logging in to CARINGS with their login ID and password",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "quote": "Seniority can be access by PAPs with their log in ID and password."}
+ ],
+ "behaviour": "Explains registration on CARINGS (CARA) and gives a waiting time only as CARA publishes it (no fixed period: depends on seniority and availability of children), citing cara.wcd.gov.in.",
+ "fail_if": "States a fixed waiting time (e.g. 'about 2 years') as official, or cites unofficial sites.",
+ "summary": "CARA: register online on CARINGS (Schedule-6 form + documents); no fixed waiting time, it depends on seniority and child availability."
+}

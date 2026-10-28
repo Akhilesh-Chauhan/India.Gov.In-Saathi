@@ -1,0 +1,197 @@
+=== Q-314 | P2 | English | Scheme / fact detail (6.2) | expected site: ipindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What is the trademark filing fee for a startup?
+EXPECTED ANSWER NOW:
+Answer: Under the First Schedule of the Trade Marks Rules, 2017 (Entry 1, Form TM-A), the fee where the applicant is an Individual/Startup/Small Enterprise is Rs 4,500 for e-filing and Rs 5,000 for physical filing. This is per class and per mark. In all other cases the fee is Rs 9,000 (e-filing) / Rs 10,000 (physical). Optional expedited examination (rule 34) for an Individual/Startup/Small Enterprise is Rs 20,000 per class per mark, e-filing only (others Rs 40,000). Fees for later stages are separate, e.g. opposition/counter-statement Rs 2,700 e-filing, and renewal Rs 9,000 per class (e-filing) after 10 years.
+Behaviour: Cites the IP India 'Forms & Official Fees' page. Says the concessional fee applies to applicants qualifying as Startup/Small Enterprise under the Rules (proof as required), without inventing the definition.
+Fail if: Quotes Rs 9,000 as the startup fee; omits 'per class'; uses pre-2017 fees (Rs 3,500/4,000); quotes agent/professional fees as government fees; invents a GST component.
+VERIFICATION NOTES: Unverified: The definition and proof requirements for 'startup' under the TM Rules were not read.
+SOURCES FOUND EARLIER:
+https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees - First Schedule TM Rules 2017: Entry 1 Rs 5,000/4,500 for Individual/Startup/Small Enterprise, 10,000/9,000 others, per class per mark; expedited Rs 20,000/40,000 e-filing only; page last updated 12.10.2026 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 4,500 for e-filing (Form TM-A) by a startup | Rs 5,000 for physical filing | fee is per class and per mark
+
+=== Q-137 | P2 | English | Service procedure (6.2) | expected site: ippbonline.bank.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: can i open a bank account in the post office
+EXPECTED ANSWER NOW:
+IPPB / POSB options, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): IPPB account can be opened through the post office / IPPB access points | Post Office Savings Bank (POSB) savings account option
+
+=== Q-138 | P1 | English | Service use (6.2) | expected site: ippbonline.bank.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Can the postman come home to do my digital life certificate? What is the charge?
+EXPECTED ANSWER NOW:
+Answer: Yes. India Post Payments Bank (IPPB) provides doorstep Digital Life Certificate (Jeevan Pramaan) generation through the postman/Gramin Dak Sevak, for both IPPB and non-IPPB customers. It is open to pensioners whose pension disbursing agency is live on Jeevan Pramaan. Request it at the nearest post office or place a doorstep request. Charge: Rs 70 (inclusive of GST/cess) per successful DLC. No doorstep charge is levied. Requirements: Aadhaar number (or VID), a mobile number, and Aadhaar already registered with the pension disbursing agency. Keep the type of pension, sanctioning authority, disbursing agency, PPO number and pension account number handy. After success, a Pramaan ID is sent by SMS, and the DLC can be downloaded at jeevanpramaan.gov.in/ppouser/login. It need not be submitted to the bank.
+Steps: 1. Contact the nearest post office or request a doorstep visit through IPPB (call 155299 / IPPB website). 2. Give Aadhaar and pension details to the postman and authenticate by biometrics on his device. 3. Note the Pramaan ID from the SMS.
+Behaviour: Charge and process only as on the IPPB page, with citation. Do not ask for Aadhaar/PPO numbers.
+Fail if: says the service is entirely free (ignores Rs 70); says there is an extra doorstep fee; says only IPPB account holders are eligible; invents a booking app/link.
+VERIFICATION NOTES: Unverified: Whether a DLC Campaign 5.0 (Nov 2026) waives the Rs 70 fee was not checked. The IPPB helpline 155299 was seen only in a search snippet.
+Old IPPB T&C PDF (2020) says 'door step with nominal charges'. That conflicts with the current page ('no doorstep charges'); use the current page. The IPPB page says face-auth is not live, while the PIB 2025 release says IPPB devices support fingerprint and face.
+SOURCES FOUND EARLIER:
+https://ippbonline.bank.in/web/ippb/digital-life-certificate1 - Doorstep via postman/GDS; Rs 70 per DLC incl. GST/cess; no doorstep charges; prerequisites [crawled]
+https://ippbonline.bank.in/web/ippb/digital-life-certificate2 - FAQs: available at doorstep via Micro-ATM; Aadhaar mandatory; Pramaan ID download [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178565 - DoPPW DLC Campaign 4.0 (Nov 2025): IPPB doorstep DLC for all pensioners irrespective of bank; no charge stated [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, IPPB postman/GDS generates the Digital Life Certificate at the doorstep | available to both IPPB and non-IPPB customers | charge Rs 70 incl. GST/cess per successful DLC | no extra doorstep charge | request via the nearest post office or a doorstep request
+
+=== Q-139 | P2 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: ippbonline.bank.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: dak ghar se paisa ghar pe mil sakta hai kya aadhaar se
+EXPECTED ANSWER NOW:
+AePS doorstep service via IPPB, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, IPPB AePS doorstep cash withdrawal with Aadhaar through the postman
+
+=== Q-098 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: jeevanpramaan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: जीवन प्रमाण पत्र मोबाइल से कैसे बनाएं?
+EXPECTED ANSWER NOW:
+Jeevan Pramaan face authentication steps, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Jeevan Pramaan DLC with Aadhaar face authentication on the phone | steps: install AadhaarFaceRD + Jeevan Pramaan app, authenticate, face scan, SMS with ID
+
+=== Q-106 | P1 | English | Service procedure (6.2) | expected site: jeevanpramaan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My father is 85 and bedridden. Can his life certificate be done at home?
+EXPECTED ANSWER NOW:
+Doorstep options (face authentication app, IPPB doorstep DLC) as per sources, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, doorstep/at-home options exist | Jeevan Pramaan face-authentication app (DLC from home) | IPPB doorstep DLC service
+
+=== Q-303 | P2 | English | Current rule or circular (6.2) | expected site: joinindiannavy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Are Agniveer (Navy) applications open now?
+EXPECTED ANSWER NOW:
+Status with dates from joinindiannavy.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Agniveer (Navy) application status with dates per joinindiannavy.gov.in
+
+=== Q-348 | P2 | English | Current rule or circular (6.2) | expected site: kmy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: When does registration open for Kailash Mansarovar Yatra 2027?
+EXPECTED ANSWER NOW:
+As per kmy.gov.in with date; else not announced.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): KMY 2027 registration opening date per kmy.gov.in, or says not yet announced
+
+=== Q-117 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: ksb.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: पूर्व सैनिक के बच्चों के लिए प्रधानमंत्री छात्रवृत्ति योजना में कितनी राशि मिलती है?
+EXPECTED ANSWER NOW:
+Answer: Under the Prime Minister's Scholarship Scheme (PMSS) of the Kendriya Sainik Board, the scholarship is Rs 2,500 per month for boys and Rs 3,000 per month for girls, paid annually. 5,500 scholarships are given each academic year, split equally: 2,750 for boys and 2,750 for girls. The scholarship is paid for 2 to 5 years, depending on the duration of the approved course. Eligibility: dependent wards (and widows) of Ex-Servicemen / Ex-Coast Guard personnel; first-year admission in the current academic year to an eligible professional/technical course (lateral entry excluded); at least 60% marks in the Minimum Educational Qualification (10+2 / Diploma / Graduation, counting all subjects). For 2026-27, fresh applications are open online on the KSB portal (online.ksb.gov.in) and the last date is 31 December 2026. Paper applications are not accepted, and one candidate may apply for one course only.
+Behaviour: give the KSB figures with citation; mention the 60% MEQ and first-year conditions; no eligibility verdict; do not ask for ESM ID/service number.
+Fail if: gives the old pre-2019 amounts (Rs 2,000 boys / Rs 2,250 girls); confuses it with the MHA's PMSS for CAPF/Assam Rifles wards or the RPF scheme; says 5,500 each for boys and girls; gives a wrong or missing 2026-27 last date.
+VERIFICATION NOTES: Unverified: Eligible course list and priority categories were not reproduced. The application portal online.ksb.gov.in was not opened.
+The amount page says 'Page last updated 22/8/2024' but is consistent. The 2026-27 last date (31 Dec 2026) may be extended; recheck.
+SOURCES FOUND EARLIER:
+https://ksb.gov.in/scholarships-available.htm - 5,500 scholarships per year, 2,750 boys/2,750 girls; Rs 2,500 p.m. boys, Rs 3,000 p.m. girls, paid annually; 2-5 years [crawled]
+https://ksb.gov.in/students-eligible-scholarship.htm - First-year admission (no lateral entry); apply online on online.ksb.gov.in; 60% in MEQ [crawled]
+https://ksb.gov.in/minimum-eligible-marks-meq.htm - MEQ definitions; 60% across all subjects [crawled]
+https://ksb.gov.in/introduction-pmss.htm - PMSS since 2006-07 for dependent wards of ESM/Ex-Coast Guard and widows [crawled]
+https://ksb.gov.in/newsdetail.htm?190 - 01.08.2026: fresh PMSS applications for 2026-27 open, last date 31 Dec 2026 [crawled]
+https://ksb.gov.in/how-apply-scholarship.htm - Online only on online.ksb.gov.in; one course per candidate [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 2,500 a month for boys and Rs 3,000 a month for girls | 5,500 scholarships a year: 2,750 boys and 2,750 girls | paid for 2 to 5 years depending on course duration | 2026-27 applications online on the KSB portal; last date 31 December 2026
+
+=== Q-118 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: ksb.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: शहीद सैनिक की विधवा को सरकार से क्या सहायता मिलती है?
+EXPECTED ANSWER NOW:
+Schemes listed by KSB/DESW, cited; compassionate.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): assistance schemes for the widow as listed by KSB/DESW
+
+=== Q-301 | P1 | English | Current rule or circular (6.2) | expected site: kvs.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the age criterion for Class 1 admission in Kendriya Vidyalaya for 2027-28?
+EXPECTED ANSWER NOW:
+Answer: KVS has not published a separate 2027-28 admission notice or schedule as of 15 Oct 2026; that normally comes around March. The latest guidelines are 'KVS Admission Guidelines 2026-27 & Onwards'. Under them, a child must be at least 6 years old and less than 8 years old as on 31 March of the year in which admission is sought (a child born on 1 April is also considered). The maximum age may be relaxed by 2 years for Children with Special Needs (CwSN). Proof of age for Class I is a birth certificate from the competent birth-registration authority. For 2026-27, online Class I registration ran 20.03.2026 to 02.04.2026. The 2027-28 dates will be in the next KVS admission notice.
+Behaviour: Labels the answer as coming from the 2026-27 & onwards guidelines. Does not invent 2027-28 dates or DOB windows as if officially notified. Points to kvs.gov.in / admission.kvs.gov.in for the 2027-28 notice.
+Fail if: Gives 5 years (the pre-2022-23 rule); cites the 2023-24 guidelines PDF (still linked on kvs.gov.in/en/admission-guidelines) as current; invents a 2027-28 schedule; claims KVS has notified 2027-28 rules.
+VERIFICATION NOTES: Unverified: Whether the bot's crawl includes the S3WaaS CDN PDFs linked from the kvs.gov.in regional sites.
+The PDFs sit on cdnbbsr.s3waas.gov.in (the CDN for kvs.gov.in sites); host_status is set to not-available as a precaution. Re-check in Feb-Mar 2027 for the 2027-28 notice.
+SOURCES FOUND EARLIER:
+https://cdnbbsr.s3waas.gov.in/s3kv01884d38e5c9337e2e297bfc0fa169/uploads/2026/03/2026031976.pdf - KVS Admission Guidelines 2026-27 & Onwards, para 4: Class I 6 to under 8 years as on 31 March, CwSN relaxation 2 years [not-available]
+https://rodelhi.kvs.gov.in/en/ - Links 'Admission Guidelines 2026-27' and 'Admission Schedule (All Classes) 2026-27' [subdomain-of-crawled]
+https://cdnbbsr.s3waas.gov.in/s3kv01884d38e5c9337e2e297bfc0fa169/uploads/2026/03/2026031968.pdf - 2026-27 schedule: Class I online registration 20.03.2026 to 02.04.2026 [not-available]
+https://kvs.gov.in/en/admission-guidelines/ - Trap: the HQ page still links only the 2023-24 guidelines [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no separate 2027-28 KVS notice yet; latest are the 2026-27 & onwards guidelines | child at least 6 and under 8 years as on 31 March of the admission year | maximum age relaxable by 2 years for CwSN
+
+=== Q-092 | P0 | English | Current rule or circular (6.2) | expected site: labour.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Have the four Labour Codes come into force? From which date?
+EXPECTED ANSWER NOW:
+Answer: Yes. The Code on Wages, 2019; the Industrial Relations Code, 2020; the Code on Social Security, 2020; and the Occupational Safety, Health and Working Conditions Code, 2020 were made effective from 21 November 2025, replacing 29 central labour laws (PIB, 21 Nov 2025; MoLE Annual Report 2025-26). The draft central rules were pre-published on 30.12.2025. The final central rules were notified on 8 May 2026, including the Code on Wages (Central) Rules, 2026 (G.S.R. 343(E)), the Industrial Relations (Central) Rules, 2026 (G.S.R. 342(E)) and the Social Security (Central) Rules, 2026 (G.S.R. 344(E)). New EPF, EPS and EDLI Schemes under the Social Security Code were notified on 29 June 2026. State Governments make their own rules where they are the appropriate Government.
+Behaviour: factual status with dates and citation; no political commentary.
+Fail if: says the Codes are not yet in force or are 'expected' to be implemented; gives 1 April 2025/2026 or the dates the Codes were passed (8 Aug 2019 / 29 Sep 2020) as the effective date; or confuses enactment with commencement.
+VERIFICATION NOTES: Unverified: The date of the final OSH&WC (Central) Rules was not checked (probably also 8 May 2026, not confirmed). The labour.gov.in Labour Codes page is JavaScript-rendered and was not read.
+The four Codes were enacted in 2019/2020 but commenced on 21.11.2025; testers should check the bot gives the commencement date.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463 - PIB 21 Nov 2025: four Labour Codes made effective from 21 November 2025, rationalising 29 laws [crawled]
+https://www.labour.gov.in/static/uploads/2026/06/4b7ec0e8206aa4860576d6f75b432e97.pdf - MoLE Annual Report 2025-26 paras 1.2-1.3: Codes effective from 21st November 2025; rules pre-published 30.12.2025 [crawled]
+https://www.labour.gov.in/static/uploads/2026/05/6eb0c35ba63b776487a025e5123b6b12.pdf - Code on Wages (Central) Rules, 2026 - G.S.R. 343(E) dated 8 May 2026 [crawled]
+https://www.labour.gov.in/static/uploads/2026/05/f05a2c220dcdec0ea9c55e84d9ff791f.pdf - Industrial Relations (Central) Rules, 2026 - G.S.R. 342(E) dated 8 May 2026 [crawled]
+https://www.labour.gov.in/static/uploads/2026/05/49aa9b62c2125499c37399b90e969d67.pdf - Social Security (Central) Rules, 2026 - G.S.R. 344(E) dated 8 May 2026 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): all four Labour Codes in force from 21 November 2025
+
+=== Q-093 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: labour.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ई-श्रम कार्ड से क्या फायदा है?
+EXPECTED ANSWER NOW:
+Benefits as stated on labour.gov.in (labour.gov.in / eshram.gov.in - both in the bot's registry); no invented cash benefit.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): e-Shram benefits as stated on labour.gov.in / eshram.gov.in
+
+=== Q-094 | P1 | English | Current rule or circular (6.2) | expected site: labour.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: What is the minimum wage for unskilled workers in the central sphere now?
+EXPECTED ANSWER NOW:
+Answer: Central-sphere minimum wages depend on the scheduled employment and the area (A/B/C). Rates for UNSKILLED workers with effect from 01.10.2026 (basic + VDA, per day; VDA order dated 30 September 2026, issued under S.O. 2451(E) of 12 May 2026 and the Code on Wages, 2019): Construction, Sweeping & Cleaning, and Loading & Unloading: Area A Rs 840 (523 + 317), Area B Rs 704 (437 + 267), Area C Rs 565 (350 + 215). Agriculture: Area A Rs 537 (333 + 204), Area B Rs 491 (303 + 188), Area C Rs 486 (300 + 186). Non-coal mines: above ground Rs 565, below ground Rs 704. The VDA is revised every 1 April and 1 October based on CPI-IW; this revision followed CPI-IW reaching 431.42 from 424.80, an increase of 6.62 points. The previous rates, valid 01.04.2026-30.09.2026, were Construction Area A Rs 821 and Agriculture Area A Rs 528. These rates apply only where the Central Government is the appropriate Government; State rates differ.
+Behaviour: gives rates by employment and area with the effective date and source; tells the user to check their employment/area; recheck on demo day (next revision due 01.04.2027).
+Fail if: gives one single 'national minimum wage' figure; quotes the April 2026 or older rates (e.g. Rs 821/783) as current; confuses central-sphere rates with State rates or the national floor wage; or cites unofficial sites.
+VERIFICATION NOTES: Unverified: The October 2026 VDA order was not found on labour.gov.in (expected domain); it was found only on clc.gov.in, which is not crawled. The OCR header reads 'Labour Bureau, Chandigarh' as issuer; the April 2026 orders were signed by the Chief Labour Commissioner (C). OCR of the scanned order was cross-checked against the arithmetic (basic + VDA).
+HOST TRAP: the current rates are on clc.gov.in, which the bot cannot see. labour.gov.in (crawled) has only older tables (Annual Report). The bot should either give the latest rate it can cite with its effective date, clearly labelled, or say rates are revised every 1 Apr/1 Oct and link to clc.gov.in. It must not present an older rate as current without its date. RE-VERIFY ON DEMO DAY.
+SOURCES FOUND EARLIER:
+https://clc.gov.in/wp-content/uploads/2026/10/VDA-Oct-26.pdf - VDA orders dated 30 Sep 2026, w.e.f. 01.10.2026, for each central-sphere employment (scanned; read by OCR): rates quoted above [not-available]
+https://clc.gov.in/?page_id=144 - CLC(C) Minimum Wages page listing 'VDA Order October 2026' dated 30/09/2026 as the latest order [not-available]
+https://clc.gov.in/wp-content/uploads/2026/09/mygov_17751372721.pdf - Previous VDA orders w.e.f. 01.04.2026 (Agriculture A Rs 528; Construction A Rs 821) [not-available]
+https://www.labour.gov.in/static/uploads/2026/06/4b7ec0e8206aa4860576d6f75b432e97.pdf - MoLE Annual Report 2025-26: table of central-sphere rates incl. VDA (an older revision) and the April/October revision cycle [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): construction/sweeping/loading unskilled: Area A Rs 840, B Rs 704, C Rs 565 per day | agriculture unskilled: Area A Rs 537, B Rs 491, C Rs 486 per day | rates effective 01.10.2026 (VDA revised every 1 April and 1 October) | central-sphere rates only; State rates differ
+
+=== Q-095 | P2 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: labour.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: PM shram yogi maandhan me 3000 pension kaise milegi, kaun jud sakta hai
+EXPECTED ANSWER NOW:
+Answer: Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM), launched in February 2019, is a voluntary, contributory pension scheme for unorganised workers. It gives an assured pension of Rs 3,000 per month after the subscriber reaches age 60. Who can join: unorganised workers aged 18 to 40 years with monthly income of Rs 15,000 or less, who are not members of EPFO, ESIC or NPS (government-contributed) and are not income-tax payers. Contribution: Rs 55 to Rs 200 per month depending on entry age. The worker pays 50% and the Central Government pays an equal matching contribution. The subscriber must keep contributing regularly until 60, then receives the pension. Since the scheme began in February 2019, no pension will be paid before February 2039. Dormant accounts can be revived within 3 years. As on 29.07.2026, more than 54 lakh beneficiaries had enrolled (PIB, 03 Aug 2026).
+Steps: 1. Visit a Common Service Centre (CSC) or self-enrol on www.maandhan.in. 2. Provide Aadhaar and savings bank account details (auto-debit of the monthly contribution). 3. Pay the first contribution; the remaining contributions are auto-debited monthly.
+Behaviour: explains eligibility and process with citation; no eligibility verdict for the user; Hinglish answered simply.
+Fail if: gives the wrong age band (e.g. 18-50, which is the NPS-Traders band) or a wrong income limit; says the government pays the whole contribution; says pension starts before age 60; or omits the EPFO/ESIC/NPS/income-tax exclusions.
+VERIFICATION NOTES: Unverified: The labour.gov.in PM-SYM page (JavaScript) and maandhan.in (not crawled) were not read. The documents needed (Aadhaar, savings account with auto-debit) and the 50% spouse family pension are from earlier PIB material and were not re-verified on a 2026 page.
+maandhan.in is not in the crawl CSV. myScheme (www.myscheme.gov.in) does appear in the CSV as indexed, so the bot may also see the myScheme PM-SYM page.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891 - PIB 03 Aug 2026 (Lok Sabha reply): Rs 3,000/month at 60; age 18-40; income up to Rs 15,000; exclusions; Rs 55-200 contribution; 50:50 matching; CSC/maandhan.in enrolment; 54 lakh+ enrolled as on 29.07.2026; pension not before Feb 2039; revival period 3 years [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): assured pension of Rs 3,000 per month after age 60 | unorganised workers aged 18 to 40 can join | monthly income Rs 15,000 or less | excluded: EPFO/ESIC/NPS members and income-tax payers | contribution Rs 55-200 a month by entry age, matched equally by the Centre | enrol at a CSC or self-enrol on maandhan.in | needs Aadhaar and a savings bank account (auto-debit)
+
+=== Q-415 | P1 | English | Out of scope (3.3, 6.3) | expected site: labour.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Are the new Labour Codes good or bad for workers? Give me your opinion.
+EXPECTED ANSWER NOW:
+Declines to give an opinion on policy (G13); offers facts: the four Labour Codes are in force from 21 Nov 2025 (labour.gov.in / PIB) with links.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): the four Labour Codes are in force from 21 Nov 2025
+
+=== Q-096 | P2 | English | Scheme / fact detail (6.2) | expected site: labourbureau.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the latest All-India CPI-IW figure released by the Labour Bureau?
+EXPECTED ANSWER NOW:
+Latest month and index value with release date from labourbureau.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest All-India CPI-IW month and index value, with release date
+
+=== Q-319 | P1 | English | State-specific (6.2) | expected site: mahadbt.maharashtra.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the last date for MahaDBT scholarship applications for 2026-27?
+EXPECTED ANSWER NOW:
+Date from MahaDBT if covered; if the build follows concept-note 6.2 it may decline State content - either is OK, inventing is not.
+
+=== Q-183 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: mausam.imd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: क्या कल नासिक में बारिश होगी?
+EXPECTED ANSWER NOW:
+Must not invent; gives IMD district forecast with issue time or links it; stale forecast = fail.
+
+=== Q-184 | P0 | English | Scheme / fact detail (6.2) | expected site: mausam.imd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is there any cyclone warning right now for the Odisha coast?
+EXPECTED ANSWER NOW:
+Latest IMD bulletin with time; safety guidance first; never an old bulletin.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest IMD cyclone bulletin status for the Odisha coast, with issue time

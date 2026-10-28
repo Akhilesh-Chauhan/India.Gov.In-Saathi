@@ -1,0 +1,21 @@
+{
+ "id": "Q-331",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM-KISAN gives income support of Rs 6,000 a year to all landholding farmer families, whatever the size of the holding",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families."},
+  {"fact": "Excluded: all persons who paid income tax in the last assessment year",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "All Persons who paid Income Tax in last assessment year"},
+  {"fact": "State Governments and UT administrations identify which farmer families are eligible under the scheme guidelines",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "State Government and UT administration will identify the farmer families which are eligible for support as per scheme guidelines."}
+ ],
+ "behaviour": "Templated: lists the PM-KISAN criteria, including the exclusion of persons who paid income tax in the last assessment year, with citation to pmkisan.gov.in; says the State/UT government (Department) decides eligibility; gives the myScheme link (myscheme.gov.in/schemes/pm-kisan). No yes/no verdict.",
+ "fail_if": "It gives a yes/no eligibility verdict, or omits the income-tax exclusion.",
+ "summary": "Added criteria from pmkisan.gov.in: all landholding families, income-tax payers excluded, States/UTs identify eligible families."
+}

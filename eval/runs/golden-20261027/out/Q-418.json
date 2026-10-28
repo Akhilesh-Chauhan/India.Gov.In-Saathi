@@ -1,0 +1,33 @@
+{
+ "id": "Q-418",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The widow pension (IGNWPS) is Rs 300 a month at ages 40-79, per the NSAP About Us page",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=aboutus",
+   "quote": "National Widow Pension Scheme (IGNWPS) – Widows aged 40 years and above. ₹300 per month (40–79 years) ₹500 per month (80 years and above)",
+   "note": "The Cabinet (PIB 14 Oct 2026, PRID 2323264) renamed IGNWPS as Pradhan Mantri Vidhawa Pension Yojana and continued the widow pension 'in its existing form', so the amounts are unchanged."
+  },
+  {
+   "fact": "It is Rs 500 a month from age 80, per the NSAP guidelines (Oct 2014)",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "quote": "Indira Gandhi National Widow Pension Scheme (IGNWPS): The eligible age is 40 years and the pension is Rs.300 per month. After attaining the age of 80 years, the beneficiary will get Rs.500/- per month."
+  },
+  {
+   "fact": "The NSAP FAQ's Rs 200 a month for IGNWPS is outdated",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=faq",
+   "quote": "The central contribution of pension under the Indira Gandhi National Widow Pension Scheme (IGNWPS) is Rs. 200/- per month per beneficiary",
+   "note": "The quote shows the FAQ (Q18) still says Rs 200; 'outdated' is derived: the NSAP guidelines of Oct 2014 and the About Us page (last updated 28-10-2026) on the same site give Rs 300 (40-79) and Rs 500 (80+)."
+  },
+  {
+   "fact": "States add their own top-up to the central amount",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "quote": "2.4.1 States are strongly urged to provide an additional amount at least an equivalent amount to the assistance provided by the Central Government so that the beneficiaries can get a decent level of assistance."
+  }
+ ],
+ "summary": "Rs 300 (40-79) / Rs 500 (80+) confirmed on NSAP About Us and the 2014 guidelines; the NSAP FAQ Q18 still shows the outdated Rs 200; State top-up confirmed."
+}

@@ -1,0 +1,24 @@
+{
+ "id": "Q-213",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Neither the RTI Act nor the RTI Rules, 2012 fixes a maximum number of questions per application; the only length norm is Rule 3's 500 words",
+   "status": "confirmed", "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "quote": "An application under sub-section (1) of Section 6 of the Act shall be accompanied by a fee of rupees ten and shall ordinarily not contain more than five hundred words",
+   "note": "Derived: a negative claim; read the RTI Rules, 2012 in full (pmindia.gov.in) and the RTI Act (cic.gov.in) - no limit on the number of questions appears, Rule 3 sets only the 500-word norm."},
+  {"fact": "Rule 3 of the RTI Rules, 2012: an application should ordinarily not exceed 500 words, excluding annexures and the addresses of the CPIO and the applicant",
+   "status": "confirmed", "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "quote": "shall ordinarily not contain more than five hundred words, excluding annexures, containing address of the Central Public Information Officer and that of the applicant"},
+  {"fact": "No application may be rejected only because it exceeds 500 words",
+   "status": "confirmed", "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "quote": "Provided that no application shall be rejected only on the ground that it contains more than five hundred words."},
+  {"fact": "On RTI Online the application text box takes up to 3000 characters; longer text can be uploaded as a PDF in 'Supporting Document'",
+   "status": "confirmed", "url": "https://rtionline.gov.in/faq.php",
+   "quote": "At present, the text of the application is confined up to 3000 characters only. In case, the text of an application contains more than 3000 characters, it can be uploaded as a PDF attachment in the \"Supporting Document\" column of the form."},
+  {"fact": "If the information lies with more than one CPIO, the application is forwarded (by the Nodal Officer) to several CPIOs and the applicant gets multiple registration numbers",
+   "status": "confirmed", "url": "https://rtionline.gov.in/faq.php",
+   "quote": "have received multiple RTI registration numbers, even though I have filed single RTI application ? This is the case where in your RTI application has been forwarded to multiple CPIOs since the information sought lies with more than one PIO.",
+   "note": "The same FAQ says applications reach the Nodal Officer of the Ministry/Department, who transmits them to the concerned CPIO."}
+ ],
+ "summary": "RTI Rules 2012 Rule 3 (500-word norm, no rejection on that ground) now readable on pmindia.gov.in; RTI Online 3000-character and multi-CPIO FAQ confirmed; expected answer unchanged."
+}

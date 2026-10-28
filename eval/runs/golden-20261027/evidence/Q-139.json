@@ -1,0 +1,67 @@
+{
+ "id": "Q-139",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "final": "https://ippbonline.bank.in/web/ippb/aeps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:23+05:30",
+   "sha256": "eaecbfa2c7d0282a8627c358bd3d6e8e0feecf302bf6dc91ad0066fe9205e2cc",
+   "copy": "d500e31207f44cc2aec1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "final": "https://ippbonline.bank.in/web/ippb/aeps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:23+05:30",
+   "sha256": "eaecbfa2c7d0282a8627c358bd3d6e8e0feecf302bf6dc91ad0066fe9205e2cc",
+   "copy": "d500e31207f44cc2aec1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "final": "https://ippbonline.bank.in/web/ippb/aeps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:23+05:30",
+   "sha256": "eaecbfa2c7d0282a8627c358bd3d6e8e0feecf302bf6dc91ad0066fe9205e2cc",
+   "copy": "d500e31207f44cc2aec1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/aeps",
+   "final": "https://ippbonline.bank.in/web/ippb/aeps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:23+05:30",
+   "sha256": "eaecbfa2c7d0282a8627c358bd3d6e8e0feecf302bf6dc91ad0066fe9205e2cc",
+   "copy": "d500e31207f44cc2aec1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

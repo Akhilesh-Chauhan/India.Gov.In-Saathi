@@ -1,0 +1,52 @@
+{
+ "id": "Q-151",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "final": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:52+05:30",
+   "sha256": "9cb0c96c682ddec5e38f9a0e706755e6cb6d36f07aebdea4a4c3498e07b19bd9",
+   "copy": "4912967e52b53ccdca4e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "final": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:52+05:30",
+   "sha256": "9cb0c96c682ddec5e38f9a0e706755e6cb6d36f07aebdea4a4c3498e07b19bd9",
+   "copy": "4912967e52b53ccdca4e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "final": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3579",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:52+05:30",
+   "sha256": "9cb0c96c682ddec5e38f9a0e706755e6cb6d36f07aebdea4a4c3498e07b19bd9",
+   "copy": "4912967e52b53ccdca4e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "Q-432",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The current Senior Citizens Savings Scheme rate is 8.2% per annum (India Post savings page, last updated 19.10.2026, i.e. within Q3 FY 2026-27)",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Senior Citizens Savings Scheme Account (SCSS) Rate of Interest: 8.2% per annum"
+  },
+  {
+   "fact": "Rates for 1 Oct - 31 Dec 2026 (Q3 FY 2026-27) were set by DEA's Office Memorandum dated 30.09.2026",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"
+  },
+  {
+   "fact": "The NSI rate table shows SCSS at 8.2% from 1.04.2023 to 30.09.2026, so 8.2% in Q2 (Jul-Sep 2026)",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=181",
+   "quote": "1.01.2023 to 31.03.2023 8.00 1.04.2023 to 30.09.2026 8.20"
+  },
+  {
+   "fact": "DEA's OM of 30.09.2026 keeps the Q3 FY 2026-27 (Oct-Dec 2026) small-savings rates unchanged from Q2, so SCSS stays at 8.2% (neither raised nor cut)",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter",
+   "note": "DEA OM F.No.1/4/2019-NS dated 30.09.2026, read by OCR of the scanned PDF. 8.2% is derived: the OM gives no rates; the Q2 rate of 8.2% is from NSI (fact 3)."
+  }
+ ],
+ "summary": "SCSS 8.2% for Q3 FY 2026-27, unchanged from Q2 per DEA OM 30.09.2026 (OCR of R.pdf), confirmed."
+}

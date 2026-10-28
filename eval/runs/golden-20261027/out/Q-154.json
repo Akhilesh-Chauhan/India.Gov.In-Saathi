@@ -1,0 +1,60 @@
+{
+ "id": "Q-154",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "As of 28 Oct 2026 the most recently released PM-KISAN instalment is the 23rd",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal.",
+   "note": "pmkisan.gov.in home-page text on 28 Oct 2026 still announces the 23rd."
+  },
+  {
+   "fact": "It was released on 20 June 2026 from Tarakeswar, Hooghly, West Bengal",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  },
+  {
+   "fact": "More than 9.49 crore farmers benefited from the 23rd instalment (PIB, 31 Jul 2026)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "quote": "Under the 23rd instalment, more than 9.49 crore farmers benefited, with over Rs.18,984 crore released."
+  },
+  {
+   "fact": "Over Rs 18,984 crore was released under the 23rd instalment (PIB, 31 Jul 2026)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "quote": "Under the 23rd instalment, more than 9.49 crore farmers benefited, with over Rs.18,984 crore released."
+  },
+  {
+   "fact": "pmkisan.gov.in's Press Release page wrongly calls the 20 June 2026 release the '20th' instalment",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/PressRelease.aspx",
+   "quote": "Prime Minister Shri Narendra Modi will release the 20th instalment of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme on 20th June 2026 from Tarakeswar, Hooghly, West Bengal."
+  },
+  {
+   "fact": "The figures 9.44 crore farmers / Rs 18,880 crore are PIB's own release-day figures for the 23rd instalment (PIB Backgrounder, 20 Jun 2026), not blog figures; the later Cabinet release of 31 Jul 2026 updated them to 9.49 crore / Rs 18,984 crore",
+   "status": "changed",
+   "was": "9.44 crore / Rs 18,880 crore are blog figures, and citing them to an official page is a fail",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&reg=48&lang=2",
+   "quote": "Nearly 9.44 crore eligible farmers , including more than 2.18 crore women, received around ₹18,880 crore in direct financial assistance.",
+   "note": "The pre-release note of 18 Jun 2026 (PRID=2274616) gives the same 9.44 crore / Rs 18,880 crore."
+  },
+  {
+   "fact": "The 24th instalment is scheduled for 30 October 2026: a Prime Minister's event in Gujarat to transfer it to more than 9.34 crore PM-KISAN beneficiaries",
+   "status": "added",
+   "url": "https://pmevents.mygov.in/en/home/",
+   "quote": "Upcoming Events Transfer of 24th installment to more than 9.34 Crore PM-KISAN beneficiaries 30th October 2026 Gujarat"
+  },
+  {
+   "fact": "pmkisan.gov.in's home-page banner says the Prime Minister will release the 24th instalment on 30 October 2026, transferring over Rs 18,680 crore to more than 9.34 crore farmers",
+   "status": "manual",
+   "url": "https://pmkisan.gov.in/new_images/PMKisantwentyfortyinstallment.jpg",
+   "note": "Text only inside the home-page banner image (Hindi): '24 वीं किस्त ... 9.34 करोड़ से अधिक लाभार्थी किसानों ... ₹18,680 करोड़ से अधिक ... 30 अक्टूबर 2026'; the checker cannot OCR images. No PIB text release found on 28 Oct 2026. Retried 28 Oct 2026 (second reader): the banner JPG has no text layer (OCR is for scanned PDFs, and the text is Hindi), and a PIB search found no 24th-instalment release yet. The 'CONFIRMED ELSEWHERE' pmevents quote (Q-153/155/422) is already fact 7 here and does not give the Rs 18,680 crore."
+  }
+ ],
+ "behaviour": "Names the most recently released instalment with the number of farmers and the amount, cited to PIB or pmkisan.gov.in. Up to 30 Oct 2026 that is the 23rd instalment, released on 20 June 2026 by the Prime Minister from Tarakeswar, Hooghly (West Bengal): the latest official figures are more than 9.49 crore farmers and over Rs 18,984 crore (PIB Cabinet release, 31 Jul 2026); PIB's release-day figures (nearly 9.44 crore farmers, around Rs 18,880 crore; PIB Backgrounder, 20 Jun 2026) are also acceptable when that PIB release is cited; giving the 31 Jul figures is best. The 24th instalment is scheduled for 30 Oct 2026 (Gujarat; more than 9.34 crore farmers, over Rs 18,680 crore announced); if asked after it has been released and the bot cites an official page showing the release and its figures, naming the 24th is correct.",
+ "fail_if": "It calls the 20 June 2026 release the '20th' instalment (an error on pmkisan.gov.in's Press Release page); it says the 24th has been released without an official source; it gives farmer or money figures that no PIB/pmkisan.gov.in page states, or cites a blog for them.",
+ "summary": "23rd instalment (20 Jun 2026) and 9.49 crore / Rs 18,984 crore confirmed; 9.44 crore / Rs 18,880 crore are PIB release-day figures, not blog figures; the 24th is scheduled for 30 Oct 2026 (PM Events; banner image), so the answer accepts it once released."
+}

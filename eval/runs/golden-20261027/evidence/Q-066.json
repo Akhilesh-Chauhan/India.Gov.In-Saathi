@@ -1,0 +1,22 @@
+{
+ "id": "Q-066",
+ "checked_at": "2026-10-28T14:02:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "changed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "final": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:45:41+05:30",
+   "sha256": "deef9959b767199efbbec84373f2f3ab1254bdeb917963816b08bbe705e9d6c2",
+   "copy": "de396fbd549db82c5485.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

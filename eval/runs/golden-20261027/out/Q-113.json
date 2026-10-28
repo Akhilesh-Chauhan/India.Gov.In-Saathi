@@ -1,0 +1,33 @@
+{
+ "id": "Q-113",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "NPS is a market-linked, defined-contribution retirement savings scheme regulated and administered by PFRDA",
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "quote": "The Pension Fund Regulatory and Development Authority (PFRDA) regulates and administers NPS under the PFRDA Act, 2013. NPS is a market-linked defined contribution scheme that helps you save for your retirement."
+  },
+  {
+   "fact": "The NPS voluntary model is open to all Indian citizens (including those living abroad) aged 18 to 85",
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "quote": "NPS voluntary model is available to all the citizens of India including those residing abroad, between the age of 18 and 85 years."
+  },
+  {
+   "fact": "An individual opens NPS through a Point of Presence (POP/POP-SP) or online through e-NPS",
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "quote": "You should be between 18 - 85 years of age as on the date of submission of your application to the POP/ POP-SP / online through e-NPS"
+  },
+  {
+   "fact": "Private employers can adopt NPS for their employees (corporate model), with contributions as per the terms of employment",
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "quote": "NPS can be voluntarily adopted by the corporates for their employees and contributions are made to the NPS account as per the terms of employment."
+  }
+ ],
+ "behaviour": "Replies in Hinglish/Hindi; explains NPS and the ways a private-sector employee can open it (employer's corporate model, e-NPS online, or a PoP) from NPS Trust (npstrust.org.in), cited; no eligibility verdict; does not ask for PAN/Aadhaar.",
+ "fail_if": "It says NPS is only for government employees, gives a guaranteed return, or cites unofficial sites.",
+ "summary": "Added from the NPS Trust About NPS page: PFRDA-regulated market-linked scheme, voluntary model for citizens 18-85, opening via PoP or e-NPS, and the corporate model."
+}

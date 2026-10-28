@@ -1,0 +1,37 @@
+{
+ "id": "Q-162",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:18+05:30",
+   "sha256": "b339771f6569b79c4d823b3cf5e8094ddeb118bf5216214ba0c8dea8a9fa18ed",
+   "copy": "09b87c202da13041e97b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:18+05:30",
+   "sha256": "b339771f6569b79c4d823b3cf5e8094ddeb118bf5216214ba0c8dea8a9fa18ed",
+   "copy": "09b87c202da13041e97b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

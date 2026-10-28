@@ -1,0 +1,44 @@
+{
+ "id": "Q-329",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS, NSAP): for persons aged 60 and above from families below the poverty line",
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "quote": "The Indira Gandhi National Old Age Pension Scheme extends financial assistance to elderly citizens aged 60 years and above who belong to families living below the poverty line by the Government of India.",
+   "example": true
+  },
+  {
+   "fact": "IGNOAPS central pension is Rs 200 a month for ages 60-79 and Rs 500 a month from age 80 (States may add top-ups)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2152593",
+   "quote": "The central pension under the Old Age Pension Scheme of National Social Assistance Programme (NSAP) is ₹ 200/- per month per beneficiary from 60 to 79 years of age and ₹ 500/- per month per beneficiary from 80 years onwards.",
+   "example": true
+  },
+  {
+   "fact": "Ayushman Vay Vandana (AB PM-JAY): all senior citizens aged 70 and above are covered, irrespective of income",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "quote": "On 29th October 2024, the Government of India expanded the scope of the Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) to include all senior citizens aged 70 years and above, irrespective of their socio-economic status.",
+   "example": true
+  },
+  {
+   "fact": "Vay Vandana card holders get free treatment up to Rs 5 lakh a year",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "quote": "Under this initiative, beneficiaries will receive free treatment benefits of up to ₹5 lakh per year through Ayushman Vay Vandana cards.",
+   "example": true
+  },
+  {
+   "fact": "Senior Citizens Savings Scheme (SCSS, Post Office) currently pays 8.2% per annum",
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "Senior Citizens Savings Scheme Account (SCSS) Rate of Interest: 8.2% per annum",
+   "example": true
+  }
+ ],
+ "behaviour": "Lists senior-citizen schemes with their published criteria and citations (e.g. NSAP/PIB, PM-JAY, India Post) and a myScheme link; makes no eligibility judgement. The old-age pension may be named IGNOAPS or its new name, Pradhan Mantri Vridhavastha Pension Yojana (renamed by the Cabinet, PIB 14 Oct 2026), as accepted in Q-460.",
+ "fail_if": "Declares the user eligible or ineligible; gives invented amounts or rates; cites unofficial sites.",
+ "summary": "Added key senior-citizen schemes: IGNOAPS (60+ BPL, Rs 200/500), Ayushman Vay Vandana (70+, Rs 5 lakh cover), SCSS 8.2%."
+}

@@ -1,0 +1,39 @@
+{
+ "id": "Q-020",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Apply yourself online on MEA's official Passport Seva website, www.passportindia.gov.in",
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "quote": "The official website of the Ministry of External Affairs, Government of India, for applying Passport services is www.passportindia.gov.in"
+  },
+  {
+   "fact": "Register on the portal with a user name and password, log in, and fill and submit the online application form",
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "quote": "Step 2: Register ‘user name’ and assign a ‘password’; Step 3: Log in using your ‘user name’ and ‘password’; Step 4: Fill online application form as the case may be and submit online"
+  },
+  {
+   "fact": "Then take an appointment to visit the nearest Passport Seva Kendra",
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "quote": "Step 5: Now take an appointment to visit the nearest Passport Seva Kendra"
+  },
+  {
+   "fact": "Visit the Passport Seva Kendra with the original documents and their photocopies",
+   "status": "added",
+   "url": "https://passportindia.gov.in/AppOnlineProject/pdf/Advisory.pdf",
+   "quote": "Step 7: Visit the Passport Seva Kendra with requisite original documents and their photocopies."
+  },
+  {
+   "fact": "MEA warns that fraudulent look-alike websites and apps collect applicants' data and charge extra fees for filling the form and booking appointments; do not use them or pay them",
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp",
+   "quote": "It has come to the notice of the Ministry that many fraudulent websites and mobile applications are collecting data from applicants and also levying additional hefty charges for filling up the online application form and scheduling appointment for Passport and related services."
+  }
+ ],
+ "behaviour": "Gives the official first-time passport process as published by MEA / Passport Seva, with a link to passportindia.gov.in; says no agent is needed and warns against agents, touts and look-alike sites.",
+ "fail_if": "Recommends an agent, tout or a third-party / look-alike passport website; says an agent is required; cites unofficial sites.",
+ "summary": "Added the Passport Seva process (official site, register and fill form online, appointment and PSK visit with originals) and MEA's fake-website warning."
+}

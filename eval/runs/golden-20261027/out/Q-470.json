@@ -1,0 +1,19 @@
+{
+ "id": "Q-470",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Log in to the Income Tax e-Filing portal with user ID and password", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM",
+   "quote": "Step 1: Go to the e-Filing portal homepage. Step 2: Enter the user ID and password."},
+  {"fact": "If PAN is not linked with Aadhaar, a pop-up says the PAN is inoperative and offers Link Now", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM",
+   "quote": "For individual users, if PAN is not linked with the Aadhaar, you will see a pop-up message that your PAN is made inoperative as it is not linked with your Aadhaar. To link the PAN with Aadhaar, click on Link Now button else click Continue ."},
+  {"fact": "Go to e-File > Income Tax Returns > View Filed Returns", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM",
+   "quote": "Step 3: Go to e-File tab > Income Tax Returns > View Filed Returns."},
+  {"fact": "Check the refund status for the desired assessment year", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM",
+   "quote": "Step 4: Now you can check the refund status for the desired Assessment year."}
+ ],
+ "summary": "Refund Status user manual steps confirmed: login, inoperative-PAN pop-up with Link Now, e-File > Income Tax Returns > View Filed Returns, status by AY."
+}

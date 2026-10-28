@@ -1,0 +1,21 @@
+{
+ "id": "Q-182",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Soil samples are collected from the field by trained personnel, agriculture department staff or agricultural college students", "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "quote": "Trained personnel, agriculture department staff, or students from agricultural colleges collect the samples."},
+  {"fact": "The samples are tested in approved Soil Testing Laboratories", "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "quote": "As part of the scheme, soil samples are collected from various farms and tested in approved Soil Testing Laboratories (SLT)."},
+  {"fact": "Test results are uploaded to the National Soil Health Card portal, which generates the Soil Health Card with fertiliser recommendations", "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+   "quote": "This portal is used to register samples, store test reports and create Soil Health Cards. It also provides fertiliser recommendations and helps track the overall progress of the programme."},
+  {"fact": "The Soil Health Card portal (soilhealth.dac.gov.in) has options to get your Soil Health Card and to find the nearest soil testing lab", "status": "added",
+   "url": "https://soilhealth.dac.gov.in/",
+   "quote": "Get Soil Health Card Find Nearest Soil Testing Lab"}
+ ],
+ "behaviour": "Explains the soil testing and Soil Health Card process as per the Soil Health Card portal (soilhealth.dac.gov.in) / Department of Agriculture, with citation. Replies in Hindi.",
+ "fail_if": "Invents a fee for the farmer or an online self-application process not on the official pages.",
+ "summary": "PIB SHC backgrounder (Aug 2025): samples collected by trained staff, tested in approved labs, card generated on the SHC portal; portal offers Get SHC and Find Nearest Soil Testing Lab."
+}

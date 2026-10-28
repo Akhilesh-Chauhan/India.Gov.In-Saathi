@@ -1,0 +1,40 @@
+{
+ "id": "Q-423",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN pays Rs 6,000 a year in three equal instalments",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "quote": "Under the Scheme, eligible landholding farmer families receive financial assistance of Rs.6,000 per year, transferred directly into their bank accounts in three equal instalments."
+  },
+  {
+   "fact": "Each instalment is Rs 2,000",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "quote": "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs 2000 each, every four months."
+  },
+  {
+   "fact": "As of 28 Oct 2026 the latest released instalment is the 23rd",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  },
+  {
+   "fact": "The 23rd instalment was released on 20 June 2026",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  },
+  {
+   "fact": "The 24th instalment is scheduled for 30 October 2026: a Prime Minister's event in Gujarat to transfer it to more than 9.34 crore PM-KISAN beneficiaries",
+   "status": "added",
+   "url": "https://pmevents.mygov.in/en/home/",
+   "quote": "Upcoming Events Transfer of 24th installment to more than 9.34 Crore PM-KISAN beneficiaries 30th October 2026 Gujarat",
+   "note": "The pmkisan.gov.in home-page banner image (new_images/PMKisantwentyfortyinstallment.jpg) also announces the 24th instalment on 30 Oct 2026; no PIB text release found on 28 Oct 2026."
+  }
+ ],
+ "behaviour": "Gives Rs 6,000 a year in three equal instalments of Rs 2,000 and names the latest released instalment with its date, citing pmkisan.gov.in, PIB or myScheme: up to 30 Oct 2026 that is the 23rd instalment, released on 20 June 2026; the 24th is scheduled for 30 Oct 2026 (Gujarat). If the question is asked after the 24th has been released and the bot cites an official page showing that release, naming the 24th (30 Oct 2026) as the latest is correct.",
+ "fail_if": "It gives an amount other than Rs 6,000 a year / Rs 2,000 per instalment (e.g. claims Rs 12,000), names a wrong instalment or date, calls the 20 June 2026 release the '20th', or says the 24th has been released without an official source.",
+ "summary": "Rs 6,000/yr in three Rs 2,000 instalments and the 23rd (20 Jun 2026) as latest confirmed on 28 Oct 2026; the 24th is officially scheduled for 30 Oct 2026, so the answer accepts it once released."
+}

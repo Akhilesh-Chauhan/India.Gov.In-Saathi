@@ -1,0 +1,74 @@
+{
+ "id": "Q-051",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Income-tax Act, 1961 stands repealed on 01.04.2026, replaced by the Income-tax Act, 2025",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "Does the Income Tax Act, 2025 completely replace the Income Tax Act, 1961? Yes. The 1961 Act stands repealed on the 01.04.2026 ."
+  },
+  {
+   "fact": "Income earned in FY 2026-27 is Tax Year 2026-27 under the Income-tax Act, 2025",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "The concept of \"Tax Year \" is applicable from 01 April 2026, i.e., for income earned during FY 2026 -27 onwards and this will be referred to as Tax Year 2026-27 under the Income Tax Act ,2025."
+  },
+  {
+   "fact": "The 1961 Act's provisions continue to govern all tax years beginning before 1 April 2026 (savings clause, s.536)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "Effective 1 April 2026, the 1961 Act will be repealed. However, its provisions will continue to govern all tax years beginning before 1st April, 2026."
+  },
+  {
+   "fact": "The transition is handled by s.536 of the 2025 Act, the repeal and savings clause",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "handles the transition through Sec tion 536, the repeal and savings clause."
+  },
+  {
+   "fact": "A tax year is a twelve-month period contained in a financial year and replaces the term 'previous year'",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "A 'Tax year' is a period of twelve months contained in a financial year. It replaces the term 'previous year' used in the Income Tax Act, 1961."
+  },
+  {
+   "fact": "The tax year is shorter when a business or income source starts during the year: it begins on that date and ends on the last day of the financial year",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "In such cases, the tax year will begin from the date of setting up of the business or the source of income coming into existence, and end on the last day of that financial year."
+  },
+  {
+   "fact": "The 2025 Act discontinues the term 'assessment year'",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "in the Income tax Act, 2025, in place of the term 'previous year', the term 'tax year' has been used. Further, the use of term 'assessment year' has been discontinued."
+  },
+  {
+   "fact": "AY 2026-27 (income of FY 2025-26, old ITR forms, due 31 July 2026 / 31 Aug for certain non-audit cases) and Tax Year 2026-27 (income of FY 2026-27, return not due until July 2027) are separate obligations",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "(i) For AY 2026 -27 (income of FY 2025 -26): File the return using old ITR forms on the e -filing portal, selecting AY 2026 -27. The due date is 31st July, 2026 or 31st August for non -audit cases , etc. (ii) For Tax Year 2026 -27 (income of FY 2026 -27): This return is not due until July 2027."
+  },
+  {
+   "fact": "Advance tax for Tax Year 2026-27, from June 2026, is paid under the new Act",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "At the same time, advance tax payments for Tax Year 2026 -27, commencing from June 2026, will be made in accordance with the new Act."
+  },
+  {
+   "fact": "AY 2026-27 and Tax Year 2026-27 are not the same: they are two entirely separate compliance obligations",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "16. Are AY 2026 -27 and Tax Year 2026 -27 the same? These are two entirely separate compliance obligations:"
+  },
+  {
+   "fact": "ITD FAQ pages show 'Last reviewed and updated on 15-Oct-2026'",
+   "status": "unsupported",
+   "note": "On 28 Oct 2026 both ITD FAQ pages show 'Last reviewed and updated on : current time' (a dynamic footer), so no fixed page date can be cited."
+  }
+ ],
+ "summary": "All facts confirmed on the ITD new-Act FAQ (repeal 01.04.2026, tax year definition, savings) and ITR FAQ 16 (AY vs Tax Year 2026-27). Added s.536 savings clause and the 'two separate obligations' FAQ; the '15-Oct-2026 page date' in the old behaviour is unsupported (footer is dynamic), so the behaviour is rewritten without it.",
+ "behaviour": "Answer with citation to the ITD FAQ pages on incometax.gov.in (Income-tax Act 2025 FAQs and ITR FAQs). Keep AY and Tax Year distinct.",
+ "fail_if": "Says the 1961 Act governs FY 2026-27 income; says AY and Tax Year 2026-27 are the same; says two returns are due in 2026 for the same income; invents a return due date for TY 2026-27 other than 'July 2027' as stated."
+}

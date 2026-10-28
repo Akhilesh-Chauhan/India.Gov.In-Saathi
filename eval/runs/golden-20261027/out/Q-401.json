@@ -1,0 +1,21 @@
+{
+ "id": "Q-401",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "myScheme's keyword search lets users find schemes by type of benefit, including scholarships for students",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "Yes, the myScheme platform offers a keyword-based search feature that enables citizens to easily search, explore, and identify schemes based on the type and extent of benefits provided, including scholarships for students."
+  },
+  {
+   "fact": "On myScheme the full list can be narrowed by keyword, personalised recommendations, State/UT or Central level, and benefit category",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "The myScheme platform provides multiple ways to search and discover schemes, including search by scheme name or keywords, personalized recommendations, filtering by State/UT or Central Government schemes, browsing by scheme benefit categories, and using the AI-powered chatbot for guided assistance."
+  }
+ ],
+ "behaviour": "Shows a short ranked list (up to 10) of Central schemes for students with their published criteria and citations, and links to myScheme (myscheme.gov.in search) for the full list; no huge dump; no eligibility verdict.",
+ "fail_if": "It dumps a long uncited list, claims to list 'all' schemes, or invents schemes or criteria.",
+ "summary": "Added the myScheme FAQ search facts every answer needs (keyword search incl. scholarships; filters by level and category)."
+}

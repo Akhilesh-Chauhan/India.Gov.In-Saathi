@@ -1,0 +1,37 @@
+{
+ "id": "Q-376",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "final": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:48+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "23b39b4e0648885a0722.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "final": "https://web.umang.gov.in/landing/department/national-pension-system-nps.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:48+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "23b39b4e0648885a0722.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

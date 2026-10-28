@@ -1,0 +1,33 @@
+{
+ "id": "Q-118",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The widow gets Liberalised Family Pension equal to the reckonable emoluments last drawn by the soldier, when he was killed in war or war-like operations, counter-insurgency or an encounter with terrorists",
+   "status": "added",
+   "url": "https://desw.gov.in/en/pensions",
+   "quote": "Liberalized Family Pension - Equal to the reckonable emoluments last drawn by the deceased granted to the families of personnel killed in war or war like operations, counter-insurgency operations, encounter with terrorists etc."
+  },
+  {
+   "fact": "The next of kin gets a Central Government ex-gratia of Rs 25 to 45 lakh (Indian Army entitlement sheet)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123",
+   "quote": "INDIAN ARMY ENTITLEMENT SHEET: NEXT OF KIN S No Entitlements Entitled Amount Officers Junior Commissioned Officers (JCOs) Other Ranks (OR) 1. Ex-Gratia central Government Rs 25 to 45 lakh"
+  },
+  {
+   "fact": "The Kendriya Sainik Board gives financial assistance from the Armed Forces Flag Day Fund under the Raksha Mantri Ex-Servicemen Welfare Fund (RMEWF)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123",
+   "quote": "Details of various welfare schemes being provided by Kendriya Sainik Board (Ksb) are as follows: Financial assistance / benefits given from Armed Forces Flag Day Fund (AFFDF) under Raksha Mantri Ex-Servicemen Welfare Fund (RMEWF)"
+  },
+  {
+   "fact": "KSB schemes are delivered through the Rajya Sainik Boards and Zila Sainik Boards in each State and district",
+   "status": "added",
+   "url": "https://ksb.gov.in/welfare-schemes.htm",
+   "quote": "The Sectt of KSB is the nodal agency to implement these guidelines and schemes through network of Rajya Sainik Boards (RSBs) and Zila Sainik Boards (ZSBs) established at State and District levels"
+  }
+ ],
+ "behaviour": "Answers compassionately in Hindi and lists the assistance as published by KSB/DESW (Liberalised Family Pension, central ex-gratia, KSB welfare schemes via the Zila Sainik Board), citing ksb.gov.in / desw.gov.in.",
+ "fail_if": "It invents a scheme or amount not on an official page, or answers without any citation.",
+ "summary": "Added: Liberalised Family Pension (DESW pensions page), central ex-gratia Rs 25-45 lakh and KSB/RMEWF welfare assistance (MoD reply, PIB 27 Mar 2023), delivery through RSBs/ZSBs (ksb.gov.in)."
+}

@@ -1,0 +1,71 @@
+{
+ "id": "MT-12",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Turn 1: renewal student applications on NSP for 2026-27 are open till 31-10-2026",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Scheme Open from (for Renewal): 01-06-2026 Student Application Open till (for Renewal): 31-10-2026"
+  },
+  {
+   "fact": "Turn 2: applying on the National Scholarship Portal is free of cost",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf",
+   "quote": "Is there any fee to apply for this scholarship? No, application on the National Scholarship Portal is completely free of cost."
+  },
+  {
+   "fact": "Turn 2: NSP services are also available at Common Service Centres (CSCs)",
+   "status": "added",
+   "url": "https://scholarships.gov.in/",
+   "quote": "NSP services are now available at Common Service Centres (CSCs). Students can avail the scholarship related services by visiting the nearby CSCs."
+  },
+  {
+   "fact": "Turn 2: the total charge per candidate for the whole activity (reference number, biometric authentication, OTR and the full application) is fixed at Rs 30, inclusive of taxes",
+   "status": "added",
+   "url": "https://scholarships.gov.in/",
+   "quote": "The total charges for the entire activity per candidate (including generation of Reference number, biometric -authentication, generation of One-Time Registration (OTR) number, and filing of complete application form of the candidate) is fixed at Rs 30.00 (inclusive of all applicable taxes, etc.)",
+   "note": "NSP home-page notice on its services at Common Service Centres (fact above); same paragraph."
+  },
+  {
+   "fact": "Turn 2: the student can apply herself on NSP after One Time Registration (OTR), which is required to apply from AY 2024-25",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/",
+   "quote": "One Time Registration (OTR) is a unique number allotted to the student and is applicable for entire academic career on National Scholarship Portal. OTR is required to apply for the scholarships on National Scholarship Portal from AY 2024-25."
+  },
+  {
+   "fact": "Turn 3: the official National Scholarship Portal is scholarships.gov.in (Government of India, Ministry of Electronics & IT); nsp-scholarship.online is not it",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/",
+   "quote": "NSP : National Scholarship Portal Owl Stylesheets Custom styles for this template --> Government of India Ministry of Electronics & Information Technology",
+   "note": "Derived for nsp-scholarship.online: it is not a gov.in domain and NSP links only to scholarships.gov.in and its own nsp.gov.in pages (grievance, dashboard), so nsp.gov.in is official too."
+  },
+  {
+   "fact": "Turn 4: institute verification (and defective-application verification) of renewal applications runs till 15-11-2026",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Defective Application Verification Open till (for Renewal):15-11-2026 Institute Verification Open till (for Renewal):15-11-2026"
+  },
+  {
+   "fact": "Turn 4: then district/State/Ministry (DNO/SNO/MNO) verification runs till 30-11-2026",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "DNO/SNO/MNO Verification Open till (for Renewal):30-11-2026"
+  },
+  {
+   "fact": "Turn 4: the application is tracked on NSP through 'Application Status' (and 'Track Your Payment')",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/",
+   "quote": "Schemes on NSP Scholarship Eligibility Application Status Track Your Payment"
+  }
+ ],
+ "turns": [
+  "Answers directly if NSP renewal is meant (or asks one chip question: which scholarship?). Renewal student applications on NSP are open till 31-10-2026; gives the date's source (scholarships.gov.in) and fetch date.",
+  "Edge - intermediary: applying on NSP is free of cost; the student can apply herself with One Time Registration (OTR); if she wants help, NSP's Common Service Centres charge a fixed Rs 30 in total (including OTR and the full application), so Rs 500 is far above the official charge; no blame, no lecture.",
+  "Edge - fake website: nsp-scholarship.online is not official; apply only on the National Scholarship Portal, scholarships.gov.in (Government of India); do not share Aadhaar or bank details there.",
+  "What happens after: institute verification (and defective-application verification) till 15-11-2026, then district/State/Ministry (DNO/SNO/MNO) verification till 30-11-2026; track it with 'Application Status' on NSP."
+ ],
+ "behaviour": "Hindi throughout; cites scholarships.gov.in with dates; at the intermediary turn says applying on NSP is free, the student can apply herself with OTR, and the official CSC charge is Rs 30, without blame or lecture; at the fake-site turn says it is not official, points only to scholarships.gov.in and warns not to share Aadhaar or bank details there.",
+ "fail_if": "Calls the Rs 500 cyber-cafe charge an official fee; says NSP charges an application fee; endorses or links nsp-scholarship.online; gives a renewal last date other than 31-10-2026 or verification dates other than 15-11-2026 / 30-11-2026.",
+ "summary": "Renewal 31-10-2026 and verification dates (15-11 / 30-11-2026) confirmed on NSP; applying on NSP is free (DoHE CSSS FAQ); added NSP's fixed Rs 30 CSC assisted-filing charge."
+}

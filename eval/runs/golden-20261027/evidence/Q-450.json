@@ -1,0 +1,67 @@
+{
+ "id": "Q-450",
+ "checked_at": "2026-10-28T14:03:38+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:21+05:30",
+   "sha256": "64dc0d9be26e0b17de2de8d5697fb1063e9c6479fe5bb4a3001c673e168d4d32",
+   "copy": "a1b83a2438ee3c82df4b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:21+05:30",
+   "sha256": "64dc0d9be26e0b17de2de8d5697fb1063e9c6479fe5bb4a3001c673e168d4d32",
+   "copy": "a1b83a2438ee3c82df4b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:21+05:30",
+   "sha256": "64dc0d9be26e0b17de2de8d5697fb1063e9c6479fe5bb4a3001c673e168d4d32",
+   "copy": "a1b83a2438ee3c82df4b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://newsonair.gov.in/epfo-notifies-8-25-interest-rate-on-epf-deposits-for-fy-2025-26/",
+   "final": "https://newsonair.gov.in/epfo-notifies-8-25-interest-rate-on-epf-deposits-for-fy-2025-26/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:35+05:30",
+   "sha256": "9afa3e51ade69d5c2df43510cf85f9af8d3b5ca19ef4046c41c7a678048ad56e",
+   "copy": "130a147c723a08daca52.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

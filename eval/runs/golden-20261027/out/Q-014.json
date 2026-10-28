@@ -1,0 +1,27 @@
+{
+ "id": "Q-014",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "UIDAI directs residents to locate the nearest Aadhaar enrolment centre on the Bhuvan Aadhaar Portal",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "quote": "You can locate the nearest enrolment centre at : Bhuvan Aadhaar Portal"
+  },
+  {
+   "fact": "'Locate Enrolment Center' (and 'Book an Appointment') is available on the myAadhaar portal even without a registered mobile number",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "quote": "Few services like QR code scan, Book an Appointment, Order Aadhaar PVC card, Check Enrolment status, Locate Enrolment Center, File a complaint etc. can be accessed without registered mobile number on myAadhaar portal."
+  },
+  {
+   "fact": "The Bhuvan Aadhaar centre locator searches centres by State, District and Sub-District",
+   "status": "added",
+   "url": "https://bhuvan-app3.nrsc.gov.in/aadhaar/",
+   "quote": "West Bengal District Select State First Sub-District Select District First Center Type All"
+  }
+ ],
+ "behaviour": "Replies in Hindi; links UIDAI's official centre locator (Bhuvan Aadhaar Portal / 'Locate Enrolment Center' on myAadhaar); does not ask for the user's precise location; may ask only for the district or PIN code.",
+ "fail_if": "Asks for the user's exact address or live location; names a specific centre without citing the official locator; gives a non-official locator link.",
+ "summary": "UIDAI's Your Aadhaar FAQ points to the Bhuvan Aadhaar Portal and myAadhaar 'Locate Enrolment Center'; Bhuvan searches by PIN code or state/district."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-458",
+ "checked_at": "2026-10-28T14:03:38+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2226202&reg=3&lang=1",
+   "final": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2226202&reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:51+05:30",
+   "sha256": "41aeb1e537c4db1e0f990296d083aef36d5bd7f69a51015c36c971d64d1a56c3",
+   "copy": "e43624caf9b58768c4a4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323264&amp=&reg=48&amp=&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323264&amp=&reg=48&amp=&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:00+05:30",
+   "sha256": "765eb03a2a4cd908e67980fab35e4ea18f4a279f6e10c4f9267b4c8423442817",
+   "copy": "148cb232e0b3807f6ee1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "final": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:28:22+05:30",
+   "sha256": "5be9ffacba3e8a1c4e04a90cf354830c05e715fd25e74261096ada606cd03c7e",
+   "copy": "5800407269a73dc3f327.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

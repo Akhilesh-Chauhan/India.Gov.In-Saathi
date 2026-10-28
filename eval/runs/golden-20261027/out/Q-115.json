@@ -1,0 +1,21 @@
+{
+ "id": "Q-115",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest DESW OROP notice is 'Revision of pension of Defence Forces Pensioners/Family Pensioners under One Rank One Pension (OROP) w.e.f. 01.07.2024', dated 13-10-2025",
+   "status": "added",
+   "url": "https://desw.gov.in/pension-circulars",
+   "quote": "Revision of pension of defence Forces Pensioners/Family Pensioners under One Rank One Pension (OROP) w.e.f. 01.07.2024-reg 13-10-2025"},
+  {"fact": "The current OROP revision takes effect from 01.07.2024; its rates were issued with the Ministry of Defence letter dated 04.09.2024 (121 pension tables)",
+   "status": "added",
+   "url": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "quote": "The undersigned is directed to refer to the Ministry's letter No 1(2)/2023/D(Pen/Pol) dated 04.09.2024 appending 121 pension tables indicating rates of pension/family pension under OROP Scheme for revision of pension of Defence Forces Pensioners/Family Pensioners w.e.f, 01.07.2024."},
+  {"fact": "The 13.10.2025 letter corrects typographical and formatting errors found in some of those pension tables",
+   "status": "added",
+   "url": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "quote": "During scrutiny of tables, it has been noticed that due to some typographical mistakes and formatting issues following inadvertent errors have occurred."}
+ ],
+ "behaviour": "Gives the latest DESW OROP order/notice with its date, citing desw.gov.in; no speculation about future revisions.",
+ "fail_if": "Speculates about a next revision or amounts not in a DESW order, cites an older order as the latest, or cites unofficial sites.",
+ "summary": "DESW: OROP revision w.e.f. 01.07.2024 (MoD letter 04.09.2024, 121 tables); latest notice 13.10.2025 corrects table errors; nothing newer on DESW circulars or What's New."
+}

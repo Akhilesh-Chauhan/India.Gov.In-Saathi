@@ -1,0 +1,67 @@
+{
+ "id": "MT-04",
+ "checked_at": "2026-10-28T14:02:18+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "final": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:46:29+05:30",
+   "sha256": "fc57c66ee9a275309bdcf84a81398376075bdd8657d026c673ef363a3a7616f8",
+   "copy": "77ec00dcbbab26c13f6f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "final": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:46:29+05:30",
+   "sha256": "fc57c66ee9a275309bdcf84a81398376075bdd8657d026c673ef363a3a7616f8",
+   "copy": "77ec00dcbbab26c13f6f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/",
+   "final": "https://pmfby.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:32+05:30",
+   "sha256": "ca8704380baa586df990589c436b9a6a69e96e3400329a15487d1a945bd0b511",
+   "copy": "1c930366ec4312e7a651.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "final": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:46:29+05:30",
+   "sha256": "fc57c66ee9a275309bdcf84a81398376075bdd8657d026c673ef363a3a7616f8",
+   "copy": "77ec00dcbbab26c13f6f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

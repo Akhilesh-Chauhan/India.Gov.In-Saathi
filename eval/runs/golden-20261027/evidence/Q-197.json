@@ -1,0 +1,52 @@
+{
+ "id": "Q-197",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2160367",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2160367&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:32:22+05:30",
+   "sha256": "34605fe3624c264bd8ced16864b722ca5ebab4375d51f609b6bc1ed59a823553",
+   "copy": "ebcf5e425b6467dbbeb9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1808675",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1808675&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:33:14+05:30",
+   "sha256": "e01ede28b6e2bbdd7d4d26406cbc5887765e0f8204091eef45f4cd5618776d88",
+   "copy": "e5aca20cab34c3226458.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf",
+   "final": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:32:11+05:30",
+   "sha256": "9c31edb6c848808394edc8c5b1779b1ad8edf75e1a7d18d7f513750a5ee8d022",
+   "copy": "631d17ba0f7ba77ec7c3.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

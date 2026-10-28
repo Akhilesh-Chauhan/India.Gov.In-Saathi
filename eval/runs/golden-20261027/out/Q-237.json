@@ -1,0 +1,12 @@
+{
+ "id": "Q-237",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under Janani Shishu Suraksha Karyakram (JSSK), every pregnant woman delivering in a public health institution gets a completely free, no-expense delivery, including caesarean section", "status": "added", "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308", "quote": "Janani Shishu Suraksha Karyakaram (JSSK) launched on 1st June, 2011 entitles all pregnant women delivering in public health institutions to absolutely free and no expense delivery, including caesarean section."},
+  {"fact": "JSSK also gives free drugs and consumables, free diagnostics, free blood where needed, and free diet (3 days for a normal delivery, 7 days for a C-section)", "status": "added", "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308", "quote": "The entitlements includes free drugs and consumables, free diagnostics, free blood wherever required, and free diet for 3 days during normal delivery and 7 days for C-section."},
+  {"fact": "JSSK gives free transport from home to the facility, between facilities on referral, and back home", "status": "added", "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308", "quote": "This initiative also provides for free transport from home to institution, between facilities in case of a referral and drop back home."},
+  {"fact": "In addition, Janani Suraksha Yojana (JSY) promotes institutional delivery among poor pregnant women and gives cash assistance with delivery and post-delivery care", "status": "added", "url": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841", "quote": "It is being implemented with the objective of reducing maternal and neonatal mortality by promoting institutional delivery among poor pregnant women. The scheme, launched on 12 April 2005 by the Hon’ble Prime Minister, is under implementation in all states and Union Territories (UTs), with a special focus on Low Performing States (LPS). JSY is a centrally sponsored scheme, which integrates cash assistance with delivery and post-delivery care."}
+ ],
+ "behaviour": "Gives the JSSK free entitlements and JSY cash assistance as published by NHM (nhm.gov.in), cited.",
+ "summary": "Added from NHM JSSK and JSY pages: free delivery incl. C-section; free drugs, diagnostics, blood, diet; free transport both ways; JSY cash assistance."
+}

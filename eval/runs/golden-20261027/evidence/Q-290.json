@@ -1,0 +1,52 @@
+{
+ "id": "Q-290",
+ "checked_at": "2026-10-28T14:03:31+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261026114247.pdf",
+   "final": "https://nta.ac.in/Download/Notice/Notice_20261026114247.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:38:24+05:30",
+   "sha256": "89a51953ddb6467a7224d099d23d6ea6f1dd45a015a26c4bd4d431acf62d0c55",
+   "copy": "9f505e73fc0b2d5f3998.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nta.ac.in/NoticeBoardArchive",
+   "final": "https://nta.ac.in/NoticeBoardArchive",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:14+05:30",
+   "sha256": "bb3634e53bafbf6608a48f84e61f99e7ab6a83cf282a05ea1a1fbd33390a3af7",
+   "copy": "02efb13ebe835d479b18.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://neet.nta.nic.in/",
+   "final": "https://neet.nta.nic.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:39:44+05:30",
+   "sha256": "8504bdb7c2f29d6df1a8f1cfcc4787108fa979287869d46acccef9c1b8bda728",
+   "copy": "8f2bba6134f5ea83f7e7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

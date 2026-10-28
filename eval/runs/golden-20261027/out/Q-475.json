@@ -1,0 +1,15 @@
+{
+ "id": "Q-475",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Indian Railways' official PNR Enquiry page (indianrail.gov.in, linked as 'PNR Status' from indianrailways.gov.in) shows the current status when the PNR number from the ticket is entered",
+   "status": "confirmed",
+   "url": "https://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html",
+   "quote": "Enter the PNR for your booking below to get the current status. You will find it on the top left corner of the ticket."},
+  {"fact": "Helpline 139 offers an enquiry option (option 2)",
+   "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "139 – Integrated Helpline · Security Helpline or Medical Assistance ( 1 ) · Enquiry ( 2 )"}
+ ],
+ "summary": "Coverage probe; the official channels it names are confirmed: Indian Railways PNR Enquiry page (indianrail.gov.in) and 139 enquiry option. Expected text unchanged."
+}

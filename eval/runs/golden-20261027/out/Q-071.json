@@ -1,0 +1,25 @@
+{
+ "id": "Q-071",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The EPF interest rate for FY 2025-26 is 8.25% per annum (recommended by the EPFO CBT), not 8.5%",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502",
+   "quote": "After due deliberations, CBT recommended 8.25 % annual rate of interest to be credited on EPF accumulations in members’ accounts for the financial year 2025-26."
+  },
+  {
+   "fact": "The 8.25% rate was recommended at the 239th CBT meeting, published by PIB on 2 Mar 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502",
+   "quote": "Posted On: 02 MAR 2026 3:37PM by PIB Delhi Union Minister for Labour & Employment and Youth Affairs & Sports, Dr. Mansukh Mandaviya chaired the 239th meeting of Central Board of Trustees (CBT)"
+  },
+  {
+   "fact": "EPFO has officially notified the 8.25% rate for FY 2025-26",
+   "status": "confirmed",
+   "url": "https://newsonair.gov.in/epfo-notifies-8-25-interest-rate-on-epf-deposits-for-fy-2025-26/",
+   "quote": "Employees’ Provident Fund Organisation, EPFO has officially notified an 8.25 percent interest rate on EPF deposits for financial year 2025-26."
+  }
+ ],
+ "summary": "8.25% for FY 2025-26 confirmed on PIB (239th CBT, 2 Mar 2026) and its notification on newsonair (1 Jul 2026)."
+}

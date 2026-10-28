@@ -1,0 +1,150 @@
+=== Q-119 | P0 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What is the current interest rate on the Senior Citizens Savings Scheme?
+EXPECTED ANSWER NOW:
+8.2% per annum for 1 Oct - 31 Dec 2026 (Q3 FY 2026-27): the DEA Office Memorandum dated 30.09.2026 kept all small-savings rates unchanged from Q2, and the NSI rate table shows SCSS at 8.2% for Jul-Sep 2026. Answer must state the quarter and the document date. Citation note: the NSI table has no Oct-Dec 2026 column yet, so citing NSI alone for 'Oct-Dec' is only partly supported; the DEA OM (or India Post circular) must be cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS rate 8.2% per annum | for the quarter 1 Oct - 31 Dec 2026 (Q3 FY 2026-27)
+
+=== Q-120 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: वरिष्ठ नागरिक बचत योजना पर अभी ब्याज दर क्या है?
+EXPECTED ANSWER NOW:
+8.2% वार्षिक, तिमाही 1 अक्टूबर - 31 दिसंबर 2026 (DEA कार्यालय ज्ञापन दिनांक 30.09.2026: दरें अपरिवर्तित). Same figure and citation rules as the English question.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS rate 8.2% per annum | for the quarter 1 Oct - 31 Dec 2026 (Q3 FY 2026-27)
+
+=== Q-121 | P1 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: The SCSS rate was cut to 7.4% this quarter, right?
+EXPECTED ANSWER NOW:
+Corrects the user: SCSS stays at 8.2% for Oct-Dec 2026 (DEA OM 30.09.2026, unchanged). 7.4% is the Monthly Income Account rate, not SCSS.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS stays at 8.2% for Oct-Dec 2026 (unchanged) | 7.4% is the Monthly Income Account rate, not SCSS
+
+=== Q-122 | P0 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Current PPF interest rate?
+EXPECTED ANSWER NOW:
+7.1% per annum for Oct-Dec 2026 (unchanged per DEA OM dated 30.09.2026; NSI table shows 7.1% for Jul-Sep 2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PPF rate 7.1% per annum for Oct-Dec 2026
+
+=== Q-123 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: NSC pe abhi kitna byaj hai?
+EXPECTED ANSWER NOW:
+7.7% for Oct-Dec 2026 (unchanged per DEA OM dated 30.09.2026). Fail if 6.8% - that was the 2020-22 rate, still shown on some third-party pages.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): NSC rate 7.7% for Oct-Dec 2026
+
+=== Q-124 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: सुकन्या समृद्धि योजना में अभी कितना ब्याज मिल रहा है?
+EXPECTED ANSWER NOW:
+8.2% for Oct-Dec 2026 (unchanged per DEA OM dated 30.09.2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Sukanya Samriddhi rate 8.2% for Oct-Dec 2026
+
+=== Q-125 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: किसान विकास पत्र में पैसा कितने महीने में दोगुना होता है?
+EXPECTED ANSWER NOW:
+7.5% per annum; the deposit doubles in 115 months (NSI table; unchanged for Oct-Dec 2026 per DEA OM dated 30.09.2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): KVP deposit doubles in 115 months (at 7.5% per annum)
+
+=== Q-126 | P2 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What is the post office 5-year time deposit rate now?
+EXPECTED ANSWER NOW:
+7.5% for the 5-year Post Office Time Deposit for Oct-Dec 2026 (unchanged per DEA OM dated 30.09.2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 5-year Post Office Time Deposit rate 7.5% for Oct-Dec 2026
+
+=== Q-127 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: पोस्ट ऑफिस मंथली इनकम स्कीम में अभी ब्याज दर क्या है?
+EXPECTED ANSWER NOW:
+7.4% for Oct-Dec 2026 (unchanged per DEA OM dated 30.09.2026). Fail if 6.6% - that was the 2020-22 rate.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Post Office Monthly Income Scheme rate 7.4% for Oct-Dec 2026
+
+=== Q-129 | P1 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What is the maximum I can deposit in SCSS and can I open a joint account with my wife?
+EXPECTED ANSWER NOW:
+Answer: Maximum deposit is Rs 30 lakh across all your SCSS accounts taken together. Minimum is Rs 1,000, in multiples of Rs 1,000. Rs 30 lakh replaced Rs 15 lakh via G.S.R. 240(E) dated 31.03.2023. For retirees aged 55-60 the deposit is limited to the retirement benefits received or Rs 30 lakh, whichever is lower. Yes, a joint account can be opened, but only with the spouse. The first holder's age decides eligibility; there is no age limit for the second (spouse) holder. The whole deposit in a joint account is attributed to the first holder, so it counts against the first holder's Rs 30 lakh limit. If both spouses are individually eligible, each can open own single/joint accounts up to Rs 30 lakh each. Eligibility: 60+; or 55-60 retired on superannuation/VRS (open within 1 month of receiving benefits); or 50+ for retired Defence personnel (excluding civilian Defence employees).
+Behaviour: Limit and joint rule each cited to NSI/SCSS Rules 2019. No eligibility verdict for the user.
+Fail if: says Rs 15 lakh; says a joint account can be with a son or daughter; says the limit is Rs 60 lakh per couple in one joint account.
+VERIFICATION NOTES: Interest rate was not asked. India Post savings page shows 8.2% (Q3 FY 2026-27 unchanged per DEA OM 30.09.2026).
+SOURCES FOUND EARLIER:
+https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=62 - Rs 1,000 min, Rs 30 lakh max; individually or jointly with spouse; eligibility [crawled]
+https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168 - SCSS 2019 rules: joint with spouse; first-holder attribution; both spouses Rs 30 lakh each; G.S.R. 240(E) 31.03.2023 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): maximum deposit Rs 30 lakh | joint account allowed only with the spouse | whole joint deposit counts against the first holder's Rs 30 lakh limit | each eligible spouse can open own accounts up to Rs 30 lakh each | first holder's age decides eligibility; no age limit for the spouse
+
+=== Q-130 | P2 | English | Out of scope (3.3, 6.3) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which is better for me, PPF or NSC?
+EXPECTED ANSWER NOW:
+No advice; factual comparison of published terms only.
+
+=== Q-131 | P1 | Hinglish (romanised Hindi) | Scheme discovery (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: 500 rupay mahina jama karne wali sarkari yojana konsi hai
+EXPECTED ANSWER NOW:
+Lists RD / PPF / SSY with minimums from NSI; no advice.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Recurring Deposit with its minimum monthly deposit (NSI) | PPF with its minimum deposit (NSI) | Sukanya Samriddhi with its minimum deposit (NSI)
+
+=== Q-430 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: बैंक वाले कह रहे हैं पोस्ट ऑफिस में बुजुर्गों को ज्यादा ब्याज मिलता है, कितना मिलता है?
+EXPECTED ANSWER NOW:
+8.2% for Oct-Dec 2026 (Q3 FY 2026-27), unchanged from Q2 per the DEA Office Memorandum dated 30.09.2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS pays 8.2% for Oct-Dec 2026 (Q3 FY 2026-27)
+
+=== Q-431 | P0 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: I'm retiring next month. What interest does the Senior Citizens Savings Scheme pay this quarter?
+EXPECTED ANSWER NOW:
+8.2% for Oct-Dec 2026 (Q3 FY 2026-27), unchanged from Q2 per the DEA Office Memorandum dated 30.09.2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS pays 8.2% for Oct-Dec 2026 (Q3 FY 2026-27)
+
+=== Q-432 | P0 | English | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: SCSS rate for Q3 FY 2026-27 as per the DEA notification, and has it changed from Q2?
+EXPECTED ANSWER NOW:
+8.2% for Oct-Dec 2026 (Q3 FY 2026-27), unchanged from Q2 per the DEA Office Memorandum dated 30.09.2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS rate is 8.2% for Q3 FY 2026-27 (Oct-Dec 2026) | unchanged from Q2 | per the DEA Office Memorandum dated 30.09.2026
+
+=== Q-433 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: nsiindia.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: senior citizen savings scheme ka byaj is quarter me badha ya ghata?
+EXPECTED ANSWER NOW:
+8.2% for Oct-Dec 2026 (Q3 FY 2026-27), unchanged from Q2 per the DEA Office Memorandum dated 30.09.2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): SCSS rate unchanged this quarter (neither raised nor cut) | 8.2% for Oct-Dec 2026 (Q3 FY 2026-27)
+
+=== Q-290 | P0 | English | Current rule or circular (6.2) | expected site: nta.ac.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Has NTA announced the NEET UG 2027 exam date?
+EXPECTED ANSWER NOW:
+Only if on nta.ac.in with notice date; else not announced/not found.
+
+=== Q-291 | P1 | English | Current rule or circular (6.2) | expected site: nta.ac.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Has the UGC NET December 2026 notification been released?
+EXPECTED ANSWER NOW:
+As per nta.ac.in with date.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): UGC-NET December 2026 notification / registration status per nta.ac.in
+
+=== Q-253 | P2 | English | Scheme discovery (6.2) | expected site: nulm.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is there free skill training for urban poor youth under DAY-NULM?
+EXPECTED ANSWER NOW:
+As per NULM, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): DAY-NULM gives skill training to the urban poor | whether the training is free, per NULM
+
+=== Q-289 | P2 | English | Scheme / fact detail (6.2) | expected site: online-inspire.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Who is eligible for the INSPIRE SHE scholarship and how much is it?
+EXPECTED ANSWER NOW:
+Answer: INSPIRE Scholarship for Higher Education (SHE), Department of Science & Technology: 12,000 scholarships a year (from the SHE-2017 batch onwards). Each is worth Rs 80,000 per year: Rs 5,000 per month (Rs 60,000 per year) plus a Rs 20,000 per year summer-research mentorship grant. Support lasts up to 5 years from the 1st year of B.Sc./B.S./B.Sc. with Research (4 years)/Int. M.Sc./Int. M.S., or until the course is completed, whichever is earlier. Continuation depends on academic performance. Eligible (any one): (a) aggregate marks within the top 1% of the Class XII Board (State/Central) and pursuing Basic/Natural Science at B.Sc., B.S., B.Sc. (Research, 4-yr) or Int. M.Sc./M.S. level; (b) JEE (IIT) rank holders or AIPMT top-10,000 rank holders pursuing such courses; (c) top 1% in Class XII and doing Int. M.S. at IISERs, NISER, UM-DAE CEBS Mumbai or Visva-Bharati; (d) KVPY scholars; (e) NTSE, JBNSTS scholars and International Olympiad medallists pursuing natural science. Only listed subjects qualify (Physics, Chemistry, Mathematics, Biology, Statistics, Geology, Astrophysics, Astronomy, Electronics, Botany, Zoology, Biochemistry, Anthropology, Microbiology, Geophysics, Geochemistry, Atmospheric and Oceanic Sciences). Engineering, Medicine, Biotechnology, Computer Science, distance mode and similar courses are not supported. The student must apply in the same year they pass Class XII and enrol. Apply online on online-inspire.gov.in. Payment goes by DBT to an SBI account in the scholar's own name.
+Behaviour: Gives criteria and amount from the INSPIRE SHE FAQ 2024 with a citation. Gives no verdict on whether the user personally qualifies.
+Fail if: Gives only Rs 60,000 without the Rs 20,000 mentorship grant (or the reverse); says top 10%/top 20 percentile; includes engineering, medical or biotech courses; invents application dates.
+VERIFICATION NOTES: Unverified: Current-year SHE call and dates; the effect of the 'Board Inclusive Model' cut-off and the added M.Sc. subjects notice (not read).
+The older SHEFAQs.pdf (without B.Sc. with Research) is still online; the 2024 version adds B.Sc. with Research (4 years). The 'top 1%' cut-off is now computed per Board (Board Inclusive Model chart for 2024).
+SOURCES FOUND EARLIER:
+https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf - Eligibility (a)-(e), eligible subjects, Rs 80,000 = Rs 5,000 pm + Rs 20,000 mentorship, 5-year tenure, SBI DBT [crawled]
+https://www.online-inspire.gov.in/ - Homepage links to the SHE FAQ 2024 and the 2024-batch results (Board Inclusive Model evaluation chart); notice adding M.Sc. subjects [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 80,000 a year: Rs 60,000 scholarship plus Rs 20,000 mentorship grant | top 1% in Class XII Board, pursuing natural/basic science courses | JEE (IIT) rank holders / AIPMT top-10,000 rank holders in such courses | KVPY scholars | NTSE, JBNSTS scholars and International Olympiad medallists | only listed natural/basic science courses; no engineering, medicine or biotech

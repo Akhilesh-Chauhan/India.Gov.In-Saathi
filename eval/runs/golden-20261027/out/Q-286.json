@@ -1,0 +1,21 @@
+{
+ "id": "Q-286",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The Department of Empowerment of Persons with Disabilities (DEPwD) runs three scholarship schemes for students with disabilities: Pre-Matric, Post-Matric and Top Class Education",
+   "status": "added", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "Empowerment of Persons with Disabilities has been implementing three Scholarship Schemes i.e. Pre-matric, Post-matric and Scholarship for Top Class Education for their empowerment through education."},
+  {"fact": "The student must have not less than 40% disability with a certificate from the competent medical authority",
+   "status": "added", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "A person with disability having not less than 40% disability and having a disability certificate issued by the competent medical authority."},
+  {"fact": "These schemes are applied for online (fresh and renewal) on the National Scholarship Portal, scholarships.gov.in",
+   "status": "added", "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "The Pre-Matric, Post Matric and Top Class Scholarship Schemes for Disabilities are online schemes which are on-boarded on National Scholarship Portal."},
+  {"fact": "Before applying on NSP, a student with disability must log in to the UDID portal and consent to share UDID details",
+   "status": "added", "url": "https://scholarships.gov.in/",
+   "quote": "All disabled students must first login in the UDID portal and provide consent to share their UDID details and then submit application in NSP."}
+ ],
+ "behaviour": "Names the DEPwD scholarship schemes for students with disabilities on NSP with a citation to scholarships.gov.in or the DEPwD FAQ; other correct schemes (e.g. AICTE Saksham) may be added with their official criteria.",
+ "fail_if": "Names no DEPwD scheme; cites third-party scholarship sites.",
+ "summary": "Added DEPwD's three schemes, the 40% disability condition and NSP application (with UDID consent) from NSP pages."
+}

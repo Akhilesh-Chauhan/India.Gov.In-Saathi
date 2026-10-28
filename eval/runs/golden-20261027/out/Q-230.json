@@ -1,0 +1,21 @@
+{
+ "id": "Q-230",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "ABHA (Ayushman Bharat Health Account) is a 14-digit number that uniquely identifies you in India's digital healthcare system",
+   "status": "added",
+   "url": "https://abha.abdm.gov.in/abha/v3/",
+   "quote": "ABHA number is a 14 digit number that will uniquely identify you as a participant in India’s digital healthcare ecosystem."},
+  {"fact": "ABHA lets you keep your digital health records in one place and share them with hospitals or doctors only with your consent",
+   "status": "added",
+   "url": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "quote": "An ABHA allows you to store all your digital health records at one place and share these records with hospitals/doctors you visit, with your consent, with suitable applications."},
+  {"fact": "Getting an ABHA is not mandatory; only those who want their records available digitally need to create one",
+   "status": "added",
+   "url": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "quote": "It is not mandatory for all citizens to get a ABHA. Whoever wishes to participate in the Ayushman Bharat Digital Mission and wishes to have their records available digitally may create ABHA."}
+ ],
+ "behaviour": "Gives a simple explanation of ABHA (in Hindi, the user's language), says it is voluntary, and cites ABDM (abdm.gov.in / abha.abdm.gov.in).",
+ "fail_if": "Says ABHA is compulsory, or cites unofficial sites.",
+ "summary": "ABDM pages: ABHA is a 14-digit health ID that links records shared with consent; not mandatory."
+}

@@ -1,0 +1,22 @@
+{
+ "id": "Q-273",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under the Rashtriya Vayoshri Yojana (RVY), assistive devices are given free to eligible senior citizens", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488",
+   "quote": "Launched in 2017 to provide free assistive devices to eligible BPL senior citizens or those with monthly income below ₹15,000."},
+  {"fact": "Devices given include walking sticks, crutches, walkers, hearing aids, wheelchairs, artificial dentures and spectacles", "status": "added",
+   "url": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "quote": "Some of the assisted living devices provided are Walking Sticks, Elbow Crutches, Walkers/ Crutches, Tripods/ Quadpods,Hearing Aids, Wheelchairs, Artificial Dentures, Spectacles, etc."},
+  {"fact": "Eligible: senior citizens with age-related disability or infirmity and a monthly income of not more than Rs 15,000 (BPL senior citizens are covered)", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "quote": "senior citizens with a monthly income of not more than ₹15,000 and suffering from age-related disabilities or infirmities are provided physical aids and assisted-living devices",
+   "note": "Wording differs slightly between official pages: dosje.gov.in RVY page says 'Senior citizens belonging to the BPL category and with monthly income not more than Rs. 15000/-'; PIB Year-End Review 2025 says 'BPL senior citizens or those with monthly income below ₹15,000'. The 13 Aug 2026 PIB release is the newest."},
+  {"fact": "Devices are distributed in camps: beneficiaries are identified in assessment camps held with the State Government / District Administration", "status": "added",
+   "url": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "quote": "These devices are distributed in the camp mode. The beneficiaries are identified through Assessment Camps organised in collaboration with the respective State Government/District Administration."}
+ ],
+ "behaviour": "Explains Rashtriya Vayoshri Yojana: which aids are given free, who is eligible and how they are given (assessment camps), with citation to the Department of Social Justice and Empowerment / PIB. Replies in Hindi.",
+ "fail_if": "Says every senior citizen gets the aids regardless of income, invents a cash benefit, or gives eligibility criteria not on the official pages.",
+ "summary": "RVY (DoSJE/PIB): free aids such as spectacles, walking sticks, hearing aids for seniors with income up to Rs 15,000/month (BPL), distributed through assessment camps."
+}

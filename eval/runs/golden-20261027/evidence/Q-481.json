@@ -1,0 +1,37 @@
+{
+ "id": "Q-481",
+ "checked_at": "2026-10-28T14:03:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "final": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:55+05:30",
+   "sha256": "95d4e2892b4b351e599bf903f8c6f89b20d4b74831eb8f1a0e61a2a66771ff86",
+   "copy": "666f079c694b83ec366f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "final": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:55+05:30",
+   "sha256": "95d4e2892b4b351e599bf903f8c6f89b20d4b74831eb8f1a0e61a2a66771ff86",
+   "copy": "666f079c694b83ec366f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

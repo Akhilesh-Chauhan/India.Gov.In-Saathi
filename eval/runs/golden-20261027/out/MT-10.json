@@ -1,0 +1,11 @@
+{
+ "id": "MT-10",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "EPF members can view their Member Passbook through EPFO's service on the UMANG app",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1644807",
+   "quote": "The most popular service availed by members through UMANG App is View Member Passbook."}
+ ],
+ "summary": "PIB (EPFO) confirms View Member Passbook is an EPFO service on UMANG; epfo.gov.in home also links passbook.epfindia.gov.in and promotes UMANG for all EPFO services."
+}

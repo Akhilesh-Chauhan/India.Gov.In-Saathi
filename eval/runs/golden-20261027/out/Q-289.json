@@ -1,0 +1,123 @@
+{
+ "id": "Q-289",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "SHE (Scholarship for Higher Education) is a component of INSPIRE, a programme of the Department of Science and Technology (DST)",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Scholarship for Higher Education (SHE) is a component of“Innovation in Science Pursuit for Inspired Research (INSPIRE)”, which is a flagship programme of the Department of Science and Technology (DST)",
+   "note": "Source for every fact here is DST's INSPIRE-SHE FAQ 2024 (SHEFAQs2024.pdf), the version linked from online-inspire.gov.in."
+  },
+  {
+   "fact": "12,000 scholarships a year (from the SHE-2017 batch onwards), each worth Rs 80,000",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Under SHE component, 12,000 scholarships (From SHE-2017 batch onwards), each valued at Rs.80,000/- are announced annually"
+  },
+  {
+   "fact": "The scholarship is worth Rs 80,000 per year: Rs 5,000 per month (Rs 60,000 a year)",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "The scholarship is valued at Rs. 80,000/- per annum. Each candidate will receive annual scholarship @ Rs. 5000/- per month with total value of Rs. 60,000/-."
+  },
+  {
+   "fact": "Plus a Rs 20,000 per year summer-research mentorship grant",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "All the SHE scholars are required to undertake summer research projects under an active researcher in any recognized research centre across India. A summer time Mentorship grant of Rs.20,000/- will be paid every year."
+  },
+  {
+   "fact": "Support lasts up to 5 years from the 1st year of B.Sc./B.S./B.Sc. with Research (4 years)/Int. M.Sc./Int. M.S., or until the course ends, whichever is earlier",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Selected candidates will be supported for a maximum period of five years, starting from the 1st year B.Sc., B.S., B.Sc. with Research (4 years), Int. M.Sc./Int.M.S. or until the completion of the course, whichever is earlier."
+  },
+  {
+   "fact": "Continuation depends on good academic performance",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Continuation of the scholarship for the selected candidates is based on good academic performance"
+  },
+  {
+   "fact": "Eligible (a): aggregate marks within the top 1% of the Class XII Board (State/Central) exam",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Meritorious Students with aggregate marks within top 1% of their Class XII examination of any State/ Central Education Board in India are eligible."
+  },
+  {
+   "fact": "... and pursuing Natural/Basic Science at B.Sc., B.S., B.Sc. with Research (4 years) or Int. M.Sc./M.S. level",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "In addition, the student must be pursuing courses in Natural and Basic Sciences at the B.Sc., B.S., B.Sc. with Research (4 years) and Int.M.Sc./M.S. level."
+  },
+  {
+   "fact": "Eligible (b): JEE (IIT) rank holders or AIPMT top-10,000 rank holders pursuing such courses",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Those students who have secured ranks in the JEE of IIT, AIPMT (within top 10000 ranks), and are presently pursuing Natural and Basic Science courses in India at the B.Sc., B.S., B.Sc. with Research (4 years), Int. M.Sc./M.S. level."
+  },
+  {
+   "fact": "Eligible (c): top 1% in Class XII and doing Integrated M.S. at IISERs, NISER, UM-DAE CEBS Mumbai or Visva-Bharati",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "top 1% of their Class XII examination of any State/ Central Education Board in India and pursuing Integrated M.S. courses in Natural and Basic Sciences at IISERs, NISER and Department of Atomic Energy Centre for Basic Sciences- University of Mumbai and Visva-Bharati, Shanti Niketan."
+  },
+  {
+   "fact": "Eligible (d): KVPY scholars pursuing Bachelor/Master courses in Natural Sciences",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Students who have been selected under Kishore Vaigyanik Protsahan Yojana (KVPY) and pursuing Bachelor/Master level courses in Natural Sciences."
+  },
+  {
+   "fact": "Eligible (e): NTSE scholars, JBNSTS scholars and International Olympiad medallists pursuing natural science",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "National Talent Search Examination (NTSE) scholars, Jagadish Bose National Science Talent Search (JBNSTS) scholars and International Olympiad medallists pursuing Bachelor/ Master level courses in Natural Sciences are also eligible."
+  },
+  {
+   "fact": "Only the listed subjects qualify: Physics, Chemistry, Mathematics, Biology, Statistics, Geology, Astrophysics, Astronomy, Electronics, Botany, Zoology, Biochemistry, Anthropology, Microbiology, Geophysics, Geochemistry, Atmospheric and Oceanic Sciences",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "(1) Physics (2) Chemistry (3) Mathematics (4) Biology (5) Statistics (6) Geology (7) Astrophysics (8) Astronomy (9) Electronics (10) Botany (11) Zoology (12) Biochemistry (13) Anthropology (14) Microbiology (15) Geophysics (16) Geochemistry (17) Atmospheric Sciences & (18) Oceanic Sciences."
+  },
+  {
+   "fact": "Engineering and Medicine are among the courses outside the listed subjects",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Courses other than these subjects such as Engineering, Medicine, Military Science, Defence Studies, Agriculture, Psychology, Seed Technology, Home Science, Geography, Economics,",
+   "note": "The same FAQ sentence ends 'are NOT supported' (quoted in the next fact)."
+  },
+  {
+   "fact": "Biotechnology, Computer Science, distance-mode courses and similar courses are not supported",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Biotechnology, Computer Science, Computer Applications, Bioinformatics, Instrumentation, Information Technology, Physical Education, courses in Distance Education mode at the Open Universities and other professional courses etc. are NOT supported."
+  },
+  {
+   "fact": "The student must apply in the same year they pass Class XII and enrol in the course",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Only candidates who have completed their XII standard examinationin the year and have enrolled in B.Sc., B.S., B.Sc. with Research (4 years), Int. M.Sc./M.S. degrees, in Basic and Natural Sciences (in subjects listed above) in the same year can apply."
+  },
+  {
+   "fact": "Applications are online only, on online-inspire.gov.in",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "One can apply for the scholarship through online mode only. To apply online, please follow this link https://www.online-inspire.gov.in."
+  },
+  {
+   "fact": "Payment goes by DBT to the scholar's State Bank of India account",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "The scholarship will be transferred to the scholar’s State Bank of India (SBI) bank account directly through Direct Benefit Transfer (DBT) mode."
+  },
+  {
+   "fact": "The SBI account must be in the scholar's own name (no joint accounts)",
+   "status": "confirmed",
+   "url": "https://www.online-inspire.gov.in/Content/SHEFAQs2024.pdf",
+   "quote": "Account must be in scholar’s name only. Joint Accounts shall not be accepted."
+  }
+ ],
+ "summary": "All INSPIRE-SHE eligibility, amount, tenure, subject, application and payment facts confirmed in DST's SHE FAQ 2024 (online-inspire.gov.in)."
+}

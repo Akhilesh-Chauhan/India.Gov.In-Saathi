@@ -1,0 +1,23 @@
+{
+ "id": "MT-04",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An insured farmer must report a hailstorm (localized calamity) crop loss within 72 hours",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "Intimation may be given within 72 hours by the farmer either directly through the \"Crop Insurance App\" or dedicated toll-free number, Centralized Call Centre number of concerned Insurance Company."},
+  {"fact": "The first channels for reporting are the Crop Insurance App and the centralised toll-free number",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "The ﬁrst mode of intimation should be the \"Crop Insurance App\" and the centralised Toll-Free Number for this purpose."},
+  {"fact": "The centralised toll-free number for reporting crop loss is the Krishi Rakshak Portal & Helpline (KRPH) 14447",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/",
+   "quote": "Raise Queries, tell us about your Grievances & Report loss of Crop. Call us at 14447 Krishi Rakshak Portal & Helpline (KRPH)"},
+  {"fact": "The loss can also be reported through the bank branch, the local agriculture department or district officials",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "The intimation may also be forwarded through the concerned bank branch, local agriculture department Government/district ofﬁcials or through the toll free number."}
+ ],
+ "summary": "Turn facts from Q-176 confirmed: 72-hour intimation and channels (OG 2020 on pmfby.gov.in), KRPH 14447 (pmfby.gov.in home); turns unchanged."
+}

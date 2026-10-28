@@ -1,0 +1,27 @@
+{
+ "id": "Q-480",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM-KISAN is income support of Rs 6,000 a year in three instalments, not a pension",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families."},
+  {"fact": "PM-KISAN is non-contributory: fully funded by the Government of India",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "PM Kisan is a Central Sector scheme with 100% funding from Government of India."},
+  {"fact": "The farmer pension is PM-KMY: a minimum assured Rs 3,000 a month from age 60",
+   "status": "confirmed",
+   "url": "https://pmkmy.gov.in/scheme/pmkmy",
+   "quote": "Under this scheme, the farmers would receive a minimum assured pension of Rs 3000/- per month after attaining the age of 60 years"},
+  {"fact": "PM-KMY is contributory (voluntary, contribution based)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/PM-KMY%20-%20Salient%20Features.pdf",
+   "quote": "It is a voluntary and contribution based pension scheme."},
+  {"fact": "PM-KMY entry age is 18 to 40",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/PM-KMY%20-%20Salient%20Features.pdf",
+   "quote": "Those farmers who are of the age of 18 years and above and upto 40 years are eligible to join the scheme."}
+ ],
+ "summary": "PM-KISAN Rs 6,000 a year, 100% Centre-funded income support; PM-KMY is the contributory pension of Rs 3,000 a month from 60, entry 18-40; all confirmed."
+}

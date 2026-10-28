@@ -1,0 +1,37 @@
+{
+ "id": "Q-499",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "final": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:23+05:30",
+   "sha256": "a660567efeb622d4155e383e3c7f2ef9c35ec085793e78274d932fafc0abe64e",
+   "copy": "07dcc58c2ac6564540fe.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "final": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:23+05:30",
+   "sha256": "a660567efeb622d4155e383e3c7f2ef9c35ec085793e78274d932fafc0abe64e",
+   "copy": "07dcc58c2ac6564540fe.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

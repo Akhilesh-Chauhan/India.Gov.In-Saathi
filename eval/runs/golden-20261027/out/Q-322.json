@@ -1,0 +1,24 @@
+{
+ "id": "Q-322",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Seva Sindhu is the Government of Karnataka's common citizen service portal for government services of many departments in one place", "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "quote": "Seva Sindhu is the common citizen service portal/facility of Government of Karnataka to provide government related services and other information in one place."},
+  {"fact": "Citizens register on the Seva Sindhu portal and apply online, or apply at the nearest service delivery centre", "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "quote": "Citizens can register on the Seva Sindhu portal and apply for services Or they can go to the nearest identified service delivery center and ask for the service through the service center login."},
+  {"fact": "Certificates such as income, domicile, caste, birth and death certificates", "status": "added", "example": true,
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "quote": "Certificates: Creation and distribution of certificates for income, domicile, caste, Birth, Death etc."},
+  {"fact": "Ration card issue (Public Distribution System)", "status": "added", "example": true,
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "quote": "Public Distribution System (PDS): Issue of Ration Card, etc."},
+  {"fact": "Social welfare pensions such as old-age, family and widow pensions", "status": "added", "example": true,
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "quote": "Social Welfare Schemes: Disbursement of old-age pensions, family pensions, widow pensions, etc."}
+ ],
+ "behaviour": "Lists services as published on Seva Sindhu (sevasindhu.karnataka.gov.in) with citation, or, if it has only Central sources, names the responsible State department and links its portal as listed in IGOD (G12, named not refused); a bare 'not covered' fails; no invented State steps.",
+ "fail_if": "Gives a bare 'not covered' reply; invents Karnataka services or application steps not on Seva Sindhu.",
+ "summary": "Seva Sindhu FAQ: Karnataka's single citizen-service portal (apply online or at service centres); certificates, ration cards and welfare pensions given as examples."
+}

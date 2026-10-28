@@ -1,0 +1,37 @@
+{
+ "id": "Q-483",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "final": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:11+05:30",
+   "sha256": "4e062db5bf5d8b904ae1c0d4af10950dc01de7df8360398dfe197d6d06aef489",
+   "copy": "cf580f48a5caaf0a9384.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "final": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:11+05:30",
+   "sha256": "4e062db5bf5d8b904ae1c0d4af10950dc01de7df8360398dfe197d6d06aef489",
+   "copy": "cf580f48a5caaf0a9384.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,17 @@
+{
+ "id": "Q-421",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "In Bihar, the income certificate is a Right to Public Service (RTPS) service of the State's General Administration Department (GAD), issued at Circle Officer (CO), Sub Divisional Officer (SDO) and District Magistrate (DM) level",
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "quote": "RTPS Service of General Administration Department (GAD) Application Process Flow for Caste, Income & Residence Certificate at CO, SDO & DM level"},
+  {"fact": "The Bihar State portal for applying is the ServicePlus (RTPS) portal serviceonline.bihar.gov.in",
+   "status": "added",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "quote": "Bihar e-District through ServicePlus Portal (https://serviceonline.bihar.gov.in) RTPS Service of General Administration Department (GAD)"}
+ ],
+ "behaviour": "Says the Bihar portal is not in its sources (Central only), but names, not refuses (G12): names the responsible Bihar State department / issuing authority and links its portal (as listed in IGOD); gives no invented State steps.",
+ "fail_if": "It replies only that the service is not covered, or invents Bihar application steps, documents, fees or timelines.",
+ "summary": "Bihar income certificates are a GAD RTPS service (CO/SDO/DM level) on serviceonline.bihar.gov.in; department and portal added."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-059",
+ "checked_at": "2026-10-28T14:02:24+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:22+05:30",
+   "sha256": "7bb4d9e795b4cc7bc0c08cfd25ec70ef838172e47a97fd2a130075b98b892dfc",
+   "copy": "3194c17250a209e47394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:22+05:30",
+   "sha256": "7bb4d9e795b4cc7bc0c08cfd25ec70ef838172e47a97fd2a130075b98b892dfc",
+   "copy": "3194c17250a209e47394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:22+05:30",
+   "sha256": "7bb4d9e795b4cc7bc0c08cfd25ec70ef838172e47a97fd2a130075b98b892dfc",
+   "copy": "3194c17250a209e47394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:22+05:30",
+   "sha256": "7bb4d9e795b4cc7bc0c08cfd25ec70ef838172e47a97fd2a130075b98b892dfc",
+   "copy": "3194c17250a209e47394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

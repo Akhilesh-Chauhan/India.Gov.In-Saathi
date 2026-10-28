@@ -1,0 +1,21 @@
+{
+ "id": "Q-297",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: UGC publishes a 'List of Fake Universities' on ugc.gov.in (under HEIs Violating Regulations), currently dated 'As of February 2026', also in Hindi",
+   "status": "added",
+   "url": "https://www.ugc.gov.in/universitydetails/HEIs_Violating_Regulations?tab=fakeuni",
+   "quote": "List of Fake Universities (As of February 2026) List of Fake Universities in Hindi"},
+  {"fact": "To check a university, confirm it against UGC's lists of fake and of valid universities on the UGC website",
+   "status": "added",
+   "url": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "quote": "List of the Fake Universities and valid Universities is available on the UGC website www.ugc.ac.in. Kindly confirm from UGC list."},
+  {"fact": "A degree awarded by a fake university is not valid, whether or not its name is on the UGC website",
+   "status": "added",
+   "url": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "quote": "Degree awarded by a Fake University is not valid whether or not the name of the University is on the UGC website."}
+ ],
+ "behaviour": "Points to UGC's list of fake universities with its date (as of February 2026) and the lists of valid universities on the UGC website, cited.",
+ "fail_if": "It says UGC does not publish such a list, gives the list without its date or citation, or names universities as fake that are not on UGC's current list.",
+ "summary": "Added from ugc.gov.in: List of Fake Universities (as of February 2026); UGC FAQ says to confirm against the fake/valid university lists, and fake-university degrees are not valid."
+}

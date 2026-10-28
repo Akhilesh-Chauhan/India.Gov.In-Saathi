@@ -1,0 +1,27 @@
+{
+ "id": "Q-037",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under 'One Vehicle One FASTag' a vehicle may have only one active FASTag; all FASTags linked to the vehicle except the latest one are de-activated",
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "the ‘One Vehicle One FASTag’ concept indicates that a vehicle owner is permitted to have only one active FASTag for one vehicle. All the FASTags linked to a single vehicle except the latest one shall be de-activated."
+  },
+  {
+   "fact": "The owner should keep KYC of the latest tag complete and discard the earlier tags through the respective issuer banks",
+   "status": "added",
+   "url": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "quote": "To avoid inconvenience, users must ensure that KYC of their latest FASTag is completed. FASTag users must also comply with ‘One Vehicle, One FASTag’ and discard all the earlier issued FASTags through their respective banks."
+  },
+  {
+   "fact": "NHAI announced the 'One Vehicle One FASTag' initiative on 15 January 2024",
+   "status": "added",
+   "url": "https://nhai.gov.in/nhai/sites/default/files/2024-01/Press_Release-One_Vehical_One_FASTag_0.pdf",
+   "quote": "New Delhi, 15 January 2024: To enhance efficiency of the Electronic Toll Collection system and provide seamless movement at the Toll Plazas, NHAI has taken ‘One Vehicle, One FASTag’ initiative"
+  }
+ ],
+ "behaviour": "Explains the rule as stated by IHMCL/NHAI with the date of the NHAI initiative, citing ihmcl.co.in or the NHAI release; for a car with two tags, says only the latest tag stays active and the older one should be closed through its issuer bank.",
+ "fail_if": "Says a vehicle may keep two active FASTags; says the owner must recharge only through one specific bank; gives no date or source.",
+ "summary": "Added IHMCL FAQ meaning (only latest tag active, others de-activated) and the NHAI release of 15 Jan 2024 (discard earlier tags via banks)."
+}

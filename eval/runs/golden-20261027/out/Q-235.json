@@ -1,0 +1,27 @@
+{
+ "id": "Q-235",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under Schedule H2 of the Drugs Rules, manufacturers of the top 300 drug brands must print or affix a bar code or QR code on the primary pack label",
+   "status": "added",
+   "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "quote": "the manufacturers of Top 300 brands of drug formulation products, as specified in Schedule H2, shall print or affix Bar Code or Quick Response Code on its primary packaging label"
+  },
+  {
+   "fact": "To check a medicine, scan the bar code / QR code on the pack with a mobile phone and read the product information it shows to verify it is genuine",
+   "status": "added",
+   "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-for-Identification-and-Verification-of-Spurious-Drugs-document.pdf",
+   "quote": "Step 2 Scan the Bar Code/Quick Response Code with the Mobile Phone Step 3 Read the information received on mobile after scanning QR for product authenticity/genuineness."
+  },
+  {
+   "fact": "A suspected spurious (fake) medicine can be reported to CDSCO, which takes it up with the State/UT Drugs Controller",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1741878",
+   "quote": "As per Central Drugs Standard Control Organisation (CDSCO), isolated complaints regarding spurious drugs are received in CDSCO. As and when such complaints are received, based on merit, the matter is taken up by the CDSCO in coordination with State/UT Drugs Controller"
+  }
+ ],
+ "behaviour": "Explains the QR / track-and-trace check as published by CDSCO and the route to report a suspected fake medicine (CDSCO / State Drugs Controller), citing cdsco.gov.in or PIB.",
+ "fail_if": "Says the medicine is genuine or fake without verification, invents a helpline or app, or cites unofficial sites.",
+ "summary": "CDSCO: top-300 brands carry a QR/bar code since 1 Aug 2023; scan it with a phone to verify; complaints go to CDSCO with the State Drugs Controller."
+}

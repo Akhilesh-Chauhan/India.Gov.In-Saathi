@@ -1,0 +1,37 @@
+{
+ "id": "MT-07",
+ "checked_at": "2026-10-28T14:02:18+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "final": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:35+05:30",
+   "sha256": "1c6afbc5d874c42430f3940054d2b5b9f8f0c431becd48c933ef2a0957d40ca7",
+   "copy": "ca954c9f655fab7022ee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "final": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:35+05:30",
+   "sha256": "1c6afbc5d874c42430f3940054d2b5b9f8f0c431becd48c933ef2a0957d40ca7",
+   "copy": "ca954c9f655fab7022ee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "Q-341",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Tatkal booking for AC classes opens at 10:00 hrs on the day before the journey (excluding the date of journey), from the train's originating station",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf",
+   "quote": "Tatkal booking for AC classes opens at 1000 hours on the previous day of journey excluding date of journey from the train originating station."
+  },
+  {
+   "fact": "Tatkal booking for non-AC classes opens at 11:00 hrs on the day before the journey",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf",
+   "quote": "For non-AC, classes, Tatkal booking starts at 1100 hours on the previous day of journey excluding date of journey from the train originating station."
+  },
+  {
+   "fact": "Under Railway Board Commercial Circular No. 08 of 2025 (dated 10.06.2025), from 01.07.2025 Tatkal tickets on the IRCTC website/app can be booked only by Aadhaar-authenticated users",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2008%20of%202025.pdf",
+   "quote": "With effect from 01-07-2025, tickets under Tatkal Scheme can be booked through the website of Indian Railway Catering and Tourism Corporation (IRCTC)/its app only by Aadhaar authenticated users."
+  },
+  {
+   "fact": "Railway sources differ on Aadhaar OTP for online Tatkal: CC 08/2025 made Aadhaar-based OTP compulsory from 15.07.2025, while the Minister's Lok Sabha replies say it was introduced in a phased manner (322 trains as on 04.12.2025) and, as of 22.07.2026, 'on selected trains'",
+   "status": "conflict",
+   "was": "Aadhaar-based OTP authentication compulsory for online Tatkal from 15.07.2025",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2008%20of%202025.pdf",
+   "quote": "Subsequently, Aadhaar based OTP authentication shall also be made compulsory for the tatkal booking from 15-07-2025.",
+   "also": [
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287719",
+     "quote": "Aadhaar based One-Time Password (OTP) verification for online tatkal ticket booking has also been introduced on selected trains."
+    },
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2202197",
+     "quote": "Aadhaar-based One-Time Password (OTP) verification for online tatkal ticket booking has been introduced in a phased manner. It is already operational in 322 trains as on 04.12.2025."
+    }
+   ],
+   "note": "Searched pib.gov.in and the Railway Board 2025/2026 commercial circular lists (28 Oct 2026): no later notice making OTP universal."
+  },
+  {
+   "fact": "Railway sources differ on counter/agent Tatkal OTP: CC 08/2025 says Tatkal at PRS counters and through authorised agents is issued only after a system OTP sent to the mobile number given at booking, from 15.07.2025; the Minister's reply of 11.12.2025 says Aadhaar-based OTP at counters was introduced in a phased manner (211 trains as on 04.12.2025)",
+   "status": "conflict",
+   "was": "Counters/agents: OTP to the booking mobile number from 15.07.2025; Aadhaar is not the counter requirement",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2008%20of%202025.pdf",
+   "quote": "Tatkal tickets shall be available for booking through computerized PRS counters of Indian Railways/authorized agents only after authentication of a system generated OTP which shall be sent through the system on the mobile number furnished by the user at the time of booking.",
+   "also": [
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2202197",
+     "quote": "Aadhaar-based OTP for tatkal bookings at reservation counters has also been introduced in a phased manner and it is implemented in 211 trains as on 04.12.2025."
+    }
+   ],
+   "note": "No later Railway Board circular found on counter OTP coverage (28 Oct 2026)."
+  },
+  {
+   "fact": "Authorised agents cannot book opening-day Tatkal from 10:00 to 10:30 hrs (AC) and 11:00 to 11:30 hrs (non-AC)",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2008%20of%202025.pdf",
+   "quote": "they shall not be allowed to book opening day Tatkal tickets from 1000 hours to 1030 hours for air-conditioned classes and from 1100 hours to 1130 hours for non-air-conditioned classes."
+  },
+  {
+   "fact": "No refund on confirmed Tatkal tickets, except in certain cases such as non-attachment of coach or cancellation of the train",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf",
+   "quote": "no refund is granted on the confirmed Tatkal tickets. However, full refund of fare and Tatkal charges is granted on the tickets booked under Tatkal scheme under certain circumstances like non-attachment of coach, cancellation of train"
+  },
+  {
+   "fact": "During the journey a prescribed proof of identity (e.g. Voter ID or passport) must be produced for a Tatkal ticket, failing which all its passengers are treated as travelling without ticket",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf",
+   "quote": "required to produce any one of the prescribed proof of identity mentioned below, failing which all the passengers booked on that ticket are considered as travelling without ticket and charged accordingly:- i. Voter Photo Identity Card issued by Election Commission of India. ii. Passport"
+  },
+  {
+   "fact": "Aadhaar, including e-Aadhaar and m-Aadhaar, is one of the accepted proofs of identity for Tatkal travel",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf",
+   "quote": "ix. Unique identification Card \"Aadhar\" including e-Aadhar & m- Aadhar."
+  }
+ ],
+ "behaviour": "Answers in Hinglish/simple language, citing the Railway Board circular number and date (CC 08 of 2025, 10.06.2025) and distinguishing online from counter booking. Because Railway sources differ, either account of the OTP rule is accepted when the source is cited: OTP 'compulsory from 15.07.2025' per CC 08/2025, or 'introduced in a phased manner / on selected trains' per the Minister's replies (PIB 11.12.2025, 22.07.2026); for counters, either 'OTP to the mobile number given at booking' (CC 08/2025) or 'Aadhaar-based OTP at counters on a phased basis' (PIB 11.12.2025). Noting the difference is best.",
+ "fail_if": "Gives old timings (e.g. 08:00/10:00 for all) or swaps AC/non-AC; says an Aadhaar-authenticated account is required for counter Tatkal on all trains; says Aadhaar is not needed for online Tatkal; omits the 01.07.2025 date; cites only irctc.co.in or blogs.",
+ "summary": "Timings, Aadhaar-only online booking from 01.07.2025, agent bar, refund and ID rules confirmed; OTP rule conflicts: CC 08/2025 says compulsory from 15.07.2025 (online) and mobile OTP at counters, PIB replies (Dec 2025, Jul 2026) say phased / selected trains, Aadhaar-based OTP at counters on 211 trains."
+}

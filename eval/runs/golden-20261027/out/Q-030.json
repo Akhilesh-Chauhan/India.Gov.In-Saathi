@@ -1,0 +1,70 @@
+{
+ "id": "Q-030",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Renewal is applied online on sarathi.parivahan.gov.in: select the State, then 'Services on Drivers License (Renewal/Duplicate/AEDL/Others)' in the Driving License menu",
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Steps follow to apply for RENEWAL of License :- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Services on Drivers License(Renewal/Duplicate/AEDL/Others)\" from \"Driving License\" menu 4. Fill up application form",
+   "note": "Sarathi's own menu (rendered HTML, 28 Oct 2026) labels it 'Services on DL (Renewal/Duplicate/AEDL/IDP/Others)' and also offers an 'Apply for DL Renewal' link."
+  },
+  {
+   "fact": "The applicant enters the DL number and date of birth to fetch the licence details",
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "5. Enter \"Drivers License number\" and \"Date of birth\" click \"Get Drivers License Details\""
+  },
+  {
+   "fact": "The service 'RENEWAL OF DL' is selected, choosing the RTO covering the current address",
+   "status": "manual",
+   "url": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
+   "note": "Stated on Sarathi's dlServicesDet.do, which the checker could not fetch on 28 Oct 2026 (IncompleteRead on every attempt); a person should confirm it there."
+  },
+  {
+   "fact": "Because the applicant is 40 or older, the renewal application must be accompanied by a medical certificate (MV Act s.15(1) proviso)",
+   "status": "confirmed",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "Provided further that where the application is for the renewal of a licence to drive a transport vehicle or where in any other case the applicant has attained the age of forty years, the same shall be accompanied by a medical certificate"
+  },
+  {
+   "fact": "The medical certificate for applicants aged 40 or above is Form 1A",
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Medical Certificate (FORM 1A) is required for applicants having age equal to or above 40 years, in case of less than 40 you need to submit FORM 1."
+  },
+  {
+   "fact": "Sarathi's State service page lists a 'Find Doctor' service",
+   "status": "confirmed",
+   "url": "https://sarathi.parivahan.gov.in/sarathiservice/sarathiHomePublic.do?stCd=UP",
+   "quote": "Upload Document Online LLTest(STALL) Find Doctor",
+   "note": "The page shows the 'Find Doctor' service; the words 'empanelled doctor' are on dlServicesDet.do / doctorsReport.do, which the checker could not fetch on 28 Oct 2026."
+  },
+  {
+   "fact": "Renewal can be done within one year before or after the expiry of the licence",
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "As per the latest amendment of CMV Act, renewal of a driving License could be done within one year prior to or after the expiry of the Driving License."
+  },
+  {
+   "fact": "If the licence expired more than one year ago, a driving test may be required as per State policy",
+   "status": "confirmed",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "To Renewal license after one year expire one needs to undergo a Driving test, as per state policy."
+  },
+  {
+   "fact": "For an applicant aged 55 or more, a renewed non-transport licence is valid for 5 years (MV Act s.14(2)(b)(iv))",
+   "status": "confirmed",
+   "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "(iv) has attained the age of fifty-five years on the date of issue or as the case may be, renewal thereof, be effective for a period of five years from the date of such issue or renewal.",
+   "note": "The Parivahan FAQ says the same: 'If the age of the applicant on the date of issue or renewal is >=55, then the Non Transport validity would be effective for a period of 5 years'."
+  },
+  {
+   "fact": "Then upload documents (and photo/signature where required), pay the fee, verify the payment and print the receipt",
+   "status": "manual",
+   "url": "https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do",
+   "note": "These stages are on Sarathi's dlServicesDet.do, which the checker could not fetch on 28 Oct 2026; the Parivahan FAQ only says to fill the form, click Next and visit the RTO with original documents and the fee slip."
+  }
+ ],
+ "summary": "Renewal path, 40+ medical certificate (MV Act s.15, Form 1A), one-year window, State-policy test and 55+ five-year validity confirmed; Sarathi's renewal-stage page could not be fetched (2 facts manual)."
+}

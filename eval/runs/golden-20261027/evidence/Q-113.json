@@ -1,0 +1,67 @@
+{
+ "id": "Q-113",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "final": "https://npstrust.org.in/about-nps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:37:45+05:30",
+   "sha256": "6144061815ac2f3400d7d287ef4afc6b42bce95cab7f3f5c58375529977bbbc9",
+   "copy": "45f658b725f699ed61b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "final": "https://npstrust.org.in/about-nps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:37:45+05:30",
+   "sha256": "6144061815ac2f3400d7d287ef4afc6b42bce95cab7f3f5c58375529977bbbc9",
+   "copy": "45f658b725f699ed61b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "final": "https://npstrust.org.in/about-nps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:37:45+05:30",
+   "sha256": "6144061815ac2f3400d7d287ef4afc6b42bce95cab7f3f5c58375529977bbbc9",
+   "copy": "45f658b725f699ed61b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://npstrust.org.in/about-nps",
+   "final": "https://npstrust.org.in/about-nps",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:37:45+05:30",
+   "sha256": "6144061815ac2f3400d7d287ef4afc6b42bce95cab7f3f5c58375529977bbbc9",
+   "copy": "45f658b725f699ed61b0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

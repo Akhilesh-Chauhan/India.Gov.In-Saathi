@@ -1,0 +1,28 @@
+{
+ "id": "Q-198",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "New ration cards (AAY/PHH) are issued by the respective State Government / UT Administration, not by the Centre's NFSA website",
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "quote": "Identification of beneficiaries/households under the National Food Security Act, 2013 (NFSA) and issuance of Antodaya Anna Yojana (AAY) and Priority Household (PHH) ration cards is dealt by the respective State Government / UT Administration."
+  },
+  {
+   "fact": "To apply for a new ration card, nfsa.gov.in directs applicants to the respective State/UT Food Portal",
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "quote": "To apply for a new ration card or to know the procedure of application, kindly visit the respective State/UT Food Portals by clicking here ."
+  },
+  {
+   "fact": "The Common Registration Facility lets the (pilot) States/UTs collect data of people wishing to register for NFSA inclusion; the States/UTs identify and verify the eligible beneficiaries",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1848790",
+   "quote": "This Web based facility will enable these 11 States/UTs to collect data of persons desirous of registering for inclusion under NFSA, including migrants residing in other states. This facility will help States/UTs in expeditiously identifying and verifying the eligible beneficiaries",
+   "note": "PIB, 05 Aug 2022: launched on pilot basis for 11 States/UTs."
+  }
+ ],
+ "behaviour": "Corrects the user: new ration card applications are made on the State/UT food portal (listed on nfsa.gov.in), and the State decides and issues the card; may mention the Common Registration Facility on nfsa.gov.in only as a data-collection aid for the States; cites nfsa.gov.in.",
+ "fail_if": "It says the ration card is issued or approved through the central NFSA website; invents a central online application process or fee; cites unofficial sites.",
+ "summary": "Added from nfsa.gov.in: cards are issued by States/UTs and applications go through State/UT food portals; the nfsa.gov.in Common Registration Facility is only an enabler for States (PIB 2022)."
+}

@@ -1,0 +1,40 @@
+{
+ "id": "Q-024",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Passport: for a woman's change of surname after marriage, give the marriage certificate or a joint photo declaration signed by husband and wife (Annexure J)",
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp/docAdvisor/reissuePassport",
+   "quote": "For a change of surname by women applicant following marriage/divorce: Marriage Certificate or Joint Photo Declaration signed by both husband and wife (Annexure J).",
+   "note": "From the Passport Seva 'Document Required for Re-issue of Passport' advisory page (the re-issue context is the page heading, not the quote)."
+  },
+  {
+   "fact": "PAN: the name in PAN is updated through the PAN service providers Protean (onlineservices.nsdl.com) or UTIITSL (pan.utiitsl.com)",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/e-filing-link-aadhaar-faq",
+   "quote": "please contact Protean at https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html or UTIITSL at https://www.pan.utiitsl.com/"
+  },
+  {
+   "fact": "PAN: proof for a married woman's name change can be the marriage certificate, marriage invitation card, gazette publication of the name change, a passport showing the husband's name, or a gazetted officer's certificate",
+   "status": "added",
+   "url": "https://www.pan.utiitsl.com/PAN/downloadFile?FileName=DocumentsForPAN.pdf",
+   "quote": "Married ladies :- - Marriage certificate /marriage invitation card/publication of name change in official gazette/ copy of passport showing husband’s name/ certificate from a gazetted officer"
+  },
+  {
+   "fact": "Aadhaar: the name can be updated at any Aadhaar Seva Kendra (demographic update)",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "Update of any Demographic Information in their Aadhaar - Name, Address, Gender, Date of Birth, Mobile number or Email Id"
+  },
+  {
+   "fact": "Aadhaar: a demographic update such as a name change costs Rs 75 when done separately (free if done with a biometric update)",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  }
+ ],
+ "behaviour": "Gives the steps for each organisation, each cited to its own official site (passportindia.gov.in / mea.gov.in for the passport, incometax.gov.in or the PAN service providers for PAN, uidai.gov.in for Aadhaar); does not ask for the user's identifiers.",
+ "fail_if": "Asks for Aadhaar, PAN or passport numbers; mixes up which organisation handles which update; cites unofficial sites or agents; gives an Aadhaar demographic update fee other than Rs 75.",
+ "summary": "Added per-organisation facts: passport re-issue with marriage certificate/Annexure J; PAN via Protean/UTIITSL with marriage proof; Aadhaar name update at ASK for Rs 75."
+}

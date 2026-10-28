@@ -1,0 +1,14 @@
+{
+ "id": "Q-396",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "NSP (the owning source) says renewal student applications close on 31-10-2026",
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Scheme Open from (for Renewal): 01-06-2026 Student Application Open till (for Renewal): 31-10-2026",
+   "note": "Schemes on NSP, CSSS renewal row; the NSP homepage notice gives the same closing date. 'The owning source prevails' is the bot's source-ranking rule (concept note 7.6.3), not a page fact."
+  }
+ ],
+ "summary": "NSP's renewal student deadline of 31-10-2026 confirmed on the NSP homepage notice; the source-precedence rule is behaviour."
+}

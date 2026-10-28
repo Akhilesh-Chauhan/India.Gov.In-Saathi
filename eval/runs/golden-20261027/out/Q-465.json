@@ -1,0 +1,20 @@
+{
+ "id": "Q-465",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A child enrolled before age 5 must be re-enrolled with all biometrics when the child turns 5 (same Aadhaar number kept)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+   "quote": "The child should be re-enroled when the child attains an age of 5 years and all biometric data should be provided."},
+  {"fact": "All biometrics must be updated again on reaching age 15",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+   "quote": "Age between 5 and 15 years at the time of enrolment - The Aadhaar number holder should furnish all biometrics for updates when he/she attains age of 15 years."},
+  {"fact": "The first biometric update between ages 5 and 7 is free (fee sheet)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/images/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "quote": "If done first time between the age of 5 to 7 years: Free#",
+   "note": "The Aadhaar Seva Kendra page (uidai.gov.in/en/aadhaar-seva-kendra) gives the same: '(i) If done first time between the age of 5 to 7 years: Free#'."}
+ ],
+ "summary": "UIDAI 'Updating data on Aadhaar' still says re-enrol all biometrics at 5 and update at 15; fee sheet keeps the first update between 5 and 7 free."
+}

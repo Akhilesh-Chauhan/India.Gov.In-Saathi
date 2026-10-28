@@ -1,0 +1,86 @@
+{
+ "id": "Q-046",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "An Indian citizen living abroad for employment, education etc. who has not acquired another country's citizenship and is otherwise eligible can enrol as an Overseas (NRI) Elector at the address in their passport",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Overseas-voters",
+   "quote": "You can enroll as a Overseas Elector/NRI Voter if you are a citizen of India, absent from the country owing to employment, education etc, has not acquired citizenship of any other country and are otherwise eligible to be registered as a voter in the address mentioned in your passport."
+  },
+  {
+   "fact": "Overseas electors enrol by filing Form 6A with the ERO/AERO of the constituency of the Indian address in their passport",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "He/she has to file an application for the purpose in prescribed Form 6A before the Electoral Registration Officer/Assistant Electoral Registration Officer of the constituency within which the place of ordinary residence of the applicant in India as given in his/her passport falls."
+  },
+  {
+   "fact": "Form 6A can be filed in person before the ERO/AERO, by post with self-attested copies, or online (ECI voter portal / Voter Helpline app)",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "can be filed in person before the concerned ERO/ AERO or sent by post addressed to him or can be filed online through NVSP portal/ VHA mobile app"
+  },
+  {
+   "fact": "Online registration is on ECI's portal voters.eci.gov.in",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Visit https://voters.eci.gov.in for voter registration."
+  },
+  {
+   "fact": "A paper Form 6A is filled in 2 copies; forms are free at Indian Missions",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "Fill Form 6A in 2 copies. Forms are also available free of cost in Indian Missions."
+  },
+  {
+   "fact": "Documents: a recent passport-size colour photo, copies of the passport pages with photo, Indian address and other particulars, and the page with the valid visa endorsement",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "One recent passport size coloured photograph, duly affixed in Form 6A, photo- copies of the relevant pages of the passport containing photograph, his address in India and all other particulars of the applicant and also the page of passport containing the valid visa endorsement."
+  },
+  {
+   "fact": "The BLO verifies the documents at the home address given in the passport",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "Booth Level Officer will visit the home address mentioned in your passport and enquire to verify the copies of documents"
+  },
+  {
+   "fact": "If no relative is available to verify, the documents are sent to the Indian Mission for verification",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "In cases where no relative is available or willing to give declaration for verification of documents, the documents will be sent for verification to the concerned Indian Mission"
+  },
+  {
+   "fact": "An overseas elector is not issued an EPIC and votes in person at the polling station on producing the original passport",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "An overseas (NRI) elector is not issued an EPIC as he is allowed to cast his vote in an election in the constituency, in person at the polling station on production of his original passport."
+  },
+  {
+   "fact": "There is no postal ballot for NRI voters now; ECI only says e-postal ballots 'shall soon be provided'",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "However, e- postal ballots shall soon be provided to NRI Voters.",
+   "note": "Searched eci.gov.in, pib.gov.in, egazette and sansad on 28 Oct 2026 for any notification of NRI postal or e-postal voting: none found. The current eci.gov.in/Overseas-voters page keeps 'How to Vote' in a collapsed section the code cannot read, so the old.eci.gov.in copy is quoted."
+  },
+  {
+   "fact": "A registered general voter must surrender the EPIC along with Form 6A",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/Documents/Final-ER-FAQ.pdf",
+   "quote": "The overseas elector should surrender EPIC, if already issued to him, in India, along with submission of Form 6 A."
+  },
+  {
+   "fact": "No person can be on more than one electoral roll",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "No person can be enrolled on more than one electoral roll"
+  },
+  {
+   "fact": "On returning to India the person can register as a general elector at their place of ordinary residence",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/voter/overseas-electors/",
+   "quote": "When you return to India you can register as general elector at your place of ordinary residence"
+  }
+ ],
+ "summary": "All values confirmed on ECI pages (Overseas voters page, ER FAQ PDF, old.eci.gov.in overseas page); no NRI postal/e-postal ballot notified as of 28 Oct 2026."
+}

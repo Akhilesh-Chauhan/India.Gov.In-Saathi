@@ -1,0 +1,17 @@
+{
+ "id": "Q-041",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Check whether your name is on the voter list at ECI's electoral search, https://electoralsearch.eci.gov.in/",
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Visit https://electoralsearch.eci.gov.in/ to see if you are registered to vote."},
+  {"fact": "The electoral search lets you search by EPIC number, by your details, or by mobile number",
+   "status": "added",
+   "url": "https://electoralsearch.eci.gov.in/",
+   "quote": "Search in Electoral Roll ईपीआईसी द्वारा खोजें / Search by EPIC विवरण द्वारा खोजें/ Search by Details मोबाइल द्वारा खोजें / Search by Mobile"}
+ ],
+ "behaviour": "Gives ECI's electoral search link with citation; replies in Hindi.",
+ "fail_if": "It gives a non-ECI or invented search link, or no citation.",
+ "summary": "ECI: search the roll at electoralsearch.eci.gov.in by EPIC, details or mobile."
+}

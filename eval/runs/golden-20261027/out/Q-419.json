@@ -1,0 +1,21 @@
+{
+ "id": "Q-419",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A learner's licence must be obtained first, before applying for the driving licence",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "If you are a Non-Diplomat: You have to apply for Learner's License, before proceeding for Driving License."},
+  {"fact": "The learner's licence requires passing the online test (STALL)",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Yes, you have to pass the online test (STALL Test) to get Learner's License. After the completion of its one month you need to appear for driving test to get your driving license."},
+  {"fact": "The permanent licence can be applied for after 30 days of the learner's licence, which is valid 6 months",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "What is the validity of Learner License? Learner's License validity is for 6 Months, and you can apply for New Driving License after 30 days."},
+  {"fact": "Permanent DL steps on Sarathi: select the State, 'New Driving Licence' in the Driving Licence menu, enter the LL number and date of birth, fill the form, then visit the RTO on the scheduled date with original documents and fee slip",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "3. Click on \"New Driving Licence\" from \"Driving Licence\" menu 4. Enter your \"Learning License Number\" & \"Date of Birth\" to proceed further 5. Fill up application Form 6.Click on Next Button to proceed 7. Visit RTO on scheduled date with original documents & Fee Slip"}
+ ],
+ "behaviour": "Asks only what changes the answer (G09): up to two chip questions with free text beside them (learner's or permanent licence? which vehicle class / age?); never assumes age or State. Then gives the steps on Sarathi (sarathi.parivahan.gov.in) with the link and the next step.",
+ "fail_if": "Assumes the user's age or State; asks more than two questions before answering; skips the learner's licence stage.",
+ "summary": "Added the LL-then-DL path from the Parivahan FAQ (LL first, online STALL test, 30 days/6 months, Sarathi New Driving Licence steps)."
+}

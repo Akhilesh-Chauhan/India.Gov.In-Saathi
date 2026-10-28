@@ -1,0 +1,13 @@
+{
+ "id": "Q-328",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS, under NSAP): for persons aged 60 and above from families below the poverty line", "status": "added", "example": true, "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf", "quote": "The Indira Gandhi National Old Age Pension Scheme extends financial assistance to elderly citizens aged 60 years and above who belong to families living below the poverty line by the Government of India."},
+  {"fact": "IGNOAPS pays Rs 200 a month from the Centre for ages 60-79", "status": "added", "example": true, "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf", "quote": "Under this scheme, individuals between 60 and 79 years of age receive Rs.200 per month from the Central Government"},
+  {"fact": "Indira Gandhi National Widow Pension Scheme (IGNWPS, under NSAP): for widows aged 40-79 from families below the poverty line", "status": "added", "example": true, "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf", "quote": "Under this scheme, financial assistance is extended to widows aged between 40 and 79years who belong to families living below the poverty line, as identified by the Government of India."},
+  {"fact": "IGNWPS pays Rs 300 a month as central assistance for widows aged 40-79", "status": "added", "example": true, "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf", "quote": "Each eligible beneficiary in this age group receives Rs.300 per month as central assistance."}
+ ],
+ "behaviour": "Lists matching Central schemes (e.g. IGNOAPS, IGNWPS under NSAP) with their published criteria and a myScheme eligibility link; makes no eligibility determination (e.g. BPL status decides it). The schemes may be named IGNOAPS / IGNWPS / NSAP or by their new names, Pradhan Mantri Vridhavastha Pension Yojana / Pradhan Mantri Vidhawa Pension Yojana / Pradhan Mantri Samajik Sahayata Yojana (renamed by the Cabinet, PIB 14 Oct 2026, PRID 2323264), as accepted in Q-459/Q-460.",
+ "fail_if": "Declares the user eligible or ineligible; invents amounts; omits the BPL condition when giving the amounts; cites unofficial sites.",
+ "summary": "Added NSAP facts (PIB Nov 2025): IGNOAPS 60+ BPL Rs 200 (60-79); IGNWPS widows 40-79 BPL Rs 300."
+}

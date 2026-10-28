@@ -1,0 +1,12 @@
+{
+ "id": "Q-277",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Tribal forest-produce (NTFP) gatherers or artisans join as members of a tribal SHG / Van Dhan Kendra of up to 20 members; 15 such groups form a VDVK cluster of about 300 beneficiaries", "status": "added", "url": "https://trifed.tribal.gov.in/en/pmvdy", "quote": "A VDVK Cluster shall constitute of 15 tribal SHGs / Van dhan Kendras, each comprising of up to 20 tribal NTFP gatherers or artisans i.e. about 300 beneficiaries per Cluster."},
+  {"fact": "Each tribal gatherer member contributes Rs 1,000 to instil ownership", "status": "added", "url": "https://trifed.tribal.gov.in/en/pmvdy", "quote": "Tribal Gatherer Contribution of Rs.1000 / member to instil ownership"},
+  {"fact": "The scheme is implemented by TRIFED as the nodal agency at the national level", "status": "added", "url": "https://trifed.tribal.gov.in/en/pmvdy", "quote": "Implemented by TRIFED as the nodal agency at the national level, the Van Dhan start ups is a well thought master plan for the socio-economic development of the tribal population of the country."}
+ ],
+ "behaviour": "Answers in Hindi with the joining process as published by TRIFED (trifed.tribal.gov.in, Van Dhan Yojana page), cited.",
+ "fail_if": "It invents an online application form, fee or eligibility rule not on TRIFED's pages, or cites an unofficial site.",
+ "summary": "Added from TRIFED's PMVDY page: join through a tribal SHG / Van Dhan Kendra (up to 20 members, 15 groups per ~300-member cluster), Rs 1,000 member contribution, TRIFED nodal agency."
+}

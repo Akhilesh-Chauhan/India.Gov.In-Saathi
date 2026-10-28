@@ -1,0 +1,37 @@
+{
+ "id": "Q-168",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.data.gov.in/resource/stateut-wise-details-beneficiaries-direct-benefit-transfer-dbt-mode-received-benefits",
+   "final": "https://www.data.gov.in/resource/stateut-wise-details-beneficiaries-direct-benefit-transfer-dbt-mode-received-benefits",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:59:36+05:30",
+   "sha256": "e260c602233e9b463b692c8c1b9caa5140504c4a92d75455b87690647b2c6a3e",
+   "copy": "c918b0f1ff0199f01bd2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Rpt_BeneficiaryStatus_pub.aspx",
+   "final": "https://pmkisan.gov.in/Rpt_BeneficiaryStatus_pub.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:04+05:30",
+   "sha256": "cbb2cd8ff486c1f4a3a918b840382b2991838549ad9f4d21ae7693090b80f1ad",
+   "copy": "f9d6cbc7c9dafb820735.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

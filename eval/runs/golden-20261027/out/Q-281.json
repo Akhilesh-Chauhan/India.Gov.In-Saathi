@@ -1,0 +1,27 @@
+{
+ "id": "Q-281",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Institute verification of NSP applications for 2026-27 is open till 15-11-2026 for the schemes whose student applications close on 31-10-2026 (e.g. National Means-cum-Merit Scholarship)",
+   "status": "confirmed", "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "National Means Cum Merit Scholarship (Merit Based Scheme) by Department of School Education & Literacy --> Scheme Open from : 01-06-2026 Student Application Open till : 31-10-2026 Defective Application Verification Open till:15-11-2026 Institute Verification Open till:15-11-2026"},
+  {"fact": "Defective-application verification has the same last date, 15-11-2026",
+   "status": "confirmed", "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Defective Application Verification Open till:15-11-2026 Institute Verification Open till:15-11-2026"},
+  {"fact": "District/State/Ministry (DNO/SNO/MNO) verification is open till 30-11-2026",
+   "status": "confirmed", "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Institute Verification Open till:15-11-2026 DNO/SNO/MNO Verification Open till:30-11-2026"},
+  {"fact": "Exception: for PM YASASVI Top Class Education in Schools for OBC, EBC and DNT students (opened 22-10-2026), defective-application and institute verification run till 15-12-2026",
+   "status": "changed", "was": "institute verification till 15-11-2026, with no exception",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme) by Department of Social Justice & Empowerment(Backward Classes) --> Scheme Open from : 22-10-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026"},
+  {"fact": "For that PM YASASVI schools scheme, DNO/SNO/MNO verification runs till 31-12-2026",
+   "status": "changed", "was": "district/State/Ministry verification till 30-11-2026, with no exception",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "quote": "Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
+   "note": "Only the PM YASASVI schools row on the page carries these dates."}
+ ],
+ "behaviour": "Gives 15-11-2026 as the last date for institute verification (and defective-application verification) and 30-11-2026 for district/State/Ministry verification, citing scholarships.gov.in (Schemes on NSP or the homepage notice) with the date checked; notes that the PM YASASVI Top Class Education in Schools scheme has later dates (institute verification 15-12-2026). Must cite NSP, not a news site.",
+ "fail_if": "Gives an institute verification date other than 15-11-2026 for the regular schemes; cites a news or third-party site instead of NSP.",
+ "summary": "15-11-2026 institute/defective and 30-11-2026 L2 verification confirmed on NSP; new exception for PM YASASVI schools (opened 22-10-2026): institute 15-12-2026, L2 31-12-2026."
+}

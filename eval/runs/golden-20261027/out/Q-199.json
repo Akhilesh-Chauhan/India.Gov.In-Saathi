@@ -1,0 +1,12 @@
+{
+ "id": "Q-199",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under DFPD's instructions to States, the fair price shop dealer must ensure that no genuine beneficiary is denied foodgrains because biometric (fingerprint) authentication fails", "status": "added", "url": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf", "quote": "shall ensure that no genuine beneficiary is denied foodgrains due to failure of biometric authentication."},
+  {"fact": "Beneficiaries whose biometric e-KYC is denied after repeated attempts are flagged for physical verification", "status": "added", "url": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf", "quote": "Beneficiaries whose eKYC is denied due to biometric authentication failure, after repeated attempts, will be also flagged for physical verification."},
+  {"fact": "Iris-based authentication, besides fingerprint, may be provided on the e-PoS to improve the success rate", "status": "added", "url": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf", "quote": "Note: Finger as well as IRIS based e-KYC facility may be provided to ensure better success rate"}
+ ],
+ "behaviour": "States only the provisions in official NFSA/DFPD instructions (no denial for genuine beneficiaries when fingerprint authentication fails; iris option; physical verification), with a citation, and directs the user to the State food department/helpline for the State's exception or nominee procedure; if a provision (e.g. a nominee facility) is not found in an official source, says so rather than inventing it.",
+ "fail_if": "It invents a central nominee or proxy procedure; says the beneficiary will lose ration if fingerprints fail; gives a made-up helpline; cites unofficial sites.",
+ "summary": "Added from DFPD's e-KYC advisory compilation (25.06.2024): no genuine beneficiary to be denied grain for biometric failure; repeated failures go to physical verification; iris option. No central nominee provision found."
+}

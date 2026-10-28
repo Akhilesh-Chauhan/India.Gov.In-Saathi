@@ -1,0 +1,37 @@
+{
+ "id": "Q-083",
+ "checked_at": "2026-10-28T14:02:49+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://passbook.epfindia.gov.in/",
+   "final": "https://passbook.epfindia.gov.in/MemberPassBook/login",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:31+05:30",
+   "sha256": "c948ad6387269891e68cf8034ab41f3443beb06314677d7335e04b147b00ef01",
+   "copy": "3ed283d316e08667e701.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/epfo.html",
+   "final": "https://web.umang.gov.in/landing/department/epfo.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:43+05:30",
+   "sha256": "4e5eae067aa32e4ada0eb6c03586c0d2648af6800df2d59320a740ed32d1fe74",
+   "copy": "dab15b52bcfaecfed0cd.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

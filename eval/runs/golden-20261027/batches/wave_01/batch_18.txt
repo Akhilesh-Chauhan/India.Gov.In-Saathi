@@ -1,0 +1,207 @@
+=== Q-244 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmayg.dord.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: गांव में पक्का घर बनाने के लिए सरकार कितना पैसा देती है?
+EXPECTED ANSWER NOW:
+Answer: Under Pradhan Mantri Awaas Yojana-Gramin (PMAY-G), unit assistance for building a pucca house is Rs 1.20 lakh in plain areas and Rs 1.30 lakh in hilly states, difficult areas and IAP districts. The beneficiary is also entitled to 90-95 person-days of unskilled labour under MGNREGS. Toilet support comes through convergence with SBM-G/MGNREGS (SBM-G IHHL incentive is Rs 12,000). Minimum house size is 25 sq m including a hygienic cooking space. The cost is shared Centre:State 60:40 in plains and 90:10 for North-Eastern and Himalayan States. Beneficiaries are selected from SECC-2011/Awaas+ based Permanent Wait Lists verified by the Gram Sabha.
+Behaviour: Gives the PMAY-G amounts with citation. Does not determine whether the user is eligible or on the wait list. Refers to the Gram Panchayat / Block office or the pmayg.dord.gov.in beneficiary search.
+Fail if: gives PMAY-U figures (Rs 1.5/2.5 lakh) for rural; gives the old IAY Rs 70,000/75,000; says the amount is Rs 2.5 lakh or a home loan; omits the hilly-area Rs 1.30 lakh; invents a new increased unit amount.
+VERIFICATION NOTES: Rural query in Hindi. Do not confuse with PMAY-U. As on 15-10-2026 the PMAY-G home shows Phase-II progress and Awaas+ 2024 survey circulars, but no revision of unit assistance.
+SOURCES FOUND EARLIER:
+https://pmayg.dord.gov.in/netiayHome/about.aspx - Unit assistance Rs 1.20 lakh plains / Rs 1.30 lakh hilly states, difficult areas, IAP districts; 90-95 person-days MGNREGS; 25 sq m; 60:40 and 90:10 sharing; SECC-based PWL [crawled]
+https://swachhbharatmission.ddws.gov.in/faq - IHHL incentive Rs 12,000 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 1.20 lakh in plain areas | Rs 1.30 lakh in hilly states, difficult areas and IAP districts | plus 90-95 person-days of unskilled labour under MGNREGS | toilet support Rs 12,000 through SBM-G/MGNREGS
+
+=== Q-245 | P2 | English | Scheme / fact detail (6.2) | expected site: pmayg.dord.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many PMAY-G houses have been completed so far?
+EXPECTED ANSWER NOW:
+Figure with as-on date from pmayg dashboard.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): number of PMAY-G houses completed, with as-on date
+
+=== Q-416 | P1 | English | Insufficient sources (7.6.5) | expected site: pmayg.dord.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many PMAY-G houses were completed in Sitapur district last month?
+EXPECTED ANSWER NOW:
+Admit when unsure (G06): if the figure is not in its sources, says what it searched, links the closest official page (PMAY-G dashboard / MIS) and gives the owning organisation's helpline; never invents a number.
+
+=== Q-247 | P1 | Hinglish (romanised Hindi) | Personal record (6.2) | expected site: pmaymis.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: awas yojana ka paisa kab milega, list me naam hai
+EXPECTED ANSWER NOW:
+Cannot check; status-tracking link; grievance route.
+
+=== MT-04 | conversation | Hindi (Devanagari) | Crop loss from hailstorm | facts from Q-176 | expected site: pmfby.gov.in
+USER TURNS: ओले से फसल खराब हो गई, क्या करूं? / हां, फसल बीमा है
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: May ask whether the crop is insured under PMFBY; gives the reporting time limit up front because it is urgent.
+Turn 2: Intimation within the time limit and the official channels; link + PMFBY source card + next step.
+
+=== Q-174 | P0 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: रबी 2026-27 की फसल बीमा के लिए आखिरी तारीख क्या है?
+EXPECTED ANSWER NOW:
+Answer: PMFBY has no single national last date for Rabi 2026-27. Each State/UT notifies cut-off dates district-wise and crop-wise in its PMFBY notification, based on the crop calendar. The cut-off date is the same for loanee and non-loanee farmers. Under the Operational Guidelines (2020 revamped and 2023), the Rabi enrolment cut-off 'normally may not be beyond 15th December' (Kharif 15 July, summer 15 Feb). States are encouraged to prepone dates, and extensions are not normally allowed. Loanee farmers who want to opt out must tell their bank at least 7 days before the cut-off date. The public pages of pmfby.gov.in (home, FAQ, Circulars) do not publish a State/crop-wise Rabi 2026-27 schedule; the latest seasonal notification in the Circulars list is from 2018. The farmer should check the State notification, the bank/CSC, the insurance company, or the Krishi Rakshak helpline 14447.
+Behaviour: no single date invented; explains that dates are State/crop-wise; cites the guideline rule (normally not beyond 15 Dec for Rabi) and points to the State notification / 14447; says the specific schedule is not published on the public pages of pmfby.gov.in.
+Fail if: states '31 December 2026' as the national last date (third-party sites repeat this); gives one date for all States; cites the FAQ's 'Last date for Crop Insurance Kharif Season: 10 August 2016' or other stale dates; cites sarkariyojana/Facebook/Scribd.
+VERIFICATION NOTES: Unverified: Not found on any official public page: the actual State/crop-wise Rabi 2026-27 cut-off dates. They sit in State notifications on NCIP (behind login/JavaScript) or in State government notifications (a Haryana notification exists only on Scribd). The portal JavaScript has a default RABI cut-off of 31/12, but it is not published as a fact.
+Trap: blogs say 'Rabi 2026-27 opens 15 Oct 2026, closes 31 Dec 2026'. That date is unofficial, and the guideline limit is 15 Dec. Stale trap: the pmfby.gov.in FAQ Q7 says the Kharif last date is 10 Aug 2016. Bihar rejoins PMFBY from Rabi 2026-27 (news only).
+SOURCES FOUND EARLIER:
+https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf - Para on seasonality: Rabi cut-off normally not beyond 15 December; cut-off uniform for loanee and non-loanee; opt-out at least 7 days before cut-off [crawled]
+https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf - OG 2023 Para 16.1-16.5: District-wise crop-wise cut-off dates per crop calendar; normally not beyond 15 Dec for Rabi; States to consider preponing; no extension requests [not-available]
+https://pmfby.gov.in/circulars - Circulars list has no Rabi 2026-27 notification (latest seasonal notifications are 2017-2018) [crawled]
+https://pmfby.gov.in/faq - FAQ only gives stale 'Last date ... Kharif 10 August 2016' [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no single national date: States/UTs notify cut-offs by district and crop | guideline: Rabi enrolment cut-off normally not beyond 15 December
+
+=== Q-175 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: fasal bima ka premium kitna lagta hai
+EXPECTED ANSWER NOW:
+Answer: Under PMFBY the most a farmer pays is a share of the Sum Insured (SI), and it is the lower of that rate or the actuarial rate: Kharif foodgrain and oilseed crops (all cereals, millets, pulses, oilseeds) 2.0%; Rabi foodgrain and oilseed crops 1.5%; annual commercial / annual horticultural crops (Kharif and Rabi) 5%; perennial horticultural/commercial crops (pilot basis) 5% (OG 2023). The rest of the actuarial premium is paid as subsidy by the Centre and the State: 50:50, or 90:10 in Himalayan/North-Eastern States. Some States subsidise the farmer share further. The premium for a specific crop/district can be checked with the 'Insurance Premium Calculator' on pmfby.gov.in. Non-loanee premium is rounded off to the nearest rupee.
+Behaviour: rates cited to pmfby.gov.in FAQ / Operational Guidelines; makes clear these are maximum rates, 'or actuarial rate, whichever is less'; does not compute a personal premium without crop/district data.
+Fail if: says the farmer pays a flat 2% in every season; leaves out 'whichever is less'; gives 5% for Rabi wheat; invents rupee amounts per acre.
+VERIFICATION NOTES: The expected text is right. Add the 'or actuarial rate, whichever is less' qualifier. Some States (e.g., ones with preferential universalization) make the farmer share zero or a token amount.
+SOURCES FOUND EARLIER:
+https://pmfby.gov.in/faq - Q8 table: Kharif 2.0%, Rabi 1.5%, annual commercial/horticultural 5% of SI or actuarial rate, whichever is less [crawled]
+https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf - Premium rate table (1.5% Rabi etc.) [crawled]
+https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf - Table 1 incl. perennial horticulture 5% pilot; subsidy 50:50 / 90:10 [not-available]
+https://pmfby.gov.in/premiumCalculator - Insurance Premium Calculator [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Kharif foodgrain/oilseed crops: up to 2% of sum insured | Rabi foodgrain/oilseed crops: up to 1.5% | annual commercial/horticultural crops: up to 5% | these are maximums: farmer pays this or the actuarial rate, whichever is less
+
+=== Q-176 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: ओले से फसल खराब हो गई, कितने घंटे में सूचना देनी है और कहां?
+EXPECTED ANSWER NOW:
+Answer: Hailstorm is a 'localized calamity' covered at individual farm level for an insured farmer. The farmer must report the loss within 72 hours of the event. The first-choice channels are the 'Crop Insurance App' and the centralised toll-free Krishi Rakshak Portal & Helpline (KRPH) 14447. The loss can also be reported through the bank branch where the premium was paid, or local agriculture department / district officials; these forward it to the insurance company within 48 hours. The intimation should give the farmer's name, the affected survey number / land parcel, crop and area, the application number from NCIP, mobile number, and the KCC account (loanee) or savings account (non-loanee). The PMFBY WhatsApp chatbot (7065514447) is shown on the portal for support. Post-harvest losses from hailstorm, for crops kept in 'cut and spread' condition for up to 14 days, are also reported within 72 hours.
+Behaviour: procedure and time limit cited to PMFBY guidelines/portal; applies only to insured farmers; no claim amount promised.
+Fail if: says 48 hours or 7 days; gives only the insurance company number or the Kisan Call Centre 1551; leaves out the Crop Insurance App / 14447; says hailstorm losses are only assessed area-wide.
+VERIFICATION NOTES: The 2020 guidelines (crawled host) name the toll-free number generically. The specific 14447 / KRPH appears on the pmfby.gov.in home page and in OG 2023, which is hosted on pmfby.amnex.co.in (not crawled).
+SOURCES FOUND EARLIER:
+https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf - Paras 21.5.5.1 and 21.6.6.4: intimation within 72 hours via Crop Insurance App or KRPH 14447; bank/officials forward within 48 hours; required details [not-available]
+https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf - Immediate intimation within 72 hours via Crop Insurance App / toll-free number / bank [crawled]
+https://pmfby.gov.in/ - Header: KRPH 14447, WhatsApp ChatBot 7065514447; 'Report loss of Crop. Call us at 14447' [crawled]
+https://pmfby.gov.in/faq - Q10: localized calamities (hailstorm, landslide, inundation) covered at individual farm level; post-harvest coverage up to 14 days [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): report the loss within 72 hours of the hailstorm | report via the Crop Insurance App or KRPH toll-free 14447 | or through the bank, local agriculture department or district officials
+
+=== Q-177 | P2 | English | Current rule or circular (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Is PMFBY compulsory for farmers who have a crop loan?
+EXPECTED ANSWER NOW:
+Answer: No. Since the revamp (Kharif 2020), PMFBY is optional for all farmers, including loanee farmers with a KCC/crop loan. An existing loanee farmer who does not want cover must give a written opt-out declaration to the bank branch that sanctioned the loan. This can be done any time in the year, but at least 7 days before the season's enrolment cut-off date. A loanee farmer who does not submit the declaration is covered automatically: the premium is debited by the bank. A farmer whose KCC loan has become sub-standard is not treated as a loanee and may enrol as a non-loanee. A crop loan taken only against FD/gold or other collateral, without insurable interest in the land and crop, is not eligible.
+Behaviour: cites PMFBY Operational Guidelines; explains the auto-enrolment default and the opt-out deadline.
+Fail if: says it is compulsory for loanees (the pre-2020 rule); leaves out that loanees are auto-enrolled unless they opt out; gives the wrong opt-out deadline.
+VERIFICATION NOTES: Trap: old pre-2020 content says it is compulsory for loanees. 'Voluntary with opt-out' means a loanee is enrolled by default.
+SOURCES FOUND EARLIER:
+https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf - Para 3.1.1.1: optional for all farmers incl. loanees; opt-out at least seven days prior to cut-off [crawled]
+https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf - Paras 3.1.1.1-3.1.1.3, 3.1.2; Annexure VI opt-out form [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no: PMFBY is voluntary for all farmers, including loanees, since Kharif 2020 | loanee opts out by written declaration to the bank at least 7 days before cut-off | loanees who do not opt out are enrolled automatically (premium debited)
+
+=== Q-178 | P2 | English | Scheme / fact detail (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How much PMFBY claim was paid in Maharashtra last year?
+EXPECTED ANSWER NOW:
+Only cited figures with season/date; else not found.
+
+=== Q-179 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: बटाई पर खेती करता हूं, क्या मुझे फसल बीमा मिलेगा?
+EXPECTED ANSWER NOW:
+Answer: Yes, possibly. Under PMFBY, all farmers including sharecroppers and tenant farmers who grow notified crops in notified areas are eligible, provided they have an insurable interest in the crop and land. They must submit the documents the State/UT has notified for sharecroppers/tenants, such as the land record (RoR/LPC) and/or the contract/agreement or other permitted document; each State defines these in its notification. Aadhaar and a declaration of the crop sown are also required. Farmers cultivating forest land under FRA, and community land in NE States with certification from the village head, can also be covered. Enrolment is through a bank, CSC, insurance company/intermediary, or the Farmer Corner on pmfby.gov.in, before the State's cut-off date.
+Behaviour: no personal eligibility verdict; explains the conditions and that the State notification decides the documents.
+Fail if: says sharecroppers/tenants are not eligible; says only landowners can insure; invents a fixed document list that applies nationwide.
+VERIFICATION NOTES: The documents for sharecroppers differ by State notification.
+SOURCES FOUND EARLIER:
+https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf - Para 3.1: all farmers incl. sharecroppers and tenant farmers eligible with documentary evidence notified by State [crawled]
+https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf - Para 3.1 incl. FRA and community land; Para 3.2 universal coverage incl. tenants/sharecroppers [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes: sharecroppers and tenant farmers are eligible | must have an insurable interest in the crop and land | documents are those the State notifies (land record, agreement etc.) | enrol via bank, CSC, insurer or pmfby.gov.in Farmer Corner before the cut-off
+
+=== Q-180 | P2 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: fasal bima ka helpline number kya hai
+EXPECTED ANSWER NOW:
+Answer: The PMFBY helpline is the Krishi Rakshak Portal & Helpline (KRPH), toll-free 14447, for queries, grievances and reporting crop loss. There is also the PMFBY WhatsApp ChatBot on 7065514447. Both appear in the pmfby.gov.in header. Grievances can also be raised on the KRPH portal (pmfby.gov.in/krph).
+Behaviour: numbers exactly as on pmfby.gov.in, with citation.
+Fail if: gives the Kisan Call Centre 1800-180-1551 / 1551, an old PMFBY landline, or insurance-company numbers as the PMFBY helpline; swaps or garbles the WhatsApp number.
+SOURCES FOUND EARLIER:
+https://pmfby.gov.in/ - 'WhatsApp ChatBot - 7065514447 | Krishi Rakshak Portal & Helpline (KRPH) - 14447'; 'Raise Queries ... Call us at 14447' [crawled]
+https://pmfby.gov.in/faq - Same header numbers [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Krishi Rakshak Portal & Helpline toll-free 14447 | PMFBY WhatsApp chatbot 7065514447
+
+=== Q-181 | P2 | English | Scheme / fact detail (6.2) | expected site: pmfby.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which technology does PMFBY use for yield estimation - YES-TECH, CROPIC?
+EXPECTED ANSWER NOW:
+Only as described on PMFBY, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): YES-TECH: technology/remote-sensing based yield estimation | CROPIC: periodic geo-tagged crop photos supporting YES-TECH
+
+=== Q-315 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmfme.mofpi.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: अचार-पापड़ यूनिट लगाने के लिए सरकार से कितनी सब्सिडी मिलती है?
+EXPECTED ANSWER NOW:
+Answer: Under the PM Formalisation of Micro Food Processing Enterprises (PMFME) scheme of the Ministry of Food Processing Industries, individual micro food processing units (pickle, papad, etc.) get a credit-linked capital subsidy of 35% of the eligible project cost, up to a maximum of Rs 10 lakh per unit. This applies to upgrading an existing unit or setting up a new unit, as stated on the PMFME portal. Conditions (scheme guidelines/FAQ): the beneficiary contributes at least 10% of project cost and the balance is a bank loan, so the subsidy is credit-linked, not a cash grant. The applicant must be above 18 years with at least Class VIII pass. Only one person per family (self, spouse, children). The enterprise must be proprietary or partnership, unincorporated, with fewer than 10 workers. Land cost is excluded; a rented or leased workshed is allowed (lease up to 3 years). Preference goes to the district's ODOP product. The subsidy goes into a mirror account and is credited after 3 years if the loan stays standard and the unit operates. There is no application fee, and free district resource-person help is available for the DPR and bank loan. SHG members can get seed capital of Rs 40,000 per member (max Rs 4 lakh per SHG). Groups/FPOs/cooperatives can get 35% up to Rs 3 crore for common infrastructure. Apply online on pmfme.mofpi.gov.in ('Applicant Registration (New User)').
+Behaviour: Gives figures with a citation to the PMFME portal/guidelines. Gives no eligibility verdict. Says it is a bank-loan-linked subsidy.
+Fail if: Says it is a 35% grant without a loan; gives a Rs 10 lakh subsidy regardless of project cost; says 50% or 90% subsidy; says new units are allowed only for ODOP products without noting the portal's current wording; asks for fees/agents; confuses it with PMEGP.
+VERIFICATION NOTES: Unverified: The current scheme period: the guidelines/FAQ say 2020-21 to 2024-25, while the portal is active with 2026 newsletters, but no extension notice was read.
+Conflict: the 2020 guidelines/FAQ (para 2.5) say new units are supported only for ODOP products, while the current portal says 'upgradation or setting up of new units' for individuals without that restriction. The portal homepage is JavaScript-rendered and may not be in the crawl. The FAQ also uses the stale MSME micro definition (Rs 1 crore/5 crore).
+SOURCES FOUND EARLIER:
+https://pmfme.mofpi.gov.in/pmfme/#/Home-Page - CLSS @35% max Rs 10 lakh per unit for upgradation or new units; seed capital Rs 40,000/member max Rs 4 lakh/SHG; groups 35% max Rs 3 crore; applicant registration [crawled]
+https://pmfme.mofpi.gov.in/newsletters/docs/SchemeGuidelines.pdf - Para 4.1-4.2: 35%/Rs 10 lakh, min 10% own contribution, eligibility conditions [crawled]
+https://pmfme.mofpi.gov.in/massets/documents/login/login_faq.pdf - FAQ: 35%/Rs 10 lakh, seed capital Rs 40,000, subsidy credited after 3 years, no application fee, 18+/Class VIII [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PMFME scheme (Ministry of Food Processing Industries) | 35% credit-linked capital subsidy on eligible project cost | maximum Rs 10 lakh per unit | bank-loan-linked: own contribution at least 10%, rest a bank loan
+
+=== Q-231 | P0 | English | Service procedure (6.2) | expected site: pmjay.gov.in (Not available)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I get the Ayushman Vay Vandana card for people above 70?
+EXPECTED ANSWER NOW:
+pmjay.gov.in / beneficiary.nha.gov.in not ingested: answer only from ingested pages (abdm/nhm/PIB) with citation, else says source not available and links NHA site.
+
+=== Q-140 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: pmjdy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: जीरो बैलेंस खाता कैसे खुलेगा? क्या कागज चाहिए?
+EXPECTED ANSWER NOW:
+PMJDY account opening and documents, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): zero-balance basic savings (PMJDY) account with no minimum balance | open by submitting the form with KYC at a bank branch or Business Correspondent | documents: proof of identity and address, or Aadhaar
+
+=== Q-141 | P1 | English | Scheme / fact detail (6.2) | expected site: pmjdy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What insurance comes free with a Jan Dhan RuPay card?
+EXPECTED ANSWER NOW:
+Answer: A PMJDY account holder's free RuPay debit card carries in-built accident insurance (accidental death/disability) of Rs 2 lakh for PMJDY accounts opened after 28.8.2018. For accounts opened up to 28.8.2018 the cover is Rs 1 lakh. There is no premium. Separately, a life cover of Rs 30,000 was given only to people who opened their first account with a RuPay card between 15.08.2014 and 26.01.2015 (head/earning member aged 18-59); it is a closed legacy benefit, not something new accounts get. Jan Dhan account holders can also join PMJJBY (Rs 436/yr, Rs 2 lakh life cover) and PMSBY (Rs 20/yr, Rs 2 lakh accident cover), but these are paid schemes, not free.
+Behaviour: cite pmjdy.gov.in with the 28.8.2018 cut-off; separate the free RuPay accident cover from the paid PMJJBY/PMSBY; do not say whether the user's claim is admissible.
+Fail if: says Rs 2 lakh for all accounts, or Rs 1 lakh for all, without the cut-off; presents the Rs 30,000 life cover as currently available; calls PMSBY/PMJJBY free; invents claim conditions without citation.
+VERIFICATION NOTES: Unverified: Current claim condition (a RuPay card transaction within 90 days before the accident) was not found on an official crawled page. Do not include it unless cited.
+pmjdy.gov.in About page still says 'accident insurance cover of Rs 1 lakh' (2014 text); the Scheme page has the cut-off. PIB 2026 says Rs 2 lakh without the cut-off. Golden answer requires the cut-off.
+SOURCES FOUND EARLIER:
+https://pmjdy.gov.in/scheme - Accident cover Rs 1 lakh, enhanced to Rs 2 lakh for new PMJDY accounts opened after 28.8.2018, with the RuPay card [crawled]
+https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf - 2018 decision: accident cover raised from Rs 1 lakh to Rs 2 lakh for new accounts after 28.8.18 [crawled]
+https://pmjdy.gov.in/files/QuickLinks/guide.pdf - Rs 30,000 life cover limited to first accounts opened 15.08.2014-26.01.2015, ages 18-59 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303643 - 27.08.2026 (12 years of PMJDY): free RuPay card with Rs 2 lakh accident cover [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): free in-built accident cover Rs 2 lakh for PMJDY accounts opened after 28.8.2018 | Rs 1 lakh cover for accounts opened up to 28.8.2018 | no premium is charged for the cover
+
+=== Q-142 | P2 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: pmjdy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: jan dhan khate pe overdraft kitna milta hai
+EXPECTED ANSWER NOW:
+Answer: Eligible PMJDY account holders can get an overdraft (OD) of up to Rs 10,000 (raised from Rs 5,000 in 2018). OD up to Rs 2,000 has no conditions attached. Above that, the bank applies its own eligibility conditions. The age limit for OD is 18-65 years (raised from 18-60). The OD is granted by the bank, so the account holder should ask their bank branch.
+Behaviour: give the limit and conditions with citation (pmjdy.gov.in / DFS); say the bank decides eligibility above Rs 2,000; give no verdict on the user's eligibility; cannot see the user's account.
+Fail if: says Rs 5,000 (pre-2018 limit); says every account gets Rs 10,000 automatically; gives an age limit of 60; invents an interest rate or a '6 months satisfactory operation' rule without citation.
+VERIFICATION NOTES: Unverified: The bank-level eligibility conditions for OD above Rs 2,000 are not published on the crawled pages.
+SOURCES FOUND EARLIER:
+https://pmjdy.gov.in/scheme - OD facility up to Rs 10,000 to eligible account holders [crawled]
+https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf - OD raised Rs 5,000 to Rs 10,000; no conditions up to Rs 2,000; age limit 18-65 [crawled]
+https://financialservices.gov.in/pradhan-mantri-jan-dhan-yojana-pmjdy - Overdraft up to Rs 10,000 subject to eligibility conditions [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303643 - 27.08.2026: OD up to Rs 10,000 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): overdraft up to Rs 10,000 (raised from Rs 5,000) | OD up to Rs 2,000 has no conditions | OD age limit 18-65 years
+
+=== Q-143 | P2 | English | Scheme / fact detail (6.2) | expected site: pmjdy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many PMJDY accounts are there as of the latest update?
+EXPECTED ANSWER NOW:
+Figure with as-on date from pmjdy.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): total PMJDY accounts with its as-on date
+
+=== Q-144 | P2 | English | Scheme / fact detail (6.2) | expected site: pmjdy.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: is jan dhan account only for poor people?
+EXPECTED ANSWER NOW:
+Corrects per PMJDY eligibility, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no: PMJDY is for every unbanked adult, with no income limit

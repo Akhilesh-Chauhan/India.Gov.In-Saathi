@@ -1,0 +1,20 @@
+{
+ "id": "Q-128",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "DEA's Office Memorandum 'Revision of interest rates for Small Savings Schemes for Q3 2026-27' is dated 30.09.2026 (dea.gov.in/files/budget_division_documents/R.pdf)",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"
+  },
+  {
+   "fact": "The 30.09.2026 OM keeps Q3 FY 2026-27 (1 Oct - 31 Dec 2026) small savings rates unchanged from those notified for Q2",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter",
+   "note": "DEA OM F.No.1/4/2019-NS dated 30.09.2026, read by OCR of the scanned PDF."
+  }
+ ],
+ "summary": "DEA OM dated 30.09.2026 (R.pdf) confirmed; its OCR text says Q3 2026-27 rates remain unchanged from Q2."
+}

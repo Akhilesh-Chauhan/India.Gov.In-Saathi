@@ -1,0 +1,52 @@
+{
+ "id": "Q-399",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292460&reg=3&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292460&reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:22:15+05:30",
+   "sha256": "b8b51d695c22fd9268674247fde7fd52200a7aa83aa39b64b1dbc2ee578e7b30",
+   "copy": "8f36b1d595e1b26af885.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmfby",
+   "final": "https://www.myscheme.gov.in/schemes/pmfby",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:22:20+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "04a0dd3cfc3124222337.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmkmy.gov.in/",
+   "final": "https://pmkmy.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:08:51+05:30",
+   "sha256": "77f4b87998ed9fbe4421a108e367d8bba04481902258db8231ee7f25e7324d5f",
+   "copy": "f5f5507a49cc590eaa62.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,111 @@
+{
+ "id": "Q-050",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "AY 2026-27 (income of FY 2025-26) is governed by the Income-tax Act, 1961, not the 2025 Act",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "The old Act will continue to govern all filings relating to AY 2026 -27 and earlier years."
+  },
+  {
+   "fact": "A belated return for AY 2026-27 under s.139(4) of the Income-tax Act, 1961 can be filed on or before 31 December 2026 or before completion of assessment, whichever is earlier",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "Pursuant to Section 139(4) of the Income Tax Act, 1961, a belated return for Assessment Year (AY) 2026 –27 may be furnished on or before 31st December 2026, or prior to the completion of the assessment, whichever occurs earlier."
+  },
+  {
+   "fact": "Late fee u/s 234F is Rs 1,000 if total income does not exceed Rs 5,00,000",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "Further, in accordance with Section 234F of the Act, a fee for delayed filing shall be levied at ₹1,000 where the total income does not exceed ₹5,00,000, and ₹5,000 in all other cases."
+  },
+  {
+   "fact": "Late fee u/s 234F is Rs 5,000 in all other cases",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "a fee for delayed filing shall be levied at ₹1,000 where the total income does not exceed ₹5,00,000, and ₹5,000 in all other cases."
+  },
+  {
+   "fact": "For AY 2026-27 the fee is under s.234F of the 1961 Act; s.428 of the 2025 Act applies only from Tax Year 2026-27",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "Note: This fee applies for returns under the new Act (Tax Year 2026 -27 onwards). For AY 2026 -27 and earlier years, the fee as prescribed under Section 234F of the old Act will apply."
+  },
+  {
+   "fact": "The original AY 2026-27 due date for non-audit cases was 31 July 2026 (31 August 2026 for some non-audit cases)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "The due date is 31st July, 2026 or 31st August for non -audit cases , etc.",
+   "note": "The quote does not name salaried persons; that a non-audit salaried individual's date was 31 July 2026 is derived (ITD's ITR-4 FAQ gives 31 August 2026 for ITR-4)."
+  },
+  {
+   "fact": "The extension to 21 Nov 2026 (Circular 07/2026) applies only to persons at Sl. No. 2 of Explanation 2 to s.139(1) (audit cases)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+   "quote": "for the persons referred in sl.no.2 of the table below Explanation 2 to sub-section (1) of section 139 of the Act, from 31.10.2026 to 21.11.2026."
+  },
+  {
+   "fact": "A non-business taxpayer can opt out of the default new regime only in an ITR filed on or before the s.139(1) due date",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "In \"Non-business cases\", option to change the default tax regime can be exercised every year directly in the ITR and such ITR is required to be filed on or before the due date specified under section 139(1) of the Income Tax Act,1961."
+  },
+  {
+   "fact": "An updated return (ITR-U) for AY 2026-27 can still be filed under s.139(8A) of the 1961 Act within its time limit",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "The updated return for AY 2026 -27 under Section 139(8A) of the old Act can be filed within the time period prescribed therein, even after the new Act has come into force."
+  },
+  {
+   "fact": "The return must be e-verified (or ITR-V submitted) within 30 days of filing",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "The time-limit for e-verification or submission of ITR-V shall be 30 days from the date of filing the return of income."
+  },
+  {
+   "fact": "On the e-Filing portal the return is filed via e-File > Income Tax Returns > File Income Tax Return",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/how-to-file-itr1-form-sahaj",
+   "quote": "Step 2: On your Dashboard , click e-File > Income Tax Returns > File Income Tax Return."
+  },
+  {
+   "fact": "The audit-case extension is by CBDT Circular No. 07/2026 dated 28.09.2026",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "quote": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below:"
+  },
+  {
+   "fact": "31 March 2027 is the time limit for a revised return for AY 2026-27, not for a belated return",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "a revised return can be filed before the expiry of the relevant assessment year (i.e., before 31st March *, 2027 for AY 2026 -27)"
+  },
+  {
+   "fact": "Step: log in to the e-Filing portal with your user ID and password",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/how-to-file-itr1-form-sahaj",
+   "quote": "Step 1: Log in to the e-Filing portal using your user ID and password."
+  },
+  {
+   "fact": "Step: under e-File > Income Tax Returns > File Income Tax Return, select Assessment Year 2026-27",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-4/itr-4-UM",
+   "quote": "Step 2: On your Dashboard, click ‘e-File’ > ‘Income Tax Returns’ > ‘File Income Tax Return’. Step 3: Select the Assessment Year as 2026-27 and Mode of Filing as Online and click ‘Continue’."
+  },
+  {
+   "fact": "Step: a return filed after the s.139(1) due date is filed under section 139(4) ('139(4)-After due date' in the ITR form)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-04/Notification%20No.48_2026.pdf",
+   "quote": "139(1)-On or before due date, 139(4)-After due date, 139(5)-Revised Return",
+   "note": "Filing-status line of the AY 2026-27 ITR form notified by Notification No. 48/2026 (the ITR-5 form); the same filing-section codes are used in all ITR forms."
+  },
+  {
+   "fact": "Step: tax, interest and fee for AY 2026-27 are paid on e-Pay Tax selecting 'Income Tax Act 1961'",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/create-challan-pan-login-UM",
+   "quote": "Select radio button “Income Tax Act 1961”, to make payments for Assessment Years upto 2026-27 and Prior Years including Self assessment Tax for AY 2026-27 ."
+  }
+ ],
+ "summary": "All values confirmed on ITD pages: belated return by 31 Dec 2026, s.234F fee Rs 1,000/5,000, 31 July 2026 due date, audit-only extension, regime option only by s.139(1) due date, ITR-U, 30-day verification. Added: 1961 Act governs AY 2026-27, Circular date, 31 Mar 2027 is the revised-return limit, and each portal step (login, AY 2026-27, section 139(4), e-Pay Tax under the 1961 Act)."
+}

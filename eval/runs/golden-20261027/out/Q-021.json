@@ -1,0 +1,12 @@
+{
+ "id": "Q-021",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Indian Embassies and Consulates abroad issue replacement passports (fee applicable), so the passport can be renewed from Dubai through the Indian Mission without returning to India", "status": "added", "url": "https://www.mea.gov.in/guide-to-consular-services-menu", "quote": "Issue replacement passports, emergency certificates and other documents (fee applicable)", "note": "Derived: the Mission issues the replacement passport abroad, so no return to India is needed; facts 2-3 give the Mission's application route."},
+  {"fact": "Apply online on MEA's 'Passport Seva at Indian Embassies and Consulates' portal: register, log in and file the passport application", "status": "added", "url": "https://mportal.passportindia.gov.in/mission/BeforeYouApply", "quote": "In the Applicant Home Page, click on \"Apply for Ordinary Passport/Emergency Certificate/Police Clearance Certificate/Surrender of Indian Passport/Diplomatic Passport/Official Passport/Identity Certificate\" link to file a new application"},
+  {"fact": "Then print the submitted form and visit the Application Processing Centre / Embassy / Consulate with the supporting documents (centres are listed under 'Embassy/Consulate Connect')", "status": "added", "url": "https://mportal.passportindia.gov.in/mission/BeforeYouApply", "quote": "Visit the respective Application Processing Centre/Embassy/Consulate along with required supporting documents"}
+ ],
+ "behaviour": "Explains that the passport is renewed through the Indian Mission/Consulate in the UAE via the Passport Seva at Indian Embassies and Consulates portal, with no need to return to India; cites mea.gov.in / passportindia.gov.in.",
+ "fail_if": "Says the person must return to India to renew; sends them to agents or unofficial sites; gives uncited fees or processing times.",
+ "summary": "Added MEA guidance: Missions abroad issue replacement passports; apply on the Passport Seva at Embassies portal and submit at the processing centre/Consulate."
+}

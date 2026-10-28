@@ -1,0 +1,172 @@
+=== MT-10 | conversation | Hinglish (romanised Hindi) | EPF passbook (direct UMANG service) | facts from none | expected site: none
+USER TURNS: pf ki passbook dekhni hai
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Direct-service flow (concept note 6.2): UMANG EPFO passbook deep link shown FIRST with one-line description; no clarifying question, no long answer.
+
+=== MT-16 | conversation | English | State service - named, not refused (English) | facts from none | expected site: none
+USER TURNS: How do I get a caste certificate for my mother in Bihar? / Can't you just tell me the steps?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Central only, named not refused (G12): names the Bihar State department responsible and links the State portal listed in IGOD; never only 'not covered'; no invented State steps.
+Turn 2: Stays in scope politely: repeats the department and portal; offers Central information where relevant.
+
+=== Q-318 | P1 | Marathi | State-specific (6.2) | expected site: aaplesarkar.mahaonline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: उत्पन्नाचा दाखला ऑनलाइन कसा काढायचा?
+EXPECTED ANSWER NOW:
+Marathi not a launch language: says Hindi/English only (or answers in Hindi/English) and links Aaple Sarkar; no invented procedure.
+
+=== Q-229 | P1 | English | Service procedure (6.2) | expected site: abdm.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I create an ABHA number and is it mandatory?
+EXPECTED ANSWER NOW:
+Creation options and voluntary nature per ABDM, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): creation options: online ABHA portal, or at a health facility with Aadhaar OTP/biometric | ABHA is voluntary, not mandatory
+
+=== Q-230 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: abdm.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: आभा कार्ड क्या है? क्या मुझे बनवाना जरूरी है?
+EXPECTED ANSWER NOW:
+Simple explanation; voluntary; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): simple explanation: ABHA links your health records, shared with consent | ABHA is voluntary
+
+=== Q-187 | P1 | Hinglish (romanised Hindi) | Scheme discovery (6.2) | expected site: agriwelfare.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: kisan ke liye kaun kaun si sarkari yojna hai
+EXPECTED ANSWER NOW:
+List of Central schemes with citations (agriwelfare / myScheme); no eligibility judgement.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists the Central Government schemes for farmers
+
+=== Q-188 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: agriwelfare.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: किसान क्रेडिट कार्ड पर ब्याज कितना लगता है?
+EXPECTED ANSWER NOW:
+Answer: Under the Modified Interest Subvention Scheme (MISS), short-term crop loans and loans for allied activities (animal husbandry, dairy, fisheries, bee-keeping) through a KCC are given at a concessional 7% per annum, up to an overall limit of Rs 3 lakh. The Government pays lending institutions 1.5% interest subvention. Farmers who repay on time get an extra 3% per annum Prompt Repayment Incentive (PRI), so the effective rate is 4% per annum. Timely means within the due date, subject to a maximum of 1 year from disbursement; farmers who repay after one year do not get the PRI. Farmers engaged only in allied activities have a sub-limit of Rs 2 lakh, and the crop-loan component takes priority. This is per the RBI MISS circular for FY 2025-26 (13 Jan 2026), the latest MISS document on agriwelfare.gov.in. Interest above Rs 3 lakh is at the bank's normal rate. Collateral-free KCC loans: up to Rs 2 lakh from 1 Jan 2025.
+Behaviour: rates cited from agriwelfare.gov.in / RBI / PIB; notes that the latest notified guidelines are for FY 2025-26; does not quote a bank-specific rate.
+Fail if: says 4% for everyone with no condition; says 2% subvention (pre-2022 rate); says the interest subvention applies up to Rs 5 lakh without qualifying it; cites bank or blog sites.
+VERIFICATION NOTES: Unverified: Not found: a MISS continuation notice for FY 2026-27, either on agriwelfare.gov.in or in PIB/RBI search results. Firecrawl was stopped before RBI could be checked fully.
+Conflict trap: PIB says the MISS loan limit was 'raised to Rs 5 lakh' (Budget 2025-26 announcement), but the operative RBI/DA&FW MISS circular for FY 2025-26 still caps subvention and PRI at Rs 3 lakh, and the same PIB note says '7% on loans up to Rs 3 lakh'. The golden answer keeps Rs 3 lakh as the subvention cap and mentions the announced Rs 5 lakh as unclear.
+SOURCES FOUND EARLIER:
+https://agriwelfare.gov.in/sites/default/files/MasterCircularonMISS_%202025_26_issuedbyRBI.pdf - RBI/2025-26/193 (13 Jan 2026): 7% lending rate, 1.5% IS, 3% PRI => 4%; Rs 3 lakh overall, Rs 2 lakh sub-limit for allied-only; max 1 year [crawled]
+https://agriwelfare.gov.in/en/Credit - Credit page lists MISS guidelines FY 25-26 as latest [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004 - PIB backgrounder 11 Mar 2026: loans up to Rs 3 lakh at 7%, 3% for timely repayment => 4%; also says MISS crop loan limit raised to Rs 5 lakh in 2025-26; collateral-free Rs 2 lakh from 1.1.2025 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2106230 - 25 Feb 2025: 1.5% IS, 7%, 3% PRI => 4%; Budget 2025-26 announced MISS limit increase from Rs 3 lakh to Rs 5 lakh [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): concessional 7% p.a. on short-term crop loans up to Rs 3 lakh | 3% prompt repayment incentive on timely repayment: effective 4% p.a.
+
+=== Q-298 | P2 | English | Service use (6.2) | expected site: aicte.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I check if an engineering college is AICTE approved?
+EXPECTED ANSWER NOW:
+AICTE approved institutes search, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): check via AICTE's approved institutes search
+
+=== Q-254 | P2 | English | Scheme / fact detail (6.2) | expected site: amrut.mohua.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How much AMRUT 2.0 money has been sanctioned for my city?
+EXPECTED ANSWER NOW:
+Only cited figures; else not found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): AMRUT 2.0 amount sanctioned for the user's city, cited
+
+=== Q-260 | P1 | English | Service procedure (6.2) | expected site: cara.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do we register for adoption with CARA and how long is the waiting time?
+EXPECTED ANSWER NOW:
+Registration on CARINGS; waiting time only if published; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): register online on CARINGS (CARA)
+
+=== Q-261 | P2 | English | Current rule or circular (6.2) | expected site: cara.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can a single person adopt a child in India? Are there conditions for single men?
+EXPECTED ANSWER NOW:
+Eligibility rules exactly as on CARA, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): a single person can adopt, subject to CARA eligibility rules | states the CARA eligibility condition specific to single men
+
+=== Q-067 | P0 | English | Current rule or circular (6.2) | expected site: cbic-gst.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What are the GST rate slabs now after the GST 2.0 changes?
+EXPECTED ANSWER NOW:
+Answer: From 22 September 2025 (56th GST Council, 3 Sep 2025), GST has two main rates: 5% (merit rate) and 18% (standard rate), plus a special de-merit rate of 40% for select luxury/sin goods and services (e.g., pan masala, tobacco, aerated drinks, high-end cars, yachts, private aircraft, casinos/race clubs). The earlier 12% and 28% slabs were removed. Many essentials are Nil. Special rates for items such as precious metals continue. Tobacco products kept their old GST + compensation cess until 31 Jan 2026. From 1 February 2026, pan masala, tobacco products (other than bidis) and cigarettes moved to 40% (bidis to 18%) with RSP-based valuation, and compensation cess on them was withdrawn. PIB (09 Oct 2026) confirms the structure after the 57th Council meeting (08.10.2026): two main rates of 5% and 18% and a special 40% rate.
+Behaviour: Give the rate structure with its effective date and an official citation (PIB/GST Council/CBIC). No classification ruling for a specific product.
+Fail if: lists 5/12/18/28% as current; omits the effective date; says 40% applied to tobacco from 22 Sep 2025; cites cbic-gst.gov.in's 2017-2022 rate lists as current.
+VERIFICATION NOTES: Unverified: Special rates (e.g., 3% gold, 0.25% diamonds) were not re-verified after GST 2.0.
+MAJOR TRAP: cbic-gst.gov.in (the expected, crawled source) is stale. Its Central Tax (Rate) list ends at 15/2022 and its home page shows nothing after mid-2025, so it has no GST 2.0 content. The bot must use pib.gov.in (crawled). The 57th Council meeting of 08.10.2026 made service-level changes (e.g., EV passenger transport 5% option) but no slab change.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=155151&ModuleId=3 - PIB 04 Sep 2025: 5%/18% + 40%; effective 22 Sep 2025; 12% and 28% removed; tobacco exception [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321603 - PIB 09 Oct 2026: structure still 5%, 18% and special 40% after 57th meeting [crawled]
+https://gstcouncil.gov.in/sites/default/files/2025-09/press_release_press_information_bureau_0.pdf - 56th Council recommendations, phased implementation from 22 Sep 2025 [not-available]
+https://www.gstcouncil.gov.in/sites/default/files/2026-01/monthly_newsletter_december_2025_1_0.pdf - From 1 Feb 2026 tobacco/pan masala at 40%, bidis 18%, compensation cess withdrawn [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): two main rates: 5% (merit) and 18% (standard) | special 40% de-merit rate for select luxury/sin goods | effective from 22 September 2025 (56th GST Council meeting) | earlier 12% and 28% slabs removed
+
+=== Q-068 | P1 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: cbic-gst.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: किराना दुकान के लिए GST रजिस्ट्रेशन कब जरूरी होता है?
+EXPECTED ANSWER NOW:
+Answer: A kirana shop supplying only goods must register when its aggregate turnover in a financial year exceeds Rs 40 lakh (Notification 10/2019-Central Tax, w.e.f. 01.04.2019). The limit is Rs 20 lakh in Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Puducherry, Sikkim, Telangana, Tripura and Uttarakhand. The Rs 40 lakh limit does not apply: (a) to persons who must register compulsorily under s.24 of the CGST Act (e.g., inter-State taxable supply); (b) to those dealing in ice cream, pan masala or tobacco products (then the Rs 20 lakh general limit applies); or (c) to anyone who also supplies services, where the Rs 20 lakh threshold applies (Rs 10 lakh in Manipur, Mizoram, Nagaland, Tripura). Voluntary registration is allowed.
+Behaviour: Thresholds with citation; reply in Hindi. No verdict on whether this particular shop must register.
+Fail if: gives Rs 20 lakh as the only limit for goods; says Rs 10 lakh nationally; omits the state exceptions or s.24 compulsory cases; confuses with the composition limit (Rs 1.5 crore).
+VERIFICATION NOTES: Unverified: For goods suppliers in Manipur/Mizoram/Nagaland/Tripura the CBIC slide says Rs 20 lakh, but the s.22(1) proviso may set Rs 10 lakh there. The CGST Act text was not read. No check was made for any post-2019 state opting into the Rs 40 lakh limit.
+The cbic-gst.gov.in copy of Notification 10/2019 returns 404; the text was read on gstcouncil.gov.in. The CBIC presentation PDF is from 2019.
+SOURCES FOUND EARLIER:
+https://cbic-gst.gov.in/pdf/01052019-GST-An-Update.pdf - Rs 40 lakh goods / Rs 20 lakh in listed States; services Rs 20/10 lakh; w.e.f. 01.04.2019 [crawled]
+https://gstcouncil.gov.in/sites/default/files/2024-05/notfctn-10-central-tax-english-2019.pdf - Notification 10/2019-CT text: exclusions (s.24, ice cream, pan masala, tobacco, listed States) [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): goods-only shop must register above Rs 40 lakh aggregate turnover in a financial year | Rs 20 lakh limit in special-category States (Arunachal, Manipur, Meghalaya, etc.) | s.24 compulsory registration cases (e.g. inter-State supply) apply regardless of turnover | dealers in ice cream, pan masala or tobacco: Rs 20 lakh limit applies | if services are also supplied: Rs 20 lakh (Rs 10 lakh in Manipur, Mizoram, Nagaland, Tripura)
+
+=== Q-069 | P2 | English | Current rule or circular (6.2) | expected site: cbic-gst.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the latest CGST rate notification issued by CBIC this month?
+EXPECTED ANSWER NOW:
+Most recent notification number and date from cbic-gst.gov.in; else says none found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): most recent CGST rate notification number and date from cbic-gst.gov.in
+
+=== Q-235 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: cdsco.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ye dawai nakli hai kaise pata kare, packet pe QR code hai
+EXPECTED ANSWER NOW:
+QR / trace provisions as per CDSCO; report route; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): check the QR code / track-and-trace details as provided by CDSCO | report a suspected fake medicine through the CDSCO/drug regulator route
+
+=== MT-05 | conversation | Hindi (Devanagari) | Defective online order refund | facts from Q-203 | expected site: consumerhelpline.gov.in
+USER TURNS: ऑनलाइन मंगाया सामान खराब निकला / शिकायत कैसे करूं?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: No unnecessary questions; summary of the National Consumer Helpline route.
+Turn 2: Steps + NCH channels (1915 / app / portal) + link + source card + next step.
+
+=== Q-203 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: consumerhelpline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: ऑनलाइन मंगाया सामान खराब निकला, कंपनी पैसे नहीं लौटा रही, क्या करूं?
+EXPECTED ANSWER NOW:
+Answer: Register a grievance with the National Consumer Helpline (NCH), Department of Consumer Affairs - a free, pre-litigation grievance redressal mechanism (INGRAM). Channels: call 1915 or 1800-11-4000 (daily except national holidays, 8:00 AM - 8:00 PM); SMS or WhatsApp 8800001915; web portal consumerhelpline.gov.in; NCH mobile app; UMANG app. NCH gives a unique docket number, forwards the grievance to the company (directly on the portal if the company is a Convergence Partner) and follows it up; it may take up to a maximum of 30 days to reach a logical conclusion. Registering does not guarantee a remedy: if not satisfied, the consumer can approach the appropriate Consumer Commission (District/State/National; NCH links to e-Jagriti and NCDRC).
+Steps: 1. On consumerhelpline.gov.in click Register (one-time signup with details, verify through email to get user id/password). 2. Log in and fill in the grievance details, attaching documents if available (Upload Documents is also available later). 3. Note the docket number. 4. Track status under 'Track Your Grievance' (no login needed). Alternatively call 1915 and talk to an agent, or send the complaint by SMS/WhatsApp to 8800001915.
+Behaviour: answer in Hindi/simple language with NCH citation; no promise that the money will be refunded; no legal verdict against the company; may mention Consumer Commission as next step without inventing fees.
+Fail if: gives only a generic 'contact the company/court' answer; invents a helpline number or timings (e.g. 24x7); says NCH is a court that orders refunds or that it guarantees a refund; cites unofficial sites; invents a consumer-commission fee.
+VERIFICATION NOTES: Header strip shows 'Toll Free 1915 (8AM to 8PM)'; contact page adds 1800-11-4000 and 'daily except national holidays'. e-Jagriti (consumer commission e-filing) is only linked, not crawled - bot should not invent commission fees/procedure.
+SOURCES FOUND EARLIER:
+https://consumerhelpline.gov.in/public/contact - 1800 11 4000 or 1915, daily except national holidays 08:00 AM-08:00 PM; SMS/WhatsApp 8800001915; web portal, NCH App, UMANG [crawled]
+https://consumerhelpline.gov.in/public/about - Registration steps (signup, email verification, lodge with documents), docket number, Track your Grievance, pre-litigation, up to 30 days, approach Consumer Commission if not satisfied [crawled]
+https://consumerhelpline.gov.in/ - Register / Track / Upload Documents; WhatsApp, SMS, call, UMANG, NCH App channels [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): register a grievance with the National Consumer Helpline (free, pre-litigation) | call 1915 or 1800-11-4000, 8 AM-8 PM daily except national holidays | SMS/WhatsApp 8800001915; consumerhelpline.gov.in, NCH app or UMANG | NCH gives a docket number and forwards to the company; up to 30 days | if not satisfied, approach the Consumer Commission
+
+=== Q-204 | P2 | English | Service use (6.2) | expected site: consumerhelpline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: consumer helpline number?
+EXPECTED ANSWER NOW:
+Answer: National Consumer Helpline (Department of Consumer Affairs): toll-free 1915 (also 1800-11-4000), available daily except national holidays, 8:00 AM to 8:00 PM. Complaints can also be sent by SMS or WhatsApp to 8800001915, or registered on consumerhelpline.gov.in, the NCH app or UMANG. Email: nch-ca@gov.in.
+Behaviour: give the number with citation to consumerhelpline.gov.in; short answer.
+Fail if: gives the old 1800-11-4000 only without 1915 or a state helpline as the national number; says 24x7; gives a wrong WhatsApp number; cites unofficial sites.
+VERIFICATION NOTES: Both 1915 and 1800-11-4000 are current on the contact page; accept either but 1915 is the headline number.
+SOURCES FOUND EARLIER:
+https://consumerhelpline.gov.in/public/contact - 1800 11 4000 or 1915, 08:00 AM-08:00 PM daily except national holidays; SMS/WhatsApp 8800001915; email nch-ca[at]gov[dot]in [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): toll-free number 1915 | also 1800-11-4000 | 8 AM-8 PM daily except national holidays | SMS/WhatsApp 8800001915 | also via consumerhelpline.gov.in, NCH app or UMANG
+
+=== Q-205 | P2 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: consumerhelpline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: petrol pump wale ne kam petrol diya, complaint kaise kare
+EXPECTED ANSWER NOW:
+NCH complaint route, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): complain to the National Consumer Helpline (1915 / consumerhelpline.gov.in)
+
+=== Q-206 | P1 | English | Service procedure (6.2) | expected site: consumerhelpline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I file a complaint on NCH, and what if the company still doesn't resolve it?
+EXPECTED ANSWER NOW:
+NCH process and escalation as stated on NCH, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): file via 1915/1800-11-4000, SMS/WhatsApp 8800001915, consumerhelpline.gov.in, app or UMANG | NCH gives a docket number and forwards the grievance to the company (about 30 days) | if unresolved, approach the Consumer Commission

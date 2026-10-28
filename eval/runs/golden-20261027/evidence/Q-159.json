@@ -1,0 +1,67 @@
+{
+ "id": "Q-159",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "final": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:57+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "488a46408826f57bc0d2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "final": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:55+05:30",
+   "sha256": "95d4e2892b4b351e599bf903f8c6f89b20d4b74831eb8f1a0e61a2a66771ff86",
+   "copy": "666f079c694b83ec366f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "final": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:45+05:30",
+   "sha256": "ae82cac83f61a5fa5049387a7c13e00c6d55cef0e9163deb5497dc86c86d697f",
+   "copy": "2b8f7b41239506fe68c6.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:01+05:30",
+   "sha256": "334bf9543b4dabddf46727e96ff9fd182cde2db6e534968d4ec4ee55226e1a1a",
+   "copy": "8cd0311ac6a2a739922c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

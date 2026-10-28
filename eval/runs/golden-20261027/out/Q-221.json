@@ -1,0 +1,21 @@
+{
+ "id": "Q-221",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "cybercrime.gov.in offers a 'Handbook For Students on Cyber Safety' in English",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Handbook For Students on Cyber Safety in (English)"},
+  {"fact": "The same students' handbook on cyber safety is available in Hindi",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Handbook For Students on Cyber Safety in (Hindi)"},
+  {"fact": "The portal's Cyber Safety Tips (Learning Corner) include cyber awareness and hygiene advice for teens and young adults",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Cyber awareness and hygiene for teens and young adults"}
+ ],
+ "behaviour": "Points to the cyber safety awareness resources on cybercrime.gov.in (Learning Corner: Cyber Safety Tips and the students' handbook), citing it.",
+ "fail_if": "Cites unofficial sites only, or invents materials not on the portal.",
+ "summary": "cybercrime.gov.in Learning Corner: Handbook For Students on Cyber Safety (English/Hindi) and cyber hygiene tips for teens."
+}

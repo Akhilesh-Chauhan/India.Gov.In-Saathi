@@ -1,0 +1,52 @@
+{
+ "id": "Q-052",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/how-to-file-itr1-form-sahaj",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/how-to-file-itr1-form-sahaj",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:18+05:30",
+   "sha256": "6218016754f29b853affacfc59c176e5d1cc7eacda1a46c72737b12dcc7bb8fe",
+   "copy": "9545f440ffda8a2a7b5f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/FileITR-2Online",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/FileITR-2Online",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:24+05:30",
+   "sha256": "6abaeb23f422710db7010ec6f181bf197a9b45db7eae76534e2e3b4881927f86",
+   "copy": "1fa8efc9b1cd4e2004ea.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:46:22+05:30",
+   "sha256": "c394823582f2d8dcc92a31e8e56144bc9ba31418e32ceb340b3004b984adceec",
+   "copy": "829c830aa96689bbe445.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "Q-135",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/gdsonlineengagement",
+   "final": "https://www.indiapost.gov.in/gdsonlineengagement",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:22:51+05:30",
+   "sha256": "4bb33a6b672e5d713da9ffd496ec2135bc023d94ba0e4a8e1363d3adc023b22e",
+   "copy": "14cd29360e9c47351760.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/gdsonlineengagement/api/results/list1?circle=Maharashtra",
+   "final": "https://www.indiapost.gov.in/gdsonlineengagement/api/results/list1?circle=Maharashtra",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:15+05:30",
+   "sha256": "e4cdaa93a20788bdd09eba4af31d55e1dbd8fe706cb2f94ef3aac3899c989918",
+   "copy": "a119e828db30aa1d0f27.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

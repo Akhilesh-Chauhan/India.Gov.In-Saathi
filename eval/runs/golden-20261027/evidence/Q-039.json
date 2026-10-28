@@ -1,0 +1,52 @@
+{
+ "id": "Q-039",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:00+05:30",
+   "sha256": "adf2919a4608184560c28f8fbc5877fb486e13e570483d3433e69dbeea1a2f70",
+   "copy": "c7a49ded97861d8cfffe.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:00+05:30",
+   "sha256": "adf2919a4608184560c28f8fbc5877fb486e13e570483d3433e69dbeea1a2f70",
+   "copy": "c7a49ded97861d8cfffe.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

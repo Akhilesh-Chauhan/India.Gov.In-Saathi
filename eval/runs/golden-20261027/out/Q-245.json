@@ -1,0 +1,17 @@
+{
+ "id": "Q-245",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The PMAY-G dashboard on pmayg.dord.gov.in shows 3,20,36,728 houses completed in total (Phase-I + Phase-II cumulative)",
+   "status": "added",
+   "url": "https://pmayg.dord.gov.in/netiayHome/home.aspx",
+   "quote": "3,20,36,728 COMPLETED TILL NOW Cumulative completions overall"},
+  {"fact": "That dashboard figure is as on 28/10/2026 (the dashboard updates live)",
+   "status": "added",
+   "url": "https://pmayg.dord.gov.in/netiayHome/home.aspx",
+   "quote": "Phase-I Phase-II Cumulative (Phase-I + II) Year-Wise Distribution (As on: 28/10/2026 )"}
+ ],
+ "behaviour": "Gives the cumulative number of PMAY-G houses completed from the official PMAY-G dashboard (pmayg.dord.gov.in) or MIS, with the as-on date, citing it; a later figure from the same dashboard with its own as-on date is acceptable.",
+ "fail_if": "It gives a completion figure without an as-on date or source, invents a number, or gives a PMAY-Urban figure.",
+ "summary": "PMAY-G home dashboard (as on 28/10/2026): 3,20,36,728 houses completed cumulatively (Phase-I + II)."
+}

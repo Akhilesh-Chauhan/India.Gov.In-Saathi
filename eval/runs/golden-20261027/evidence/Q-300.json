@@ -1,0 +1,52 @@
+{
+ "id": "Q-300",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://dgt.gov.in/en/about-us",
+   "final": "https://dgt.gov.in/en/about-us",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:00:58+05:30",
+   "sha256": "ba365713887980e68540e1cb1e994637c1dd5b75e53de57494a23e4359556ad3",
+   "copy": "9387c889aa3b8b59cd55.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://dgt.gov.in/en/about-us",
+   "final": "https://dgt.gov.in/en/about-us",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:00:58+05:30",
+   "sha256": "ba365713887980e68540e1cb1e994637c1dd5b75e53de57494a23e4359556ad3",
+   "copy": "9387c889aa3b8b59cd55.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://dgt.gov.in/en/cts-details",
+   "final": "https://dgt.gov.in/en/cts-details",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:01:25+05:30",
+   "sha256": "eb7c07b389093cdd15b0801ca568aaefadb9e4413de48085872fbe7107fe7332",
+   "copy": "c33c77b4c565975a8fd6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

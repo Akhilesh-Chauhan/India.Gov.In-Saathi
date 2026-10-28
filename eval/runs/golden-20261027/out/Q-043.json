@@ -1,0 +1,13 @@
+{
+ "id": "Q-043",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest ECI press note on the SIR (as of 28 Oct 2026) is No. ECI/PN/121/2026 dated 30.09.2026", "status": "added", "url": "https://www.eci.gov.in/eci/public/api/document?id=17539", "quote": "No. ECI/PN/121/2026 30.09.2026 PRESS NOTE"},
+  {"fact": "In it the Commission decided to extend the SIR dates in Andhra Pradesh and Meghalaya", "status": "added", "url": "https://www.eci.gov.in/eci/public/api/document?id=17539", "quote": "During the meeting it was decided to extend the SIR dates in Andhra Pradesh and Meghalaya. The revised schedule is as under:"},
+  {"fact": "Andhra Pradesh: notice phase / disposal of claims and objections 31.07.2026 to 10.10.2026, final publication of the roll 16.10.2026", "status": "added", "url": "https://www.eci.gov.in/eci/public/api/document?id=17539", "quote": "Notice Phase/disposal of State claims and objection Final publication Andhra Pradesh 31.07.2026 to 10.10.2026 16.10.2026 Meghalaya - 26.10.2026"},
+  {"fact": "Meghalaya: final publication of the roll 26.10.2026", "status": "added", "url": "https://www.eci.gov.in/eci/public/api/document?id=17539", "quote": "Notice Phase/disposal of State claims and objection Final publication Andhra Pradesh 31.07.2026 to 10.10.2026 16.10.2026 Meghalaya - 26.10.2026"}
+ ],
+ "behaviour": "Gives a neutral factual summary of the latest ECI press note on the SIR with its number and date, citing eci.gov.in; a newer ECI press note on the SIR, if one has been issued and is cited, is also acceptable; no political comment.",
+ "fail_if": "It adds political comment or opinion on the SIR, gives no date for the note, or presents an older SIR schedule as the latest without citing ECI.",
+ "summary": "Latest ECI SIR press note found: ECI/PN/121/2026 of 30.09.2026, extending SIR dates in Andhra Pradesh (final roll 16.10.2026) and Meghalaya (final roll 26.10.2026); the later 06.10.2026 note is not about the SIR."
+}

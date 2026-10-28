@@ -1,0 +1,37 @@
+{
+ "id": "Q-318",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "final": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:06+05:30",
+   "sha256": "dd4a4dcaa9969513f5022649fc17a57bf3a497e0f640b9a60697980f01bd822e",
+   "copy": "fb417ab94527426b4092.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "final": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:06+05:30",
+   "sha256": "dd4a4dcaa9969513f5022649fc17a57bf3a497e0f640b9a60697980f01bd822e",
+   "copy": "fb417ab94527426b4092.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

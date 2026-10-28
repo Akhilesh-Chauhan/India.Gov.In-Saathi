@@ -1,0 +1,67 @@
+{
+ "id": "Q-285",
+ "checked_at": "2026-10-28T14:03:31+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "final": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:53:32+05:30",
+   "sha256": "3a23df6a09743d211885a619f4726ac0705f12c4c13d17f51dd321a953f1c03f",
+   "copy": "7f59990ddf8443a9be43.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "final": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:53:32+05:30",
+   "sha256": "3a23df6a09743d211885a619f4726ac0705f12c4c13d17f51dd321a953f1c03f",
+   "copy": "7f59990ddf8443a9be43.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "final": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:53:32+05:30",
+   "sha256": "3a23df6a09743d211885a619f4726ac0705f12c4c13d17f51dd321a953f1c03f",
+   "copy": "7f59990ddf8443a9be43.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "final": "https://scholarships.gov.in/All-Scholarships",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:18:31+05:30",
+   "sha256": "50e31ddeb09a12a3ecb945d7b569e3ec463ba817637e5e52359b1011cc2dab9b",
+   "copy": "41cd0b1261e201242722.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

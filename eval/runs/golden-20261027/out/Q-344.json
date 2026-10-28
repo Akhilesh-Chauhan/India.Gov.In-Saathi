@@ -1,0 +1,33 @@
+{
+ "id": "Q-344",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Persons with blindness (travelling alone or with an escort, for any purpose) get 75% concession in Second, Sleeper, First Class, 3AC and AC Chair Car, 50% in 1AC and 2AC, and 25% in 3AC and AC Chair Car of Rajdhani/Shatabdi trains",
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "quote": "75% in 2nd, SL, 1st Class, 3AC, AC chair Car 50% in 1AC and 2AC 25% in 3AC & AC Chair Car of Rajdhani/Shatabdi trains",
+   "note": "Railway Board list of concessions (Annexure-1, 01.06.2025): this percentage cell is shared by rows 1-3 (orthopaedic, intellectual disability, blindness); in the PDF's second text layer it follows the blindness row directly."
+  },
+  {
+   "fact": "One escort travelling with the blind person gets the same concession",
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "quote": "One escort is also eligible for same element of concession"
+  },
+  {
+   "fact": "To get the Railway Divyangjan photo ID card, apply online at divyangjanid.indianrail.gov.in, uploading the Railway concession certificate form with the other required documents; the card is also used to book concessional e-tickets",
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "quote": "This form could be uploaded alongwith other required document on https://divyangjanid.indianrail.gov.in/ for issuance of Divyangjan ID card, for booking of e-tickets also."
+  },
+  {
+   "fact": "The Railway Divyangjan ID card can also be issued on the basis of a UDID card/certificate, in which case the Railway certificate is not needed",
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "quote": "Railway Divyangjan ID card can also be prepared on the basis of UDID card/ certificate issued under instructions of Ministry of Social Justice & Empowerment (MSJE). The requirement of the above Railway certificate would be dispensed in such case."
+  }
+ ],
+ "behaviour": "Gives the fare concession for visually impaired (blind) passengers and how to get the Railway Divyangjan photo ID card, citing Indian Railways / Railway Board pages.",
+ "summary": "Added from Railway Board concession list (01.06.2025) and concession-certificate instructions: 75% (50% 1AC/2AC) for blind persons plus one escort; ID card applied online at divyangjanid.indianrail.gov.in with the Blindness certificate or UDID."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-262",
+ "checked_at": "2026-10-28T14:03:29+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "final": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:02+05:30",
+   "sha256": "c10667b981b0fc73d625c8c1ca6655224134637e27540bd7f2f0aad7341cf76c",
+   "copy": "6aa4d5e407c7dd700f9d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "final": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:33+05:30",
+   "sha256": "8aab4571d5689964917756e363ca7d37467693f52b8243fdb6b862966e71e55f",
+   "copy": "a01f13e387502c7295e6.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "final": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:33+05:30",
+   "sha256": "8aab4571d5689964917756e363ca7d37467693f52b8243fdb6b862966e71e55f",
+   "copy": "a01f13e387502c7295e6.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "final": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:02+05:30",
+   "sha256": "c10667b981b0fc73d625c8c1ca6655224134637e27540bd7f2f0aad7341cf76c",
+   "copy": "6aa4d5e407c7dd700f9d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "Q-368",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Suspected fraud calls, SMS or WhatsApp messages are reported through Chakshu on the Sanchar Saathi portal (sancharsaathi.gov.in)",
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "quote": "Chakshu facilitates citizens to report the suspected fraud communications with the intention of defrauding telecom service users for cyber-crime, financial frauds, non-bonafide purpose like impersonation or any other misuse through Call, SMS or WhatsApp."
+  },
+  {
+   "fact": "The report should be made within 30 days of receiving the communication",
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "quote": "Report Suspected Fraud (Report within 30 days for action)"
+  },
+  {
+   "fact": "In the form, select the medium (Call, SMS or WhatsApp) and then the suspected fraud communication category",
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "quote": "Please select how you received the communication * Select Medium Call SMS WhatsApp Please select a medium. Medium Suspected Fraud Communication Details All * marked fields are mandatory. Select Suspected Fraud Communication Category"
+  },
+  {
+   "fact": "The reporter enters the phone number on which the call was received, verifies it by OTP and submits",
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "quote": "Enter the phone number on which suspected fraud communication was received * +91 Please enter a valid 10-digit phone number. OTP Verification and Submission"
+  },
+  {
+   "fact": "If money has already been lost, report it on the cyber crime helpline 1930 or cybercrime.gov.in",
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "quote": "Note: If you have already lost money, please report at cyber crime helpline 1930 or cybercrime.gov.in ."
+  }
+ ],
+ "behaviour": "Points to Chakshu on Sanchar Saathi (sancharsaathi.gov.in) and gives the reporting steps with a citation, or links it if the steps are not indexed; if money was lost, directs the user to 1930 / cybercrime.gov.in.",
+ "fail_if": "Sends the user to a non-government site or app; says Chakshu handles money-loss complaints instead of 1930 / cybercrime.gov.in.",
+ "summary": "Added Chakshu reporting facts from the Sanchar Saathi Chakshu page and form (30-day window, medium/category, OTP) and the 1930 / cybercrime.gov.in note."
+}

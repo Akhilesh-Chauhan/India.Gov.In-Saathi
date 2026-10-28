@@ -1,0 +1,23 @@
+{
+ "id": "Q-497",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Passport queries can be asked by calling the call centre at 1800-258-1800", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "By calling call centre at 1800-258-1800",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqCallCentre)"},
+  {"fact": "The application status can be asked by calling the call centre at 1800-258-1800", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "Yes, you can check the status of your application by calling at Call Centre at 1800-258-1800.",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqCallCentre)"},
+  {"fact": "Queries can also be raised on the website www.passportindia.gov.in", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "By visiting our website www.Passportindia.gov.in",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqCallCentre)"},
+  {"fact": "Queries can also be raised at the helpdesk of the nearest Passport Seva Kendra", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "By visiting Helpdesk at your nearest Passport Seva Kendra",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqCallCentre)"}
+ ],
+ "summary": "Passport Seva call-centre FAQ unchanged: 1800-258-1800, status can be asked there, website or PSK helpdesk."
+}

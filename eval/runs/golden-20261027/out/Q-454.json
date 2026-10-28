@@ -1,0 +1,25 @@
+{
+ "id": "Q-454",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "On mobile, the PF passbook is reached through the EPFO service in the UMANG app (web.umang.gov.in/landing/department/epfo.html), which lets users check their PF balance",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/epfo.html",
+   "quote": "EPFO Users can check their PF balance,Raise claim,Apply for Scheme Certificate,Apply for UAN, Seed UAN with Aadhaar,Check claim status"},
+  {"fact": "EPFO points members to the UMANG app for its services on mobile",
+   "status": "added",
+   "url": "https://www.epfindia.gov.in/",
+   "quote": "Download the UMANG App to access all EPFO services at your fingertips—anytime, anywhere."},
+  {"fact": "EPFO's 'View Passbook' service shows the real-time EPF balance and transaction history",
+   "status": "added",
+   "url": "https://www.epfindia.gov.in/",
+   "quote": "View Passbook Check your real-time EPF account balance and transaction history."},
+  {"fact": "The UAN must be activated to check or download the passbook",
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "quote": "How can I know the balance in my PF account? Please activate your UAN and check/download your passbook."}
+ ],
+ "behaviour": "Concept note 6.2 Service use: gives the same UMANG EPFO passbook deep link (from the UMANG catalogue) every time, with a brief description; no long answer.",
+ "fail_if": "Gives no link to the UMANG EPFO passbook service; gives a different link on each try; invents a link; points to a third-party app or site.",
+ "summary": "Added: UMANG EPFO service (PF balance), EPFO's pointer to the UMANG app, EPFO 'View Passbook' (balance and transactions), UAN activation needed; UMANG's page text does not show the 'View Passbook' tile (only its hidden markup does)."
+}

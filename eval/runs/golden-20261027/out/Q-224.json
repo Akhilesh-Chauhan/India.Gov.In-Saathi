@@ -1,0 +1,13 @@
+{
+ "id": "Q-224",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "To e-file a new case on the eCourts e-Filing portal, choose 'New case' in the left panel of the Dashboard", "status": "added", "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf", "quote": "In order to e- le a new case, click on ‘New case’ option in the left panel of the Dashboard screen (Fig 6 above).", "note": "eCourts' own e-Filing User Manual (2018, still the one linked on ecourts.gov.in Manuals); the e-Filing 3.0 help pages on efiling.ecourts.gov.in could not be reached by the checker (network unreachable)."},
+  {"fact": "In e-Filing the court fee is paid through the integrated payment gateway (net banking/cards) or by uploading a scanned payment receipt", "status": "added", "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf", "quote": "The court fees can be paid either using the payment gateway or uploading the scanned payment receipt."},
+  {"fact": "After uploading documents and paying the fee, check the Preview and press Final Submit to file the case", "status": "added", "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf", "quote": "If the Preview is in order, press the Final Submit button"},
+  {"fact": "Court fee can also be paid online on eCourts ePay (pay.ecourts.gov.in), the site for depositing amounts in court online", "status": "added", "url": "https://ecourts.gov.in/ecourts_home/static/manuals/ePay-Final-USer-manual.pdf", "quote": "Website URL: https://pay.ecourts.gov.in is developed for the purpose of depositing various types of Amounts in the Court through online mode."}
+ ],
+ "behaviour": "Gives the e-filing and court-fee steps as per ecourts.gov.in (e-Filing portal and ePay), cited.",
+ "fail_if": "It invents steps, portals or fees not on eCourts pages, or gives no eCourts citation.",
+ "summary": "eCourts manuals: New case on the e-Filing portal, pay court fee via gateway or receipt, Preview and Final Submit; ePay (pay.ecourts.gov.in) for online court fee."
+}

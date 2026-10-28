@@ -1,0 +1,171 @@
+=== Q-059 | P1 | English | Service use (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: how to get pan card free online fast
+EXPECTED ANSWER NOW:
+Instant e-PAN on e-filing portal (Aadhaar based, free) per ITD; no agent sites.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Instant e-PAN on the Income Tax e-Filing portal | Aadhaar-based (Aadhaar with linked mobile) | Free of cost
+
+=== Q-060 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: मैं 75 साल की हूँ, सिर्फ पेंशन और बैंक ब्याज है, क्या मुझे रिटर्न भरना पड़ेगा?
+EXPECTED ANSWER NOW:
+Answer: A senior citizen aged 75+ does not need to file a return if ALL these conditions are met (s.194P of the 1961 Act, per ITD page): (1) age 75 years or above; (2) resident in the previous year; (3) only pension income and interest income; (4) the interest is from the same 'specified bank' in which the pension is received; (5) a declaration is submitted to that bank. The bank then computes and deducts tax after Chapter VI-A deductions and the s.87A rebate. If interest comes from another bank or post office, or there is other income, this exemption does not apply. Normal filing rules then apply: e.g., file if income exceeds the basic exemption limit (age 60-80: Rs 3 lakh old regime / Rs 4 lakh new regime, AY 2026-27). From Tax Year 2026-27 the equivalent provision is s.393(1) [Table Sl. 8(iii)] of the 2025 Act. Declaration form: Form 125 (old Form 12BBA).
+Behaviour: State the conditions with citation. Do not tell the user 'you need not file'; give no personal determination. Answer in Hindi if the user wrote in Hindi.
+Fail if: says all persons 75+ are exempt unconditionally; omits the same-bank and resident conditions; confuses with Form 15H; gives a personal verdict.
+VERIFICATION NOTES: Unverified: Basic-exemption slab figures for 60-80 were taken from the salaried page table (same values); the senior-citizen page slab table was not separately quoted.
+The ITD page is labelled AY 2026-27 and cites the 1961 Act. The 2025 Act mapping comes from incometaxindia.gov.in (not crawled).
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-2 - s.194P conditions for 75+ exemption, specified bank, declaration [crawled]
+https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1 - Basic exemption by age (old 3 lakh for 60-80; new 4 lakh) [crawled]
+https://www.incometaxindia.gov.in/faqs-and-guidance-notes-on-forms-as-per-income-tax-rules-2026 - Form 125 (old 12BBA) declaration u/s 393(1) Table Sl. 8(iii) of 2025 Act [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Condition: age 75 or above | Condition: resident in the previous year | Condition: only pension and interest income | Condition: interest from the same specified bank that pays the pension | Condition: declaration submitted to that bank
+
+=== Q-061 | P2 | English | Scheme / fact detail (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many ITRs have been filed this year compared to last year? I need the latest figure for a speech.
+EXPECTED ANSWER NOW:
+Only figures on ITD/PIB page with date; neutral; otherwise says not found.
+
+=== Q-062 | P1 | English | Out of scope (3.3, 6.3) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Should I invest in ELSS or PPF to save tax? Which is better for me?
+EXPECTED ANSWER NOW:
+No investment advice; may list deductions as published by ITD.
+
+=== Q-063 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: mujhe sms aaya hai income tax refund ke liye link pe click karo, ye sahi hai?
+EXPECTED ANSWER NOW:
+ITD phishing guidance: do not click; report; cybercrime.gov.in / 1930; only official sources.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Do not click the link; it is phishing | Report it at cybercrime.gov.in or helpline 1930
+
+=== Q-064 | P2 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Advance tax due dates and percentages for this year?
+EXPECTED ANSWER NOW:
+Answer: For Tax Year 2026-27 (FY 2026-27), advance tax is under the Income-tax Act, 2025, s.408. Instalments: on or before 15 June 2026, at least 15%; 15 September 2026, at least 45% (cumulative); 15 December 2026, at least 75%; 15 March 2027, 100%. Presumptive-scheme taxpayers (s.58) pay the whole amount in one instalment by 15 March (s.408(2)). Advance tax is payable only if tax for the year is Rs 10,000 or more (s.404). Shortfall interest: s.424 (old 234B), 1% per month; s.425 (old 234C), deferment interest. As on 15 Oct 2026 the next instalment is 15 December 2026. Select 'Income Tax Act, 2025' / Tax Year 2026-27 in the challan.
+Behaviour: Cite ITD and name the Act/section. No personal liability computation.
+Fail if: cites s.207/208/211 of the 1961 Act as governing TY 2026-27 without noting the new Act; gives wrong percentages (e.g., 30/60/100) or dates; tells user to select AY 2027-28 under the 1961 Act.
+VERIFICATION NOTES: Unverified: The resident senior citizen (no business income) exemption under the 2025 Act was not checked.
+The percentage table was found on incometaxindia.gov.in (not crawled). The crawled ITD FAQ has dates and sections but no percentage table. The bot may answer the percentages only if it finds them on a crawled page; otherwise it should cite what it has.
+SOURCES FOUND EARLIER:
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/tax-payments-faq - FAQ 17-20: s.404 Rs 10,000 threshold; 1st instalment 15 June 2026 under 2025 Act; s.408(2) presumptive 15 March; s.424/425 interest [crawled]
+https://www.incometaxindia.gov.in/w/section-408-6 - s.408 instalment table 15/45/75/100% [not-available]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/General%20Questions-faqs - FAQ 3: advance tax for TY 2026-27 under 2025 Act [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): TY 2026-27 advance tax falls under the Income-tax Act, 2025 | Due dates: 15 Jun 2026, 15 Sep 2026, 15 Dec 2026, 15 Mar 2027 | Cumulative instalments: at least 15%, 45%, 75%, 100% | Presumptive-scheme taxpayers pay the whole amount by 15 March
+
+=== Q-065 | P2 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: Can I still file an updated return for AY 2022-23, and what additional tax applies?
+EXPECTED ANSWER NOW:
+Answer: Yes, subject to conditions. Under s.139(8A) of the 1961 Act (as amended by Finance Act 2025), an updated return can be filed within 48 months from the end of the relevant AY. For AY 2022-23 (AY ends 31.03.2023) the last date is 31 March 2027. ITD's page says that in FY 2026-27 ITR-U can be filed for AY 2025-26, 2024-25, 2023-24 and 2022-23. Additional tax (s.140B) is a % of aggregate tax + interest: 25% within 12 months; 50% within 12-24 months; 60% within 24-36 months; 70% within 36-48 months from the end of the relevant AY. Filing now (after 31.03.2026) for AY 2022-23 attracts 70%. ITR-U is not allowed if it: results in a loss, lower tax liability or (higher) refund; follows search/survey/requisition; covers a year where assessment or reassessment is pending or completed; follows prosecution; or follows a s.148A show-cause notice issued after 36 months (unless the order says it is not a fit case). Only one updated return per AY. The 1961 Act continues to govern AY 2022-23 even after 01.04.2026.
+Behaviour: Cite the official pages. No personal eligibility verdict. If the bot only sees incometax.gov.in, it should say ITR-U for earlier AYs remains available subject to the s.139(8A) time limits, and link the ITD/incometaxindia page. It must not invent percentages.
+Fail if: says AY 2022-23 is time-barred (old 24-month rule); quotes only 25%/50%; applies the new-Act +10% (s.280 notice) rule; gives deadline 31 March 2025.
+VERIFICATION NOTES: Unverified: The 48-month limit and 60%/70% rates for AY 2022-23 are confirmed only on incometaxindia.gov.in (not crawled). The incometax.gov.in pages give no figures for old-Act AYs.
+Traps: (1) the incometaxindia page itself has a stale line '25% or 50%' and a confusing note '48 months effective from AY 2026-27', yet it explicitly lists AY 2022-23 as fileable in FY 2026-27. (2) The e-Verification Scheme FAQ gives 35/60/70/80% for updated returns filed in pursuance of a s.280 notice under the 2025 Act; this does not apply to AY 2022-23.
+SOURCES FOUND EARLIER:
+https://www.incometaxindia.gov.in/w/updated-return-of-income - 48 months; FY 2026-27 can file for AY 2022-23; 25/50/60/70%; exclusions [not-available]
+https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq - FAQ 9: ITR-U for AY 2025-26 or earlier still fileable after 01.04.2026 subject to s.139(8A) limits; FAQ 12-13: new Act s.263(6) 48 months [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ITR-U for AY 2022-23 can still be filed (48-month window under s.139(8A) as amended) | last date for AY 2022-23 is 31 March 2027 | additional tax 25%/50%/60%/70% of tax+interest for filing within 12/24/36/48 months | filing now for AY 2022-23 attracts 70% additional tax | not allowed for loss/lower tax/higher refund or after search, survey, assessment or prosecution
+
+=== Q-066 | P1 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the most recent item on the Income Tax Department's latest news page?
+EXPECTED ANSWER NOW:
+Matches the live page with date (as of 13-Oct-2026 Circular 07/2026 item).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest ITD news item with its date (Circular 07/2026, as of 13 Oct 2026)
+
+=== Q-426 | P0 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: mere CA ne bola audit wale return ki date badh gayi, ab last date kya hai?
+EXPECTED ANSWER NOW:
+21 Nov 2026 for persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) (audit cases), extended from 31 Oct 2026 by CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): audit-case due date extended from 31 Oct 2026 to 21 Nov 2026
+
+=== Q-427 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: My husband's business accounts are audited. By when must he file his income tax return this year?
+EXPECTED ANSWER NOW:
+21 Nov 2026 for persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) (audit cases), extended from 31 Oct 2026 by CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): due date is 21 Nov 2026 for audit cases (extended from 31 Oct 2026)
+
+=== Q-428 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Revised due date under section 139(1) for assessees at Sl. No. 2 of the table below Explanation 2, AY 2026-27, and the notifying circular?
+EXPECTED ANSWER NOW:
+21 Nov 2026 for persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) (audit cases), extended from 31 Oct 2026 by CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): revised due date 21 Nov 2026 (extended from 31 Oct 2026) | notified by CBDT Circular No. 07/2026 dated 28 Sep 2026
+
+=== Q-429 | P0 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Is the ITR deadline for audited businesses still October 31?
+EXPECTED ANSWER NOW:
+21 Nov 2026 for persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) (audit cases), extended from 31 Oct 2026 by CBDT Circular No. 07/2026 dated 28 Sep 2026.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): No: extended from 31 Oct 2026 to 21 Nov 2026 for audit cases
+
+=== Q-467 | P1 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: Under the Income-tax Rules 2026, which forms are used to apply for allotment of a PAN?
+EXPECTED ANSWER NOW:
+Rule 158: an application under section 262 is made in Form No. 93, 94, 95 or 96 as the case may be; a common application form notified by the Central Government may also be used; a person with an Aadhaar number can apply by intimating it. Cites the notified Income-tax Rules 2026 PDF on incometax.gov.in.
+PAGE IN THE BOT'S INDEX: https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rule 158: apply in Form No. 93, 94, 95 or 96 as the case may be | a common application form notified by the Central Government may also be used | a person with an Aadhaar number can apply by intimating it
+
+=== Q-468 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: naya pan card kaise banaye
+EXPECTED ANSWER NOW:
+Coverage probe (developer note: no plain-language 'new PAN' page is indexed). PASS if it answers from the indexed Rule 158 text with citation (forms 93-96 / Aadhaar-based allotment) or admits the gap and links the Income Tax portal; FAIL if it invents steps, cites unrelated pages (e.g. an NRI booklet) or points to outdated sites.
+PAGE IN THE BOT'S INDEX: https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): new PAN via Form 93-96 under Rule 158, or Aadhaar-based allotment
+
+=== Q-469 | P2 | English | Current rule or circular (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: By when must a person apply for PAN if their total income exceeds the non-taxable limit?
+EXPECTED ANSWER NOW:
+On or before 31 May of the tax year immediately following; a person whose business turnover is likely to exceed Rs 5,00,000 must apply before the end of that tax year (Income-tax Rules 2026, rule 158 table).
+PAGE IN THE BOT'S INDEX: https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply on or before 31 May of the tax year immediately following
+
+=== Q-470 | P0 | English | Service procedure (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How do I check my income tax refund status online?
+EXPECTED ANSWER NOW:
+Log in to the e-Filing portal; if PAN is not linked with Aadhaar a pop-up says PAN is inoperative (Link Now); then e-File > Income Tax Returns > View Filed Returns and check refund status for the assessment year. Cites the Refund Status user manual; cannot see the user's refund.
+PAGE IN THE BOT'S INDEX: https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/check-refund-status-UM
+FACTS GRADED ON 19 OCT (a starting point, not evidence): use (log in to) the Income Tax e-Filing portal | if PAN is not linked with Aadhaar, an inoperative-PAN pop-up offers Link Now | go to e-File > Income Tax Returns > View Filed Returns | check the refund status for the assessment year
+
+=== Q-471 | P2 | English | Service procedure (6.2) | expected site: incometax.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How do I file a condonation request for a delayed Form 10A on the e-filing portal?
+EXPECTED ANSWER NOW:
+Login > Services > Condonation request > Application for statutory Forms > + Create Condonation request > fill details > e-verify; note the transaction ID.
+PAGE IN THE BOT'S INDEX: https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um
+FACTS GRADED ON 19 OCT (a starting point, not evidence): after login: Services > Condonation request > Application for statutory Forms | click + Create Condonation request | fill in the request details | e-verify to submit | note the transaction ID
+
+=== Q-333 | P1 | English | Scheme / fact detail (6.2) | expected site: indiabudget.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What were the key announcements for farmers in Union Budget 2026-27?
+EXPECTED ANSWER NOW:
+Only from Budget speech/documents, cited; neutral.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Farmer-related announcements from the Budget 2026-27 speech/documents, cited
+
+=== Q-334 | P2 | English | Scheme / fact detail (6.2) | expected site: indiabudget.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What is the fiscal deficit target for 2026-27 in the Budget?
+EXPECTED ANSWER NOW:
+Answer: Union Budget 2026-27 (presented 1 Feb 2026) estimates the Centre's fiscal deficit in BE 2026-27 at 4.3% of GDP, i.e. Rs 16,95,768 crore (Budget at a Glance). For comparison: RE 2025-26 is 4.4% of GDP (Rs 15,58,492 crore), the same as BE 2025-26, and 2024-25 Actuals were 4.8%. The Government's anchor is now debt: debt-to-GDP is estimated at 55.6% in BE 2026-27 (56.1% in RE 2025-26), targeting 50±1% by 2030-31. Other BE 2026-27 figures: revenue deficit 1.5%, primary deficit 0.7% of GDP; net market borrowings from dated securities Rs 11.7 lakh crore, gross Rs 17.2 lakh crore.
+Behaviour: Quotes the figure exactly as in the Budget documents with a citation (Budget Speech para 94 / Budget at a Glance).
+Fail if: Says 4.4% (that is 2025-26) or 4.5% (the old glide-path target); gives a rupee figure without the % or the reverse with wrong numbers; cites news or RBI estimates instead of indiabudget.gov.in.
+VERIFICATION NOTES: The Budget Highlights say 'by 2030' and the Speech says 'by 2030-31' for the debt target, a minor wording difference.
+SOURCES FOUND EARLIER:
+https://www.indiabudget.gov.in/doc/Budget_Speech.pdf - Para 92-97: FD BE 2026-27 4.3% of GDP; RE 2025-26 4.4%; debt-GDP 55.6%/56.1%; target 50±1% by 2030-31; borrowings [crawled]
+https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag1.pdf - Fiscal Deficit Rs 16,95,768 crore (4.3%) BE 2026-27; RE 2025-26 Rs 15,58,492 crore (4.4%); RD 1.5%, PD 0.7% [crawled]
+https://www.indiabudget.gov.in/doc/bh1.pdf - Budget Highlights: fiscal consolidation box, 4.3% [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Fiscal deficit target BE 2026-27 is 4.3% of GDP
+
+=== MT-11 | conversation | Hindi (Devanagari) | Theft on a train | facts from Q-342 | expected site: indianrailways.gov.in
+USER TURNS: ट्रेन में मेरा बैग चोरी हो गया / ऑनलाइन शिकायत का लिंक दीजिए
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Urgent: gives the complaint channels at once (helpline / Rail Madad) without questions.
+Turn 2: Official link that opens + steps + Indian Railways source card + next step.

@@ -1,0 +1,69 @@
+{
+ "id": "Q-141",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The RuPay card given to a PMJDY account holder carries accident insurance cover of Rs 2 lakh for PMJDY accounts opened after 28.8.2018",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "Accident Insurance Cover of Rs.1 lakh (enhanced to Rs. 2 lakh to new PMJDY accounts opened after 28.8.2018) is available with RuPay card issued to the PMJDY account holders."
+  },
+  {
+   "fact": "For PMJDY accounts opened up to 28.8.2018 the accident cover is Rs 1 lakh",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/scheme",
+   "quote": "Accident Insurance Cover of Rs.1 lakh (enhanced to Rs. 2 lakh to new PMJDY accounts opened after 28.8.2018) is available with RuPay card issued to the PMJDY account holders."
+  },
+  {
+   "fact": "The RuPay debit card with this accident cover comes free with each PMJDY account (no premium for the cover)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303643",
+   "quote": "Each account comes with a free RuPay debit card, offering an accident insurance cover of ₹2 lakh, encouraging digital transactions and financial security.",
+   "note": "'No premium' is derived from 'free RuPay debit card, offering an accident insurance cover'."
+  },
+  {
+   "fact": "The Rs 30,000 life cover was only for people who opened their first bank account with a RuPay card between 15.08.2014 and 26.01.2015",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/QuickLinks/guide.pdf",
+   "quote": "Person opening Bank account for the first time, with RuPay Card in addition, during the period from 15-08-14 to 26-01-15, or any additional period as may be extended further by Government of India."
+  },
+  {
+   "fact": "The life cover was for the head or an earning member of the family aged 18-59",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/QuickLinks/guide.pdf",
+   "quote": "The person should normally be head of the family or an earning member of the family and should be in the age group of 18 to 59"
+  },
+  {
+   "fact": "The Rs 30,000 life cover is a closed legacy benefit: it ran for 5 years, till the end of 2019-20, and new accounts do not get it",
+   "status": "confirmed",
+   "url": "https://pmjdy.gov.in/files/QuickLinks/guide.pdf",
+   "quote": "The life cover of Rs 30,000/- under the scheme will be initially for a period of 5 years, i.e. till the close of financial year 2019-20.",
+   "note": "That it is closed for new accounts is derived from the 15.08.2014-26.01.2015 window and the 5-year term; no later extension found on pmjdy.gov.in."
+  },
+  {
+   "fact": "Jan Dhan account holders can also join PMJJBY, a paid scheme: premium Rs 436 a year",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "The premium payable is Rs.436/- per annum per subscriber."
+  },
+  {
+   "fact": "PMJJBY gives Rs 2 lakh life cover",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "Rs.2 lakh is payable on a subscriber’s death due to any cause."
+  },
+  {
+   "fact": "PMSBY gives Rs 2 lakh accident cover (on accidental death)",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Table of Benefits Sum Insured Death Rs. 2 Lakh"
+  },
+  {
+   "fact": "PMSBY premium is Rs 20 a year",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Premium payable is Rs.20/- per annum per member."
+  }
+ ],
+ "summary": "All confirmed: RuPay accident cover Rs 2 lakh after 28.8.2018 / Rs 1 lakh before (pmjdy.gov.in Scheme page), free card (PIB 27.08.2026), Rs 30,000 life cover only for 15.08.2014-26.01.2015 first accounts, 5 years to 2019-20 (guide.pdf), PMJJBY Rs 436 / PMSBY Rs 20 (DFS)."
+}

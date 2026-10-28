@@ -1,0 +1,18 @@
+{
+ "id": "Q-284",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "One Time Registration (OTR) is a unique number allotted to the student, valid for the student's entire academic career on NSP",
+   "status": "added", "url": "https://scholarships.gov.in/",
+   "quote": "One Time Registration (OTR) is a unique number allotted to the student and is applicable for entire academic career on National Scholarship Portal."},
+  {"fact": "Yes, it is mandatory: OTR is required to apply for scholarships on NSP from academic year 2024-25",
+   "status": "added", "url": "https://scholarships.gov.in/",
+   "quote": "OTR is required to apply for the scholarships on National Scholarship Portal from AY 2024-25."},
+  {"fact": "OTR is generated using Aadhaar or the Aadhaar Enrolment ID (EID)",
+   "status": "added", "url": "https://scholarships.gov.in/",
+   "quote": "OTR can be generated using Aadhaar/Aadhaar Enrollment number(EID)"}
+ ],
+ "behaviour": "Explains what OTR is and that it is mandatory for applying on NSP, as per scholarships.gov.in, with a citation.",
+ "fail_if": "Says OTR is optional; cites a third-party site instead of NSP.",
+ "summary": "Added from the NSP homepage: OTR is a unique number for the whole academic career, mandatory from AY 2024-25, generated with Aadhaar/EID."
+}

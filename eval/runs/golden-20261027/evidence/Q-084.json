@@ -1,0 +1,52 @@
+{
+ "id": "Q-084",
+ "checked_at": "2026-10-28T14:02:49+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:55:06+05:30",
+   "sha256": "c255b618bd6c5ea614459c899dd429466b3fd52f96f0136aa7769e9034580909",
+   "copy": "b4912286cbeea0ad1377.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2169975&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:55:06+05:30",
+   "sha256": "c255b618bd6c5ea614459c899dd429466b3fd52f96f0136aa7769e9034580909",
+   "copy": "b4912286cbeea0ad1377.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/data-hub/",
+   "final": "https://www.epfo.gov.in/data-hub/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:50+05:30",
+   "sha256": "4133e5cd296e1ae3f47b85507298dca97a091b7dbdf0b9f0bf0b4b10db420465",
+   "copy": "e7e0a792395bb7768a84.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

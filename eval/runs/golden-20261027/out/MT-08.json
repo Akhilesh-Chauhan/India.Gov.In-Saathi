@@ -1,0 +1,22 @@
+{
+ "id": "MT-08",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Turn 1: no minimum disability percentage is needed to get a disability certificate / UDID card", "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/uploads/news/173986278827202407301669930458.pdf",
+   "quote": "The RPwD Act, 2016 does not impose any condition for issuance of disability certificates/UDID cards to PwDs who are diagnosed with below 40% of disability."},
+  {"fact": "Turn 1: benchmark disability of 40% or more is needed for benefits such as reservation", "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082717",
+   "quote": "Section 34 of the said Act provides for 4 % reservation in the government employment to the persons with benchmark (40% or above) disabilities."},
+  {"fact": "Turn 2: apply online on swavlambancard.gov.in ('Apply For UDID')", "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "Apply For UDID Steps to Get Your UDID Card and Disability Certificate"},
+  {"fact": "Turn 2: after submitting, when status shows 'Submitted', visit the UDID section of the chosen hospital", "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "When it shows Submitted Mode visit the concerned UDID/Disability Certification Section at the Hospital that has been chosen at the time of submission of application."},
+  {"fact": "Turn 2: after the specialist assessment, the Medical Board fixes the type and percentage of disability", "status": "confirmed",
+   "url": "https://swavlambancard.gov.in/Applyforudid",
+   "quote": "They will determine the type and percentage of your disability and validate the disability certificate."}
+ ],
+ "summary": "Facts from Q-270 confirmed on swavlambancard.gov.in, the DEPwD 05-07-2024 advisory and PIB; turn texts unchanged."
+}

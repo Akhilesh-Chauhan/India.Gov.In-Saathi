@@ -1,0 +1,34 @@
+{
+ "id": "Q-349",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Haj 2027 applications opened on 22 June 2026, when the Ministry of Minority Affairs announced the Haj Policy 2027 and the Haj Committee of India began inviting applications",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793",
+   "quote": "released the policy and announced that the Haj Committee of India would, from today, invite applications from prospective pilgrims for Haj-2027."
+  },
+  {
+   "fact": "Applications are made online through the Haj Committee of India portal (hajcommittee.gov.in) or the Haj Suvidha App",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793",
+   "quote": "Prospective pilgrims can apply for Haj-2027 online through the Haj Committee of India portal (hajcommittee.gov.in) as well as the Haj Suvidha App"
+  },
+  {
+   "fact": "The closing date for Haj 2027 applications in the Guidelines was 20.07.2026",
+   "status": "added",
+   "url": "https://hajcommittee.gov.in/uploads/circulars/178213884104Guidelines_for_Haj_2027.pdf",
+   "quote": "b. Closing Date: The closing date for submission of HAF shall be 20.07.2026."
+  },
+  {
+   "fact": "Haj Committee Circular No. 3 of 20.07.2026 extended the last date for Haj applications and covered the Qurrah (draw) and advance Haj payment, so the application window is now closed",
+   "status": "added",
+   "url": "https://hajcommittee.gov.in/circulars",
+   "quote": "3 3 2026-07-20 Extension of Last Date for Haj Application, Conduct of Qurrah and Payment of Advance Haj Amount",
+   "note": "'Now closed' is derived: the circular moves on to the Qurrah and advance payment stages; the circulars page lists no later reopening (28 Oct 2026)."
+  }
+ ],
+ "behaviour": "Replies in Hindi; gives the Haj 2027 application dates as published by the Haj Committee of India / Ministry of Minority Affairs with the source and date, and says the application window has already closed; if it cannot find the date, says so rather than guessing.",
+ "fail_if": "Says Haj 2027 applications have not opened yet or are still open, or gives a start date without an official source.",
+ "summary": "Haj 2027 applications opened 22 June 2026 (PIB) online via hajcommittee.gov.in / Haj Suvidha App; closing date 20.07.2026, extended by Circular 3 (scanned, extended date not readable); window now closed."
+}

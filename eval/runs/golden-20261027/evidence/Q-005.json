@@ -1,0 +1,52 @@
+{
+ "id": "Q-005",
+ "checked_at": "2026-10-28T14:02:20+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/images/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "final": "https://uidai.gov.in/images/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-27T17:34:07+05:30",
+   "sha256": "64edf1a9139f767dcfc806a3fc781cd9666caddc1a4cc0559161fb0976828b70",
+   "copy": "a7b7c605122817a52b6f.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "final": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:26+05:30",
+   "sha256": "676b7fa0f95b0253181d1376c79f9936a1880fce56117d4473fc1cfd24448c20",
+   "copy": "f5bf963d4af2cbe1be5a.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "final": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "http": 200,
+   "fetched_at": "2026-10-27T17:34:07+05:30",
+   "sha256": "ec932f16d0fd997ef4562beacf023602afa833f70426ae4fff66e0b3b5ba3b5f",
+   "copy": "5bc76e2118bf9c727fb9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

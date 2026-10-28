@@ -1,0 +1,67 @@
+{
+ "id": "Q-118",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://desw.gov.in/en/pensions",
+   "final": "https://desw.gov.in/en/pensions",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:54+05:30",
+   "sha256": "e59714c1aac06fd69f19d7aef77f456f9a4fece606b45573366feeeeaa8eebdb",
+   "copy": "d92a400d8711a73eb05f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:21+05:30",
+   "sha256": "d3677a7acb3dc8bc223ef07e165c572a8d0b982276d430c1d9dbece6346842cb",
+   "copy": "88045fb4ad0e18869b33.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911123&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:21+05:30",
+   "sha256": "d3677a7acb3dc8bc223ef07e165c572a8d0b982276d430c1d9dbece6346842cb",
+   "copy": "88045fb4ad0e18869b33.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ksb.gov.in/welfare-schemes.htm",
+   "final": "https://ksb.gov.in/welfare-schemes.htm",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:02+05:30",
+   "sha256": "844822d292211843e29e31c0a641a17fbd8eca447c84608a2d9b592c11a7fd8a",
+   "copy": "5cc98d7085a293eb8f95.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

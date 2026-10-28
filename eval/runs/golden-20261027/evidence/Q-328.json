@@ -1,0 +1,67 @@
+{
+ "id": "Q-328",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:54+05:30",
+   "sha256": "1c4aa36925dc7516615d77c7d5973a609f2a792860a1a3277d78df5f0af70409",
+   "copy": "681727ad557573ef190e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:54+05:30",
+   "sha256": "1c4aa36925dc7516615d77c7d5973a609f2a792860a1a3277d78df5f0af70409",
+   "copy": "681727ad557573ef190e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:54+05:30",
+   "sha256": "1c4aa36925dc7516615d77c7d5973a609f2a792860a1a3277d78df5f0af70409",
+   "copy": "681727ad557573ef190e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "final": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025117686801.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:35:54+05:30",
+   "sha256": "1c4aa36925dc7516615d77c7d5973a609f2a792860a1a3277d78df5f0af70409",
+   "copy": "681727ad557573ef190e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

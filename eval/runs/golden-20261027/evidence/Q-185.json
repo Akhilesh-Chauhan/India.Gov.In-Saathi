@@ -1,0 +1,37 @@
+{
+ "id": "Q-185",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "changed",
+   "url": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "final": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:46+05:30",
+   "sha256": "70eddfa3f61fb63b153d98ef9e2408fb003bf70c5784e9d8c26180830b81e315",
+   "copy": "232ce1670bc2596e2d3c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "changed",
+   "url": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "final": "https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2022.10.26.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:05:46+05:30",
+   "sha256": "70eddfa3f61fb63b153d98ef9e2408fb003bf70c5784e9d8c26180830b81e315",
+   "copy": "232ce1670bc2596e2d3c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,18 @@
+{
+ "id": "Q-191",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: under One Nation One Ration Card (ONORC), beneficiaries can collect their NFSA foodgrain entitlement from any fair price shop in the country using their existing ration card",
+   "status": "added", "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "quote": "The ONORC scheme allows beneficiaries to collect their food grain entitlements from any FPS across the country using their existing ration card under the NFSA."},
+  {"fact": "ONORC works in all 36 States/UTs; grain is lifted with the existing ration card or Aadhaar, with biometric authentication on the shop's e-PoS device",
+   "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514",
+   "quote": "The ONORC scheme, successfully implemented across all 36 States/UTs, empowers approximately 81 crore beneficiaries to lift their entitled food grains from any FPS in the country using their existing ration card/Aadhaar card with biometric authentication on an e-PoS device."},
+  {"fact": "The Mera Ration app (NIC) shows ration card details and monthly entitlements and locates the nearest fair price shop",
+   "status": "added", "url": "https://nfsa.gov.in/doc/FAQ_for_Mera_Ration_2.pdf",
+   "quote": "Food Entitlement Information: Check monthly food grain entitlements. - Transaction History: View past food grain transactions. - Locate Nearest FPS: Find nearby Fair Price Shops (FPS)."}
+ ],
+ "behaviour": "Replies in Hinglish/Hindi; says yes, explains One Nation One Ration Card portability (any FPS in the country with the existing card/Aadhaar biometric) and mentions the Mera Ration app, with citations (nfsa.gov.in / PIB); no personal eligibility verdict.",
+ "fail_if": "It says the card must be transferred or a new card made in the other State to get ration; says portability is not available; cites unofficial sites.",
+ "summary": "Added: ONORC lets NFSA beneficiaries draw grain at any FPS with the existing card (all 36 States/UTs, Aadhaar biometric on e-PoS); Mera Ration app shows entitlements and nearest FPS."
+}

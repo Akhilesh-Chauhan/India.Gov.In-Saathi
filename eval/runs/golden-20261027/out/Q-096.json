@@ -1,0 +1,17 @@
+{
+ "id": "Q-096",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "As of 28 Oct 2026 the latest All-India CPI-IW (base 2016=100) is for August 2026: 154.4 points, up 1.2 points from July",
+   "status": "added",
+   "url": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "quote": "The All-India CPI-IW for August, 2026 increased by 1.2 points and stood at 154.4 points"},
+  {"fact": "The Labour Bureau released the August 2026 CPI-IW on 30 September 2026",
+   "status": "added",
+   "url": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "quote": "Dated: 30.09.2026 Press Release Consumer Price Index for Industrial Workers (2016=100) – August, 2026"}
+ ],
+ "behaviour": "Gives the latest month and All-India CPI-IW index value with its release date from labourbureau.gov.in; if a newer month has been released by the time of testing, that one is expected instead.",
+ "fail_if": "It gives an older month as the latest without its date, invents a figure, or cites an unofficial site.",
+ "summary": "Labour Bureau press release dated 30.09.2026: All-India CPI-IW for August 2026 = 154.4 (base 2016=100); the September index was not yet out on 28 Oct 2026."
+}

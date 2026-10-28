@@ -1,0 +1,21 @@
+{
+ "id": "Q-261",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A single person can adopt: prospective adoptive parents are eligible irrespective of marital status, subject to CARA's conditions",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "quote": "Any prospective adoptive parents, irrespective of their marital status and whether or not they have biological son or daughter, can adopt a child subject to following, namely:-"},
+  {"fact": "A single woman can adopt a child of any gender",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "quote": "A single female can adopt a child of any gender;"},
+  {"fact": "A single man is not eligible to adopt a girl child",
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/parents/eg_ri.html",
+   "quote": "A single male shall not be eligible to adopt a girl child;"}
+ ],
+ "behaviour": "States the eligibility rules exactly as CARA publishes them, citing cara.wcd.gov.in.",
+ "fail_if": "Says single persons cannot adopt, says a single man can adopt a girl child, or cites unofficial sites.",
+ "summary": "CARA eligibility page: single persons can adopt; single female any gender; single male not a girl child."
+}

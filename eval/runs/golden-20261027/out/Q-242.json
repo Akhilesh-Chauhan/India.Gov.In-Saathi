@@ -1,0 +1,21 @@
+{
+ "id": "Q-242",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Apply online on the PMAY-U 2.0 unified web portal (pmaymis.gov.in) by clicking the 'Apply for PMAY-U 2.0' tab", "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "quote": "Interested beneficiary who wants to own a house under PMAY-U 2.0 can register herself/himself on the PMAY-U 2.0 website, wherein it is required to click on ‘Apply for PMAY-U 2.0’ tab."},
+  {"fact": "The submitted application is forwarded to the concerned Urban Local Body (ULB) for verification and processing", "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "quote": "the system will generate an acknowledgment form mentioning that the User’s application has been successfully forwarded to the concerned Urban Local Body for verification and processing as per the guidelines of the scheme."},
+  {"fact": "EWS/LIG/MIG families with no pucca house anywhere in the country are eligible", "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PmayDefault.aspx",
+   "quote": "Families belonging to EWS/LIG/MIG segments, having no pucca house anywhere in the country, are eligible to purchase or construct a house under PMAY-U 2.0."},
+  {"fact": "Income categories: EWS up to Rs 3 lakh, LIG Rs 3-6 lakh, MIG Rs 6-9 lakh annual household income", "status": "added",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "EWS households are defined as households with an annual income of up to ₹3 lakh. LIG is defined as households with an annual income from ₹3 lakh up to ₹6 lakh. MIG is defined as households with an annual income from ₹6 lakh up to ₹9 lakh."}
+ ],
+ "behaviour": "Replies in Hindi with the PMAY-U 2.0 application route and the EWS/LIG/MIG income categories, citing pmay-urban.gov.in or pmaymis.gov.in. Does not confirm the user's eligibility; that is decided on verification by the ULB.",
+ "fail_if": "It gives PMAY-U 1.0/CLSS terms (e.g. MIG-I/MIG-II income up to Rs 18 lakh) as current, gives income limits other than Rs 3/6/9 lakh, or sends the user to an unofficial or paid application site.",
+ "summary": "PMAY-U 2.0: apply on pmaymis.gov.in ('Apply for PMAY-U 2.0'), ULB verifies; EWS/LIG/MIG with no pucca house; income up to Rs 3/6/9 lakh."
+}

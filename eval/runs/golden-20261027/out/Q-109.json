@@ -1,0 +1,56 @@
+{
+ "id": "Q-109",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Under IGNOAPS (part of NSAP), persons aged 60 or above get central assistance of Rs 200 a month at ages 60-79",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=aboutus",
+   "quote": "National Old Age Pension Scheme (IGNOAPS) – Persons aged 60 years and above. ₹200 per month (60–79 years) ₹500 per month (80 years and above)"
+  },
+  {
+   "fact": "From age 80 it is Rs 500 a month",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202",
+   "quote": "The Ministry of Rural Development has informed that under IGNOAPS, financial assistance of ₹200 per month is provided to persons aged 60–79 years and ₹500 per month to persons aged 80 years and above, subject to eligibility under the Below Poverty Line (BPL) criteria.",
+   "note": "PIB release 2226202 posted 11 FEB 2026 (11.02.2026): written reply in the Rajya Sabha by the MoS for Social Justice and Empowerment."
+  },
+  {
+   "fact": "It is for persons from BPL households",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "quote": "The assistance under the sub-schemes of NSAP are applicable for persons belonging to Below Poverty Line (BPL) category."
+  },
+  {
+   "fact": "States/UTs add their own top-up from their own resources, so the total received differs by State",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202",
+   "quote": "Under IGNOAPS, States/UTs are encouraged to provide top-up assistance from their own resources."
+  },
+  {
+   "fact": "It is not limited to one person per family: every person aged 60+ in a BPL family is eligible",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=faq",
+   "quote": "No. All the persons who are 60 years of age in a BPL family are eligible to get old age pension."
+  },
+  {
+   "fact": "Payment is by Direct Benefit Transfer (DBT)",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=aboutus",
+   "quote": "NSAP delivers financial assistance through the Direct Benefit Transfer (DBT) mechanism. Funds are credited directly into beneficiary accounts"
+  },
+  {
+   "fact": "Applications go to the State/UT department that implements NSAP (mostly the Social Welfare Department)",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=faq",
+   "quote": "The NSAP Schemes are mainly implemented by the Social Welfare Departments in the States."
+  },
+  {
+   "fact": "Locally the scheme is run through the Gram Panchayat or Municipality",
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "quote": "At the local level, the Gram Panchayat /Municipality would implement the programmes."
+  }
+ ],
+ "summary": "IGNOAPS Rs 200 (60-79) / Rs 500 (80+), BPL, State top-up, all 60+ in a BPL family, DBT and State-department route confirmed on NSAP About Us, FAQ, 2014 guidelines and the PIB Rajya Sabha reply (11.02.2026); no revision found."
+}

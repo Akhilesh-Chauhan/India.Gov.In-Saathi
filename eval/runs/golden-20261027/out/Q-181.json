@@ -1,0 +1,12 @@
+{
+ "id": "Q-181",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "YES-TECH (Yield Estimation System based on Technology) uses remote sensing and technology-based methods to estimate crop yields under PMFBY", "status": "added", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf", "quote": "Yield Estimation System Based on Technology (YES-TECH) uses remote sensing and technology- based methods to provide fair and accurate crop yield estimates."},
+  {"fact": "YES-TECH-derived yields started with at least 30% weightage and now carry up to 50% in certain States", "status": "added", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf", "quote": "It started with at least 30% weightage assigned to YES-TECH-derived yields and has now increased up to 50% across certain states."},
+  {"fact": "CROPIC (Collection of Real-time photos and Observations of Crops) uses geo-tagged photographs to periodically check crop health in an Insurance Unit, and is meant to support damage assessment and yield estimation through pictorial analytics (pilots being started)", "status": "added", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9735_20260829_18493301.pdf", "quote": "Collection of Real-time photos and Observations of Crops (CROPIC): Uses geo-tagged photographs to periodically validate general crop health in a given Insurance Unit. It is also envisaged to support crop damage assessment and yield estimation through pictorial analytics, for which nation-wide pilots are in the process of initiation"}
+ ],
+ "behaviour": "Describes YES-TECH and CROPIC only as described by PMFBY / the Ministry of Agriculture (pmfby.gov.in or PIB), with citation.",
+ "fail_if": "It describes the technologies in ways not found on the cited official source, or invents coverage figures.",
+ "summary": "Added from PIB PMFBY backgrounder (29 Aug 2026): YES-TECH = remote-sensing/technology-based yield estimation (30% weight, up to 50% in some States); CROPIC = geo-tagged crop photos validating crop health."
+}

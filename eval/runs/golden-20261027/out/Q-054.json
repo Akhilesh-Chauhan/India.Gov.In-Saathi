@@ -1,0 +1,91 @@
+{
+ "id": "Q-054",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "For Tax Year 2026-27 the new tax regime is under section 202 of the Income-tax Act, 2025",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act",
+   "quote": "Yes. In the Income Tax Act, 2025 the new tax regime is provided under section 202"
+  },
+  {
+   "fact": "The Finance Bill 2026 made no change in rates for Tax Year 2026-27, so the slabs are the same as for AY 2026-27",
+   "status": "confirmed",
+   "url": "https://www.indiabudget.gov.in/doc/memo.pdf",
+   "quote": "There is no change proposed in tax rates either in these specific sections or in the First Schedule."
+  },
+  {
+   "fact": "For AY 2026-27 the same new-regime slabs are under s.115BAC(1A) of the Income-tax Act, 1961",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "Old Tax Regime New Tax Regime u/s 115BAC of Income Tax Act,1961 Income Tax Slab Income Tax Rate Income Tax Slab Income Tax Rate Up to ₹ 2,50,000 Nil Up to ₹ 4,00,000 Nil"
+  },
+  {
+   "fact": "New-regime slabs: up to Rs 4 lakh nil; 4-8 lakh 5%; 8-12 lakh 10%; 12-16 lakh 15%; 16-20 lakh 20%; 20-24 lakh 25%; above 24 lakh 30%",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-2/itr-2-faqs",
+   "quote": "Upto Rs. 4,00,000- Nil From Rs. 4,00,001 to Rs. 8,00,000 -5 per cent. From Rs. 8,00,001 to Rs. 12,00,000- 10 per cent. From Rs. 12,00,001 to Rs. 16,00,000- 15 per cent. From Rs. 16,00,001 to Rs. 20,00,000- 20 per cent. From Rs. 20,00,001 to Rs. 24,00,000- 25 per cent. Above Rs. 24,00,000- 30 per cent."
+  },
+  {
+   "fact": "Health & Education cess of 4% applies on income tax plus surcharge",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "Note : Health & Education cess @ 4% to be paid on the amount of income tax plus Surcharge (if any) in both the regimes."
+  },
+  {
+   "fact": "New-regime surcharge is 10% above Rs 50 lakh, 15% above Rs 1 crore and 25% above Rs 2 crore (maximum 25%)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "Rs. 50 lakhs to Rs. 1 Crore 10% 10% Rs. 1 Crore to Rs. 2 Crores 15% 15% Rs. 2 Crores to Rs. 5 Crores 25% 25% Above Rs. 5 Crores 25% 37%"
+  },
+  {
+   "fact": "A resident individual in the new regime with taxable income up to Rs 12,00,000 gets a rebate of up to Rs 60,000, so no tax is payable",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+   "quote": "Resident Individuals are also eligible for a Rebate of up to 100% of income tax subject to a maximum limit depending on tax regimes as under: Tax Regime Rebate Limit Rebate condition New Tax Regime ₹ 60,000 Taxable income shall not exceed 12,00,000"
+  },
+  {
+   "fact": "From AY 2026-27 the new-regime rebate rose from Rs 25,000 (Rs 7 lakh limit) to Rs 60,000 (Rs 12 lakh limit)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-2/itr-2-faqs",
+   "quote": "Rebate u/s 87A in new regime is increased from 25000 to 60000 as applicable allowed upto 12 Lakhs of total income from A Y 2026-27 onwards."
+  },
+  {
+   "fact": "The rebate does not cover tax on special-rate income such as capital gains",
+   "status": "confirmed",
+   "url": "https://www.indiabudget.gov.in/budget2025-26/doc/memo.pdf",
+   "quote": "Further, as mentioned in para. 4 above, such rebate of income-tax is not available on tax on incomes chargeable at special rates (for e.g.: capital gains u/s 111A, 112 etc.)."
+  },
+  {
+   "fact": "Lottery winnings are among the special-rate incomes excluded from the rebate",
+   "status": "unsupported",
+   "note": "Official pages found (Finance Bill 2025 memo, PIB 1 Feb 2025, ITD AY 2026-27 pages) name only capital gains (u/s 111A, 112 'etc.') as the example; no official page found naming lottery winnings."
+  },
+  {
+   "fact": "With the Rs 75,000 standard deduction, salary up to Rs 12,75,000 bears no tax in the new regime",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2098406&reg=3&lang=2",
+   "quote": "This limit will be Rs.12.75 lakh for salaried tax payers, due to standard deduction of Rs. 75,000."
+  },
+  {
+   "fact": "Marginal relief applies to income just above Rs 12 lakh",
+   "status": "confirmed",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/feb/doc202521493201.pdf",
+   "quote": "Marginal relief as provided earlier under the new tax regime is also applicable for income marginally higher than ` 12,00,000."
+  },
+  {
+   "fact": "Marginal relief runs up to income of Rs 12,70,588; e.g. income Rs 12,10,000 pays Rs 10,000 instead of Rs 61,500",
+   "status": "manual",
+   "url": "https://www.incometaxindia.gov.in/documents/20117/15766092/FAQs-Budget-2026%2BUpdated.pdf/daf54d14-aca9-c4ea-b786-598fd2f8d4c4",
+   "note": "The Budget 2026 FAQ PDF on incometaxindia.gov.in returns HTTP 403 to the checker (28 Oct 2026), so the figure cannot be read by code; no incometax.gov.in or PIB page found stating 12,70,588 or the example. The figures follow arithmetically from the slabs (Rs 60,000 + 15% of the excess equals the excess at Rs 70,588)."
+  },
+  {
+   "fact": "A return must still be filed to claim the rebate",
+   "status": "unsupported",
+   "note": "Searched incometax.gov.in, PIB and indiabudget.gov.in (28 Oct 2026): no official page states this for the Rs 12 lakh rebate. Only the general rule (file if income before deductions exceeds the basic exemption limit) appears, in older ITR instructions."
+  }
+ ],
+ "summary": "Slabs, cess, surcharge, Rs 60,000 rebate up to Rs 12 lakh, special-rate exclusion, Rs 12.75 lakh for salaried, s.202 and no-change for TY 2026-27 all confirmed; the 12,70,588 marginal-relief figure is manual (Budget FAQ blocked). Added s.115BAC(1A) and the Rs 25,000 -> Rs 60,000 rebate change; 'lottery winnings' and 'a return must still be filed to claim the rebate' are unsupported, so the answer is rewritten.",
+ "behaviour": "Give the year label (TY 2026-27 / AY 2026-27) and the Act section with each figure, citing incometax.gov.in (or the Budget/PIB page used). No personal tax computation or verdict.",
+ "fail_if": "Gives old pre-2025 slabs (3/7/10/12/15 lakh) or the Rs 7 lakh / Rs 25,000 rebate as current; says 12 lakh is tax-free for everyone, including on capital gains, non-residents or the old regime; omits the year label."
+}

@@ -1,0 +1,33 @@
+{
+ "id": "Q-293",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "OTR (One-Time Registration) must be completed on the SSC website ssc.gov.in before applying for an exam",
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "quote": "All the candidates who wish to apply in response to this Notice are required to complete their One-Time Registration (OTR) on the website of the Commission (https://ssc.gov.in)."
+  },
+  {
+   "fact": "An OTR made on the old website ssc.nic.in does not work on the new website, so it must be done again on ssc.gov.in",
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "quote": "The OTR generated on the old website (https://ssc.nic.in ) will not be functional for the new website."
+  },
+  {
+   "fact": "After OTR the candidate fills the online application form for the exam; one OTR stays valid for all exams applied for on the new website",
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "quote": "Subsequent to OTR, the candidates can proceed to fill in the Online Application Form for the Examination. Once an OTR has been generated on the new website (https://ssc.gov.in), it will continue to remain valid for all the Examinations to be applied for on the new website."
+  },
+  {
+   "fact": "The application form is submitted only online, on ssc.gov.in or through the mySSC mobile app",
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "quote": "The Application Form must be submitted only in online mode, either at the website of SSC (HQ) (https://ssc.gov.in) or through the ‘mySSC’ mobile application"
+  }
+ ],
+ "behaviour": "Explains OTR and then the exam application on ssc.gov.in (or the mySSC app), with citation to the SSC notice.",
+ "fail_if": "Says the old ssc.nic.in registration still works, or describes an offline application.",
+ "summary": "SSC notice (02.09.2026): OTR on ssc.gov.in is mandatory (old ssc.nic.in OTR invalid), valid for all exams; then apply online on ssc.gov.in or mySSC app."
+}

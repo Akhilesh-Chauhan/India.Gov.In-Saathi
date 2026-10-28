@@ -1,0 +1,21 @@
+{
+ "id": "Q-059",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Instant e-PAN is a free, pre-login service on the Income Tax e-Filing portal that gives an individual without a PAN a digitally signed e-PAN using Aadhaar and the mobile number linked to it", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "quote": "Instant e-PAN is a free, pre-login service on the e-Filing portal that lets an individual taxpayer who has not yet been allotted a PAN obtain a digitally signed PAN in electronic form, using their Aadhaar and the mobile number linked to it."},
+  {"fact": "There is no fee for Instant e-PAN", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "quote": "Is there any fee for generating an Instant e-PAN? No. The service is free of cost."},
+  {"fact": "It needs a valid Aadhaar linked to an active mobile number and access to DigiLocker", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "quote": "This Instant e-PAN service can be used by any individual who does not already have a PAN, has a valid Aadhaar linked to an active mobile number, and has access to DigiLocker."},
+  {"fact": "To apply: on the e-Filing portal homepage click Instant e-PAN under Quick Links, then Get New e-PAN", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+   "quote": "On the e-Filing portal homepage, click ‘Instant e-PAN’ under Quick Links, then click ‘Get New e-PAN’ on the e-PAN page."}
+ ],
+ "behaviour": "Points to the free Instant e-PAN service on the Income Tax e-Filing portal (incometax.gov.in), citing the ITD page; does not recommend agent or third-party sites.",
+ "fail_if": "Recommends agents or non-official sites, or says Instant e-PAN costs a fee.",
+ "summary": "Added the ITD Instant e-PAN FAQ facts: free pre-login service, Aadhaar + linked mobile + DigiLocker, Quick Links > Instant e-PAN > Get New e-PAN."
+}

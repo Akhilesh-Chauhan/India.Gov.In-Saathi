@@ -1,0 +1,7 @@
+{
+ "id": "Q-061",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "No ITD (incometax.gov.in) or PIB page published by 28 Oct 2026 gives the number of ITRs filed this year (AY 2026-27) against last year; searched pib.gov.in and incometax.gov.in (home page, latest news). The only 2026 mention is a regional PIB speech (Pune, 24 Jul 2026) of 'nearly 9 crore returns filed last year', which is approximate and not a year-on-year count. The expected behaviour stays: give only a dated ITD/PIB figure if found, neutrally, otherwise say it was not found.",
+ "summary": "No official current-year vs last-year ITR count found; behaviour-only expected answer kept."
+}

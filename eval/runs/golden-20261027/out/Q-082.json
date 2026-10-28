@@ -1,0 +1,79 @@
+{
+ "id": "Q-082",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The EDLI Scheme, 2026 (G.S.R. 526(E), dated 29 June 2026) superseded the EDLI Scheme, 1976",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "Code on Social Security (36 of 2020) and in supersession of the Employees’ Deposit-Linked Insurance Scheme, 1976"
+  },
+  {
+   "fact": "The e-Gazette copy of the EDLI Scheme, 2026 (CG-DL-E-30062026-273942) was digitally signed and uploaded on 30 June 2026",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "Digitally signed by SARVESH KUMAR KUMAR SRIVASTAVA SRIVASTAVA Date: 2026.06.30 22:52:29"
+  },
+  {
+   "fact": "The benefit rules are in para 21(4) of the EDLI Scheme, 2026, for a member employed continuously for 12 months before the month of death",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "was in employment for a continuous period of twelve months preceding the month in which he died, the persons entitled to receive the provident fund accumulations of the deceased shall, in addition to such accumulations to be paid an amount, equal to: -"
+  },
+  {
+   "fact": "For a member employed continuously for 12 months before death, the benefit is 35 x average monthly wages (capped at the wage ceiling) + 50% of the average PF balance (that part capped at Rs 1.75 lakh)",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "multiplied by thirty- five times plus fifty per cent. of the average balance in the account of the deceased in the fund or of a Provident Fund exempted under section 143 of the Code, as the case may be, during the preceding twelve months subject to a ceiling of one lakh and seventy-five thousand rupees:"
+  },
+  {
+   "fact": "That benefit is at least Rs 2.5 lakh and at most Rs 7 lakh",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "Provided that the assurance benefit shall not be less than two lakh and fifty thousand rupees and shall not exceed seven lakh rupees;"
+  },
+  {
+   "fact": "The member gets the higher of this formula and the average-balance benefit",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "the amount of benefit under sub-paragraph (1), whichever is higher:"
+  },
+  {
+   "fact": "A gap of up to 60 days between two jobs is ignored for the 12-month continuous-employment condition",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "the gap of sixty days between two spells of employment shall be ignored and such multiple services shall be added being treated as continuous service."
+  },
+  {
+   "fact": "Otherwise the benefit equals the average PF balance; above Rs 50,000 it is Rs 50,000 + 40% of the excess, with a ceiling of Rs 1 lakh",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "except where the average balance exceeds rupees fifty thousand, the amount payable shall be rupees fifty thousand plus 40% of the amount in excess of rupees fifty thousand subject to a ceiling of rupees one lakh."
+  },
+  {
+   "fact": "A minimum assurance benefit of Rs 50,000 is payable even if the average balance is lower",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "is less than rupees fifty thousand, a minimum assurance benefit of rupees fifty thousand shall be payable."
+  },
+  {
+   "fact": "Para 21(5) adds a further 20% to the benefit under sub-paragraph (1) or (3)",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273942.pdf",
+   "quote": "The benefit under this scheme shall be further increased by twenty per cent in addition to the benefits admissible under sub-paragraph (1) or (3), as the case may be."
+  },
+  {
+   "fact": "EPFO's EDLI page states a minimum of Rs 2.5 lakh and a maximum of Rs 7 lakh",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/insurance-scheme-edli/",
+   "quote": "In case of death during service, the nominee receives a minimum of ₹2.5 lakh and up to ₹7 lakh, based on the employee’s salary and EPF balance."
+  },
+  {
+   "fact": "The employer pays 0.5% of wages; the employee pays nothing",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/insurance-scheme-edli/",
+   "quote": "Employers contribute 0.5% of wages, with no deduction from employees."
+  }
+ ],
+ "summary": "EDLI Scheme, 2026 para 21 and the EPFO EDLI page confirm min Rs 2.5 lakh / max Rs 7 lakh (12 months' continuous employment) and the Rs 50,000 tier; no change."
+}

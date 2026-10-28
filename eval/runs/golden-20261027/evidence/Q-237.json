@@ -1,0 +1,67 @@
+{
+ "id": "Q-237",
+ "checked_at": "2026-10-28T14:03:22+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "final": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:02+05:30",
+   "sha256": "a6841a543c8396192e330887374e67811163a4db4888677910fb7d04050c191d",
+   "copy": "36a7e81c6a917c585158.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "final": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:02+05:30",
+   "sha256": "a6841a543c8396192e330887374e67811163a4db4888677910fb7d04050c191d",
+   "copy": "36a7e81c6a917c585158.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "final": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=842&lid=308",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:02+05:30",
+   "sha256": "a6841a543c8396192e330887374e67811163a4db4888677910fb7d04050c191d",
+   "copy": "36a7e81c6a917c585158.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841",
+   "final": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:21+05:30",
+   "sha256": "8f4da9ae3cb8bb97f27553b5188b38561263af2a521b9eb4f66a937cccd4c4a8",
+   "copy": "ba489ac198ffb422e5f4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,33 @@
+{
+ "id": "Q-100",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The official Dearness Relief rate is 60% (not 63%) of basic pension/family pension w.e.f. 01.01.2026",
+   "status": "confirmed",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Circular/1778055324_dearnessrelief-dr.pdf",
+   "quote": "shall be enhanced from the existing rate of 58% to 60% of the basic pension/family pension (including additional pension/additional family pension) w.e.f. 01st January, 2026.",
+   "note": "DoPPW OM No. 42/02/2024-P&PW(D) dated 24.04.2026, as circulated by ICMR (icmr.gov.in); doppw.gov.in served an empty page to the checker."
+  },
+  {
+   "fact": "The Union Cabinet approved it on 18 April 2026 (PIB)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244",
+   "quote": "Posted On: 18 APR 2026 3:13PM by PIB Delhi"
+  },
+  {
+   "fact": "It was an increase of 2 percentage points over the earlier 58%",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244",
+   "quote": "representing an increase of 2% over the existing rate of 58% of the Basic Pay/Pension, to compensate against price rise."
+  },
+  {
+   "fact": "No DA/DR instalment for 01.07.2026 has been approved or notified yet (none as of 15 Oct 2026, still none on 28 Oct 2026), so there is no arrear to announce",
+   "status": "confirmed",
+   "url": "https://doe.gov.in/en/orders-circulars/27",
+   "quote": "1 1/1(i)/2026-E.II(B) Revision of rates of Dearness Allowance to Central Government employees- effective from 01.01.2026. 22/04/2026",
+   "note": "An absence: DoE's Dearness Allowance OM list has the 22/04/2026 OM for 01.01.2026 as its newest entry, and PIB's Cabinet Decisions 2026 list (https://www.pib.gov.in/EventDetail.aspx?ID=1234&reg=3&lang=1, newest entries 14 Oct 2026) has no DA/DR item after 18 Apr 2026; pib.gov.in searches on 28 Oct 2026 found none either. Re-check on demo day."
+  }
+ ],
+ "summary": "DR 60% w.e.f. 01.01.2026 (Cabinet 18 Apr 2026, +2 over 58%; DoPPW OM 24.04.2026) confirmed; still no 01.07.2026 instalment as of 28 Oct 2026."
+}

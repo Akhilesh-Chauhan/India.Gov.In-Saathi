@@ -1,0 +1,21 @@
+{
+ "id": "Q-216",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A hacked social media account is reported on cybercrime.gov.in under 'Report Other Cybercrimes' (covers online and social media crimes and hacking)",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Report Other Cybercrimes – Under this option, you can report complaints pertaining to cybercrimes such as mobile crimes, online and social media crimes, online financial frauds, ransomware, hacking, cryptocurrency crimes, and online cyber trafficking."},
+  {"fact": "To report, register on the portal with your name and a valid Indian mobile number",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "In case of other cybercrimes, you can select the “Report Other Cybercrimes” section. You are required to register yourself using your name and a valid Indian mobile number."},
+  {"fact": "Report immediately at cybercrime.gov.in (or call 1930)",
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "If you are a victim of cybercrime, report immediately at https://www.cybercrime.gov.in/ or call 1930."}
+ ],
+ "behaviour": "Replies in Hinglish; tells the user to report the hacked Instagram account on the National Cyber Crime Reporting Portal (cybercrime.gov.in), citing it.",
+ "fail_if": "Does not mention cybercrime.gov.in, asks for the user's password or OTP, or cites unofficial sites.",
+ "summary": "cybercrime.gov.in: hacking / social media crimes go under 'Report Other Cybercrimes' after registering with name and mobile; report immediately."
+}

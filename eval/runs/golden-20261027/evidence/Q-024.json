@@ -1,0 +1,82 @@
+{
+ "id": "Q-024",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.passportindia.gov.in/psp/docAdvisor/reissuePassport",
+   "final": "https://www.passportindia.gov.in/psp/docAdvisor/reissuePassport",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:11+05:30",
+   "sha256": "fce27c22af3b54d839313371ad9065ad67478b3f82762b990169587d5cbb1752",
+   "copy": "c9ffafc8c7b5f8e1abf6.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/e-filing-link-aadhaar-faq",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/e-filing-link-aadhaar-faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:36+05:30",
+   "sha256": "a64daa7722d8a7711a4ed14dc12bb6323454f5855e9c36f4e54f6f629bbfe713",
+   "copy": "7c772158a1c815b9db83.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pan.utiitsl.com/PAN/downloadFile?FileName=DocumentsForPAN.pdf",
+   "final": "https://www.pan.utiitsl.com/PAN/downloadFile?FileName=DocumentsForPAN.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:45+05:30",
+   "sha256": "d99d610a60cdb542bb55e70226f0c11fdf753232c852398516541c5c7bb48592",
+   "copy": "ec27540f1de161c3ae6a.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "final": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "http": 200,
+   "fetched_at": "2026-10-27T17:34:07+05:30",
+   "sha256": "ec932f16d0fd997ef4562beacf023602afa833f70426ae4fff66e0b3b5ba3b5f",
+   "copy": "5bc76e2118bf9c727fb9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "final": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "http": 200,
+   "fetched_at": "2026-10-27T17:34:07+05:30",
+   "sha256": "ec932f16d0fd997ef4562beacf023602afa833f70426ae4fff66e0b3b5ba3b5f",
+   "copy": "5bc76e2118bf9c727fb9.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

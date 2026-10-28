@@ -1,0 +1,52 @@
+{
+ "id": "Q-021",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.mea.gov.in/guide-to-consular-services-menu",
+   "final": "https://www.mea.gov.in/guide-to-consular-services-menu",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:42+05:30",
+   "sha256": "403f12280f7bf106defa139df0b399fbd55cd664f5055a38db805010d3e0e06f",
+   "copy": "aeba981d45b69df0b0bb.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://mportal.passportindia.gov.in/mission/BeforeYouApply",
+   "final": "https://mportal.passportindia.gov.in/mission/BeforeYouApply",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:48+05:30",
+   "sha256": "5fe3fbf67185f0ea8e5601331271dd0bb99925866019427a884c2e8589c7e23d",
+   "copy": "9608ef68304c0852b467.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://mportal.passportindia.gov.in/mission/BeforeYouApply",
+   "final": "https://mportal.passportindia.gov.in/mission/BeforeYouApply",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:09:48+05:30",
+   "sha256": "5fe3fbf67185f0ea8e5601331271dd0bb99925866019427a884c2e8589c7e23d",
+   "copy": "9608ef68304c0852b467.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

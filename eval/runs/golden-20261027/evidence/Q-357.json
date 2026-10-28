@@ -1,0 +1,22 @@
+{
+ "id": "Q-357",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://taxinformation.cbic.gov.in/content/html/tax_repository/gst/rules/cgst_rules/active/chapter8/rule61_v1.00.html",
+   "final": "https://taxinformation.cbic.gov.in/content/html/tax_repository/gst/rules/cgst_rules/active/chapter8/rule61_v1.00.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:28:29+05:30",
+   "sha256": "436fed509b4ab18987ed4b54336120e8b963745fb1b956d3aaf258140afe051b",
+   "copy": "5f41fa11887abca36c9f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

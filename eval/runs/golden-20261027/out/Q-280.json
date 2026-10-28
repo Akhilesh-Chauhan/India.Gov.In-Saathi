@@ -1,0 +1,33 @@
+{
+ "id": "Q-280",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "First get a One Time Registration (OTR) number on NSP: OTR is mandatory to get scholarships and is a unique number for the student's entire academic career",
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "quote": "One Time Registration (OTR) is mandatory to avail scholarships. It is a unique number allotted to the candidate for the entire academic career and can be generated through National Scholarship Portal OTR Registration ."
+  },
+  {
+   "fact": "The OTR number is issued on the basis of the student's Aadhaar or Aadhaar Enrolment ID (EID)",
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "quote": "One Time Registration (OTR) is a unique 14-digit number issued based on the Aadhaar/Aadhaar Enrolment ID (EID) and is applicable for the entire academic career of the student."
+  },
+  {
+   "fact": "After submitting the Basic Information, go to the Apply Fresh menu, read the guidelines and accept the terms",
+   "status": "added",
+   "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "quote": "After submitting the Basic Information go to the Apply Fresh menu. Carefully read the guidelines and accept the terms by clicking on the checkboxes and click on continue."
+  },
+  {
+   "fact": "In the application form, select the scheme from the list shown, upload the required documents and click Final Submit",
+   "status": "added",
+   "url": "https://scholarships.gov.in/public/FAQ/NSP_FAQsORApplicationUsermanul_V2.2.pdf",
+   "quote": "Select the desired scheme from the list, upload required documents and click on Final Submit."
+  }
+ ],
+ "behaviour": "Replies in Hinglish; explains that a first-time applicant must first do One Time Registration (OTR) and then log in and fill the scholarship application on scholarships.gov.in (NSP), citing NSP.",
+ "fail_if": "Says the student can apply without OTR; gives steps from a third-party site instead of NSP.",
+ "summary": "Added the OTR-first and application steps from NSP's Students page and application FAQ."
+}

@@ -1,0 +1,18 @@
+{
+ "id": "Q-205",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A complaint can be registered with the National Consumer Helpline on toll-free 1915 or 1800-11-4000, or through WhatsApp, SMS, the NCH app, the web portal or UMANG",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "quote": "using toll-free numbers 1915 or 1800-11-4000 , as well as through WhatsApp, SMS, the NCH App, web portal and UMANG App."},
+  {"fact": "Consumers can register their grievance online on consumerhelpline.gov.in",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Consumers can register online their grievances through this portal. This portal is an alternate dispute redressal mechanism at pre-litigation level."},
+  {"fact": "NCH gives a unique docket number and sends the grievance to the company concerned",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Every grievance will be registered and a Unique Docket number is issued. The Grievance will be forwarded to the concerned company/regulator/ authority for action."}
+ ],
+ "behaviour": "Gives the National Consumer Helpline complaint route, cited (consumerhelpline.gov.in).",
+ "fail_if": "Invents a helpline number or timings, or cites unofficial sites.",
+ "summary": "NCH route added: 1915 / 1800-11-4000 and other channels, online portal, docket number and forwarding to the company."
+}

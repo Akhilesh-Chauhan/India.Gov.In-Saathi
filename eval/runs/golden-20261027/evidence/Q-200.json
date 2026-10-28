@@ -1,0 +1,67 @@
+{
+ "id": "Q-200",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:52+05:30",
+   "sha256": "e8710c41bdec454709ec56ca0126ec05720b9cc2d252664a289b2b9bb72e7e4d",
+   "copy": "c6f313a6e6052361cf6b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/State_UT_Toll_Free_AA",
+   "final": "https://nfsa.gov.in/portal/State_UT_Toll_Free_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:36:33+05:30",
+   "sha256": "8b77ea2c797db8efc7132087bbbffff23a48c505b2020b4c6396f72f91b5cc30",
+   "copy": "0dbca140f85b41e6a967.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/State_UT_Online_Grievance_AA",
+   "final": "https://nfsa.gov.in/portal/State_UT_Online_Grievance_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:33:28+05:30",
+   "sha256": "a0c9a7f179097485b88a8ff0fc4008330f6ac6541192f3acd92d566f5521c291",
+   "copy": "153836c3b275a8ffe29a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "final": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:09+05:30",
+   "sha256": "bc642dc9a5ecb458f63c8e712d5b10f43a01b79756217ead7b786ae1596ac7ca",
+   "copy": "b5c969dca97db64795da.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

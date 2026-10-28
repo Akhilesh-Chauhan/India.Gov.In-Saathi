@@ -1,0 +1,28 @@
+{
+ "id": "Q-197",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "e-KYC of NFSA/PMGKAY ration card beneficiaries is mandatory (directed by the Supreme Court; States/UTs implement it)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2160367",
+   "quote": "The Minister explained that the process of mandatory eKYC of NFSA/PMGKAY beneficiaries was directed by the Hon’ble Supreme Court, and the Central Government has only asked States/UTs to comply with this order."
+  },
+  {
+   "fact": "Under the NFSA, inclusion and exclusion of beneficiaries is the responsibility of the State/UT Governments",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1808675",
+   "quote": "under the National Food Security Act, 2013 (NFSA), inter-alia the inclusion and exclusion of beneficiaries is the responsibility of the respective State/UT Governments.",
+   "note": "That restoring a blocked card therefore goes through the State food department is derived."
+  },
+  {
+   "fact": "Beneficiaries can do e-KYC by Aadhaar authentication at any fair price shop, which helps migrant workers",
+   "status": "added",
+   "url": "https://dfpd.gov.in/WriteReadData/CircularManagement/8e4e0815-9251-40b9-a72e-22ba172aaa84_100%20e-KYC%20and%20Adhaar%20Validation%20Advisory_compressed.pdf",
+   "quote": "This initiative, aligned with the ONORC, allows beneficiaries to authenticate using Aadhaar for e-KYC at any FPS, particularly benefiting migrant workers."
+  }
+ ],
+ "behaviour": "Replies in Hinglish/Hindi; explains that e-KYC is mandatory for NFSA ration card members and that the State food department (via the fair price shop or State portal/helpline) handles completing e-KYC and restoring the card; does not claim to know the user's card status.",
+ "fail_if": "It states or guesses the user's personal card status; says the Centre cancels cards directly; invents a deadline or fee for e-KYC; cites unofficial sites.",
+ "summary": "Added: e-KYC mandatory (Supreme Court direction, PIB 2025); inclusion/exclusion is the State's job, so reactivation is via the State food department; e-KYC by Aadhaar biometric at any FPS (DFPD advisory 25.06.2024). No central source found saying cards are suspended for missing e-KYC, so that is not added."
+}

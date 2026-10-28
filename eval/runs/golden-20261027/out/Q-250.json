@@ -1,0 +1,18 @@
+{
+ "id": "Q-250",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The 2nd tranche becomes available on timely or early repayment of the 1st tranche loan",
+   "status": "added", "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "Upon timely or early repayment of a tranche, vendors will be eligible for the next tranche of working capital term loans, with the enhanced limit."},
+  {"fact": "The 2nd tranche is a loan of up to Rs 25,000, repayable in 18 months",
+   "status": "added", "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "2. 2nd tranche loan of up to ₹25,000 to be repaid in 18 months and"},
+  {"fact": "Apply for it online on the PM SVANidhi portal (pmsvanidhi.mohua.gov.in, 'Apply For 25k')",
+   "status": "added", "url": "https://pmsvanidhi.mohua.gov.in/",
+   "quote": "Apply for Loan Apply For 15k Apply For 25k Apply For 50k"}
+ ],
+ "behaviour": "States the conditions for the 2nd PM SVANidhi tranche from the official scheme guidelines / portal and cites them; points to the portal for applying.",
+ "fail_if": "It gives the old 2nd-tranche amount of Rs 20,000, or says the 2nd tranche can be had without repaying the 1st.",
+ "summary": "MoHUA guidelines (Jan 2026): repay the 1st tranche on time or early to become eligible for the 2nd tranche of up to Rs 25,000 (18 months); apply on the portal."
+}

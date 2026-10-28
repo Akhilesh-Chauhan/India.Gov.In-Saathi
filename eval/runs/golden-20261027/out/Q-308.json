@@ -1,0 +1,91 @@
+{
+ "id": "Q-308",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM MUDRA Yojana (PMMY) loans go to non-corporate, non-farm small/micro enterprises",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "for providing loans up to 10 lakh ( 20 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category) to the non-corporate, non-farm small/micro enterprises."
+  },
+  {
+   "fact": "Agri-allied income-generating activities (e.g. pisciculture, bee keeping, poultry) are also covered",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/Offerings",
+   "quote": "Loans for agri-allied non-farm income generating activities, e.g. pisciculture. bee keeping, poultry farming, etc."
+  },
+  {
+   "fact": "Shishu: loans up to Rs 50,000",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Shishu शिशु Covering loans upto 50,000/-"
+  },
+  {
+   "fact": "Kishor: above Rs 50,000 and up to Rs 5 lakh",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Kishor किशोर Covering loans above 50,000/- and upto 5 lakh"
+  },
+  {
+   "fact": "Tarun: above Rs 5 lakh and up to Rs 10 lakh",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Tarun तरुण Covering loans above 5 lakh and upto 10 lakh"
+  },
+  {
+   "fact": "Tarun Plus: above Rs 10 lakh and up to Rs 20 lakh",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "TarunPlus तरुणप्लस Covering loans above 10 lakh and upto 20 lakh"
+  },
+  {
+   "fact": "Tarun Plus is only for entrepreneurs who have availed and successfully repaid a previous Tarun loan",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/FAQ",
+   "quote": "10 lakh and upto `20 lakh under the Tarun Plus category (for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category)."
+  },
+  {
+   "fact": "MUDRA loans up to Rs 20 lakh are collateral-free as per RBI norms",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/Offerings",
+   "quote": "Hence, MUDRA loans, i.e., loans up to 20 lakh, have been made collateral free, as per the RBI norms in this regard."
+  },
+  {
+   "fact": "Lenders are covered by the Credit Guarantee Fund for Micro Units (CGFMU), managed by NCGTC",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/Offerings",
+   "quote": "a Credit Guarantee Product is extended by creation of a Fund called Credit Guarantee Fund for Micro Units [CGFMU]. All eligible micro-loans sanctioned since April 08, 2015 are covered under the above guarantee. The Scheme is being managed by National Credit Guarantee Trustee Company Ltd. [NCGTC]"
+  },
+  {
+   "fact": "Loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "These loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs."
+  },
+  {
+   "fact": "MUDRA itself does not lend directly to borrowers",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "MUDRA is a refinancing Institution. MUDRA does not lend directly to the micro entrepreneurs / individuals."
+  },
+  {
+   "fact": "Apply at any of these lenders or online via udyamimitra.in",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "The borrower can approach any of the lending institutions mentioned above or can apply online through this portal www.udyamimitra.in"
+  },
+  {
+   "fact": "MUDRA has no agents or middlemen; keep away from people posing as MUDRA agents",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/",
+   "quote": "Note:There are no agents or middleman engaged by MUDRA for availing of Mudra Loans. The borrowers are advised to keep away from persons posing as Agents/ facilitators of MUDRA/PMMY"
+  },
+  {
+   "fact": "The lender's norms and appraisal apply, so sanction is not automatic",
+   "status": "confirmed",
+   "url": "https://www.mudra.org.in/FAQ",
+   "quote": "The repayment terms will be governed by the cash flow of the enterprise and the eligibility of the borrower will be decided by the norms of lending institutions."
+  }
+ ],
+ "summary": "mudra.org.in (updated 23 Oct 2026) confirms all four categories incl. Tarun Plus Rs 10-20 lakh for repaid Tarun borrowers, collateral-free up to Rs 20 lakh with CGFMU/NCGTC, lenders, no direct lending, no agents."
+}

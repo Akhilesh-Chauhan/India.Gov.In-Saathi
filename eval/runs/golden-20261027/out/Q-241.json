@@ -1,0 +1,15 @@
+{
+ "id": "Q-241",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Tele-MANAS, the national 24x7 tele-mental health counselling service, can be reached on the toll-free number 14416",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2118790&reg=48&lang=2",
+   "quote": "through 24x7 tele-mental health counselling services. For this, a toll-free number (14416) has been set up across the country."},
+  {"fact": "112 is the integrated emergency helpline (ERSS: police, fire and rescue, health services)",
+   "status": "confirmed",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "quote": "112 Loading... Integrated Helpline (Emergency Response Support System (ERSS) Police, Fire & Rescue, Health services etc)"}
+ ],
+ "summary": "Help numbers named in the expected answer confirmed: Tele-MANAS 14416 (24x7, toll-free; PIB/MoHFW) and 112 (ERSS, india.gov.in helpline directory)."
+}

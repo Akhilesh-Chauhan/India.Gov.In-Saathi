@@ -1,0 +1,19 @@
+{
+ "id": "Q-508",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Top Class Education scholarship for SC students: annual family income up to Rs 8.00 lakh",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "quote": "SC students with annual family income up to Rs.8.00 lakh, admitted in a full-time prescribed course in a notified institution, subject to the allotted slots."},
+  {"fact": "The student must be admitted to a full-time prescribed course in a notified institution",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "quote": "admitted in a full-time prescribed course in a notified institution, subject to the allotted slots."},
+  {"fact": "Scholarships are awarded strictly on inter-se merit, within the slots allotted to the institution",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "quote": "Scholarships are awarded strictly on inter-se merit based on the admission criteria prescribed for the course, subject to the number of slots allotted to the institution."},
+  {"fact": "Yes, 30% of the allotted slots are reserved for SC girl students",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "quote": "Yes. Thirty percent of allotted slots are reserved for eligible SC girl students."}
+ ],
+ "summary": "Rs 8.00 lakh income limit, notified-institution admission, merit-based award and 30% slots for SC girls confirmed in the scheme FAQ on NSP."
+}

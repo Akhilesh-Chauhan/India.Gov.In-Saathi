@@ -1,0 +1,62 @@
+{
+ "id": "Q-152",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The policy repo rate is 5.50% (RBI home page, still so on 28 Oct 2026)",
+   "status": "confirmed",
+   "url": "https://www.rbi.org.in/",
+   "quote": "Policy Rates Policy Repo Rate : 5.50%"
+  },
+  {
+   "fact": "The repo rate was already 5.50% on 14 October 2026 (the as-on date in the expected answer)",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "The next meeting of the MPC is scheduled for December 2 to 4, 2026.",
+   "note": "Derived: the rate was raised to 5.50% on 7 Oct 2026 and the next MPC meeting is 2-4 Dec 2026, so it was 5.50% on 14 Oct; the RBI home page still shows 5.50% on 28 Oct 2026."
+  },
+  {
+   "fact": "It was last changed at the MPC meeting of 5-7 October 2026 (resolution dated 7 October 2026)",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "Date : Oct 07, 2026 Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026"
+  },
+  {
+   "fact": "The MPC unanimously raised the repo rate by 25 basis points to 5.50%",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "the MPC voted unanimously to increase the policy repo rate under the liquidity adjustment facility (LAF) by 25 bps to 5.50 per cent."
+  },
+  {
+   "fact": "The stance was changed to 'calibrated tightening'",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "The MPC also decided to change the stance to calibrated tightening."
+  },
+  {
+   "fact": "Consequently SDF is 5.25%, and MSF and Bank Rate are 5.75%",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "Consequently, the standing deposit facility (SDF) rate stands adjusted at 5.25 per cent and the marginal standing facility (MSF) rate and the Bank Rate at 5.75 per cent."
+  },
+  {
+   "fact": "CRR is 3.00% and SLR 18.00%",
+   "status": "confirmed",
+   "url": "https://www.rbi.org.in/",
+   "quote": "Reserve Ratios CRR : 3.00% SLR : 18.00%"
+  },
+  {
+   "fact": "The previous review (August 2026) kept the repo rate unchanged at 5.25%, so October's hike was from 5.25%",
+   "status": "confirmed",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63287",
+   "quote": "the MPC voted unanimously to keep the policy repo rate under the liquidity adjustment facility (LAF) unchanged at 5.25 per cent."
+  },
+  {
+   "fact": "The next MPC meeting is on 2-4 December 2026",
+   "status": "confirmed",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "quote": "The next meeting of the MPC is scheduled for December 2 to 4, 2026."
+  }
+ ],
+ "summary": "RBI home page (28 Oct 2026) still shows repo 5.50%; the 7 Oct 2026 MPC resolution confirms the 25 bps hike from 5.25%, the new stance, SDF/MSF and the 2-4 Dec meeting."
+}

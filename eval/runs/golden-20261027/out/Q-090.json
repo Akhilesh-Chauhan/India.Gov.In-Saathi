@@ -1,0 +1,26 @@
+{
+ "id": "Q-090",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "If an insured worker dies because of an employment injury at work, ESIC pays Dependants' Benefit: a lifetime monthly pension to the family (dependants)",
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "quote": "If an insured worker dies because of a work-related injury or an occupational hazard, the family often loses its main source of income. Dependants' Benefit gives the family a lifetime monthly pension, so that it can manage after the loss."
+  },
+  {
+   "fact": "Dependants' Benefit is up to 90% of the worker's wage, paid every month",
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "quote": "Who gets it? The dependants of the deceased worker. How much? Max. 90% of the worker's wage. How is it paid? Every month."
+  },
+  {
+   "fact": "ESIC also pays funeral expenses: the amount actually spent, up to Rs 20,000, as a one-time payment",
+   "status": "added",
+   "url": "https://www.esic.gov.in/information-benefits",
+   "quote": "How much? The amount actually spent on the funeral, up to a maximum of ₹20,000. How is it paid? As a one-time payment."
+  }
+ ],
+ "behaviour": "Replies in Hindi with compassion; explains ESIC Dependants' Benefit (and funeral expenses), citing ESIC (esic.gov.in); suggests contacting the ESIC Branch Office to claim; does not decide the individual claim.",
+ "summary": "Added from the ESIC benefits page: Dependants' Benefit as lifetime monthly pension up to 90% of wage, plus funeral expenses up to Rs 20,000."
+}

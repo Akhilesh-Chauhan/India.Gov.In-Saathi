@@ -1,0 +1,18 @@
+{
+ "id": "Q-178",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The latest official Maharashtra figure (Lok Sabha Starred Question 25, 21 July 2026) covers 2021-22 to 2025-26 together under PMFBY and RWBCIS, as on 30.06.2026; no single-year Maharashtra figure was found on official pages",
+   "status": "added",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "quote": "Details of claims reported, paid and pending from 2021-22 to 2025-26 under PMFBY and RWBCIS in the States of Madhya Pradesh and Maharashtra (as on 30.06.2026) are given below:",
+   "note": "Searched pib.gov.in, sansad.in and pmfby.gov.in (28 Oct 2026) for a 2025-26 or 2024-25 Maharashtra-only claims-paid figure: none found; PIB of Dec 2025 gives only a 2020-21 to 2024-25 total."},
+  {"fact": "For Maharashtra, claims paid over 2021-22 to 2025-26 were Rs 27,289.82 crore (Rs 27,513.15 crore reported, Rs 223.24 crore pending)",
+   "status": "added",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "quote": "Maharashtra 27,513.15 27,289.82 223.24"}
+ ],
+ "behaviour": "Gives a Maharashtra PMFBY claims figure only with its season/period and as-on date and a citation (e.g. the Lok Sabha answer of 21 July 2026: Rs 27,289.82 crore paid for 2021-22 to 2025-26 as on 30.06.2026); makes clear it is a multi-year total and that a figure for last year alone was not found, or says it was not found.",
+ "fail_if": "It presents the multi-year total as last year's figure, gives a figure without period/as-on date or source, or invents a number.",
+ "summary": "No single-year Maharashtra claims figure on official pages; added the Lok Sabha answer of 21 July 2026: Rs 27,289.82 crore paid for 2021-22 to 2025-26 (as on 30.06.2026)."
+}

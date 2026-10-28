@@ -1,0 +1,13 @@
+{
+ "id": "Q-505",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Open sarathi.parivahan.gov.in and select the State",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "How do I update/modify my mobile number on Driving License? Steps follow for Mobile number update in License :- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state"},
+  {"fact": "Then choose 'Mobile Number Update' from the 'Others' menu",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "Steps follow for Mobile number update in License :- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Mobile Number Update\" from \"Others\" menu"}
+ ],
+ "summary": "Sarathi > State > Others > Mobile Number Update confirmed on the Parivahan FAQ; expected answer unchanged."
+}

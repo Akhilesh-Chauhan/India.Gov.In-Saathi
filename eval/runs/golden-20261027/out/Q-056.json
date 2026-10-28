@@ -1,0 +1,115 @@
+{
+ "id": "Q-056",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The fee to make an inoperative PAN operative by intimating Aadhaar is Rs 1,000",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar",
+   "quote": "A fee of one thousand rupees will continue to apply to make the PAN operative by intimating the Aadhaar number."
+  },
+  {
+   "fact": "The fee is paid first, on the e-Filing portal under Major head 0021, Minor head 500, then Aadhaar is linked",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "1. Payment of Aadhaar PAN link Fee on e-filing portal (under minor head 500 with in the Major head 0021 in Single challan) 2. Link Aadhaar with PAN on e-filing portal."
+  },
+  {
+   "fact": "In e-Pay Tax select Type of Payment 'Other Receipts (500)' and sub-type 'Fee for delay in Linking PAN with Aadhaar'",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 9: Select the relevant Tax Year, Type of Payment as Other Receipts (500), Sub type of Payment (Fee for delay in Linking Pan with Aadhaar) and click ‘Continue’."
+  },
+  {
+   "fact": "Linking is mandatory under s.139AA of the 1961 Act / s.262 of the 2025 Act",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "As per the provisions of section 139AA of Income Tax Act,1961 or section 262 of Income Tax Act,2025 it is mandatory to link PAN with Aadhaar."
+  },
+  {
+   "fact": "Step: on the e-Filing home page click 'Link Aadhaar' in Quick Links (or Profile after login)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 1: Visit the e-Filing Portal Home page. Click on ‘Link Aadhaar’ in Quick Links section. Alternatively, login to e-filing portal and click on ‘Link Aadhaar’ in ‘Profile’ section."
+  },
+  {
+   "fact": "Step: enter PAN and Aadhaar, Validate, click 'Continue to Pay Through e-Pay Tax' and select Income Tax Act, 2025",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 3 : Enter your PAN and Aadhaar Number and click ‘Validate’. Step 4: Click on ‘Continue to Pay Through e-Pay Tax’. Step 5 : Select Applicable Income Tax Act, 2025 and click ‘Continue’."
+  },
+  {
+   "fact": "Step: enter PAN and mobile number, verify the OTP, then click Proceed on the 'Income Tax' tile",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 6: Enter your PAN, confirm PAN, and any valid mobile number to receive OTP. Step 7 : Post OTP verification, you will be redirected to e-Pay Tax page. Click on ‘Continue’. Step 8: Click on ‘Proceed’ in the ‘Income Tax’ tile."
+  },
+  {
+   "fact": "Step: the fee amount is pre-filled",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 10: Applicable amount will be pre-filled against Others."
+  },
+  {
+   "fact": "If the fee is already paid, wait 4-5 working days before submitting the link request",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Note: If you have already paid the fee, then wait for 4-5 working days. After that, you can submit the request."
+  },
+  {
+   "fact": "The PAN becomes operative again within 30 days of intimating Aadhaar after paying the Rs 1,000 fee (CBDT press release, 28.03.2023)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2023-03/Refer%20Press%20Release.pdf",
+   "quote": "The PAN can be made operative again in 30 days, upon intimation of Aadhaar to the prescribed authority after payment of fee of Rs.1,000."
+  },
+  {
+   "fact": "While inoperative: no refund is made against the PAN",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2023-03/Refer%20Press%20Release.pdf",
+   "quote": "i. no refund shall be made against such PANs;"
+  },
+  {
+   "fact": "While inoperative: no interest on refund for the period the PAN is inoperative",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2023-03/Refer%20Press%20Release.pdf",
+   "quote": "ii. interest shall not be payable on such refund for the period during which PAN remains inoperative; and"
+  },
+  {
+   "fact": "While inoperative: TDS and TCS apply at higher rates",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2023-03/Refer%20Press%20Release.pdf",
+   "quote": "iii. TDS and TCS shall be deducted /collected at higher rate, as provided in the Act."
+  },
+  {
+   "fact": "Linking is not required for residents of Assam, J&K and Meghalaya, non-residents, persons aged 80 or more, and non-citizens",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20Link%20Aadhaar-faq",
+   "quote": "Aadhaar-PAN linkage requirement does not apply to any individual who is: Residing in the States of Assam, Jammu and Kashmir, and Meghalaya; a non-resident as per the Income-tax Act, 1961; of the age of eighty years or more at any time during the previous year; or not a citizen of India."
+  },
+  {
+   "fact": "If details mismatch, correct them in PAN or Aadhaar; if linking still fails, use biometric authentication at PAN service provider (Protean/UTIITSL) centres",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20Link%20Aadhaar-faq",
+   "quote": "If linking request still fails, you are advised to avail the option of biometric based authentication at dedicated centres of PAN Service Providers (Protean & UTIITSL)."
+  },
+  {
+   "fact": "Step: after payment, Link Aadhaar again: Validate > Continue > enter details > 'Link Aadhaar' > enter the 6-digit OTP",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 4: Enter the mandatory details as required and click on ‘Link Aadhaar’. Step 5: Enter the 6-digit OTP received on mobile number mentioned in the previous step and click on ‘Validate’."
+  },
+  {
+   "fact": "Step: check the result via 'Link Aadhaar/View Status' in Quick Links",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/link-aadhaar-um",
+   "quote": "Step 1: On the e-Filing Portal homepage, under 'Quick Links', click 'Link Aadhaar/View Status'."
+  },
+  {
+   "fact": "If names/DOB in PAN and Aadhaar do not match, correct the details in PAN (Protean/UTIITSL) or Aadhaar (UIDAI)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20Link%20Aadhaar-faq",
+   "quote": "Correct your details in either PAN or Aadhaar database such that both have matching details."
+  }
+ ],
+ "summary": "Rs 1,000 fee, 0021/500 challan, fee-then-link steps, s.139AA/s.262, 4-5 day wait, 30-day reactivation (2023 press release, now read directly), consequences and exemptions all confirmed on ITD pages. Added each Link Aadhaar step, the three inoperative-PAN consequences separately, and the PAN/Aadhaar mismatch correction."
+}

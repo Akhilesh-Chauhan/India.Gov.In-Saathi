@@ -1,0 +1,13 @@
+{
+ "id": "Q-159",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM-KISAN is for landholding farmer families with cultivable land in their names, subject to exclusions, so a woman who owns farmland in her own name can get it", "status": "added", "url": "https://www.myscheme.gov.in/schemes/pm-kisan", "quote": "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme. Exclusions The following categories of beneficiaries of higher economic status shall not be eligible for benefit under the scheme"},
+  {"fact": "The land must be in the farmer's own name", "status": "added", "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf", "quote": "No. The land must be in his / her own name."},
+  {"fact": "The benefit is per farmer family, defined as husband, wife and minor children owning cultivable land as per the State/UT land records", "status": "added", "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf", "quote": "A landholder farmer’s family is defined as “a family comprising of husband, wife and minor children who owns cultivable land as per land records of the concerned State/UT”."},
+  {"fact": "Nearly one in four PM-KISAN beneficiaries is a woman farmer (PIB, 31 Jul 2026)", "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1", "quote": "Women farmers have received more than Rs.1.06 lakh crore under PM-KISAN, and nearly one out of every four beneficiaries is a woman farmer."}
+ ],
+ "behaviour": "Explains the published eligibility, cited to pmkisan.gov.in / myScheme: landholding farmer families with cultivable land in their own name are eligible, women included, subject to the exclusion criteria; the benefit is per family (husband, wife, minor children); may mention that nearly one in four beneficiaries is a woman (PIB, 31 Jul 2026). Does not itself decide the user's eligibility.",
+ "fail_if": "It says women landholders are not eligible, gives a definite eligibility verdict, or cites no official page.",
+ "summary": "Added eligibility rules (land in own name, per-family definition) from myScheme and pmkisan.gov.in; PIB's 'one in four beneficiaries is a woman' confirmed."
+}

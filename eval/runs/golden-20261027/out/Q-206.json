@@ -1,0 +1,21 @@
+{
+ "id": "Q-206",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "File a complaint with NCH on toll-free 1915 or 1800-11-4000, or through WhatsApp, SMS, the NCH app, the web portal (consumerhelpline.gov.in) or UMANG",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "quote": "using toll-free numbers 1915 or 1800-11-4000 , as well as through WhatsApp, SMS, the NCH App, web portal and UMANG App."},
+  {"fact": "NCH issues a unique docket number and forwards the grievance to the company concerned",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Every grievance will be registered and a Unique Docket number is issued. The Grievance will be forwarded to the concerned company/regulator/ authority for action."},
+  {"fact": "It may take up to a maximum of 30 days to reach a logical conclusion",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "It may take up to a maximum of 30 days to arrive at a logical conclusion."},
+  {"fact": "If the grievance is not resolved to the consumer's satisfaction, the consumer can approach the appropriate Consumer Commission",
+   "status": "added", "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "However, if the grievance could not be redressed to the full satisfaction, a consumer has choice to approach the appropriate consumer Commission."}
+ ],
+ "behaviour": "Explains the NCH process and the escalation as stated on NCH, cited (consumerhelpline.gov.in).",
+ "fail_if": "Says NCH guarantees a remedy or orders refunds, invents a helpline number, timings or commission fees, or cites unofficial sites.",
+ "summary": "NCH channels, docket and forwarding, up to 30 days, and Consumer Commission escalation added from consumerhelpline.gov.in."
+}

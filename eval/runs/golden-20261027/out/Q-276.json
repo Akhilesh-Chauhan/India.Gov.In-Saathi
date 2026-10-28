@@ -1,0 +1,27 @@
+{
+ "id": "Q-276",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Ministry of Minority Affairs' scholarship schemes are Pre-Matric, Post-Matric and Merit-cum-Means, for students of the six notified minority communities",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761",
+   "quote": "During last five years, the ministry has implemented 3 Scholarship schemes namely (i) Pre-Matric, (ii) Post-Matric and (iii) Merit-cum-Means based scholarships for the students belonging to minority communities."
+  },
+  {
+   "fact": "The Pre-Matric scholarship covers only students in classes IX and X",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761",
+   "quote": "Hence, only students studying in classes IX and X are covered under the Pre-Matric Scholarship Scheme."
+  },
+  {
+   "fact": "Whether these minority scholarships are open on NSP for 2026-27, and their application dates, must be read from NSP's Centrally Sponsored scheme list",
+   "status": "manual",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "note": "On 28 Oct 2026 NSP's All-Scholarships page shows only the Central Sector list for 2026-27 (no Ministry of Minority Affairs scheme in it); the Centrally Sponsored list, where the MoMA schemes sit, loads only through a form the checker cannot submit, and minorityaffairs.gov.in scholarship pages (show_content.php?...ls_id=661/777/163/775) return HTTP 500. A person must check NSP for open MoMA schemes and dates. Retried 28 Oct 2026 (second reader): NSP All-Scholarships (rendered) still lists no Minority Affairs scheme; minorityaffairs.gov.in Pre-Matric/Post-Matric pages (ls_id=777, 163) still return HTTP 500; no PIB notice of 2026-27 dates found."
+  }
+ ],
+ "behaviour": "Names only minority scholarship schemes shown as open for 2026-27 on scholarships.gov.in (NSP) or minorityaffairs.gov.in, with their application dates and a citation; if it cannot confirm that a scheme is open for 2026-27, says so and links NSP instead of guessing.",
+ "fail_if": "Lists a scheme as open for 2026-27 without an NSP/minorityaffairs date; says Pre-Matric covers classes I-VIII; cites third-party scholarship sites.",
+ "summary": "Added MoMA's three schemes (Pre-Matric only IX-X) from PIB; whether they are open for 2026-27 on NSP could not be read by the checker (manual)."
+}

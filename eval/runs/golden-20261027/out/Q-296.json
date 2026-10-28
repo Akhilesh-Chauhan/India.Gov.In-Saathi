@@ -1,0 +1,21 @@
+{
+ "id": "Q-296",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "IGNOU's academic calendar schedules January-session admissions for yearly programmes from November to February",
+   "status": "added",
+   "url": "https://www.ignou.ac.in/pages/51",
+   "quote": "Name of the Activity July Session January Session From To From To 1) Admission MAY AUG NOV FEB"},
+  {"fact": "For semester programmes, January-session admissions run from November to January",
+   "status": "added",
+   "url": "https://www.ignou.ac.in/pages/51",
+   "quote": "B. Programmes under Semester System Sl. No. Name of the Activity July Session January Session From To From To 1) Admission MAY JUL NOV JAN"},
+  {"fact": "Admission applications are made online from ignou.ac.in (Admission > Apply for ODL Programme / Apply for Online Programme)",
+   "status": "added",
+   "url": "https://www.ignou.ac.in/",
+   "quote": "Admission Apply for ODL Programme Apply for Online Programme"}
+ ],
+ "behaviour": "Gives the January 2027 admission status with its date from ignou.ac.in: as of 28 Oct 2026 no January 2027 admission notice was found on ignou.ac.in, and the academic calendar puts January-session admissions from November; tells the user to check the admission announcement on ignou.ac.in and does not invent a last date.",
+ "fail_if": "States that January 2027 admission is open, or gives a last date, without citing an IGNOU announcement.",
+ "summary": "No January 2027 admission notice on ignou.ac.in as of 28 Oct 2026; added the academic-calendar window (Nov-Feb yearly, Nov-Jan semester) and the online apply route."
+}

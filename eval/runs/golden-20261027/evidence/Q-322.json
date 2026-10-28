@@ -1,0 +1,82 @@
+{
+ "id": "Q-322",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "final": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:22+05:30",
+   "sha256": "b9f4ac604c54ff63904609c0c6566b535729ca4e7c6008c98dc017ef9947d4b1",
+   "copy": "6cce508aba98898bd2e4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "final": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:22+05:30",
+   "sha256": "b9f4ac604c54ff63904609c0c6566b535729ca4e7c6008c98dc017ef9947d4b1",
+   "copy": "6cce508aba98898bd2e4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "final": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:22+05:30",
+   "sha256": "b9f4ac604c54ff63904609c0c6566b535729ca4e7c6008c98dc017ef9947d4b1",
+   "copy": "6cce508aba98898bd2e4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "final": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:22+05:30",
+   "sha256": "b9f4ac604c54ff63904609c0c6566b535729ca4e7c6008c98dc017ef9947d4b1",
+   "copy": "6cce508aba98898bd2e4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "final": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:22+05:30",
+   "sha256": "b9f4ac604c54ff63904609c0c6566b535729ca4e7c6008c98dc017ef9947d4b1",
+   "copy": "6cce508aba98898bd2e4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

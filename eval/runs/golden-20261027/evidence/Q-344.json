@@ -1,0 +1,67 @@
+{
+ "id": "Q-344",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "final": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:10:45+05:30",
+   "sha256": "7b9f60dae8ebdea42c3091e83bfe08f2113c0e380cb238d0e2afda2bcc61b0d5",
+   "copy": "605afac89090e28f12ad.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "final": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE-1-01_06_2025.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:10:45+05:30",
+   "sha256": "7b9f60dae8ebdea42c3091e83bfe08f2113c0e380cb238d0e2afda2bcc61b0d5",
+   "copy": "605afac89090e28f12ad.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "final": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:08+05:30",
+   "sha256": "b985f1c4a6936d3955881e0aa99cd0f78b15068ccfe6bfb07ddeb21aaabf0efa",
+   "copy": "dddf9dc66f1dfa74b881.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "final": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/ANNEXURE%202-Instruction%20for%20revised%20concession%20certificates-2605.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:08+05:30",
+   "sha256": "b985f1c4a6936d3955881e0aa99cd0f78b15068ccfe6bfb07ddeb21aaabf0efa",
+   "copy": "dddf9dc66f1dfa74b881.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

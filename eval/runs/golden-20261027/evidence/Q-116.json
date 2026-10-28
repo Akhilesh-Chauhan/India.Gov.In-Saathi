@@ -1,0 +1,52 @@
+{
+ "id": "Q-116",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "final": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:43+05:30",
+   "sha256": "9264a4e123214b0ea7f572a238401284e49b5eacdcdc2dcac1c2244260b122dd",
+   "copy": "f369eafb0bb78664b30d.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "final": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:43+05:30",
+   "sha256": "9264a4e123214b0ea7f572a238401284e49b5eacdcdc2dcac1c2244260b122dd",
+   "copy": "f369eafb0bb78664b30d.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "final": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:43+05:30",
+   "sha256": "9264a4e123214b0ea7f572a238401284e49b5eacdcdc2dcac1c2244260b122dd",
+   "copy": "f369eafb0bb78664b30d.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,13 @@
+{
+ "id": "Q-320",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Open the UP e-District portal (edistrict.up.gov.in/edistrictup/), click Citizen login (e-Sathi) and register with your personal and contact details", "status": "added", "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf", "quote": "The applicant shall open the Online e-District Portal using the address https://edistrict.up.gov.in/edistrictup/ and click on Citizen login (e-Sathi). b) Register in online portal using their personal details and contact details."},
+  {"fact": "After logging in, select the 'Caste Certificate' service under the Revenue Department", "status": "added", "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf", "quote": "Applicant shall select “Caste Certificate” service under Revenue Department."},
+  {"fact": "Pay the user charge of Rs 15 through the online payment gateway", "status": "added", "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf", "quote": "Applicant shall pay the user charges i.e., Rs 15/- through online payment gateway."},
+  {"fact": "Fill in the details, attach the documents in the Caste Certificate application form and submit it", "status": "added", "url": "https://edistrict.up.gov.in/edistrictup/Services/new_online_service_pdf/Cast_Certificate.pdf", "quote": "Applicant shall fill details, attach documents in application form for “Caste Certificate” & submit it."}
+ ],
+ "behaviour": "Gives the steps from edistrict.up.gov.in with citation (crawled), or, if Central only, names the responsible State department (Revenue) and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps; replies in Hinglish.",
+ "fail_if": "It says only 'not covered' without naming the UP department or portal, or invents UP steps, documents or fees not on official pages.",
+ "summary": "UP e-District procedure sheet: e-Sathi login/registration, Caste Certificate under Revenue Department, Rs 15 user charge online, fill, attach documents and submit."
+}

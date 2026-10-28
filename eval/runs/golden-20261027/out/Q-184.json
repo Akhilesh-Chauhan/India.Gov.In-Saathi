@@ -1,0 +1,34 @@
+{
+ "id": "Q-184",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "At checking, IMD's latest cyclone bulletin was National Bulletin No. 25 (BOB/08/2026), dated 28.10.2026, time of issue 1200 hours IST, on rsmcnewdelhi.imd.gov.in",
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "quote": "NATIONAL BULLETIN NO. 25 (BOB/08/2026) TIME OF ISSUE:1200 HOURS IST DATED:28.10.2026",
+   "note": "Replaces the PIB release of 27 Oct 2026 (now outdated). The file name says 0830IST, which is the time of the system's position; the bulletin header gives the time of issue as 1200 hours IST. IMD sites were reachable on 28 Oct 2026 13:35 IST."
+  },
+  {
+   "fact": "Very Severe Cyclonic Storm 'Arnab' crossed the Andhra Pradesh & Yanam coasts on 28 October 2026 and weakened into a severe cyclonic storm over coastal Andhra Pradesh by 0830 IST",
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "quote": "Continuing to move further northwestwards, it weakened into a severe cyclonic storm and lay centered at 0830 hrs IST of today, the 28th October, 2026 over Coastal Andhra Pradesh & Yanam and adjoining Westcentral Bay of Bengal"
+  },
+  {
+   "fact": "For the South Odisha coast IMD warned of squally winds of 40-50 kmph gusting to 60 kmph till the evening of 28 October",
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "quote": "Along & off adjoining South Odisha coast: Squally weather with wind speed reaching 40-50 gusting to 60 kmph to prevail till 28th October evening and decrease gradually thereafter."
+  },
+  {
+   "fact": "Fishermen were advised not to venture into the Westcentral Bay of Bengal, along and off the Andhra Pradesh-Odisha coasts, on 28 October",
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "quote": "Fishermen are advised not to venture into • Westcentral Bay of Bengal, along & off Andhra Pradesh-Odisha coasts on 28th October;"
+  }
+ ],
+ "behaviour": "Gives the latest IMD cyclone bulletin for the Odisha coast with its issue time (at the time of testing), puts safety guidance first, and cites IMD (mausam.imd.gov.in / rsmcnewdelhi.imd.gov.in); never presents an old bulletin as current. On 28 Oct 2026 the latest was IMD National Bulletin No. 25 (VSCS 'Arnab' crossed the Andhra Pradesh coast and weakened; squally winds and a fishing ban off South Odisha on 28 Oct); a later test must use the bulletin current then.",
+ "fail_if": "It presents an old or expired bulletin as current, gives no issue time, invents a warning, or omits safety guidance.",
+ "summary": "IMD sites back on 28 Oct 2026: latest IMD National Bulletin No. 25 (28.10.2026, issued 1200 IST) - Arnab crossed the AP coast and weakened to SCS; South Odisha coast squally winds and fishing ban on 28 Oct. Replaces the 27 Oct PIB facts; manual resolved."
+}

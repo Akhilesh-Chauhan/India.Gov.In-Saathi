@@ -1,0 +1,67 @@
+{
+ "id": "Q-293",
+ "checked_at": "2026-10-28T14:03:32+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:38+05:30",
+   "sha256": "24ac529a6b2b5d3e321d1ad401163506c3faf9f5f09f6b467753f90beeae5a0d",
+   "copy": "00c680f339bdfafbc2f1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:38+05:30",
+   "sha256": "24ac529a6b2b5d3e321d1ad401163506c3faf9f5f09f6b467753f90beeae5a0d",
+   "copy": "00c680f339bdfafbc2f1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:38+05:30",
+   "sha256": "24ac529a6b2b5d3e321d1ad401163506c3faf9f5f09f6b467753f90beeae5a0d",
+   "copy": "00c680f339bdfafbc2f1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:38+05:30",
+   "sha256": "24ac529a6b2b5d3e321d1ad401163506c3faf9f5f09f6b467753f90beeae5a0d",
+   "copy": "00c680f339bdfafbc2f1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

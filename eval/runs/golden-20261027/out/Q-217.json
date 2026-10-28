@@ -1,0 +1,34 @@
+{
+ "id": "Q-217",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "'Digital arrest' is a fraud: criminals posing as police, CBI, RBI and other agencies keep the victim on a video call and demand money",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570",
+   "quote": "A demand for money is made to compromise the “case”. In certain instances, unsuspecting victims are made to undergo “Digital Arrest” and remain visually available over Skype or other video conferencing platform to the fraudsters, till their demands are met."
+  },
+  {
+   "fact": "No government agency conducts investigations through phone or video calls",
+   "status": "added",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068698",
+   "quote": "reminding them that no govt agency conducts investigations via phone or video calls."
+  },
+  {
+   "fact": "Do not pay: disconnect such threatening calls and never transfer money in response to unsolicited demands",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2153153&reg=3&lang=2",
+   "quote": "Citizens are advised to: Disconnect immediately if they receive threatening or suspicious calls Avoid sharing personal, banking, or identification details on calls or video chats Never transfer money in response to unsolicited demands",
+   "note": "Public advisory in TRAI's PIB release on the 'digital arrest' scam (callers impersonating TRAI or law enforcement who demand money for bail, fines or verification). The RBI Kehta Hai page still shows only a bot-check to the checker (28 Oct 2026)."
+  },
+  {
+   "fact": "On receiving such a call, report it at once to the cybercrime helpline 1930 or on cybercrime.gov.in",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570",
+   "quote": "On receipt of such calls, the citizens should immediately report the incident on cybercrime helpline number 1930 or www.cybercrime.gov.in for assistance."
+  }
+ ],
+ "behaviour": "Replies in Hindi; tells the user there is no such thing as a 'digital arrest' and it is a scam, not to pay any money, and to call 1930 / report on cybercrime.gov.in at once; cites only official sources.",
+ "fail_if": "Suggests paying or treats the caller as genuine police; does not mention 1930 or cybercrime.gov.in; cites unofficial sources.",
+ "summary": "MHA/PIB: digital arrest is a fraud by impersonators, no govt agency investigates by video call, report on 1930 / cybercrime.gov.in; RBI 'don't pay' page is behind a captcha (manual)."
+}

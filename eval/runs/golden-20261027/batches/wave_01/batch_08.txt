@@ -1,0 +1,204 @@
+=== Q-339 | P0 | English | Current rule or circular (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: How many days in advance can I book a train ticket now?
+EXPECTED ANSWER NOW:
+Answer: 60 days, excluding the date of journey - the Advance Reservation Period (ARP) was reduced from 120 to 60 days with effect from 01.11.2024 (Railway Board Commercial Circular No. 10 of 2024, dated 16.10.2024). Bookings made up to 31.10.2024 under 120-day ARP remained valid. Exceptions: certain day-time express trains (e.g. Taj Express, Gomti Express) keep their lower ARP, and foreign tourists keep the 365-day limit. Note for online booking: on the opening day of ARP, reserved general tickets on the IRCTC website/app can be booked only by Aadhaar-authenticated users (Lok Sabha reply, PIB 25.03.2026; this started as first 15 minutes from 01.10.2025 under CC No. 15 of 2025). PRS counter timings are unchanged.
+Behaviour: state 60 days with circular and date; no invented booking-opening clock time unless cited.
+Fail if: says 120 days (stale, pre-01.11.2024) or 90/30 days; counts the journey date in the 60 days; omits the date/circular; cites irctc.co.in or blogs as the only source.
+VERIFICATION NOTES: Unverified: Exact clock time of ARP opening (08:00) not confirmed on a Railway Board page; the opening-day full-day Aadhaar restriction has no Railway Board circular in the 2026 CC list (only PIB).
+CC 10/2024 is a scanned image PDF - a text-based crawler may not have its content; zonal pages (swr/ser/er/scr.indianrailways.gov.in) also carry it. No change to ARP in the 2025/2026 CC lists as of 21-09-2026 review.
+SOURCES FOUND EARLIER:
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2024/2024-%20CC%20No_%2010%20of%202024-%20Change%20of%20Advance%20Reservation%20Period-ARP.pdf - CC 10/2024 dated 16.10.2024: ARP 60 days excluding journey date w.e.f. 01.11.2024; day-time trains and 365 days for foreign tourists unchanged (scanned PDF - text via OCR) [crawled]
+https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,555,737,3011 - List: CC-10 'Time limit for Advance Reservations' 16.10.2024 [crawled]
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2015%20of%202025.pdf - CC 15/2025 dated 15.09.2025: from 01.10.2025 first 15 minutes of general reservation only Aadhaar-authenticated users on IRCTC; counter timings unchanged; agents barred first 10 minutes [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2245206 - PIB 25.03.2026: on opening day of ARP, reserved general tickets online only by Aadhaar-authenticated users [crawled]
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295409&reg=3&lang=1 - PIB 06.08.2026: ARP reduced from 120 to 60 days [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Advance booking is 60 days, excluding the date of journey | Effective 01.11.2024 (reduced from 120 days) | Railway Board Commercial Circular No. 10 of 2024 dated 16.10.2024
+
+=== Q-340 | P0 | English | Current rule or circular (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Do senior citizens still get a discount on train tickets?
+EXPECTED ANSWER NOW:
+Answer: No. Senior citizen fare concession was suspended from 00:00 hrs of 20 March 2020 (along with most other concessions; only patients, students and Divyangjan categories retained) and has not been restored as of 15 Oct 2026: no Railway Board commercial circular from 2020 to 2026 restores it, and the Railways Minister's statement of 11 March 2026 (PIB) says concessions beyond the general subsidy continue only for 4 categories of persons with disabilities, 11 categories of patients and 8 categories of students; all passengers get an average 43% subsidy (Rs 60,239 crore in 2024-25). Senior citizens still get non-fare facilities: automatic lower-berth allotment subject to availability; a combined lower-berth quota (6-7 per coach in Sleeper, 4-5 in 3AC, 3-4 in 2AC) shared with women aged 45+ and pregnant women; vacant lower berths allotted on priority by on-board staff; free wheelchairs; battery-operated vehicles at some stations; separate/earmarked booking counters where demand justifies.
+Behaviour: clear 'no fare concession at present' with dates and citations; no speculation about future restoration.
+Fail if: says seniors get 40%/50% discount (pre-2020 rule still shown on old zonal PDFs/blogs); says concession restored; gives no date; cites unofficial sites.
+VERIFICATION NOTES: Unverified: No official page in the crawled set says in so many words 'not restored as of 2026'; non-restoration is inferred from the 2026 PIB list of continuing concessions and the absence of any restoring circular.
+TRAP: scr.indianrailways.gov.in 'Rail Travel Concessions' PDF (2014) still describes the senior citizen concession - stale. MPs/Standing Committee have asked for restoration (sansad.in, not crawled) - not a restoration.
+SOURCES FOUND EARLIER:
+https://nfr.indianrailways.gov.in/view_detail.jsp?lang=0&id=0,4,268&dcd=1530&did=15879842186716354176768856D607F367E4C0E009E2C - Concessional booking of all tickets except patients, students and Divyangjan suspended from 00:00 hrs of 20 March (2020) till further advisory, to prevent senior citizens from unnecessary travel [subdomain-of-crawled]
+https://sr.indianrailways.gov.in/view_detail.jsp?lang=0&id=0,4,268&dcd=8824&did=15847683664982C733B5AB7AE6509A87D579D41809DCA - PIB 20.03.2020 text: barring 23 categories (patients, Divyangjan, students) all concessions withdrawn [subdomain-of-crawled]
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2238430&reg=3&lang=1 - PIB 11.03.2026: 43% average subsidy; concessions continue for 4 PwD, 11 patient, 8 student categories; senior-citizen lower-berth facilities [crawled]
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/MX-M453N_20231116_210847%20(3).pdf - Railway Board 'Brief on facilities extended to Senior Citizens' (lower berths, quota, wheelchairs, BOVs, counters) - scanned PDF [crawled]
+https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,555,737,3181 - 2026 commercial circular list - no senior-citizen concession restoration [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): No: senior citizen fare concession is not available at present | Concession suspended from 20 March 2020
+
+=== Q-341 | P1 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: tatkal ticket booking ka time kya hai aur aadhaar zaruri hai kya
+EXPECTED ANSWER NOW:
+Answer: Tatkal booking opens one day before the journey (excluding the date of journey, from the train's originating station): AC classes at 10:00 hrs and non-AC classes at 11:00 hrs. Aadhaar: per Railway Board Commercial Circular No. 08 of 2025 (dated 10.06.2025) - from 01.07.2025 Tatkal tickets on the IRCTC website/app can be booked only by Aadhaar-authenticated users, and Aadhaar-based OTP authentication was made compulsory for online Tatkal from 15.07.2025; at PRS counters and through authorised agents, Tatkal is issued only after a system-generated OTP sent to the mobile number given at booking (from 15.07.2025) - Aadhaar-authentication of a user account is not the counter requirement. Authorised agents cannot book opening-day Tatkal from 10:00-10:30 (AC) and 11:00-11:30 (non-AC). Other rules: no refund on confirmed Tatkal tickets (except specified cases such as train delayed >3 hours, diversion, non-attachment of coach, lower-class accommodation); one passenger on the ticket must carry a prescribed photo ID (Aadhaar is one option, also Voter ID, passport, PAN, DL etc.).
+Behaviour: answer in Hinglish/simple language with circular number and date; distinguish online vs counter.
+Fail if: gives old timings (e.g. 08:00/10:00 for all) or swaps AC/non-AC; says Aadhaar is mandatory at the counter; says Aadhaar is not needed online; omits the 01.07.2025/15.07.2025 dates; cites only irctc.co.in or blogs.
+VERIFICATION NOTES: CONFLICT: CC 08/2025 says Aadhaar OTP 'compulsory' for online Tatkal from 15.07.2025, while PIB 22.07.2026 says Aadhaar OTP for online Tatkal 'has been introduced on selected trains'. Golden answer should follow the circular but not penalise a bot that adds the PIB caveat. Tatkal timing source is a 2019 'salient features' PDF (still linked on Railway Board Commercial Circular page).
+SOURCES FOUND EARLIER:
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Tatkal_Scheme_02082019.pdf - Salient features: AC 1000 hrs, non-AC 1100 hrs on previous day excluding journey date; no refund on confirmed Tatkal with exceptions; ID proof list [crawled]
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2025/CC%2008%20of%202025.pdf - CC 08/2025 dated 10.06.2025: Aadhaar-authenticated users only online from 01.07.2025; Aadhaar OTP compulsory from 15.07.2025; counter/agent OTP to mobile; agents barred 1000-1030 / 1100-1130 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2135694 - PIB: Only Aadhaar authenticated user can book Tatkal on IRCTC from July 1; OTP from July 15; agents barred first 30 minutes [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287719&reg=1&lang=1 - PIB 22.07.2026: only Aadhaar-verified users can book Tatkal and ARP tickets; Aadhaar OTP verification for online tatkal 'introduced on selected trains' [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Tatkal opens one day before the journey (excluding journey date) | AC classes open at 10:00, non-AC at 11:00 | Online (IRCTC) Tatkal only for Aadhaar-authenticated users from 01.07.2025 | Aadhaar OTP authentication compulsory for online Tatkal from 15.07.2025 | Counters/agents: OTP to booking mobile from 15.07.2025; Aadhaar not the counter requirement | Railway Board Commercial Circular No. 08 of 2025 dated 10.06.2025
+
+=== Q-342 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: ट्रेन में सामान चोरी हो गया, शिकायत कहां करें?
+EXPECTED ANSWER NOW:
+Answer: If luggage is stolen on a running train, approach the TTE/train conductor, coach attendant, guard or the GRP/RPF escort and ask for the prescribed FIR form; fill it and hand it to them - it is forwarded to the police station (GRP) for action, so you need not break your journey. You can also go to the RPF Assistance Post at major stations or the GRP police station. For immediate help call the integrated Rail Madad helpline 139 (option 1 = security/medical assistance; 139 is integrated with ERSS 112) or lodge a complaint on Rail Madad (railmadad.indianrailways.gov.in / Rail Madad app) and keep the complaint/reference number. For a stolen mobile phone, RPF also uses the DoT CEIR portal to block/trace it after a complaint via Rail Madad/139.
+Behaviour: answer in Hindi; practical steps with citations; no promise of recovery or compensation.
+Fail if: says only 'go to local police after the journey'; gives discontinued numbers (138, 1072, 152210, 9717630982) or 182 as the only number; promises Railways will compensate the stolen luggage; cites unofficial sites.
+VERIFICATION NOTES: Rail Madad site is JS-heavy and promotes the RailOne super-app; whether Rail Madad complaints are now lodged inside RailOne was not confirmed - do not penalise either app name.
+SOURCES FOUND EARLIER:
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/downloads/FIR_form.pdf - System for lodging FIR in case of theft: approach conductor/coach attendant/guard/GRP/RPF escort, FIR form forwarded to police station, no need to break journey, RPF Assistance Posts [crawled]
+https://cr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,1,1990,2017 - Theft of luggage: FIR form with TTE/Guard/GRP escort; Rail Madad helpline 139 for security assistance [subdomain-of-crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078095 - PIB 27.11.2024: complaint on Rail Madad portal or Helpline 139 (integrated with ERSS 112) for immediate assistance; GRP/RPF roles [crawled]
+https://wr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570 - 139 IVR options (1 = security/medical) and Rail Madad channels [subdomain-of-crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118451 - PIB 03.04.2025: RPF on CEIR portal for lost/stolen mobiles [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): On the train, ask TTE/conductor/guard/GRP-RPF escort for the FIR form; it goes to GRP | Or go to the RPF Assistance Post or GRP police station | Rail Madad helpline 139 | Complaint on the Rail Madad web portal or app
+
+=== Q-343 | P1 | English | Current rule or circular (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the refund if I cancel a confirmed 3AC ticket 30 hours before departure?
+EXPECTED ANSWER NOW:
+Answer: Under the Railway Passengers (Cancellation of Ticket and Refund of Fare) Rules, 2015 (rule 6), a confirmed ticket cancelled between 48 hours and 12 hours before the scheduled departure attracts a cancellation charge of 25% of the fare per passenger, subject to the minimum flat charge for 3AC of Rs 180 per passenger; the rest of the fare is refunded. (For reference: more than 48 hours before = flat Rs 180 for 3AC; between 12 and 4 hours = 50% subject to the same minimum; no refund on a confirmed ticket after 4 hours before departure / if not cancelled or TDR not filed by then.) Exception: for Vande Bharat Sleeper Express and Amrit Bharat II Express (amendment G.S.R. 41(E) of 16.01.2026, Commercial Circular No. 08 of 2026), 30 hours before departure falls in the 72-to-8-hour slab, so the charge is 50% of the fare (25% if more than 72 hours; no refund within 8 hours).
+Behaviour: give the rule-based formula (cannot compute rupees without the fare); cite the refund rules/circulars; mention the train-type exception.
+Fail if: says Rs 180 flat at 30 hours (that is for >48 hours); says 50% for ordinary trains or no refund; ignores the Vande Bharat Sleeper/Amrit Bharat II rule when the train is one of those; quotes pre-2015 values (Rs 90 / 6-hour slabs); invents a computed rupee amount.
+VERIFICATION NOTES: Unverified: Whether GST is added on the cancellation charge for AC classes (commonly stated on IRCTC/blogs) is not shown on the Railway Board pages checked.
+CC 65/2015 is a scanned PDF; the comparison table in it also shows the superseded 2013 values (Rs 90, 6-hour slabs) - a bot quoting those is stale. First charts are now prepared ~8 hours before for afternoon/night trains (CC 10/2025) but the 4-hour refund cut-off for ordinary trains is unchanged in the rules.
+SOURCES FOUND EARLIER:
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm-Cir-2015/CC_65_15.pdf - Refund Rules 2015 rule 6: >48h flat Rs 180 (3AC), 48h-12h 25% subject to minimum, 12h-4h 50%, no refund after 4h (scanned PDF - text via OCR) [crawled]
+https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2026/CC%208%20of%202026.pdf - CC 08/2026 dated 19.01.2026 with G.S.R. 41(E) 16.01.2026: Vande Bharat Sleeper / Amrit Bharat II - 25% (>72h), 50% (72h-8h), no refund <8h [crawled]
+https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,555,737,1540 - 2015 list: CC-65 comprehensive refund rule gazette 06.11.2015 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Cancelled 48-12 hours before departure: 25% of fare deducted, rest refunded | Subject to the 3AC minimum charge of Rs 180 per passenger | Vande Bharat Sleeper / Amrit Bharat II exception: 50% at 30 hours
+
+=== Q-344 | P1 | English | Scheme / fact detail (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What train fare concession do visually impaired passengers get, and how do I get the photo ID card?
+EXPECTED ANSWER NOW:
+Concession and ID process per Railways, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Fare concession for visually impaired passengers per Railways, cited | How to get the Railways concession photo ID card, cited
+
+=== Q-345 | P2 | English | Scheme / fact detail (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many Vande Bharat trains are running now?
+EXPECTED ANSWER NOW:
+Figure with date from Railways/PIB.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Number of Vande Bharat trains with as-on date, from Railways/PIB
+
+=== Q-346 | P2 | English | Service use (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: railway helpline number
+EXPECTED ANSWER NOW:
+Answer: 139 - Indian Railways' integrated helpline (Rail Madad), which replaced the earlier separate numbers from 1 January 2020 and is integrated with the Emergency Response Support System 112. IVR options: 1 security or medical assistance; 2 enquiry; 3 catering complaints; 4 general complaints; 5 bribery/corruption (vigilance); 6 accident information; 7 IRCTC Tejas Express assistance; 9 status of complaint; * operator. Complaints can also be lodged by SMS to 139, on the Rail Madad website (railmadad.indianrailways.gov.in) or app, or via social media @RailMadad.
+Behaviour: give 139 with citation; brief.
+Fail if: gives discontinued numbers (138, 1072, 152210, 58888, 9717630982, 1800-111-321) as current; gives a private/IRCTC customer-care number as 'the railway helpline'; cites unofficial sites.
+VERIFICATION NOTES: Unverified: Current status of RPF security helpline 182 (the 2020 SR notice says 139 and 182 both function; later pages list only 139).
+SMS format differs between zonal pages (WR: 'MADAD <complaint>' to 139; ER: 'COMPLAIN' to 139) - do not penalise either. The 139 number itself is not stated on the main indianrailways.gov.in home page (only a Rail Madad link); best citations are zonal subdomains or PIB.
+SOURCES FOUND EARLIER:
+https://wr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570 - 139 Integrated Helpline with IVR options; Rail Madad website/app/Twitter/Facebook; SMS to 139 [subdomain-of-crawled]
+https://sr.indianrailways.gov.in/view_detail.jsp?lang=0&id=0,4,268&dcd=8555&did=15780549594630B11783EDC8CDE2F493E0948936AD05F - From 01.01.2020 old helplines discontinued; integrated helpline 139 takes over [subdomain-of-crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078095 - 139 integrated with ERSS 112 (27.11.2024) [crawled]
+https://indianrailways.gov.in/ - Rail Madad link on Indian Railways home page [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 139 is the integrated railway helpline (Rail Madad)
+
+=== Q-347 | P2 | Hinglish (romanised Hindi) | Personal record (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: mera ticket confirm hoga kya, PNR 4512345678
+EXPECTED ANSWER NOW:
+Cannot check; links PNR enquiry.
+
+=== Q-472 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: ticket cancel kiya tha, paisa kitne din me wapas aayega
+EXPECTED ANSWER NOW:
+Per the Railways Citizen Charter the refund is credited within 7 working days to the account from which the ticket was booked.
+PAGE IN THE BOT'S INDEX: https://indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): refund credited within 7 working days to the booking account
+
+=== Q-473 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: ट्रेन में सफाई नहीं है, शिकायत कैसे करूं?
+EXPECTED ANSWER NOW:
+RailMadad: helpline 139, SMS 'Madad <complaint>' to 139, railmadad.gov.in, the RailMadad app, social media @RailMinIndia, e-mail, or the complaint book with ticket-checking staff / station master.
+PAGE IN THE BOT'S INDEX: https://indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): RailMadad helpline 139 | SMS 'Madad <complaint>' to 139 | railmadad.gov.in portal or the RailMadad app | social media @RailMinIndia | complaint by e-mail | complaint book with ticket-checking staff or station master
+
+=== Q-474 | P1 | English | Scheme / fact detail (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: Do I pay GST on a sleeper class train ticket?
+EXPECTED ANSWER NOW:
+No: GST applies only to AC and First class fares; not to sleeper, second class reserved or unreserved.
+PAGE IN THE BOT'S INDEX: https://indianrailways.gov.in/GST/FAQs.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no GST on sleeper class (nor second class reserved/unreserved) | GST applies only to AC and First class fares
+
+=== Q-475 | P1 | English | Service use (6.2) | expected site: indianrailways.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How do I check my PNR status?
+EXPECTED ANSWER NOW:
+Coverage probe: the indexed railway content has no PNR self-service (developer note); IRCTC is listed in the bot's registry but reported as not crawled. PASS if it links an official enquiry channel (e.g. 139 / Indian Railways / IRCTC) without inventing steps; FAIL if it fabricates a procedure or cites the internal engineering code.
+PAGE IN THE BOT'S INDEX: https://indianrailways.gov.in/railwayboard/uploads/codesmanual/EngCode/chapter-vii.htm
+
+=== Q-027 | P2 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: indianvisaonline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: mera beta US me paida hua hai, uska OCI card kaise banega?
+EXPECTED ANSWER NOW:
+OCI application via indianvisaonline.gov.in / mission; cite.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Apply via the OCI online system and the Indian Mission/Post in the US (FRRO if in India)
+
+=== MT-03 | conversation | Hindi (Devanagari) | Sukanya Samriddhi account | facts from Q-133, Q-124 | expected site: indiapost.gov.in
+USER TURNS: सुकन्या समृद्धि खाता कैसे खुलवाएं? / बेटी 3 साल की है / हां, बताइए
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks only if needed: the girl's age (account only for a girl below 10). No other personal details.
+Turn 2: Summary: published eligibility, where to open (post office / authorised banks), documents to bring.
+Turn 3: Steps + India Post link + current rate 8.2% (Oct-Dec 2026) with source card and date + next step.
+
+=== Q-132 | P1 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: indiapost.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: डाकघर में कौन-कौन सी बचत योजनाएं हैं?
+EXPECTED ANSWER NOW:
+List from India Post with links; rates cited to NSI.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists the post office savings schemes | gives the schemes' current interest rates, cited to NSI
+
+=== Q-133 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: indiapost.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: सुकन्या समृद्धि खाता कैसे खुलवाएं? बेटी 3 साल की है
+EXPECTED ANSWER NOW:
+Answer: Yes, a 3-year-old daughter is eligible. The account can be opened by a guardian in the name of a girl child who has not attained 10 years on the date of opening (SSA Scheme, 2019). One account per girl. Maximum two girls per family; more are allowed for twins/triplets on affidavit. Submit Form-1 at a post office (or authorised bank) with the girl's birth certificate and the guardian's required KYC documents. Minimum initial deposit Rs 250; further deposits in multiples of Rs 50. At least Rs 250 per financial year; maximum Rs 1,50,000 per financial year. The default penalty is Rs 50 per year of default (regularisable within 15 years). The account matures 21 years from opening. Current rate: 8.2% p.a., compounded yearly (India Post; rates for Oct-Dec 2026 unchanged per DEA OM 30.09.2026).
+Steps: 1. Visit the nearest post office with the girl's birth certificate and the guardian's ID/address proof and photo. 2. Fill Form-1 (SSA account opening). 3. Deposit at least Rs 250. 4. Collect the passbook; later deposits can be made at the post office or via IPPB/net banking.
+Behaviour: Eligibility and documents from India Post/NSI with citation; reply in Hindi. No personal verdict beyond scheme conditions.
+Fail if: says the minimum is Rs 1,000 (old rule); says the account can be opened up to age 18; gives an old interest rate; says the daughter is not eligible.
+VERIFICATION NOTES: Unverified: The specific guardian KYC list (Aadhaar/PAN per DoP KYC order 08/2023) was not opened. The India Post SSA detail page is JS-rendered and its link could not be extracted. The 15-year deposit period was not quoted.
+indiapost.gov.in was redesigned (Next.js). Old /Financial/Pages/Content/... URLs are gone; the scheme PDF and savings landing page work.
+SOURCES FOUND EARLIER:
+https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf - Below-10 rule; Form-1 with birth certificate + guardian documents; two-girl limit; Rs 250/Rs 1.5 lakh; Rs 50 penalty; 21-year maturity [crawled]
+https://www.indiapost.gov.in/banking-services/savings - SSA rate 8.2% p.a., yearly compounded [crawled]
+https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89 - Min Rs 250, max Rs 1.5 lakh; open till girl attains 10 (search excerpt) [crawled]
+https://dea.gov.in/files/budget_division_documents/R.pdf - Q3 FY 2026-27 rates unchanged from Q2 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 3-year-old is eligible: girl below 10 years at account opening | open at a post office or authorised bank by submitting Form-1 | documents: girl's birth certificate plus guardian's ID/address proof and photo | minimum initial deposit Rs 250, then multiples of Rs 50
+
+=== Q-134 | P2 | English | Service use (6.2) | expected site: indiapost.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I track a speed post article?
+EXPECTED ANSWER NOW:
+India Post tracking link.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): track the article on India Post's online Track and Trace / tracking utility
+
+=== Q-135 | P2 | English | Current rule or circular (6.2) | expected site: indiapost.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Has the India Post GDS result for 2026 been declared?
+EXPECTED ANSWER NOW:
+Only if on India Post page with date; else says not found.
+
+=== Q-136 | P2 | English | Service procedure (6.2) | expected site: indiapost.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can I send a parcel to Saudi Arabia from the post office, and are there prohibited items?
+EXPECTED ANSWER NOW:
+International mail service and restrictions per India Post, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): parcels to Saudi Arabia can go by India Post's international mail/parcel service | prohibited/restricted items as published by India Post

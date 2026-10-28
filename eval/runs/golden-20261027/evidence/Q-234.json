@@ -1,0 +1,37 @@
+{
+ "id": "Q-234",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nmc.org.in/information-desk/indian-medical-register",
+   "final": "https://nmc.org.in/information-desk/indian-medical-register",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:37+05:30",
+   "sha256": "49185f05903b4360d7996405e4ee3d02204b583873bcb280b8c4780434e7f9d1",
+   "copy": "651b243afdebc68f5202.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nmc.org.in/information-desk/indian-medical-register",
+   "final": "https://nmc.org.in/information-desk/indian-medical-register",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:37+05:30",
+   "sha256": "49185f05903b4360d7996405e4ee3d02204b583873bcb280b8c4780434e7f9d1",
+   "copy": "651b243afdebc68f5202.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

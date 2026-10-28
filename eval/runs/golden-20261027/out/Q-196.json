@@ -1,0 +1,18 @@
+{
+ "id": "Q-196",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "NFSA has two categories of beneficiaries: Antyodaya Anna Yojana (AAY) households and Priority Households (PHH)",
+   "status": "added", "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "quote": "75% of Rural and 50% of Urban population is entitled to receive highly subsidised foodgrains under two categories of beneficiaries – Antodaya Anna Yojana (AAY) households and Priority Households (PHH)."},
+  {"fact": "AAY cards are for the poorest of the poor and carry 35 kg of foodgrains per family per month; PHH cards carry 5 kg per person per month",
+   "status": "added", "url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "quote": "While AAY households, which constitute poorest of the poor are entitled to 35 kg of foodgrains per family per month, priority households are entitled to 5 kg per person per month."},
+  {"fact": "Which households get AAY or PHH cards is decided by the State/UT Government under its own criteria",
+   "status": "added", "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "quote": "Identification of beneficiaries/households under NFSA is done by respective State/UT Government, which is required to frame its own criteria."}
+ ],
+ "behaviour": "Explains the difference between AAY and PHH cards using the NFSA definitions and entitlements, with a citation (nfsa.gov.in); does not quote stale issue prices as current; no eligibility verdict for the user.",
+ "fail_if": "It says AAY gets 35 kg per person or PHH 5 kg per family; quotes Rs 3/2/1 per kg as the current price; cites unofficial sites.",
+ "summary": "Added from nfsa.gov.in: two NFSA categories (AAY, PHH); AAY = poorest of the poor, 35 kg/family/month; PHH 5 kg/person/month; States identify both."
+}

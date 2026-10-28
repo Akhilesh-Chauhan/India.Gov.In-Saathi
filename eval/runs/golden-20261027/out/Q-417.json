@@ -1,0 +1,44 @@
+{
+ "id": "Q-417",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The pmay-urban.gov.in FAQ (CLSS answer) gives interest subsidies of 6.5%, 4% and 3% on loans up to Rs 6, 9 and 12 lakh for EWS/LIG, MIG-I and MIG-II",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/faq",
+   "quote": "The interest subsidies of 6.5%, 4% and 3% on loan amount up to Rs. 6 lakh, Rs. 9 lakh and Rs. 12 lakh are admissible for a house with carpet area of up to 60, 160 and 200 Sq.Meter for EWS/LIG, MIG I and MIG II respectively.",
+   "note": "This sentence is in the FAQ's answer to 'What is Credit Linked Subsidy Scheme (CLSS)?'."
+  },
+  {
+   "fact": "The FAQ's interest subsidy of up to Rs 2.67 lakh per house is under the Credit Linked Subsidy Scheme (CLSS)",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/faq",
+   "quote": "What is Credit Linked Subsidy Scheme (CLSS)? Interest Subsidy up to 2.67 lakh per house is admissible for Beneficiaries of Economically Weaker Section (EWS)/Low Income Group (LIG), Middle Income Group (MIG)-I and Middle Income Group (MIG)-II"
+  },
+  {
+   "fact": "CLSS closed on 31.03.2022, so those terms are no longer current",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/about",
+   "quote": "The component of CLSS has been closed on 31.03.2022."
+  },
+  {
+   "fact": "Under the PMAY-U 2.0 Interest Subsidy Scheme (ISS) the subsidy is 4% on the first Rs 8 lakh of the loan",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Households having income up to ₹9 lakh, loan value up to ₹25 lakh for property value up to ₹35 lakh would be eligible for a subsidy at 4.0 % on first ₹8 lakh for a tenure up to 12 years."
+  },
+  {
+   "fact": "The maximum ISS subsidy is Rs 1.80 lakh",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years."
+  },
+  {
+   "fact": "ISS applies to home loans sanctioned and disbursed on or after 01.09.2024",
+   "status": "confirmed",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Subsidy will be provided on home loans sanctioned and disbursed on 01.09.2024 or after to eligible beneficiaries of EWS/LIG and MIG for purchase/ re-purchase/construction of houses."
+  }
+ ],
+ "summary": "FAQ's 6.5% / Rs 2.67 lakh is old CLSS (closed 31.03.2022); PMAY-U 2.0 ISS (Sept 2024 guidelines) is 4% on first Rs 8 lakh, max Rs 1.80 lakh, loans from 01.09.2024."
+}

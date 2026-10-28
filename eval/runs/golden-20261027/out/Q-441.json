@@ -1,0 +1,52 @@
+{
+ "id": "Q-441",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Dearness Allowance for Central Government employees is 60% of basic pay with effect from 01.01.2026",
+   "status": "confirmed",
+   "url": "https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf",
+   "quote": "President is pleased to decide that the rates of Dearness Allowance payable to Central Government employees, shall be enhanced from 58% to 60% of the Basic Pay with effect from 1% January, 2026.",
+   "note": "DoE Office Memorandum No. 1/1(i)/2026-E.II(B) dated 22 Apr 2026 (scanned; quote from OCR, '1%' is OCR for '1st')."
+  },
+  {
+   "fact": "Dearness Relief for pensioners is likewise 60% of basic pension with effect from 01.01.2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245",
+   "quote": "has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.01.2026 representing an increase of 2% over the existing rate of 58% of the Basic Pay/Pension",
+   "note": "60% is derived: the PIB release gives DR w.e.f. 01.01.2026 as an increase of 2% over the existing 58%."
+  },
+  {
+   "fact": "The Cabinet approved the DA/DR instalment w.e.f. 01.01.2026 on 18 Apr 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245",
+   "quote": "Cabinet approves additional instalment of Dearness Allowance to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.01.2026 Posted On: 18 APR 2026 3:14PM by PIB Delhi"
+  },
+  {
+   "fact": "The combined cost of the DA and DR increase is Rs 6,791.24 crore a year",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245",
+   "quote": "The combined impact on the exchequer on account of increase in both Dearness Allowance and Dearness Relief would be Rs.6791.24 crore per annum."
+  },
+  {
+   "fact": "It benefits about 50.46 lakh Central Government employees",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245",
+   "quote": "This will benefit about 50.46 lakh Central Government employees and 68.27 lakh pensioners."
+  },
+  {
+   "fact": "It benefits about 68.27 lakh pensioners",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245",
+   "quote": "This will benefit about 50.46 lakh Central Government employees and 68.27 lakh pensioners."
+  },
+  {
+   "fact": "The newest DA order on the Department of Expenditure's list is the OM of 22.04.2026 for DA from 01.01.2026, so no instalment from 01.07.2026 has been notified yet (none as of 15 Oct 2026, and still none on 28 Oct 2026)",
+   "status": "confirmed",
+   "url": "https://doe.gov.in/en/orders-circulars/27",
+   "quote": "1 1/1(i)/2026-E.II(B) Revision of rates of Dearness Allowance to Central Government employees- effective from 01.01.2026. 22/04/2026",
+   "note": "An absence: DoE's Dearness Allowance OM list (page last updated 27 Oct 2026) has the 22/04/2026 OM for 01.01.2026 as its newest entry, and PIB's Cabinet Decisions 2026 list (https://www.pib.gov.in/EventDetail.aspx?ID=1234&reg=3&lang=1, newest entries 14 Oct 2026) has no DA item after 18 Apr 2026. Re-check on demo day."
+  }
+ ],
+ "summary": "PIB 18 Apr 2026 confirms DA/DR +2% over 58% (60%) w.e.f. 01.01.2026, Rs 6,791.24 crore a year, 50.46 lakh employees and 68.27 lakh pensioners; no 01.07.2026 instalment approved as of 28 Oct 2026."
+}

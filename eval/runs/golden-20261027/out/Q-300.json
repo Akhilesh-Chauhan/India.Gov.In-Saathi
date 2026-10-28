@@ -1,0 +1,21 @@
+{
+ "id": "Q-300",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "ITIs run DGT's Craftsmen Training Scheme courses in 169 trades: 86 engineering, 78 non-engineering and 5 for persons with disabilities",
+   "status": "added",
+   "url": "https://dgt.gov.in/en/about-us",
+   "quote": "NSQF compliant courses in 169 Trades which includes 86 Engineering trades, 78 Trades in the Non-Engineering Sector and 05 courses for Persons with Disabilities (PwD)/ Divyangjan."},
+  {"fact": "ITI courses last from 6 months to 2 years",
+   "status": "added",
+   "url": "https://dgt.gov.in/en/about-us",
+   "quote": "Duration of these training courses varies from 6 Months -2 Years duration"},
+  {"fact": "DGT's CTS details page lists each ITI trade with its sector, minimum qualification, trade type (engineering / non-engineering / divyang), NSQF level and duration",
+   "status": "added",
+   "url": "https://dgt.gov.in/en/cts-details",
+   "quote": "S.No Sector Name Name of Trade Syllabus Minimum Qualification Eligibility Trade Type Unit/ Batch Size NSQF level Duration Year for NSQF Approval"}
+ ],
+ "behaviour": "Replies in Hinglish; gives the ITI trades as listed by DGT (dgt.gov.in), citing it.",
+ "fail_if": "Invents trades or counts not on DGT, or cites unofficial sites.",
+ "summary": "DGT About Us: 169 CTS trades (86 engineering, 78 non-engineering, 5 PwD), 6 months-2 years; full list on dgt.gov.in/en/cts-details."
+}

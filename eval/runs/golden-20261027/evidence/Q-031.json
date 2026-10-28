@@ -1,0 +1,52 @@
+{
+ "id": "Q-031",
+ "checked_at": "2026-10-28T14:02:22+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "final": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:59:12+05:30",
+   "sha256": "53ddd8b74d8487acbdbe81ec40431fa6e2b12a2e4837b0ce40946fe48d1efead",
+   "copy": "e0b8bf55769cbbfb795d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/faq",
+   "final": "https://parivahan.gov.in/en/content/faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:02+05:30",
+   "sha256": "238f7c669417d764eec754c34994536d8b645070d7b96134d3d910486ece7426",
+   "copy": "40dcf1b8c789ea6199bd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "final": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:59:12+05:30",
+   "sha256": "53ddd8b74d8487acbdbe81ec40431fa6e2b12a2e4837b0ce40946fe48d1efead",
+   "copy": "e0b8bf55769cbbfb795d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

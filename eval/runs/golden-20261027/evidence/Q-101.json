@@ -1,0 +1,67 @@
+{
+ "id": "Q-101",
+ "checked_at": "2026-10-28T14:02:52+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "final": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:43:26+05:30",
+   "sha256": "2c31e3b794b0578f7a39781a1d078c4ba76726844f58dd584da28de5feb44f2a",
+   "copy": "a62c1ac0f4620cf800bb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "final": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:43:26+05:30",
+   "sha256": "2c31e3b794b0578f7a39781a1d078c4ba76726844f58dd584da28de5feb44f2a",
+   "copy": "a62c1ac0f4620cf800bb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "final": "https://pensionersportal.gov.in/Forms/pension_new_forms/Form12.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:43:26+05:30",
+   "sha256": "2c31e3b794b0578f7a39781a1d078c4ba76726844f58dd584da28de5feb44f2a",
+   "copy": "a62c1ac0f4620cf800bb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "final": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:56+05:30",
+   "sha256": "136ad9d5612a5147e12a60b3fd1d2ba3d2171c03dfcc9a85eb0f40320ddf9c4f",
+   "copy": "4afe6526665419927521.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

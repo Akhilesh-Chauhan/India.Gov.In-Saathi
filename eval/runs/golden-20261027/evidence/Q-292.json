@@ -1,0 +1,37 @@
+{
+ "id": "Q-292",
+ "checked_at": "2026-10-28T14:03:31+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:14:52+05:30",
+   "sha256": "38fa50902e9d45203918f1e3d47a30a8e8df6cbbdb932c2546aa2f848aabe8cf",
+   "copy": "4d1ce19d0e7699edb53a.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "final": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:14:52+05:30",
+   "sha256": "38fa50902e9d45203918f1e3d47a30a8e8df6cbbdb932c2546aa2f848aabe8cf",
+   "copy": "4d1ce19d0e7699edb53a.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

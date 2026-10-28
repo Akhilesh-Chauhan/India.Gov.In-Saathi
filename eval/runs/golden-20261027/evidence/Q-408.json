@@ -1,0 +1,37 @@
+{
+ "id": "Q-408",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "final": "https://scholarships.gov.in/Students",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:53:34+05:30",
+   "sha256": "bd623271a2740b66f02a35c3a528b19f6efa9d0b818cb1f4232ced68b2dc0f4e",
+   "copy": "8e1d0046fe93f59f9b9d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "final": "https://scholarships.gov.in/Students",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:53:34+05:30",
+   "sha256": "bd623271a2740b66f02a35c3a528b19f6efa9d0b818cb1f4232ced68b2dc0f4e",
+   "copy": "8e1d0046fe93f59f9b9d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

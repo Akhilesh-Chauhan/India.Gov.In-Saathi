@@ -1,0 +1,27 @@
+{
+ "id": "Q-255",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PMAY-U 2.0 has an Affordable Rental Housing (ARH) vertical that creates affordable rental housing stock",
+   "status": "added",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Affordable Rental Housing (ARH) vertical will create a conducive environment by incentivizing Public/Private Entities to leverage investment for creating affordable rental housing stock."
+  },
+  {
+   "fact": "ARH is for urban dwellers who need housing for a short term or cannot afford to build or buy a house",
+   "status": "added",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "This vertical shall ensure affordable and hygienic living spaces for urban dwellers who do not want to own a house but require housing for short term basis or those who do not have the financial capability to construct or buy a house."
+  },
+  {
+   "fact": "ARH Model-2: public/private entities build, operate and maintain rental housing for urban poor, working women, industrial workers and other EWS/LIG families",
+   "status": "added",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "quote": "Model-2: Construct, Operate and Maintain rental housing by Private/Public Entities for urban poor, working women, employees of Industries, Industrial Estates, Institutions and other eligible EWS/LIG families."
+  }
+ ],
+ "behaviour": "Replies in Hindi naming the Affordable Rental Housing (ARH) vertical of PMAY-U 2.0 for low-cost rented housing, citing pmay-urban.gov.in or pmaymis.gov.in.",
+ "fail_if": "It says there is no government scheme for affordable rental housing, or invents rents, eligibility or an application route not given in the PMAY-U 2.0 guidelines.",
+ "summary": "ARH vertical of PMAY-U 2.0 (Model-1 vacant government houses, Model-2 rental housing by entities) for EWS/LIG urban dwellers."
+}

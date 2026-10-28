@@ -1,0 +1,135 @@
+{
+ "id": "Q-398",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PMEGP (Prime Minister's Employment Generation Programme) is a credit-linked subsidy scheme of the Ministry of MSME",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME)."
+  },
+  {
+   "fact": "KVIC is the single national nodal agency for PMEGP",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "At the National level, the scheme is being implemented by the Khadi and Village Industries Commission (KVIC), a statutory organization under the administrative control of the Ministry of MSME as the single nodal agency."
+  },
+  {
+   "fact": "In the States it is implemented through KVIC State offices, KVIBs, DICs (and Coir Board) and banks",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "At the State level, the scheme is implemented through State offices of KVIC, State Khadi and Village Industries Boards (KVIBs), District Industries Centre's (DICs), Coir Board (for coir-related activities), and Banks."
+  },
+  {
+   "fact": "General category, new unit: own contribution 10% of project cost; subsidy 15% (urban) / 25% (rural)",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "General Category Beneficiary's contribution (of project cost): 10% Rate of Subsidy (of project cost): 15% for Urban Areas, 25% for Rural Areas."
+  },
+  {
+   "fact": "Special category covers SC, ST, OBC, minorities, women, ex-servicemen, transgenders, differently abled, NER, Aspirational Districts, Hill and Border areas",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "Special Category (including SC, ST, OBC, Minorities, Women, Ex-Servicemen, Transgenders, Differently abled, NER, Aspirational Districts, Hill and Border areas(as notified by the Government), etc."
+  },
+  {
+   "fact": "Special category, new unit: own contribution 5%; subsidy 25% (urban) / 35% (rural)",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "(i) Beneficiary's contribution (of project cost): 05% (ii) Rate of Subsidy (of project cost): 25% for Urban Areas, 35% for Rural Areas."
+  },
+  {
+   "fact": "Maximum project cost eligible for subsidy: Rs 50 lakh in manufacturing",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "The maximum cost of the project/unit admissible for Margin Money subsidy under the Manufacturing sector is ₹50,00,000."
+  },
+  {
+   "fact": "Maximum project cost eligible for subsidy: Rs 20 lakh in business/service",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "The maximum cost of the project/unit admissible for the Margin Money subsidy under the Business/Service sector is ₹20,00,000."
+  },
+  {
+   "fact": "The balance of the project cost (after own contribution) is provided by banks",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "The balance amount (excluding the own contribution)of the total project cost will be provided by Banks."
+  },
+  {
+   "fact": "Any project cost above Rs 50 lakh / Rs 20 lakh may be financed by banks without any subsidy",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "If the total project cost exceeds ₹50,00,000 or ₹20,00,000 for Manufacturing and Service/Business sector respectively, the balance amount may be provided by Banks without any Government subsidy."
+  },
+  {
+   "fact": "Eligibility: any individual above 18 years; no income ceiling",
+   "status": "confirmed",
+   "url": "https://pmegp.msme.gov.in/Home/FAQ",
+   "quote": "Any individual, above 18 years of age. There will be no income ceiling for assistance for setting up projects under PMEGP."
+  },
+  {
+   "fact": "At least Class VIII pass is needed for projects above Rs 10 lakh (manufacturing) or Rs 5 lakh (business/service)",
+   "status": "confirmed",
+   "url": "https://pmegp.msme.gov.in/Home/FAQ",
+   "quote": "For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the business/service sector, the beneficiaries should possess at least VIII standard pass educational qualification."
+  },
+  {
+   "fact": "Assistance is only for new projects sanctioned under PMEGP",
+   "status": "confirmed",
+   "url": "https://pmegp.msme.gov.in/Home/FAQ",
+   "quote": "Assistance under the Scheme is available only for new projects sanctioned specifically under the PMEGP."
+  },
+  {
+   "fact": "Only one person per family can get PMEGP assistance; the Ministry's PMEGP portal defines 'family' as self, spouse and unmarried children, while the myScheme record says self and spouse",
+   "status": "conflict",
+   "was": "one person per family (self and spouse)",
+   "url": "https://pmegp.msme.gov.in/Home/FAQ",
+   "quote": "Note: Only one person from one family is eligible for obtaining financial assistance for setting up of new enterprise under PMEGP. The ‘family’ includes self, spouse and unmarried children.",
+   "also": [
+    {
+     "url": "https://www.myscheme.gov.in/schemes/pmegp",
+     "quote": "Only one person from one family is eligible for obtaining financial assistance for setting up of projects under PMEGP. The 'family’ includes self and spouse."
+    }
+   ],
+   "note": "Both pages current on 28 Oct 2026; the dated revised guidelines (msme.gov.in Revisedguidelines07.12.2023.pdf) now return HTTP 404 and kviconline.gov.in does not resolve, so no newer notice could be read to settle it."
+  },
+  {
+   "fact": "EDP training is not mandatory for projects costing up to Rs 2 lakh, and is shorter (up to 5 days) for projects up to Rs 5 lakh",
+   "status": "changed",
+   "was": "EDP training is required before the margin money claim",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2040257&reg=48&lang=2",
+   "quote": "No mandatory EDP for project cost up to Rs. 2 lakh and shorter period of training (up to 5 days) for projects up to Rs. 5 lakh.",
+   "note": "Ministry of MSME release of 1 Aug 2024; the myScheme record's FAQ 'Whether EDP Training Is Compulsory?' answer is not in the rendered page."
+  },
+  {
+   "fact": "Apply online on the Ministry of MSME's PMEGP portal pmegp.msme.gov.in ('Application For New Unit')",
+   "status": "changed",
+   "was": "Apply online on the KVIC PMEGP e-portal (kviconline.gov.in/pmegpeportal)",
+   "url": "https://pmegp.msme.gov.in/Home/HomePage",
+   "quote": "PMEGP Application / पीएमईजीपी आवेदन How to Apply User Manual Application For New Unit Registered Applicant Login Application For Existing Units(2nd Loan)",
+   "note": "kviconline.gov.in returned DNS SERVFAIL (name servers unresponsive) from two resolvers on 28 Oct 2026; the new portal's application form is live."
+  },
+  {
+   "fact": "2nd loan to upgrade existing PMEGP/REGP/MUDRA units: subsidy 15% (20% in NER and Hill States)",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "c) Rate of Subsidy (of project cost): 15% (20% in NER and Hill States)."
+  },
+  {
+   "fact": "2nd loan maximum subsidy: Rs 15 lakh in manufacturing (Rs 20 lakh NER/Hill)",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "The maximum subsidy would be ₹15,00,000 (₹20,00,000 for NER and Hill States)."
+  },
+  {
+   "fact": "2nd loan maximum subsidy: Rs 3.75 lakh in business/service (Rs 5 lakh NER/Hill)",
+   "status": "confirmed",
+   "url": "https://www.myscheme.gov.in/schemes/pmegp",
+   "quote": "The maximum subsidy would be ₹3,75,000 (₹5,00,000 for NER and Hill States)."
+  }
+ ],
+ "behaviour": "Expands PMEGP correctly and cites the myScheme 'pmegp' record and/or the Ministry of MSME PMEGP portal (pmegp.msme.gov.in). Gives the subsidy as percentages with the urban/rural and general/special category split, the Rs 50 lakh / Rs 20 lakh project cost caps, and points applicants to the PMEGP portal pmegp.msme.gov.in. On 'one person per family', either definition (self and spouse per myScheme; self, spouse and unmarried children per the Ministry portal) is accepted when the bot cites the page it used. Gives no eligibility verdict.",
+ "fail_if": "Uses the stale FAQ figures on the same myScheme page (maximum project cost Rs 25 lakh/Rs 10 lakh) as current; states the FAQ's 'maximum age 35/40' (not in the benefits/eligibility sections); gives subsidy as a fixed rupee amount; confuses it with PMFME or MUDRA; omits the urban/rural and category split; says EDP training is compulsory for every project (it is not mandatory up to Rs 2 lakh); sends the user only to the old KVIC e-portal kviconline.gov.in/pmegpeportal.",
+ "summary": "Subsidy rates, caps, eligibility and 2nd-loan terms confirmed (myScheme + Ministry PMEGP portal); application portal changed to pmegp.msme.gov.in (old KVIC e-portal does not resolve); EDP not mandatory up to Rs 2 lakh (PIB 2024); 'family' definition conflicts (self+spouse vs +unmarried children)."
+}

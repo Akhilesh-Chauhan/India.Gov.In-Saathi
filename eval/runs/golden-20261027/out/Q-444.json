@@ -1,0 +1,40 @@
+{
+ "id": "Q-444",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Updating (adding) a mobile number as a separate demographic update costs Rs 75",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "A mobile number update is free when done at the same time as a biometric update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "The free Mandatory Biometric Update (MBU) for children is a stand-alone transaction and cannot be combined with any other update, so the free combination applies only with a paid biometric update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "# Mandatory Biometric Update (MBU) shall be stand-alone transaction only; it may not be clubbed with any other transaction",
+   "note": "That the free combination therefore applies only with a paid biometric update is derived from this rule and the fee table."
+  },
+  {
+   "fact": "Rs 200 for a mobile number update is more than the official Rs 75 (charges are inclusive of taxes)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75",
+   "note": "Derived: the official separate demographic update fee is Rs 75; the ASK page adds 'These charges are inclusive of any applicable taxes.'"
+  },
+  {
+   "fact": "If a centre charges more than the prescribed fee, complain to UIDAI: call 1947, email help@uidai.gov.in with the centre details and URN, or file a complaint online",
+   "status": "confirmed",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-05/LR_Aadhaar_Handbook_2026.pdf",
+   "quote": "If the centre charged you more than the prescribed service charge mentioned above, you can file a complaint in following ways: • Call 1947 and register a complaint • Email the centre details along with your URN and contact details to help@uidai.gov.in",
+   "note": "UIDAI's Enrolment & Update FAQ gives the current online route: complaint on the myAadhaar portal https://myaadhaar.uidai.gov.in/grievance-feedback/en, helpline 1947 or help@uidai.gov.in."
+  }
+ ],
+ "summary": "UIDAI Aadhaar Seva Kendra fee table: demographic (incl. mobile) update Rs 75 separately, free with a biometric update; MBU stand-alone; overcharging complaints via 1947 / help@uidai.gov.in / online (Aadhaar Handbook). All confirmed."
+}

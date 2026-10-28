@@ -1,0 +1,106 @@
+{
+ "id": "Q-138",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "IPPB generates the Digital Life Certificate (Jeevan Pramaan) at the doorstep through the postman/Gramin Dak Sevak; the pensioner can contact the nearest post office or request a doorstep visit",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "To avail DLC service, a customer can contact the nearest post office or place a request for a doorstep visit by the postman/Grameen Dak Sevak."
+  },
+  {
+   "fact": "The service is for both IPPB and non-IPPB customers",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "This service is available for IPPB and non-IPPB customers."
+  },
+  {
+   "fact": "Doorstep DLC is open to all pensioners whose pension disbursing agency is live on Jeevan Pramaan (DLC)",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "Request for Door Step Banking is available for all pensioners whose pension disbursing agency is live on DLC."
+  },
+  {
+   "fact": "IPPB charges Rs 70 (inclusive of GST/cess) per successful DLC",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "For every successful generation of DLC, a nominal fee of Rs. 70 (inclusive of GST/ CESS) will be charged."
+  },
+  {
+   "fact": "No doorstep charge is levied for IPPB or non-IPPB customers for the DLC",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "There will be no doorstep charges levied for IPPB or non-IPPB customers for issuance of DLC."
+  },
+  {
+   "fact": "Exception: for EPS'95 (EPFO) pensioners the doorstep DLC through IPPB costs them nothing, because EPFO pays IPPB Rs 50 per certificate under an MoU",
+   "status": "changed",
+   "was": "Rs 70 per successful DLC for every pensioner, with no exception",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "The Board has approved signing an MoU with India Post Payments Bank (IPPB) to provide doorstep Digital Life Certificate (DLC) services to EPS’95 pensioners at a cost of Rs 50 per certificate, fully borne by EPFO.",
+   "note": "'Costs them nothing' is derived from 'fully borne by EPFO'; PIB PRID 2219718 (EPFO Chhattisgarh zone, Dec 2025) also says 'the service is completely free of cost and no charges are payable by pensioners'."
+  },
+  {
+   "fact": "The EPFO-IPPB doorstep DLC facility for EPS pensioners has been in effect since 1 December 2025",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219718",
+   "quote": "has launched a Doorstep Digital Life Certificate (DLC) generation facility for pensioners under the Employees’ Pension Scheme (EPS), in collaboration with India Post Payments Bank (IPPB). The facility has come into effect from 1 December 2025."
+  },
+  {
+   "fact": "An Aadhaar number or VID is required",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate2",
+   "quote": "Aadhaar number or VID is a must for generating/obtaining the Jeevan Pramaan."
+  },
+  {
+   "fact": "The pensioner needs a mobile number, and the Aadhaar number must already be registered with the pension disbursing agency",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "Pensioner must have an existing mobile number Registration of the Aadhaar number with pension disbursing agency (bank/ post office etc.) should be done already"
+  },
+  {
+   "fact": "Keep handy: type of pension, sanctioning authority, disbursing agency, PPO number and pension account number",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "Pensioner should also keep the following details handy**: Type of pension Sanctioning authority Disbursing agency PPO number Account number (pension)"
+  },
+  {
+   "fact": "The pensioner authenticates with biometrics on the postman's device; through IPPB only the fingerprint option is currently live",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate2",
+   "quote": "The pensioner has to also provide his/her biometrics, either Iris or fingerprint. Currently, only fingerprint option is live through IPPB."
+  },
+  {
+   "fact": "After success, an SMS with the Jeevan Pramaan certificate (Pramaan) ID is sent to the pensioner's registered mobile",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate2",
+   "quote": "After successful generation of DLC, an acknowledgement SMS is sent to the pensioner’s registered mobile number by NIC including Jeevan Pramaan Certificate ID details."
+  },
+  {
+   "fact": "The DLC can be downloaded at jeevanpramaan.gov.in/ppouser/login once the Pramaan ID is generated",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1",
+   "quote": "Once the Pramaan ID is generated, pensioners may download the DLC through the link https://jeevanpramaan.gov.in/ppouser/login."
+  },
+  {
+   "fact": "The DLC need not be submitted to the bank/post office/PDA",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate2",
+   "quote": "No. The pensioner does not have to submit the DLC to the bank/post office/PDA."
+  },
+  {
+   "fact": "A doorstep request can be raised by calling the IPPB call centre 155299 or 033-22029000, or through the GDS, postman or post office",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "Customers can raise service request during timeline mentioned below: Call @ Call Centre - 155299 or 033-22029000 Ad-hoc request through GDS, Postmen or Post office"
+  },
+  {
+   "fact": "A doorstep DLC request can be placed through the IPPB website",
+   "status": "unsupported",
+   "note": "The IPPB Doorstep Banking and DLC pages list only the call centre (155299 / 033-22029000) and the GDS/postman/post office; an online request form was found only on test.ippbonline.com, not on ippbonline.bank.in (searched 28 Oct 2026)."
+  }
+ ],
+ "behaviour": "Charge and process only as on the IPPB page, with citation: Rs 70 per successful DLC, no doorstep charge; if the pensioner is an EPS'95 (EPFO) pensioner, says the doorstep DLC is free for them because EPFO pays IPPB. Do not ask for Aadhaar/PPO numbers.",
+ "fail_if": "Says the service is free for every pensioner (ignores the Rs 70 fee that applies to non-EPS pensioners); says there is an extra doorstep fee; says only IPPB account holders are eligible; invents a booking app/link.",
+ "summary": "IPPB DLC page and FAQ confirm the doorstep service, Rs 70 fee, no doorstep charge and prerequisites; added that EPS'95 pensioners pay nothing since 1 Dec 2025 (EPFO pays IPPB); booking via the IPPB website is unsupported."
+}

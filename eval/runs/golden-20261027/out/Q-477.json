@@ -1,0 +1,19 @@
+{
+ "id": "Q-477",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The 2-hectare limit applied only when PM-KISAN was launched (original guideline); the scheme was revised from 1.6.2019",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "with combined landholding upto 2 hectare. The Scheme was later on revised w.e.f. 1 .6.2019 and extended to all farmer families irrespective of the srze of their"},
+  {"fact": "The revised scheme covers all landholding farmer families irrespective of landholding size (so 4 hectares is not a bar in itself)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "Yes. The ambit of the scheme has been extended to cover all farmer families, irrespective of the size of their land holdings."},
+  {"fact": "Coverage is subject to the scheme's exclusion criteria",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "There are various Exclusion Categories for the scheme."}
+ ],
+ "summary": "Revised FAQ confirms the 2-ha limit ended on 1.6.2019 and all landholding families are covered, subject to the exclusion categories."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-217",
+ "checked_at": "2026-10-28T14:03:18+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:50+05:30",
+   "sha256": "d633b5c3adb36e49a4676ce63e0723cc48b2a41c141f774fba7cccbbed60fe53",
+   "copy": "7533ee64a9c753201807.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068698",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2068698&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:44:19+05:30",
+   "sha256": "a68caacab2287ed9a2cb1cc1c570ca613a45ded000c083e34c43ad0a7f1cba6a",
+   "copy": "1cf6a1c208d93a202dd7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2153153&reg=3&lang=2",
+   "final": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2153153&reg=3&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:48:29+05:30",
+   "sha256": "99a5a2bcc3238cbbe21dc9a14fa64022da6631ee317124a8cbbd0add156f49d3",
+   "copy": "33e0d00fc67ab8221622.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2020570&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:50+05:30",
+   "sha256": "d633b5c3adb36e49a4676ce63e0723cc48b2a41c141f774fba7cccbbed60fe53",
+   "copy": "7533ee64a9c753201807.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

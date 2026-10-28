@@ -1,0 +1,50 @@
+{
+ "id": "Q-179",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Yes: all farmers including sharecroppers and tenant farmers growing notified crops in notified areas are eligible",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "All farmers including sharecroppers and tenant farmers growing the notiﬁed crops in the notiﬁed areas are eligible for coverage."
+  },
+  {
+   "fact": "They must have an insurable interest in the insured crop and land",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "However, farmers should have insurable interest for the insured crops and lands."
+  },
+  {
+   "fact": "Documents are those the State notifies: land records (RoR/LPC) and/or the contract/agreement or other document permitted by the State for sharecroppers/tenants, defined in the State notification",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "Such farmers are required to submit necessary documentary evidence of land records prevailing in the State (Records of Right (RoR), Land Possession Certiﬁcate (LPC) etc.) and/or applicable contract/ agreement details/ other documents notiﬁed/ permitted by concerned State Government in case of sharecroppers/tenant farmers",
+   "note": "Same sentence continues: 'and the same should be deﬁned by the respective States in the notiﬁcation itself.'"
+  },
+  {
+   "fact": "Aadhaar and a declaration of the crop sown (or to be sown) are also required",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "Such farmers are also required to essentially submit Aadhaar Number and declaration about the crop sown/ crops intended to be sown."
+  },
+  {
+   "fact": "Farmers cultivating forest land under FRA, and community land in NE States with certification from the village head or revenue authorities, can also be covered",
+   "status": "manual",
+   "url": "https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf",
+   "note": "Only in the 2023 Operational Guidelines, para 3.1 ('Tribal farmers and forest dwellers having cultivation in forest land under FRA are also allowed to be insured under the scheme. The farmers cultivating community owned land especially as is practiced in NER states are also allowed to be covered under the scheme with certification from village head or revenue authorities.'). pmfby.gov.in/guidelines lists this PDF but its link points to pmfby.amnex.co.in, which the checker does not count as official; the 2020 guidelines on pmfby.gov.in do not have this sentence."
+  },
+  {
+   "fact": "Enrolment is through a bank branch/PACS, CSC, insurance company intermediary, or online on the portal (Farmer Corner on pmfby.gov.in) before the cut-off date",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf",
+   "quote": "bank-branch/PACS/authorized channel partner/ CSC/insurance intermediary of Insurance Company or directly ﬁll-up the online application form on the NCIP within cut-off date"
+  },
+  {
+   "fact": "pmfby.gov.in has a Farmer Corner for farmers to apply for crop insurance themselves",
+   "status": "confirmed",
+   "url": "https://pmfby.gov.in/",
+   "quote": "Farmer Corner Access Apply for Crop Insurance by yourself Enroll Now"
+  }
+ ],
+ "summary": "Sharecropper/tenant eligibility, insurable interest, State-notified documents, Aadhaar and crop declaration, enrolment channels confirmed (OG 2020, pmfby.gov.in); the FRA/community-land sentence is only in OG 2023 hosted on pmfby.amnex.co.in (manual)."
+}

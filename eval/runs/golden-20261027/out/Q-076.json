@@ -1,0 +1,79 @@
+{
+ "id": "Q-076",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The rule is in the Employees' Provident Funds Scheme, 2026 (G.S.R. 525(E), Gazette dated 29 June 2026), which replaced the EPF Scheme, 1952",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "G.S.R. 525(E).— In exercise of the powers conferred by clause (a) of sub-section (1) of section 15 of the Code on Social Security (36 of 2020) and in supersession of the Employees' Provident Funds Scheme, 1952"
+  },
+  {
+   "fact": "Under para 46(2)(c) of the EPF Scheme, 2026, a member can withdraw for the marriage of self or a family member: up to 100% of the Eligible Member Balance, after 12 months' total membership, at most 5 times during membership",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "for the marriage of self and family members an amount up to one hundred per cent of the Eligible Member Balance, after completion of twelve months’ total membership of the Fund and partial withdrawal on this account shall not exceed five times during the membership of the Fund."
+  },
+  {
+   "fact": "'Family' under the Code on Social Security, 2020 includes a dependent unmarried daughter, so a daughter's marriage qualifies",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2025/07/b0620548445580767b5c0d18c95c26f7.pdf",
+   "quote": "a child who is wholly dependent on the earnings of the employee or an unorganised worker, as the case may be, and who is— (i) receiving education, till he attains the age of twenty-one years; and (ii) an unmarried daughter;"
+  },
+  {
+   "fact": "The Eligible Member Balance is the PF balance minus the Minimum Balance",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "“Eligible Member Balance” means the amount standing to the credit of the member in the Fund after deducting the Minimum Balance required to be maintained."
+  },
+  {
+   "fact": "The Minimum Balance is 25% of total contributions (employee and employer share with interest) and must stay in the account, so roughly 75% of the PF balance can be withdrawn",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "“minimum balance” means an amount equivalent to twenty-five per cent of the aggregate of the total contributions made to the Fund to the credit of the member (inclusive of both the employee’s and the employer’s share and interest thereon)"
+  },
+  {
+   "fact": "Education has a separate limit of 10 withdrawals during membership",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "for the education of self and family members, an amount up to one hundred per cent of the Eligible Member Balance, after completion of twelve months’ total membership of the Fund and partial withdrawal on this account shall not exceed ten times during the membership;"
+  },
+  {
+   "fact": "The minimum partial withdrawal is Rs 1,000 and the application is made on the designated portal",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "The Commissioner may, on an application from a member on the designated portal sanction from the amount standing to the credit of the member in the Fund, a partial withdrawal not less than rupees one thousand"
+  },
+  {
+   "fact": "The count of withdrawals restarts from the date the 2026 Scheme began",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "The permissible number of times for availing partial withdrawal under sub-paragraphs (2), (3) and (4) shall be calculated afresh in respect of each member on and from the date of commencement of this Scheme."
+  },
+  {
+   "fact": "The CBT decision of 13 Oct 2025 allowed marriage withdrawals up to 5 times, of up to 100% of the eligible balance including the employer share",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "Withdrawal limits have been liberalized—education withdrawals allowed up to 10 times and marriage up to 5 times (from existing limit of total of 3 partial withdrawals for marriage & education in all)."
+  },
+  {
+   "fact": "Under the CBT decision the withdrawable amount includes the employer share (not just the employee share)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "Now, members will be able to withdraw upto 100% of the eligible balance in the Provident Fund including employee and employer share."
+  },
+  {
+   "fact": "Under the CBT decision the minimum service is 12 months for all partial withdrawals",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522",
+   "quote": "Requirement of minimum service has been uniformly reduced to only 12 months for all partial withdrawals."
+  },
+  {
+   "fact": "The old rule allowing only the employee share with interest (50-100%) no longer applies",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689",
+   "quote": "Prior to the simplification of norms, the member was allowed to withdraw only the employee contribution and interest ranging from 50-100%."
+  }
+ ],
+ "summary": "Marriage withdrawal rules confirmed in EPF Scheme, 2026 para 46 and PIB 13 Oct 2025; 'family' in the Code on Social Security includes an unmarried dependent daughter."
+}

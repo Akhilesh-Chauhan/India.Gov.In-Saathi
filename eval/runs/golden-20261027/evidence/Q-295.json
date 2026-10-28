@@ -1,0 +1,52 @@
+{
+ "id": "Q-295",
+ "checked_at": "2026-10-28T14:03:32+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "final": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:36+05:30",
+   "sha256": "481d29a969c9e815350fc0f07206f778cc51cd7b6c7e81c8fd2b78e05b151101",
+   "copy": "75d8ac13ab20e0700f61.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.nios.ac.in/media/documents/prospectus/2026/Academic_Prospectus_2026-27.pdf",
+   "final": "https://www.nios.ac.in/media/documents/prospectus/2026/Academic_Prospectus_2026-27.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:26:58+05:30",
+   "sha256": "88535bbf187a1629a2bbff2513e889aac6f1cd2b7d864e3382c02217bb0fb202",
+   "copy": "c58363c1bd327d92fd22.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "final": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:36+05:30",
+   "sha256": "481d29a969c9e815350fc0f07206f778cc51cd7b6c7e81c8fd2b78e05b151101",
+   "copy": "75d8ac13ab20e0700f61.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

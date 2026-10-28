@@ -1,0 +1,19 @@
+{
+ "id": "Q-482",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The employee and the employer each contribute 12% of basic wages plus dearness allowance",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "quote": "Both employee and employer contribute 12% of basic wages + dearness allowance."},
+  {"fact": "The employee's whole contribution goes to EPF",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "quote": "Employee’s entire contribution goes to EPF."},
+  {"fact": "The employer's share is split between EPF, EPS (pension) and EDLI (insurance)",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "quote": "Employer’s share is split between EPF, Employees’ Pension Scheme (EPS), and Employees’ Deposit Linked Insurance (EDLI)."}
+ ],
+ "summary": "EPFO EPF Scheme page still states 12% each, employee share fully to EPF, employer share split EPF/EPS/EDLI; all confirmed."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-508",
+ "checked_at": "2026-10-28T14:03:57+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:07+05:30",
+   "sha256": "a980bb712e586591da9d04fedc8df12b5eba86cdedb7e1f6888e97dea294674c",
+   "copy": "e0761e36d80c8ead6183.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:07+05:30",
+   "sha256": "a980bb712e586591da9d04fedc8df12b5eba86cdedb7e1f6888e97dea294674c",
+   "copy": "e0761e36d80c8ead6183.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:07+05:30",
+   "sha256": "a980bb712e586591da9d04fedc8df12b5eba86cdedb7e1f6888e97dea294674c",
+   "copy": "e0761e36d80c8ead6183.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "final": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:07+05:30",
+   "sha256": "a980bb712e586591da9d04fedc8df12b5eba86cdedb7e1f6888e97dea294674c",
+   "copy": "e0761e36d80c8ead6183.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,72 @@
+{
+ "id": "Q-002",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A demographic update (name, gender, date of birth, address, mobile number, email) costs Rs 75 when done separately",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "A demographic update is free when done at the same time as a biometric update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75",
+   "note": "The fee sheet uploaded 2026-09 on backend.uidai.gov.in lists only 'If done separately: ₹75' for demographic update and drops the 'Free with biometric update' line; the Aadhaar Seva Kendra page and the other fee-sheet copies still show it."
+  },
+  {
+   "fact": "A biometric update is free the first time between ages 5 and 7",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(i) If done first time between the age of 5 to 7 years: Free#"
+  },
+  {
+   "fact": "A biometric update is free the first or second time between ages 15 and 17",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(ii) If done first or second time between the age of 15 to 17 years: Free#"
+  },
+  {
+   "fact": "The free mandatory biometric updates must be stand-alone transactions",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "# Mandatory Biometric Update (MBU) shall be stand-alone transaction only; it may not be clubbed with any other transaction"
+  },
+  {
+   "fact": "Otherwise a biometric update costs Rs 125",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(iii) If done otherwise: ₹125*"
+  },
+  {
+   "fact": "UIDAI extended the fee waiver for the first mandatory biometric update (MBU-1) of children aged 7 to 15 by one year from 1.10.2026, so it stays free till 30.09.2027",
+   "status": "changed",
+   "was": "the extra free window for ages 7-15 ended on 30.9.2026",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Extn-of-MBU-fee-waiver.pdf",
+   "quote": "UIDAI has granted extension of waiver of MBU-1 charges payable by an Aadhaar number holder aged 7 - 15 years, for an additional period of one year, w.e.f. 1.10.2026. Thus, the MBU-1 service shall remain free of cost to the children (aged 7-15 years) till 30.09.2027.",
+   "note": "UIDAI Office Memorandum on extension of the MBU-1 fee waiver, uploaded 25-09-2026 (as in Q-004). The fee-sheet PDF on uidai.gov.in/images (and its 2026-05 copy) still prints 30.9.2026 and is out of date."
+  },
+  {
+   "fact": "The Aadhaar Seva Kendra page also shows the update as free for ages 7 to 15 till 30.9.2027",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(*If done between the age of 7 to 15 years: Free, till 30.9.2027)"
+  },
+  {
+   "fact": "A document update (proof of identity/address) is free on the myAadhaar portal till 14.06.2027",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(ii) Using myAadhaar portal ( https://myaadhaar.uidai.gov.in/du ): Free (till 14.06.2027)"
+  },
+  {
+   "fact": "A document update costs Rs 75 at an Aadhaar centre",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(i) At Aadhaar centre: ₹75 (ii) Using myAadhaar portal ( https://myaadhaar.uidai.gov.in/du ): Free (till 14.06.2027)"
+  }
+ ],
+ "behaviour": "Gives each fee from UIDAI's fee sheet / Aadhaar Seva Kendra page, citing uidai.gov.in, including that the first mandatory biometric update for children aged 7 to 15 stays free till 30.09.2027 (UIDAI extended the waiver; extension OM or Aadhaar Seva Kendra page).",
+ "fail_if": "Any amount differs (Rs 75 demographic update done separately, Rs 125 biometric update, Rs 75 document update at a centre); the 14.06.2027 date for free online document update is missing; it says the 7-15 waiver has ended or gives 30.9.2026 as its end as if it were current; it cites no UIDAI page.",
+ "summary": "Fees confirmed (Rs 75 / Rs 125 / document update free online till 14.06.2027, Rs 75 at centre); changed: UIDAI OM (uploaded 25-09-2026) extended the free MBU-1 for ages 7-15 till 30.09.2027, so the old 'ended on 30.9.2026' is out of date."
+}

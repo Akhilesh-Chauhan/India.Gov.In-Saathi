@@ -1,0 +1,14 @@
+{
+ "id": "Q-132",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Post Office Savings Account (4% p.a.) and National Savings Recurring Deposit (6.7% p.a., compounded quarterly)", "status": "added", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "Post Office Savings Account (SB) Rate of Interest: 4% per annum Simple Interest View details of Post Office Savings Account (SB) National Savings Recurring Deposit Account (RD) Rate of Interest: 6.7% per annum (quarterly compounded)"},
+  {"fact": "Post Office Monthly Income Scheme (7.4% p.a., paid monthly) and Senior Citizens Savings Scheme (8.2% p.a.)", "status": "added", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "Post Office Monthly Income Scheme Account (MIS) Rate of Interest: 7.4% per annum payable monthly View details of Post Office Monthly Income Scheme Account (MIS) Senior Citizens Savings Scheme Account (SCSS) Rate of Interest: 8.2% per annum"},
+  {"fact": "Public Provident Fund (7.1% p.a., compounded yearly) and Sukanya Samriddhi Account (8.2% p.a., compounded yearly)", "status": "added", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "Public Provident Fund Account (PPF) Rate of Interest: 7.1% per annum (compounded yearly) View details of Public Provident Fund Account (PPF) Sukanya Samriddhi Account (SSA) Rate of Interest: 8.2% per annum"},
+  {"fact": "National Savings Time Deposit (6.9% to 7.5% depending on term) and Kisan Vikas Patra (7.5%, compounded yearly)", "status": "added", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "National Savings Time Deposit Account (TD) Rate of Interest: 6.9% to 7.5% Interest rates vary based on the period. View details of National Savings Time Deposit Account (TD) Kisan Vikas Patra (KVP) Rate of Interest: 7.5% (compounded yearly)"},
+  {"fact": "National Savings Certificate (VIII Issue) (7.7%, compounded yearly, paid at maturity)", "status": "added", "url": "https://www.indiapost.gov.in/banking-services/savings", "quote": "National Savings Certificates (VIII Issue) (NSC) Rate of Interest: 7.7% payable at maturity (compounded yearly)"}
+ ],
+ "behaviour": "Lists the post office small savings schemes from India Post with links, giving each scheme's current interest rate cited to an official source (India Post / NSI / DEA quarterly notification) with the period.",
+ "fail_if": "Gives rates without a source or date, or lists schemes not offered by India Post.",
+ "summary": "Added scheme list with current rates from India Post's Saving Schemes page (updated 19.10.2026): SB 4%, RD 6.7%, MIS 7.4%, SCSS 8.2%, PPF 7.1%, SSA 8.2%, TD 6.9-7.5%, KVP 7.5%, NSC 7.7%."
+}

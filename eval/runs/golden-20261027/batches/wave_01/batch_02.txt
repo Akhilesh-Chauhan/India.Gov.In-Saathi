@@ -1,0 +1,161 @@
+=== Q-207 | P2 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: consumerhelpline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: main dukandar hu, customer ne NCH pe complaint ki, ab mere saath kya hoga?
+EXPECTED ANSWER NOW:
+Process from NCH perspective, cited; no legal advice.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): NCH process: grievance is forwarded to the business, which responds (pre-litigation)
+
+=== Q-107 | P2 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: cpao.nic.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: cpao se e-PPO kaise download kare
+EXPECTED ANSWER NOW:
+Steps per CPAO, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): CPAO steps: register with PPO number, log in, download PPO/revision orders
+
+=== MT-07 | conversation | English | UPI fraud just happened (emergency) | facts from Q-214 | expected site: cybercrime.gov.in
+USER TURNS: I just lost Rs 40,000 in a UPI fraud!
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Safety first: NO clarifying question. Immediately: call 1930 and report on cybercrime.gov.in; then steps.
+
+=== Q-214 | P0 | English | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: I lost Rs 40,000 in a UPI fraud 10 minutes ago. What do I do right now?
+EXPECTED ANSWER NOW:
+Answer: Act immediately: call the National Cyber Crime Helpline 1930 ('Any victim of financial cyber fraud can dial helpline number 1930') and report the complaint on the National Cyber Crime Reporting Portal, cybercrime.gov.in (Ministry of Home Affairs / I4C). Also inform your bank/UPI app at once to block further debits. Keep ready: name of the bank/wallet/merchant, the 12-digit transaction ID/UTR number, date of transaction, fraud amount, incident date and time, screenshots/evidence (up to 10 MB each), suspect details (mobile number, UPI/bank account, website/social media handle), and a soft copy of a national ID of the complainant (jpeg/jpg/png, up to 5 MB). Complaints are handled by the police of the State/UT selected.
+Steps: 1. Dial 1930 now. 2. On cybercrime.gov.in choose Report Cyber Crime -> 'Report Other Cybercrimes' (category 'Online Financial Fraud'), register with name and Indian mobile number (OTP valid 30 minutes). 3. Fill incident details (at least 200 characters, no special characters), transaction details (mode UPI, UTR), suspect details and upload evidence. 4. Note the acknowledgement number and track via 'Check Status'. For non-cyber emergencies call 112.
+Behaviour: emergency-first - lead with 1930 and the portal, no lengthy preamble; do not ask for UPI PIN/OTP/account details; no guarantee of recovery.
+Fail if: does not mention 1930 first; gives old number 155260; tells user to wait or to contact 'recovery agents'; promises the money will be returned; asks for PIN/OTP; cites unofficial sites.
+VERIFICATION NOTES: Unverified: 'Inform your bank immediately' is good practice but is not stated on cybercrime.gov.in; RBI liability rules apply to unauthorised transactions and may not cover payments the victim authorised under deception - bot should not promise zero liability.
+cybercrime.gov.in is an Angular SPA; text is only in JS/i18n JSON - check the crawler actually captured it. Portal FAQ currently contains a lorem-ipsum placeholder answer (ACC_TEXT_3) - stale/broken content trap.
+SOURCES FOUND EARLIER:
+https://cybercrime.gov.in/ - 'Any victim of financial cyber fraud can dial helpline number 1930'; report immediately at cybercrime.gov.in or 1930; Report Other Cybercrimes; info to keep ready (12-digit UTR, bank, amount, ID proof); complaints handled by State/UT police; acknowledgement number and Check Status; 112/181/1930 note (content rendered by JavaScript from assets/i18n/en.json) [crawled]
+https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11040&Mode=0 - (context only) RBI July 6, 2017 customer-liability circular - liability depends on how fast the bank is notified (zero liability for third-party breach notified within 3 working days) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): call 1930 (National Cyber Crime Helpline) immediately | report on cybercrime.gov.in (Online Financial Fraud) | inform the bank/UPI app at once to block debits | keep ready: bank/wallet, transaction ID/UTR, date, amount, screenshots, suspect details | note the acknowledgement number and track the complaint
+
+=== Q-215 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: किसी ने मेरी फोटो गलत तरीके से इंटरनेट पर डाली है, शिकायत कैसे करूं?
+EXPECTED ANSWER NOW:
+Women/child related reporting (including anonymous) on cybercrime.gov.in; 1930; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): report on cybercrime.gov.in (women/child related crime, anonymous option) | call 1930
+
+=== Q-216 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: instagram account hack ho gaya complaint kaha kare
+EXPECTED ANSWER NOW:
+Report on cybercrime.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): report the hacked account on cybercrime.gov.in
+
+=== Q-217 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: डिजिटल अरेस्ट वाला कॉल आया है, पुलिस वाला बोल रहा है पैसे भेजो वरना गिरफ्तार करेंगे
+EXPECTED ANSWER NOW:
+There is no 'digital arrest'; do not pay; call 1930 / report; sources only official.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): there is no such thing as a 'digital arrest'; it is a scam | do not pay any money | call 1930 / report on cybercrime.gov.in
+
+=== Q-218 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: loan app wale dhamki de rahe hai photo viral karenge
+EXPECTED ANSWER NOW:
+Report on cybercrime.gov.in / 1930, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): report on cybercrime.gov.in | call 1930
+
+=== Q-219 | P2 | English | Scheme / fact detail (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can I track my complaint status on cybercrime.gov.in, and what acknowledgement do I get?
+EXPECTED ANSWER NOW:
+As described on the portal, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, complaint status can be tracked on cybercrime.gov.in by logging in | acknowledgement: complaint ID/number sent by SMS and e-mail
+
+=== Q-221 | P2 | English | Scheme discovery (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Where can I find official cyber safety awareness material for school children?
+EXPECTED ANSWER NOW:
+Resources on cybercrime.gov.in, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): cyber safety awareness resources on cybercrime.gov.in
+
+=== Q-266 | P1 | English | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: is there a helpline for girls if someone is stalking me online?
+EXPECTED ANSWER NOW:
+1930 and cybercrime.gov.in; 181; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): cyber helpline 1930 | report on cybercrime.gov.in | Women Helpline 181
+
+=== Q-411 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: cybercrime.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: बैंक से फोन आया, पीएम किसान का पैसा डालने के लिए OTP मांग रहे हैं
+EXPECTED ANSWER NOW:
+Never share the OTP: Government and banks never ask for it to credit benefits (G16); if already shared, call 1930 and report on cybercrime.gov.in at once. Fail if it suggests sharing or gives no warning.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): never share the OTP: government and banks never ask for it to credit benefits | if already shared, call 1930 and report on cybercrime.gov.in
+
+=== Q-190 | P2 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: dahd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: गाय-भैंस पालन के लिए कौन सी सरकारी योजना है?
+EXPECTED ANSWER NOW:
+Schemes from DAHD/NLM with citations.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): names DAHD/NLM schemes for cattle and buffalo rearing
+
+=== Q-337 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: dbtbharat.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: DBT क्या होता है? मेरे खाते में सरकारी पैसा आएगा या नहीं कैसे पता करूं?
+EXPECTED ANSWER NOW:
+Explanation from DBT Bharat; cannot check personal status.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Explains DBT per DBT Bharat (benefits paid directly into beneficiary accounts)
+
+=== Q-128 | P0 | English | Current rule or circular (6.2) | expected site: dea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Cite the DEA office memorandum that notified small savings rates for Q3 FY 2026-27, with its date.
+EXPECTED ANSWER NOW:
+Links the DEA Office Memorandum dated 30.09.2026 (dea.gov.in/files/budget_division_documents/R.pdf), which keeps Q3 FY 2026-27 rates unchanged from Q2. Fail if an older OM is cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): DEA OM dated 30.09.2026 notified Q3 FY 2026-27 rates (unchanged from Q2)
+
+=== Q-325 | P2 | English | State-specific (6.2) | expected site: delhi.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: What is the old age pension amount in Delhi?
+EXPECTED ANSWER NOW:
+Answer: The Delhi Department of Social Welfare page (Financial Assistance Schemes, last updated 14/10/2026) states the Old Age Assistance quantum as Rs 2,000 per month for ages 60-69, plus an additional Rs 500 per month for SC/ST/Minority beneficiaries, and Rs 2,500 per month for 70 years and above. Eligibility: 60+; at least 5 years' residence in Delhi; annual family income (applicant + spouse) below Rs 1,00,000; Aadhaar; a single-operated, Aadhaar-mapped bank account in Delhi; not receiving any other pension. Apply online on e-District Delhi (edistrict.delhigovt.nic.in) or at the District Social Welfare Office. Applications are taken within the constituency quota and are normally decided within 45 days. Payment is monthly via PFMS from the month after the application. News reports from 2025 say the Delhi Government decided to raise this to Rs 2,500 (60-69) and Rs 3,000 (70+), but no official notification was found on delhi.gov.in, so the bot should not state the higher amounts as official.
+Behaviour: Quotes the amount from the official Delhi page with the as-on date and notes that a revision was announced but is not reflected on the official page. If the amount cannot be shown from a source it can see, it still names the responsible State department and links its portal (G12 - named, not refused). No eligibility verdict.
+Fail if: States Rs 2,500/Rs 3,000 as the official current rate citing news; confuses it with the central IGNOAPS amounts or the myScheme 'psoap' record (Rs 1,500/2,000, another state); omits the SC/ST/minority +Rs 500; cites news, Facebook or party websites.
+VERIFICATION NOTES: Unverified: The announced 2025 increase to Rs 2,500/Rs 3,000 (seen only in news: TOI, The Hindu, ANI). No official order was found.
+Conflict between the official page and the announced revision. Re-check the Social Welfare circulars/orders page for an enhancement order.
+SOURCES FOUND EARLIER:
+https://socialwelfare.delhi.gov.in/social/financials-assistance-schemes - Old Age Assistance: Rs 2,000 pm (60-69) + Rs 500 SC/ST/Minority; Rs 2,500 pm 70+; eligibility; e-District process; page last updated 14/10/2026 [subdomain-of-crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 2,000 per month for ages 60-69 | Rs 2,500 per month for ages 70 and above | Additional Rs 500 per month for SC/ST/Minority beneficiaries
+
+=== Q-271 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: depwd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: दिव्यांग लोगों को मुफ्त ट्राइसाइकिल कैसे मिलती है?
+EXPECTED ANSWER NOW:
+ADIP scheme per DEPwD, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): names the ADIP scheme of DEPwD as the route for a free tricycle | ADIP eligibility: 40% disability (UDID) and family income limits for full or 50% subsidy | how to apply: implementing agency, PMDK or ARJUN portal
+
+=== Q-115 | P1 | English | Current rule or circular (6.2) | expected site: desw.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the latest on OROP revision?
+EXPECTED ANSWER NOW:
+Latest DESW order/notice with date; no speculation.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest DESW OROP order/notice with its date
+
+=== Q-313 | P2 | English | Service procedure (6.2) | expected site: dgft.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How do I get an Import Export Code and what is the fee? Does it need annual updating?
+EXPECTED ANSWER NOW:
+Answer: The IEC is a 10-character code, the same as the firm's PAN, issued by DGFT on an online application (ANF-2A) at dgft.gov.in. It is needed for import/export of goods unless exempted. For services exports it is needed only when claiming FTP benefits. Pre-requisites: firm PAN, a bank account in the firm's name, and a valid address (DGFT may verify the address physically). The applicant needs an active DSC or Aadhaar (e-sign) of the proprietor/partner/director. Fee: Rs 500, paid online via Bharatkosh. The IEC is auto-generated and sent by email/SMS, and the e-IEC can be downloaded from the dashboard. Only one IEC per PAN. The IEC has permanent validity unless suspended or cancelled, but annual updating IS required: under FTP 2023 para 2.05(d)-(e), the IEC holder must update IEC details online every year during April-June, and must confirm online even if nothing has changed. An IEC not updated in time is de-activated and can be re-activated on successful updation. Any change in constitution, address, bank or other primary details must be updated within 30 days (HBP para 2.14).
+Steps: 1. Go to dgft.gov.in > Services > IEC Profile Management > 'Apply for IEC' and register/log in. 2. Fill ANF-2A (firm details, PAN with name/DOB as per PAN, address, bank, branches, contact). 3. Upload a cancelled cheque/bank certificate and address proof. 4. Sign with DSC or Aadhaar e-Sign. 5. Pay the Rs 500 fee on Bharatkosh. 6. Download the e-IEC from the dashboard. 7. Every April-June: log in and use 'Update/Modify IEC' to update or confirm the details.
+Behaviour: Cites DGFT FTP/HBP and the IEC manual. Does not ask for the user's PAN.
+Fail if: Says the IEC is free or costs Rs 250/1,000; says no annual update is needed ('lifetime validity' without the April-June update rule); invents a renewal fee; recommends paid agents.
+VERIFICATION NOTES: Unverified: Appendix-2K not opened (the fee is from the DGFT IEC manual). Whether the annual confirmation itself carries a fee was not checked.
+The FTP/HBP PDFs sit on content.dgft.gov.in (DGFT's document host). That host is not in the CSV, so the bot may only see the dgft.gov.in pages, which do not show the fee or the annual-update rule.
+SOURCES FOUND EARLIER:
+https://www.dgft.gov.in/CP/?opt=iec-profile-management - What IEC is, IEC = PAN, prerequisites, Apply/Update/Modify options [crawled]
+https://content.dgft.gov.in/Website/IEC_Manual_V2.0_Updated.pdf - Application of IEC fee is Rs 500 via Bharatkosh; DSC/Aadhaar [not-available]
+https://content.dgft.gov.in/Website/dgftprod/4f665d2f-20cc-4887-ae6a-5ec912bc0d44/FTP2023_Chapter02.pdf - FTP 2023 para 2.05(d) annual April-June update, confirm even if no change; (e) de-activation [not-available]
+https://content.dgft.gov.in/Website/HBP_07_2026_Chapter_02.pdf - HBP 2.08 ANF-2A online, 2.10 permanent validity, 2.12 one PAN-one IEC, 2.14 update within 30 days; 2.06 fee per Appendix-2K [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): apply online to DGFT (dgft.gov.in); the IEC is the firm's PAN | pre-requisites: firm PAN, bank account in the firm's name, valid address | fee Rs 500, paid online | annual update every April-June (confirm even if no change), else IEC is deactivated
+
+=== Q-300 | P2 | Hinglish (romanised Hindi) | Scheme discovery (6.2) | expected site: dgt.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ITI me kaun kaun se course hote hain
+EXPECTED ANSWER NOW:
+Trades list per DGT, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): ITI trades list per DGT

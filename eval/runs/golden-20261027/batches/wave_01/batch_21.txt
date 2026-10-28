@@ -1,0 +1,198 @@
+=== Q-209 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: RTI क्या होता है? मैं अपने गांव की पंचायत के काम की जानकारी लेना चाहता हूं
+EXPECTED ANSWER NOW:
+Explains RTI; notes rtionline covers Central public authorities; panchayat is under State RTI route.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): explains RTI (RTI Act 2005, right to information from public authorities) | RTI Online covers only Central public authorities | panchayat information is sought through the State RTI route (State PIO)
+
+=== Q-210 | P1 | English | Current rule or circular (6.2) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: What is the time limit for an RTI reply and for filing the first appeal?
+EXPECTED ANSWER NOW:
+Answer: Under Section 7(1) of the RTI Act, 2005 the CPIO must provide the information or reject the request within 30 days of receipt of the request; if it concerns the life or liberty of a person, within 48 hours. (5 days are added when the application is submitted through an Assistant PIO; if the CPIO does not decide within the time limit it is deemed refusal.) First appeal (Section 19(1)): within 30 days from the expiry of the reply period or from receipt of the CPIO's decision, to the First Appellate Authority (officer senior to the CPIO); the FAA may admit a late appeal if satisfied there was sufficient cause. First appeal is free. The FAA should decide within 30 days, extendable to a total of 45 days. Second appeal to the Central Information Commission within 90 days. On RTI Online, the first appeal button is available only after the CPIO replies or after the 30-day period lapses, and only for applications filed online.
+Behaviour: cite RTI Act/RTI Online; general legal information, no case-specific opinion.
+Fail if: says 45 days for reply, 60 days for appeal, or that appeal must wait 60 days; omits the 48-hour life-or-liberty rule; says first appeal needs a fee.
+VERIFICATION NOTES: The 30-day/48-hour/30-day appeal numbers are not stated as such on rtionline.gov.in (FAQ only implies the 30-day reply period). Authoritative text is the RTI Act on cic.gov.in, which is not crawled - bot may answer from general knowledge only with RTI Online citation for the 30-day appeal-enable rule; a citation of rtionline.gov.in for '48 hours' would be inaccurate.
+SOURCES FOUND EARLIER:
+https://cic.gov.in/sites/default/files/RTI-Act_English.pdf - Sec 7(1) 30 days / 48 hours life or liberty; Sec 19(1) appeal within 30 days with condonation; 19(3) 90 days second appeal; 19(6) 30/45 days disposal [not-available]
+https://rtionline.gov.in/faq.php - First appeal possible only after CPIO reply or after 30 days lapse; online appeal only against online application; no fee for first appeal [crawled]
+https://rtionline.gov.in/guidelines.php?request - Time limits as provided in the RTI Act, 2005 continue to apply; no fee for first appeal [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): CPIO must reply within 30 days of receiving the request | within 48 hours if life or liberty is involved | first appeal to the FAA within 30 days of reply-period expiry or receipt of decision | first appeal is free
+
+=== Q-211 | P2 | English | Out of scope (3.3, 6.3) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: File an RTI on my behalf asking for the local MP's fund spending.
+EXPECTED ANSWER NOW:
+Cannot file; explains how to file on rtionline.gov.in.
+
+=== Q-212 | P2 | English | Service procedure (6.2) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My RTI hasn't been answered in 30 days. What should I do?
+EXPECTED ANSWER NOW:
+First appeal, then second appeal to CIC, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): file a first appeal to the First Appellate Authority within 30 days | then a second appeal to the Central/State Information Commission
+
+=== Q-213 | P2 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: rti me ek application me kitne sawal puch sakte hai
+EXPECTED ANSWER NOW:
+Answer: Neither the RTI Act nor the RTI Rules, 2012 fixes a maximum number of questions. Rule 3 of the RTI Rules, 2012 says an application 'shall ordinarily not contain more than five hundred words' (excluding annexures and the addresses of the CPIO and applicant), but no application may be rejected only because it exceeds 500 words. On RTI Online the text box accepts up to 3000 characters; longer text can be uploaded as a PDF supporting document. If the information asked lies with more than one CPIO, the Nodal Officer may forward it to several CPIOs (the applicant then gets multiple registration numbers).
+Behaviour: answer in Hinglish/simple language; cite rtionline.gov.in for the 3000-character limit and RTI Rules 2012 for the 500-word norm; advise keeping questions specific without inventing a numeric cap.
+Fail if: invents a cap like '1 question' or '10 questions'; says applications over 500 words will be rejected; states as a rule that only 'one subject matter' is allowed (that clause is not in the RTI Rules, 2012).
+VERIFICATION NOTES: Old expected text 'one subject, word limit' is partly wrong: the final RTI Rules 2012 contain the 500-word norm but no 'one subject matter' clause. RTI Rules text is not on a crawled host (pmindia/cic/dopt not crawled); rtionline only shows 3000 characters.
+SOURCES FOUND EARLIER:
+https://rtionline.gov.in/guidelines.php?request - 3000-character limit; longer text as attachment [crawled]
+https://rtionline.gov.in/faq.php - 3000 characters, PDF attachment; multiple registration numbers when forwarded to multiple CPIOs [crawled]
+https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf - Rule 3: Rs 10 fee, ordinarily not more than 500 words, no rejection only on that ground [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no maximum number of questions is fixed by the RTI Act or Rules | Rule 3: ordinarily up to 500 words, but not rejected only for exceeding it | RTI Online text box takes 3000 characters; longer text as a PDF
+
+=== Q-368 | P2 | English | Service procedure (6.2) | expected site: sancharsaathi.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I report a suspected fraud call number on Chakshu?
+EXPECTED ANSWER NOW:
+Chakshu on Sanchar Saathi (sancharsaathi.gov.in, in the bot's registry): cite it with steps if indexed, otherwise link it; if money was lost, 1930 / cybercrime.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Report via Chakshu on Sanchar Saathi (sancharsaathi.gov.in) with steps, cited | If money was lost: 1930 / cybercrime.gov.in
+
+=== Q-323 | P1 | Hindi (Devanagari) | State-specific (6.2) | expected site: saralharyana.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: हरियाणा में बुढ़ापा पेंशन कितनी मिलती है?
+EXPECTED ANSWER NOW:
+Answer: Haryana Old Age Samman Allowance is Rs 3,200 per month w.e.f. 01-11-2025 (previously Rs 3,000 from 01-01-2024). Eligibility: age 60 years or more; domicile and resident of Haryana; own plus spouse's income from all sources not more than Rs 3,00,000 per year. People receiving a pension from any Government, local or statutory body (or a Government-financed organisation) are excluded. The scheme is now run proactively through Parivar Pehchan Patra (PPP): eligible residents are identified from PPP/FIDR data and asked for consent, and payment goes to the PPP-linked bank account. It can also be applied for on Saral Haryana ('Old Age Samman Allowance' service). Note: Saral Haryana itself does not show the amount; the amount is on the Department of Social Justice & Empowerment Haryana pages.
+Behaviour: Gives the amount with the effective date and cites the SJE Haryana page/scheme PDF. If the amount cannot be shown from a source it can see, it still names the responsible State department and links its portal (G12 - named, not refused).gov.in. Gives no eligibility verdict and does not ask for a PPP/Aadhaar number.
+Fail if: Says Rs 3,000 or Rs 2,750 (stale); quotes Rs 1,800 from the outdated haryana.gov.in scheme page; confuses it with the central IGNOAPS (Rs 200/500); gives an amount without a date; cites news sites.
+VERIFICATION NOTES: The amount is not on the crawled Saral Haryana host; it is only on SJE Haryana/HPPA hosts, which are not in the CSV. The www.haryana.gov.in scheme page still shows Rs 1,800 (w.e.f. 01-11-2017), which is a stale-official trap.
+SOURCES FOUND EARLIER:
+https://pension.socialjusticehry.gov.in/schemes/OLD_AGE_SAMMAN_ALLOWANCE.pdf - Rate Rs 3,200 per month w.e.f. 01-11-2025; eligibility 60+, domicile, income up to Rs 3 lakh; exclusions [not-available]
+https://socialjusticehry.gov.in/old-age-samman-allowance-scheme/ - Rate history ... Rs 3,000 w.e.f. 01.01.2024, Rs 3,200 w.e.f. 01.11.2025 [not-available]
+http://www.hppa.haryana.gov.in/Old-age-Samman.html - Rs 3,200 per month; proactive PPP-based enrolment with consent [not-available]
+https://saralharyana.gov.in/getServiceDesc.html?serviceId=7360014 - Old Age Samman Allowance service on Saral (no amount shown) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Haryana Old Age Samman Allowance is Rs 3,200 per month | Amount effective from 01-11-2025
+
+=== Q-028 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: learning licence online kaise banaye ghar baithe
+EXPECTED ANSWER NOW:
+Aadhaar-based online LL test from Sarathi; steps cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Aadhaar-based online learner's licence test on Sarathi (Parivahan)
+
+=== Q-029 | P2 | English | Current rule or circular (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: How many days after getting a learner's licence can I apply for a permanent DL?
+EXPECTED ANSWER NOW:
+Answer: A learner's licence is valid for 6 months from issue; the holder can apply for/take the driving test for a permanent driving licence after holding the LL for at least 30 days (i.e. after 30 days and within the 6-month validity). An expired LL cannot be renewed - a new LL must be obtained (Sarathi: Learner Licence > "Expired Learner Licence Issue Again").
+Steps: Apply on sarathi.parivahan.gov.in (select State) > Driving Licence > Apply for Driving Licence: fill applicant details, upload documents, upload photo/signature (some States), book DL test slot, pay fee, verify payment, take the test.
+Behaviour: Cite Parivahan/Sarathi; mention the 30-day minimum and the 6-month LL validity together.
+Fail if: says 15 or 60 days; says the DL can be applied any time after LL validity ends; says an LL can be renewed.
+VERIFICATION NOTES: Unverified: 30-day rule not found on public sarathi.parivahan.gov.in pages (FAQ page empty for Delhi; user manual has only screen steps); confirmed only on parivahan.gov.in (not crawled).
+If the bot's Sarathi crawl lacks the rule, the correct behaviour is to answer from what it can cite or abstain + link Sarathi; parivahan.gov.in host is not in the crawl list.
+SOURCES FOUND EARLIER:
+https://parivahan.gov.in/en/content/faq - LL FAQ: 'Learner's License validity is for 6 Months, and you can apply for New Driving License after 30 days'; LL cannot be renewed [not-available]
+https://parivahan.gov.in/en/content/permanent-license - Applicant who has held a valid LL for at least 30 days is competent to appear for the test [not-available]
+https://indiacode.gov.in/act/2bbbcc40-38f1-4b15-ae94-646b85db4ee7/sections - MV Act s.14(1): LL effective for six months [not-available]
+https://sarathi.parivahan.gov.in/sarathiservice/newDLDet.do - Stages of DL application (no 30-day text) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Can apply for the DL after holding the LL for at least 30 days | LL is valid 6 months; apply within its validity
+
+=== Q-030 | P1 | English | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: I am 71. What do I need to renew my driving licence?
+EXPECTED ANSWER NOW:
+Answer: Renewal is applied online on Sarathi (select State) > Driving Licence > "Services on DL (Renewal/Duplicate/AEDL/IDP/Others)" > RENEWAL OF DL, choosing the RTO covering the current address. Because the applicant is above 40, a medical certificate in Form 1A from an empanelled doctor is required (Sarathi note; MV Act s.15(1) proviso: renewal applications by persons aged 40+ or for transport vehicles must be accompanied by the medical certificate). Renewal can be done within one year before or after expiry; if the DL expired more than one year ago, a driving test may be required as per State policy. For a person aged 55 or more, a renewed non-transport licence is valid for 5 years (MV Act s.14(2)(b)(iv)).
+Steps: 1. sarathi.parivahan.gov.in > select State > Driving Licence > Services on DL (Renewal...). 2. Enter DL number and date of birth, select RENEWAL OF DL. 3. Get Form 1A from an empanelled doctor (Sarathi "Find Doctor") during the application. 4. Upload documents, photo/signature if required. 5. Pay fee, verify payment, print receipt.
+Behaviour: Cite Sarathi; no medical-fitness judgement; fees vary by State - only if on the page.
+Fail if: omits Form 1A; says a fresh driving test is always required at 70+; invents an age cap for driving; gives a fixed fee without source.
+VERIFICATION NOTES: Old expected text confirmed (Form 1A). Validity periods come from MV Act on indiacode (not crawled).
+SOURCES FOUND EARLIER:
+https://sarathi.parivahan.gov.in/sarathiservice/dlServicesDet.do - Services on DL incl. RENEWAL OF DL; note: aged above 40 -> contact empanelled doctor for Form-1A [crawled]
+https://sarathi.parivahan.gov.in/sarathiservice/doctorsReport.do - Find Doctor (empanelled doctors RTO-wise) [crawled]
+https://parivahan.gov.in/en/content/faq - Renewal within one year prior to or after expiry; after >1 year a driving test as per State policy [not-available]
+https://indiacode.gov.in/act/2bbbcc40-38f1-4b15-ae94-646b85db4ee7/sections - s.15(1) proviso medical certificate for 40+; s.14(2)(b)(iv) 55+ -> 5 years [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Renew online on Sarathi: Services on DL (Renewal) | Medical certificate in Form 1A needed (age above 40) | If expired over a year ago, a driving test may be required per State policy | For age 55+, a renewed licence is valid 5 years
+
+=== Q-031 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: ड्राइविंग लाइसेंस खो गया, डुप्लीकेट कैसे बनेगा?
+EXPECTED ANSWER NOW:
+Duplicate DL application on Sarathi; documents cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Apply for a duplicate DL on Sarathi
+
+=== Q-032 | P2 | English | Current rule or circular (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: can i get a driving licence at 16 for a scooty
+EXPECTED ANSWER NOW:
+Answer: Only in a limited case. Under MV Act s.4(1), no one under 18 may drive a motor vehicle in a public place, except that a motorcycle with engine capacity not exceeding 50cc may be driven after attaining 16 years; a learner's licence for a motorcycle without gear to a person under 18 needs the written consent of the parent/guardian (Parivahan). Most scooters sold today exceed 50cc, so a 16-year-old cannot get a licence for them; for normal scooters/bikes the applicant must be 18 (20 for transport vehicles).
+Behaviour: Cite official source; no individual eligibility verdict beyond stating the rule; do not assume the user's scooty is under 50cc.
+Fail if: says yes for any gearless scooter at 16; says no licence at all is possible before 18; omits guardian consent.
+VERIFICATION NOTES: Unverified: Not found on public sarathi.parivahan.gov.in pages; parivahan.gov.in page does not mention 50cc (only 'without gear').
+Trap: parivahan.gov.in says 'motor cycle without gear' (no 50cc limit) while the Act says 'engine capacity not exceeding 50cc'. Bot should cite the Act text if available, else abstain + link.
+SOURCES FOUND EARLIER:
+https://indiacode.gov.in/act/2bbbcc40-38f1-4b15-ae94-646b85db4ee7/sections - s.4(1) proviso: motorcycle with engine capacity not exceeding 50cc at 16 [not-available]
+https://parivahan.gov.in/en/content/learners-license - Under 18: LL for motor cycle without gear with written consent of guardian; 18 non-transport; 20 transport [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): At 16 only a motorcycle of up to 50cc may be licensed | Normal (over 50cc) scooters need age 18 | LL for an under-18 applicant needs written parent/guardian consent
+
+=== Q-033 | P2 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes
+QUESTION: सुना है ड्राइविंग स्कूल से सर्टिफिकेट लेने पर टेस्ट नहीं देना पड़ता, सच है?
+EXPECTED ANSWER NOW:
+Answer: Partly true. It applies only to schools accredited under the Act, not to any ordinary driving school: MV Act s.12(5) (inserted 2019) says a person who has successfully completed a training module at a school/establishment accredited by a body notified by the Central Government is eligible to obtain a driving licence for that type of vehicle; under the Accredited Driver Training Centre rules such graduates are exempted from the driving test at the RTO. A certificate from an ordinary (non-accredited) licensed driving school does not exempt the test. The learner's licence is still required.
+Behaviour: State the rule with citation; correct the premise (only accredited centres); no state-specific promise.
+Fail if: says any driving school certificate removes the test; says the test can never be waived; invents a list of accredited centres.
+VERIFICATION NOTES: Unverified: Explicit 'exempt from RTO driving test' text of the ADTC rules (G.S.R. 394(E), 7 June 2021, w.e.f. 1 July 2021) not fetched from an official page; Sarathi pages carry no rule text.
+Answer premise is partly wrong; bot should qualify. Sarathi has no explanatory content on ADTC; bot likely lacks a citable source - acceptable behaviour is cautious answer + link.
+SOURCES FOUND EARLIER:
+https://indiacode.gov.in/act/2bbbcc40-38f1-4b15-ae94-646b85db4ee7/sections - s.12(5): completion of training at accredited school -> eligible to obtain DL [not-available]
+https://sarathi.parivahan.gov.in/sarathiservice/sarathiHomePublic.do?stCd=DL - Driving School Licence / DSL Enrollment services exist (no exemption text) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Test waived only for graduates of accredited driver training centres (MV Act s.12(5)) | An ordinary driving school certificate does not exempt the test | Learner's licence is still required
+
+=== Q-419 | P1 | English | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I get a driving licence?
+EXPECTED ANSWER NOW:
+Ask only what changes the answer (G09): up to two chip questions with free text beside them (learner's or permanent licence? which vehicle class / age?); never assumes age or State. Then steps on Sarathi with link and next step.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): gives the licence steps on Sarathi (learner's licence, then permanent licence)
+
+=== Q-502 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: driving licence renew kaise kare online
+EXPECTED ANSWER NOW:
+sarathi.parivahan.gov.in > select State > 'Services on Drivers License (Renewal/Duplicate/AEDL/Others)' > fill the form > Next > visit the RTO on the scheduled date with originals and fee slip; if expired over 1 year a driving test or a learner's licence may be required.
+PAGE IN THE BOT'S INDEX: https://parivahan.gov.in/en/content/faq 2026-10-08
+FACTS GRADED ON 19 OCT (a starting point, not evidence): open sarathi.parivahan.gov.in and select the State | choose 'Services on Drivers License (Renewal/Duplicate/AEDL/Others)' | fill the form and click Next | visit the RTO on the scheduled date with originals and fee slip | if expired over 1 year, a driving test or learner's licence may be required
+
+=== Q-503 | P1 | English | Current rule or circular (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How early can I renew my driving licence before it expires?
+EXPECTED ANSWER NOW:
+Within one year before or after expiry (CMV Act amendment); a commercial licence is valid 5 years from issue.
+PAGE IN THE BOT'S INDEX: https://parivahan.gov.in/en/content/faq
+FACTS GRADED ON 19 OCT (a starting point, not evidence): renewal allowed within one year before (or after) expiry
+
+=== Q-504 | P1 | English | Current rule or circular (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: Do I have to pass a test to get a learner's licence?
+EXPECTED ANSWER NOW:
+Yes - the online STALL test; sample questions are on Sarathi; report to the RTO or an authorised LL test centre.
+PAGE IN THE BOT'S INDEX: https://parivahan.gov.in/en/content/faq
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, the online STALL test | sample questions are on Sarathi | report to the RTO or an authorised LL test centre
+
+=== Q-505 | P2 | Hindi (Devanagari) | Service procedure (6.2) | expected site: sarathi.parivahan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: ड्राइविंग लाइसेंस में मोबाइल नंबर कैसे बदलें?
+EXPECTED ANSWER NOW:
+sarathi.parivahan.gov.in > select State > 'Others' menu > 'Mobile Number Update'.
+PAGE IN THE BOT'S INDEX: https://parivahan.gov.in/en/content/faq
+FACTS GRADED ON 19 OCT (a starting point, not evidence): open sarathi.parivahan.gov.in and select the State | 'Others' menu > 'Mobile Number Update'
+
+=== Q-252 | P2 | English | Scheme / fact detail (6.2) | expected site: sbmurban.org (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What are the latest Swachh Survekshan results - which city ranked first?
+EXPECTED ANSWER NOW:
+Latest edition with date from sbmurban.org.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest Swachh Survekshan edition with its date | city ranked first in that edition
+
+=== MT-12 | conversation | Hindi (Devanagari) | Student renewing an NSP scholarship (Hindi) | facts from Q-279, Q-281 | expected site: scholarships.gov.in
+USER TURNS: मेरी स्कॉलरशिप रिन्यू करनी है, आखिरी तारीख क्या है? / साइबर कैफे वाला फॉर्म भरने के 500 रुपये मांग रहा है / nsp-scholarship.online पर फॉर्म भर दूं? / फॉर्म भरने के बाद क्या होगा?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Answers directly if NSP renewal is meant (or asks one chip question: which scholarship?). Student applications open till 31-10-2026; gives the date's source and fetch date.
+Turn 2: Edge - intermediary: applying on NSP has no fee (reviewer: confirm on NSP); the student can apply herself with One Time Registration; no blame, no lecture.
+Turn 3: Edge - fake website: not official; only scholarships.gov.in; do not share Aadhaar or bank details there.
+Turn 4: What happens after: institute verification till 15-11-2026, then district/State/Ministry verification till 30-11-2026; track on NSP.

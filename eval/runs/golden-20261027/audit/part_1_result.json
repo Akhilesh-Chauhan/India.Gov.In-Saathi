@@ -1,0 +1,464 @@
+[
+ {
+  "id": "Q-183",
+  "fact": 1,
+  "issue": "manual: IMD sites were down at first check",
+  "action": "IMD city forecast page for Nasik (city.imd.gov.in, id 42921) now reads; fact reworded to what it states and set to added with quote; behaviour and fail_if written (expected answer now rebuilt)"
+ },
+ {
+  "id": "Q-183",
+  "fact": 2,
+  "issue": "only one manual fact on the forecast page",
+  "action": "added the 7-day forecast/warnings fact from the same IMD page"
+ },
+ {
+  "id": "Q-207",
+  "fact": 3,
+  "issue": "side detail: 5 added facts, over the 2-4 limit for a no-fixed-value answer",
+  "action": "trimmed (pre-litigation description not needed by a correct answer)"
+ },
+ {
+  "id": "Q-207",
+  "fact": 5,
+  "issue": "side detail: applies only to NCH Convergence partners, makes the answer stricter than the question",
+  "action": "trimmed"
+ },
+ {
+  "id": "Q-121",
+  "fact": 1,
+  "issue": "fact adds the page date (last updated 19.10.2026), which is not in the quote",
+  "action": "moved the page date to the note"
+ },
+ {
+  "id": "Q-121",
+  "fact": 4,
+  "issue": "manual: DEA OM of 30.09.2026 was a scanned PDF",
+  "action": "read by OCR; OM says Q3 FY 2026-27 rates remain unchanged from Q2; now confirmed with the OM quote (SCSS 8.2% derived from the Q2 rate, said in note)"
+ },
+ {
+  "id": "Q-125",
+  "fact": 1,
+  "issue": "fact adds the page date (last updated 19.10.2026), which is not in the quote",
+  "action": "moved the page date to the note"
+ },
+ {
+  "id": "Q-125",
+  "fact": 4,
+  "issue": "manual: DEA OM of 30.09.2026 was a scanned PDF",
+  "action": "read by OCR; OM says Q3 FY 2026-27 rates remain unchanged from Q2; now confirmed with the OM quote (KVP 7.5% (115 months) derived from the Q2 rate, said in note)"
+ },
+ {
+  "id": "Q-433",
+  "fact": 1,
+  "issue": "fact adds the page date (last updated 19.10.2026), which is not in the quote",
+  "action": "moved the page date to the note"
+ },
+ {
+  "id": "Q-433",
+  "fact": 4,
+  "issue": "manual: DEA OM of 30.09.2026 was a scanned PDF",
+  "action": "read by OCR; OM says Q3 FY 2026-27 rates remain unchanged from Q2; now confirmed with the OM quote (SCSS 8.2% derived from the Q2 rate, said in note)"
+ },
+ {
+  "id": "MT-01",
+  "fact": 7,
+  "issue": "quote shows only '(ii) Using myAadhaar portal: Free' without naming the service (Document Update), and 'address update is not free' is not in it",
+  "action": "quote replaced with the full PoA/PoI Document Update row; fact reworded to what it states (Rs 75 address fee stays in fact 5)"
+ },
+ {
+  "id": "Q-008",
+  "fact": 2,
+  "issue": "quote does not say the card is ordered on myAadhaar",
+  "action": "quote replaced with the FAQ answer naming the myAadhaar portal; fact trimmed to that"
+ },
+ {
+  "id": "Q-050",
+  "fact": 6,
+  "issue": "quote gives '31st July, 2026 or 31st August for non-audit cases' and does not say salaried = 31 July",
+  "action": "fact reworded to what the quote states; salaried = 31 July marked derived in note"
+ },
+ {
+  "id": "Q-050",
+  "fact": 14,
+  "issue": "quote is about finding the JAO's contact details, not the login step",
+  "action": "quote replaced with ITD ITR-1 help 'Step 1: Log in to the e-Filing portal using your user ID and password.'"
+ },
+ {
+  "id": "Q-050",
+  "fact": 16,
+  "issue": "quote is about re-filing after discarding a return, not the general rule",
+  "action": "quote replaced with the filing-status line of an AY 2026-27 ITR form (Notification 48/2026, ITR-5): '139(1)-On or before due date, 139(4)-After due date'"
+ },
+ {
+  "id": "Q-014",
+  "fact": 3,
+  "issue": "'so no precise location is needed' is an inference, not in the quote (locator form labels)",
+  "action": "fact reworded to what the quote shows (search by State, District, Sub-District); the no-precise-location rule stays in behaviour"
+ },
+ {
+  "id": "Q-027",
+  "fact": 1,
+  "issue": "fact adds '(or through an OCI-eligible parent of Indian origin)', not in the quote",
+  "action": "fact reworded to the quote's category"
+ },
+ {
+  "id": "Q-027",
+  "fact": 3,
+  "issue": "fact adds 'in the US, the Indian Embassy/Consulate' and 'if living in India, the jurisdictional FRRO', not in the quote",
+  "action": "fact reworded to what the quote states (applications submitted at Indian Missions/FRROs)"
+ },
+ {
+  "id": "Q-027",
+  "fact": 4,
+  "issue": "side detail (6-month stay exemption for under-12 children applying in India); quote also lacks 'with the FRRO'",
+  "action": "trimmed: a correct answer for a US-born child need not give it"
+ },
+ {
+  "id": "Q-037",
+  "fact": 2,
+  "issue": "quote states only discarding earlier tags, not completing KYC of the latest tag",
+  "action": "quote replaced with the two sentences of the NHAI release that state both"
+ },
+ {
+  "id": "Q-058",
+  "fact": 3,
+  "issue": "'(opens TRACES)' is not in the quote",
+  "action": "removed from the fact (fact 1 already says Form 26AS is on TRACES)"
+ },
+ {
+  "id": "Q-065",
+  "fact": 2,
+  "issue": "31 March 2027 is counted from the four-year rule, not stated in the quote",
+  "action": "note added saying the date is derived"
+ },
+ {
+  "id": "Q-065",
+  "fact": 3,
+  "issue": "the list of AYs (2025-26 to 2022-23) is not in the quote",
+  "action": "note added saying the list is derived"
+ },
+ {
+  "id": "Q-065",
+  "fact": 8,
+  "issue": "'so an ITR-U for AY 2022-23 filed now attracts 70%' is not in the quote",
+  "action": "note added saying it is derived"
+ },
+ {
+  "id": "Q-065",
+  "fact": 10,
+  "issue": "'from 1 March 2026' is not in the quote",
+  "action": "date removed from the fact; the 1 March 2026 commencement of the s.139 changes is now its own fact (19) with the gazette's words"
+ },
+ {
+  "id": "Q-065",
+  "fact": 12,
+  "issue": "'from 1 March 2026' is not in the quote",
+  "action": "date removed from the fact; commencement now in fact 19"
+ },
+ {
+  "id": "Q-065",
+  "fact": 13,
+  "issue": "quote lacks the 'from 1 March 2026' date the fact gives",
+  "action": "quote replaced with the s.140B(3A) insertion including 'with effect from the 1st day of March, 2026'"
+ },
+ {
+  "id": "Q-065",
+  "fact": 19,
+  "issue": "the 1 March 2026 date in facts 10 and 12 had no quote",
+  "action": "new fact added with the Finance Act 2026 clause 5 commencement words"
+ },
+ {
+  "id": "MT-14",
+  "fact": 3,
+  "issue": "'full balance' is not in the quote (the proviso only)",
+  "action": "note added naming the sub-paragraph the proviso qualifies (withdrawal of the full amount on ceasing employment)"
+ },
+ {
+  "id": "MT-14",
+  "fact": 7,
+  "issue": "'EPFO never asks members to pay' is not in the quote",
+  "action": "fact reworded to the quote (never respond to calls asking for personal details, OTP or payment)"
+ },
+ {
+  "id": "Q-072",
+  "fact": 1,
+  "issue": "'the EPFO Member Portal and UMANG are EPFO's online channels' and the para number are not in the quote",
+  "action": "quote extended to include '54. Filing of claims. — (1)'; the Member Portal/UMANG clause removed from the fact"
+ },
+ {
+  "id": "Q-072",
+  "fact": 4,
+  "issue": "para number 49(2) and 'full balance' are not in the quote (the proviso only)",
+  "action": "para number removed; note names the sub-paragraph the proviso qualifies"
+ },
+ {
+  "id": "Q-079",
+  "fact": 4,
+  "issue": "'From January 2025' and 'some transfer claims are already auto-generated' are not in the quote",
+  "action": "fact reworded to the quote"
+ },
+ {
+  "id": "Q-079",
+  "fact": 5,
+  "issue": "quote states only the automatic transfer after source-office approval, not the revamped Form 13 removing destination approval",
+  "action": "quote replaced with the Form 13 sentence; the automatic-transfer half split into new fact 10 with the old quote"
+ },
+ {
+  "id": "Q-079",
+  "fact": 8,
+  "issue": "'on the Member Portal' and '(Annexure K downloadable)' are not in the quote",
+  "action": "fact reworded to the quote"
+ },
+ {
+  "id": "Q-079",
+  "fact": 10,
+  "issue": "split from fact 5 (two claims in one fact)",
+  "action": "new fact with the original quote"
+ },
+ {
+  "id": "Q-084",
+  "fact": 3,
+  "issue": "negative fact ('no 2026 payroll release was found') a grader cannot tick; quote did not show the latest date",
+  "action": "reworded to the positive Data Hub listing with its latest date (20 Sep 2025, now in the quote); the no-2026-release point moved to note and fail_if"
+ },
+ {
+  "id": "Q-092",
+  "fact": 8,
+  "issue": "unsupported: no page found for the EPS/EDLI 2026 notification date",
+  "action": "found the 29 June 2026 Gazette notification of the EPS, 2026 (G.S.R. 527(E)); fact split: EPS here (confirmed)"
+ },
+ {
+  "id": "Q-092",
+  "fact": 10,
+  "issue": "EDLI half of old fact 8",
+  "action": "new confirmed fact: EDLI Scheme, 2026 notified 29 June 2026 (G.S.R. 526(E), egazette 273942)"
+ },
+ {
+  "id": "Q-098",
+  "fact": 1,
+  "issue": "'(needed for face authentication; no biometric device required)' is not in the quote",
+  "action": "parenthetical removed; the no-device point is new fact 6 with its own quote"
+ },
+ {
+  "id": "Q-098",
+  "fact": 3,
+  "issue": "quote states only the face scan, not the one-time operator registration or that the pensioner can be the operator",
+  "action": "quote replaced with the Step-3 passage; face-scan step split into new fact 5 with the old quote"
+ },
+ {
+  "id": "Q-098",
+  "fact": 5,
+  "issue": "split from fact 3",
+  "action": "new fact with the face-scan quote"
+ },
+ {
+  "id": "Q-098",
+  "fact": 6,
+  "issue": "no-device claim had no quote (was a parenthetical in fact 1)",
+  "action": "new fact with the manual's requirement line"
+ },
+ {
+  "id": "Q-104",
+  "fact": 1,
+  "issue": "quote states only that CPPCs handle grievances; 'processed and disbursed by the CPPC ... so the bank is the first contact' is not in it",
+  "action": "fact reworded to the quote; the processing role put in the note"
+ },
+ {
+  "id": "Q-138",
+  "fact": 6,
+  "issue": "'costs them nothing' is not in the quote (it says the Rs 50 is fully borne by EPFO)",
+  "action": "note added saying it is derived, with the PIB 2219718 'completely free of cost' wording"
+ },
+ {
+  "id": "Q-142",
+  "fact": 4,
+  "issue": "'applied by the bank' and 'above that' are not in the quote",
+  "action": "fact reworded to the quote (OD up to Rs 10,000 subject to eligibility conditions); bank-applies point marked derived in note"
+ },
+ {
+  "id": "Q-187",
+  "fact": 1,
+  "issue": "discovery question: a scheme picked as an example was a required fact",
+  "action": "\"example\": true added"
+ },
+ {
+  "id": "Q-187",
+  "fact": 2,
+  "issue": "discovery question: a scheme picked as an example was a required fact",
+  "action": "\"example\": true added"
+ },
+ {
+  "id": "Q-187",
+  "fact": 3,
+  "issue": "discovery question: a scheme picked as an example was a required fact",
+  "action": "\"example\": true added"
+ },
+ {
+  "id": "Q-197",
+  "fact": 2,
+  "issue": "'so reactivation goes through the State food department' is an inference, not in the quote",
+  "action": "fact reworded to the quote; the inference put in the note as derived"
+ },
+ {
+  "id": "Q-197",
+  "fact": 3,
+  "issue": "'biometric', 'e-PoS device' and 'outside the home State' are not in the quote",
+  "action": "fact reworded to the quote"
+ },
+ {
+  "id": "Q-235",
+  "fact": 1,
+  "issue": "'for authentication' is not in the quote",
+  "action": "removed; fact matched to the quote (print or affix on the primary packaging label)"
+ },
+ {
+  "id": "Q-270",
+  "fact": 6,
+  "issue": "quote names only the notification for adults, not children",
+  "action": "'and children' removed from the fact"
+ },
+ {
+  "id": "Q-308",
+  "fact": 9,
+  "issue": "quote names NCGTC but not the CGFMU",
+  "action": "quote extended to the sentences naming the Credit Guarantee Fund for Micro Units and NCGTC"
+ },
+ {
+  "id": "Q-340",
+  "fact": 2,
+  "issue": "'has not been restored (as of 15 Oct 2026, still on 28 Oct 2026)' is an inference, not in the quote",
+  "action": "fact reworded to what the reply states; non-restoration marked derived in the note"
+ },
+ {
+  "id": "Q-388",
+  "fact": 2,
+  "issue": "quote lacks 'Class 11-12' that the fact states",
+  "action": "quote extended to the full 'Who can apply?' list"
+ },
+ {
+  "id": "Q-486",
+  "fact": 3,
+  "issue": "'(next working day if the 27th is a holiday)' is not in the quote or on the page",
+  "action": "removed from the fact"
+ },
+ {
+  "id": "Q-399",
+  "fact": 1,
+  "issue": "'(continued from 2026-27 to 2030-31)' is not in the quote",
+  "action": "removed from the fact; continuation noted from the release title"
+ },
+ {
+  "id": "Q-345",
+  "fact": 1,
+  "issue": "fact dates the Lok Sabha reply 23 July 2026 (the page says the reply was 'on Wednesday', i.e. 22 July; 23 July is the PIB date) and '(162)' is not in the quote",
+  "action": "fact reworded to the quote with the PIB date; reply date and 162 = 81 pairs put in the note"
+ },
+ {
+  "id": "Q-345",
+  "fact": 2,
+  "issue": "train number, route and start date are not in the quote (headline)",
+  "action": "fact trimmed to the headline; the first sleeper pair split into new fact 3 with its own sentence"
+ },
+ {
+  "id": "Q-345",
+  "fact": 3,
+  "issue": "split from fact 2",
+  "action": "new fact with the release's sentence on the Howrah-Kamakhya sleeper"
+ },
+ {
+  "id": "Q-394",
+  "fact": 1,
+  "issue": "'(Ministry of New and Renewable Energy)' is not in the quote",
+  "action": "moved to the note (it is the release's ministry header)"
+ },
+ {
+  "id": "Q-394",
+  "fact": 4,
+  "issue": "stale value: '5.75% a year at present' was repo 5.25% + 0.5%; RBI raised repo to 5.50% on 7 Oct 2026 (clash with Q-152, other pack)",
+  "action": "fact reworded to the repo-linked rule in the quote (repo + 0.5%, 10 years); 5.75% put in the note with its date and the derived current 6.00%; behaviour updated"
+ },
+ {
+  "id": "Q-217",
+  "fact": 3,
+  "issue": "manual: RBI Kehta Hai page behind a bot-check",
+  "action": "resolved with an official PIB text (TRAI advisory on the digital arrest scam: 'Never transfer money in response to unsolicited demands'); status added"
+ },
+ {
+  "id": "Q-283",
+  "fact": 4,
+  "issue": "side detail of an example scheme (income limit) listed as a separate 'any one of these' example",
+  "action": "trimmed; the CBSE scheme stays as example 3 with its core criteria"
+ },
+ {
+  "id": "Q-283",
+  "fact": 5,
+  "issue": "side detail of an example scheme (amount) listed as a separate example",
+  "action": "trimmed"
+ },
+ {
+  "id": "Q-018",
+  "fact": 2,
+  "issue": "quote is about the status of Aadhaar generation (enrolment); 'update' status is not in it",
+  "action": "fact reworded to enrolment (generation) status"
+ },
+ {
+  "id": "Q-054",
+  "fact": 12,
+  "issue": "quote does not say the relief is for income just above Rs 12 lakh",
+  "action": "quote extended to the full sentence ('...for income marginally higher than Rs 12,00,000')"
+ },
+ {
+  "id": "Q-153",
+  "fact": 1,
+  "issue": "'latest as of 28 Oct 2026' is not in the quote",
+  "action": "note now says it is derived from the home page on 28 Oct 2026"
+ },
+ {
+  "id": "Q-179",
+  "fact": 3,
+  "issue": "quote lacks the land records (RoR/LPC) the fact names",
+  "action": "quote replaced with the full sentence naming RoR/LPC and the contract/agreement documents"
+ },
+ {
+  "id": "Q-187",
+  "fact": 3,
+  "issue": "'Through the Kisan Credit Card' is not in the quote; the same release also says the MISS crop-loan limit was raised from Rs 3 lakh to Rs 5 lakh",
+  "action": "fact reworded to name MISS/KCC as the release's section does; the Rs 5 lakh line and RBI's Rs 3 lakh MISS circular noted (example fact, value kept)"
+ },
+ {
+  "id": "Q-226",
+  "fact": 3,
+  "issue": "'Ministry of Women and Child Development, under Sambal' is not in the quote",
+  "action": "quote extended to the sentence naming Sambal; ministry name removed (it is the site, wcd.gov.in)"
+ },
+ {
+  "id": "Q-231",
+  "fact": 1,
+  "issue": "'through the Ayushman Vay Vandana card' is not in the quote",
+  "action": "removed from the fact; card named in the note from the same release"
+ },
+ {
+  "id": "Q-003",
+  "fact": 6,
+  "issue": "fact says the waiver was extended by one year from 1.10.2026 but the quote has only the 'till 30.09.2027' sentence",
+  "action": "quote extended to the OM sentence with the one-year extension w.e.f. 1.10.2026 (same wording as Q-002 #7)"
+ },
+ {
+  "id": "Q-121",
+  "fact": 3,
+  "issue": "negative claim ('has no Oct-Dec 2026 row yet') a grader cannot tick",
+  "action": "moved to the note"
+ },
+ {
+  "id": "Q-433",
+  "fact": 3,
+  "issue": "negative claim ('has no Oct-Dec 2026 row yet') a grader cannot tick",
+  "action": "moved to the note"
+ },
+ {
+  "id": "MT-01",
+  "fact": 6,
+  "issue": "Turn 2 gave 'up to 30 days' for the HoF route, but UIDAI's Citizen's Charter gives normally up to 60 days for it (cross-pack: Q-006 #6)",
+  "action": "fact changed to the Charter's 'normally up to 60 days' (incl. 30-day HoF acceptance) with Q-006's quote; old myAadhaar 'Up to 30 days' kept as manual fact 12 for the own-document route; turns, behaviour and fail_if rewritten"
+ }
+]

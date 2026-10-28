@@ -1,0 +1,52 @@
+{
+ "id": "Q-211",
+ "checked_at": "2026-10-28T14:03:09+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://rtionline.gov.in/faq.php",
+   "final": "https://rtionline.gov.in/faq.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:10+05:30",
+   "sha256": "dad93630d6468ab979a02aed85db001ffc4d0fef678efd2e6697a1d6fe374d5d",
+   "copy": "47a5e51340891f1d338f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://rtionline.gov.in/faq.php",
+   "final": "https://rtionline.gov.in/faq.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:10+05:30",
+   "sha256": "dad93630d6468ab979a02aed85db001ffc4d0fef678efd2e6697a1d6fe374d5d",
+   "copy": "47a5e51340891f1d338f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://rtionline.gov.in/guidelines.php?request",
+   "final": "https://rtionline.gov.in/guidelines.php?request",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:50:37+05:30",
+   "sha256": "adbac7049312a32f7b34806f292ac89031abdafe39d6b2e8afd1b200c1f2c0ca",
+   "copy": "f87c39fd0868aac8f69b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

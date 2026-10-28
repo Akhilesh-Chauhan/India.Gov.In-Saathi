@@ -1,0 +1,44 @@
+{
+ "id": "Q-089",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Employees earning up to Rs 21,000 per month are covered under ESI (limit effective from 01.01.2017)",
+   "status": "confirmed",
+   "url": "https://www.esic.gov.in/coverage",
+   "quote": "The existing wage limit for coverage under the Act, effective from 01.01.2017, is Rs.21,000/- per month (Rs.25,000/- per month in the case of Persons with Disability)."
+  },
+  {
+   "fact": "For persons with disability the limit is Rs 25,000 per month",
+   "status": "confirmed",
+   "url": "https://www.esic.gov.in/coverage",
+   "quote": "is Rs.21,000/- per month (Rs.25,000/- per month in the case of Persons with Disability)."
+  },
+  {
+   "fact": "Under the Code on Social Security (from 21.11.2025) the Code's wage definition applies, and the Rs 21,000 per month limit notified for ESI coverage continues to apply (MoLE FAQs as on 16.03.2026)",
+   "status": "confirmed",
+   "url": "https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf",
+   "quote": "the CoSS, 2020 shall apply. At present, Rs 21,000 per"
+  },
+  {
+   "fact": "Contribution rates: employee 0.75% and employer 3.25% of wages (w.e.f. 01.07.2019)",
+   "status": "confirmed",
+   "url": "https://www.esic.gov.in/contribution",
+   "quote": "Currently, the employee's contribution rate (w.e.f. 01.07.2019) is 0.75% of the wages and that of employer's is 3.25% of the wages paid/payable in respect of the employees in every wage period."
+  },
+  {
+   "fact": "Employees with an average daily wage up to Rs 176 do not pay their share",
+   "status": "confirmed",
+   "url": "https://www.esic.gov.in/contribution",
+   "quote": "Employees in receipt of a daily average wage upto Rs.176/- are exempted from payment of contribution."
+  },
+  {
+   "fact": "The ESI wage ceiling was last revised w.e.f. 01.01.2017, from Rs 15,000 to Rs 21,000 per month; no later revision has been notified",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149347",
+   "quote": "The last revision in the wage ceiling for coverage under ESI Act, 1948 was done w.e.f. 01.01.2017, wherein the wage limit was raised from Rs. 15,000/- per month to Rs. 21,000/- per month.",
+   "note": "Searched esic.gov.in, labour.gov.in, pib.gov.in and the Cabinet release of Sept 2026 on 28 Oct 2026 (expected answer said as of 15 Oct 2026): no notification revising the ESI ceiling found."
+  }
+ ],
+ "summary": "ESIC ceiling still Rs 21,000 (Rs 25,000 PwD); MoLE FAQ 16.03.2026 confirms it continues under the Code; no revision found on esic.gov.in, pib.gov.in or labour.gov.in as of 28 Oct 2026; all confirmed."
+}

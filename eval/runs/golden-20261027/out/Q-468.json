@@ -1,0 +1,13 @@
+{
+ "id": "Q-468",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A new PAN is applied for in Form No. 93, 94, 95 or 96 under Rule 158 of the Income-tax Rules 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "quote": "An application under section 262 for allotment of a Permanent Account Number shall be made in Form No. 93, Form No. 94, Form No. 95 and Form No. 96, as the case maybe, in accordance with sub-rule (8)."},
+  {"fact": "A person with an Aadhaar number can get a PAN allotted by intimating the Aadhaar number (Aadhaar-based allotment)", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf",
+   "quote": "Any person, who has not been allotted a Permanent Account Number, but possesses the Aadhaar number may apply for allotment of the Permanent Account Number under section 262(1) or (2) or (11) to the authorities mentioned in sub-rule (4) by intimating his Aadhaar number."}
+ ],
+ "summary": "Rule 158 Forms 93-96 and Aadhaar-based PAN allotment confirmed on the notified Income-tax Rules 2026 PDF."
+}

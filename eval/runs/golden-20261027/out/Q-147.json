@@ -1,0 +1,67 @@
+{
+ "id": "Q-147",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "No: a person who has completed 40 cannot join APY; only those aged 18 years to 39 years 364 days can join",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/atal-pension-yojana",
+   "quote": "If I have completed 40 years, can I join Atal Pension Yojana? No, currently a person who is in age group of 18 years to 39 years 364 days can join Atal Pension Yojana."
+  },
+  {
+   "fact": "From 1 October 2022, anyone who is or has been an income-tax payer cannot join APY",
+   "status": "confirmed",
+   "url": "https://npstrust.org.in/apy-eligibility",
+   "quote": "Provided that from 1st October,2022, any citizen who is or has been an income-tax payer, is not eligible to join APY."
+  },
+  {
+   "fact": "A savings account with a bank or post office is required",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/atal-pension-yojana",
+   "quote": "He / She should have a savings bank account/ post office savings bank account"
+  },
+  {
+   "fact": "Only one APY account per person",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/atal-pension-yojana",
+   "quote": "A subscriber can open only one APY account. Multiple APY accounts are not permitted."
+  },
+  {
+   "fact": "APY gives a guaranteed minimum pension of Rs 1,000 to Rs 5,000 a month from age 60",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216727",
+   "quote": "APY offers a guaranteed minimum pension of Rs.1,000 to Rs.5,000 per month starting at age 60, based on contributions."
+  },
+  {
+   "fact": "The pension then goes to the spouse, and after both, the corpus is returned to the nominee",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "The monthly pension is available to the subscriber, and after him to his spouse and after their death, the pension corpus, as accumulated at age 60 of the subscriber, would be returned to the nominee of the subscriber."
+  },
+  {
+   "fact": "On 21 January 2026 the Union Cabinet approved continuing APY up to FY 2030-31, with funding for promotional/developmental activities and gap funding",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216727",
+   "quote": "today approved the continuation of Atal Pension Yojana (APY) up to FY 2030-31 along with extension of funding support for promotional and developmental activities and gap funding."
+  },
+  {
+   "fact": "A person over 40 can consider NPS (All Citizen model), open to citizens aged 18 to 85",
+   "status": "confirmed",
+   "url": "https://npstrust.org.in/eligibility",
+   "quote": "You should be between 18 and 85 years of age as on the date of submission of your application to the PoP / PoP-SP, or online through e-NPS."
+  },
+  {
+   "fact": "NPS has no guaranteed pension: there is no assurance of benefit and returns are market-linked",
+   "status": "confirmed",
+   "url": "https://npstrust.org.in/sites/default/files/inline-images/05-All-Citz-Mdl-Faq.pdf",
+   "quote": "Under NPS, there is no implicit or explicit assurance of benefit and the investments are subject to market"
+  },
+  {
+   "fact": "APY is open to bank account holders aged 18 to 40 who are not income-tax payers (PIB, 9 May 2026)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "APY is open to all bank account holders in the age group of 18 to 40 years who are not income tax payers"
+  }
+ ],
+ "summary": "DFS APY FAQ, NPS Trust and PIB (21.01.2026, 09.05.2026) still confirm 18-40 entry, income-tax-payer bar from 1.10.2022, Rs 1,000-5,000 pension, APY continued to 2030-31, NPS 18-85; all confirmed."
+}

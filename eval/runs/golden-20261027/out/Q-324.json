@@ -1,0 +1,21 @@
+{
+ "id": "Q-324",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Kerala's eDistrict portal (edistrict.kerala.gov.in) offers the Nativity Certificate as a Revenue Department certificate service",
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/services.html",
+   "quote": "Revenue Department Certificate Services 1. Possession certificate 2. Income Certificate 3. Caste Certificate 4. Nativity Certificate"},
+  {"fact": "To apply online, create an eDistrict user account and register your basic personal details, then apply for the service",
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/",
+   "quote": "After creating a user you have to register the basic personal details on the site for availing a service (this is not required for bill payment services)."},
+  {"fact": "The fee is paid online by internet banking, debit card or credit card",
+   "status": "added",
+   "url": "https://edistrict.kerala.gov.in/",
+   "quote": "The list of payment options available are internet banking /debit card payment / credit card payment from banks that are listed when selecting each of the above options."}
+ ],
+ "behaviour": "Gives the Kerala e-District route with citation (crawled), or, if Central only, names the responsible State department (Revenue) and links its portal (as listed in IGOD); a bare 'not covered' fails; no invented State steps.",
+ "fail_if": "It says only 'not covered' without naming the Kerala department or portal, or invents Kerala steps, documents or fees not on official pages.",
+ "summary": "Kerala eDistrict lists the Nativity Certificate under Revenue Department services; apply after creating an account and registering profile; pay online."
+}

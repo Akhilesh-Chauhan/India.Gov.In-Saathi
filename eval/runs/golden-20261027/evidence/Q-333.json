@@ -1,0 +1,67 @@
+{
+ "id": "Q-333",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "final": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "f874eeb4f4e6c1a3e50340c31ac76815d72a8777cc08c5ac4845701006fcc8fc",
+   "copy": "eb1a9632addbc2d476d3.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "final": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "f874eeb4f4e6c1a3e50340c31ac76815d72a8777cc08c5ac4845701006fcc8fc",
+   "copy": "eb1a9632addbc2d476d3.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "final": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "f874eeb4f4e6c1a3e50340c31ac76815d72a8777cc08c5ac4845701006fcc8fc",
+   "copy": "eb1a9632addbc2d476d3.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "final": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "f874eeb4f4e6c1a3e50340c31ac76815d72a8777cc08c5ac4845701006fcc8fc",
+   "copy": "eb1a9632addbc2d476d3.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

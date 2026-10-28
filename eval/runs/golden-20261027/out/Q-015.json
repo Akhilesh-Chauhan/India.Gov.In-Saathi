@@ -1,0 +1,22 @@
+{
+ "id": "Q-015",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "UIDAI's Aadhaar Dashboard shows 145.32 crore Aadhaar numbers generated",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "quote": "Aadhaar Generated 145.32 Cr Authentications Done 18,563.58 Cr",
+   "note": "The same figure appears on the Enrolment Dashboard ('Total Aadhaar Generated 145.32 Cr') and the uidai.gov.in home page ('145.32 Crore Cr + Aadhaar Enrolments'). It is a running total and will change."
+  },
+  {
+   "fact": "The Aadhaar Dashboard page shows 'Last Updated: 28 Sep 2026'",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-dashboard",
+   "quote": "Published on : 11 May 2026 Last Updated : 28 Sep 2026"
+  }
+ ],
+ "behaviour": "Gives the 'Aadhaar Generated' figure only as shown on the cited uidai.gov.in Aadhaar Dashboard, with the date the page shows (or says the figure is as shown on the dashboard on the day it was read); a different figure is acceptable if the cited dashboard showed it that day; otherwise says the figure was not found.",
+ "fail_if": "Gives a figure without citing a uidai.gov.in page, or an old figure from news or other sites presented as UIDAI's latest.",
+ "summary": "UIDAI Aadhaar Dashboard shows 145.32 Cr Aadhaar generated (page last updated 28 Sep 2026; no separate as-on date for the figure)."
+}

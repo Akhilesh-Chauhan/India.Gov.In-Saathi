@@ -1,0 +1,37 @@
+{
+ "id": "Q-317",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://dashboard.msme.gov.in/Udyam_Statewise.aspx",
+   "final": "https://dashboard.msme.gov.in/Udyam_Statewise.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:53+05:30",
+   "sha256": "8dc8d9aec1e0e10f85b975f8588e7935b017db6e7b01c42e40535f4729f414d0",
+   "copy": "7b186ef581a2af4e6c41.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://dashboard.msme.gov.in/",
+   "final": "https://dashboard.msme.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:11:33+05:30",
+   "sha256": "113f2d1938655e9208173e181868e14fc0b68928e2576da65ce8fb894c5a7ee3",
+   "copy": "f84530e8bd9e345c4683.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

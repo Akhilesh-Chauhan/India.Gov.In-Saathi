@@ -1,0 +1,16 @@
+{
+ "id": "Q-466",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Aadhaar holders above 15 years are recommended to update their biometric data every 10 years",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+   "quote": "Age >15 years at the time of enrolment – Aadhaar number holders are recommended to update their biometric data every 10 years."},
+  {"fact": "This is a UIDAI recommendation, not a mandatory deadline",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+   "quote": "Aadhaar number holders are recommended to update their biometric data every 10 years.",
+   "note": "The page words it as a recommendation ('are recommended'); no UIDAI page found that makes a 10-year adult biometric update mandatory."}
+ ],
+ "summary": "UIDAI 'Updating data on Aadhaar' still recommends adults (enrolled above 15) update biometrics every 10 years; worded as a recommendation."
+}

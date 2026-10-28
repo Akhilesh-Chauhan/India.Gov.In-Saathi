@@ -1,0 +1,14 @@
+{
+ "id": "Q-503",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A driving licence can be renewed within one year before (or after) its expiry, as per the amended CMV Act",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "When should I apply for Renewal of Driving License? As per the latest amendment of CMV Act, renewal of a driving License could be done within one year prior to or after the expiry of the Driving License."},
+  {"fact": "A commercial (transport) driving licence is valid for 5 years from the date of issue",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "What will be the validity of Public Service Vehicle badge? commercial Driving license is valid for 5 years from the date of issue.",
+   "note": "MV Act s.14(2)(a) (indiacode consolidated text) also says a transport-vehicle licence is effective for five years."}
+ ],
+ "summary": "One-year-before/after renewal window and 5-year commercial licence validity confirmed on the Parivahan FAQ; expected answer unchanged."
+}

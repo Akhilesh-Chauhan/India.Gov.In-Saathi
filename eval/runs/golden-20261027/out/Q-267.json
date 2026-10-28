@@ -1,0 +1,28 @@
+{
+ "id": "Q-267",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Transgender certificates and ID cards are issued through the National Portal for Transgender Persons (transgender.dosje.gov.in)",
+   "status": "added",
+   "url": "https://socialjustice.gov.in/common/47564",
+   "quote": "The National Portal for Transgender Persons was launched on 25th November, 2020. ( https://transgender.dosje.gov.in ). The Portal is accessible in multiple languages (English, Hindi, Gujarati, Malayalam and Bengali). The portal was launched to issue Transgender certificates and ID cards to eligible Transgender persons."
+  },
+  {
+   "fact": "The process is end-to-end online: the applicant applies and downloads the certificate after issue without visiting any office",
+   "status": "added",
+   "url": "https://socialjustice.gov.in/common/47564",
+   "quote": "This is an end-to-end online process where the applicant can apply for the TG certificate and also download the certificate after issue without any requirement to go to any office of issue."
+  },
+  {
+   "fact": "The District Magistrate issues the certificate of identity as a transgender person (Transgender Persons (Protection of Rights) Act, 2019, section 6)",
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/TG%20bill%20gazette.pdf",
+   "quote": "6. (1) The District Magistrate shall issue to the applicant under section 5, a certificate",
+   "note": "A Bill to amend the 2019 Act (Bill No. 79 of 2026, introduced in Lok Sabha on 13 March 2026, egazette.gov.in/WriteReadData/2026/270935.pdf) would change section 6; its enactment could not be checked (search budget used up), so the Act as in force is quoted. Second reader (28 Oct 2026): per PRS (not an official site) the Amendment Bill passed both Houses on 24-25 Mar 2026; its section 6 text still has the District Magistrate issue the certificate, now after examining a medical authority's recommendation, so this fact holds either way; the enacted text was not found on egazette/PIB."
+  }
+ ],
+ "behaviour": "Explains the online process on the National Portal for Transgender Persons as linked from socialjustice.gov.in, with citation.",
+ "fail_if": "Describes an offline-only process or invents fees, documents or timelines not on the official pages.",
+ "summary": "socialjustice.gov.in: apply and download the TG certificate/ID card fully online on the National Portal; the District Magistrate issues it (Act s.6). Portal itself unreachable from the checker."
+}

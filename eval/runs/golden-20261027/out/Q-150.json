@@ -1,0 +1,21 @@
+{
+ "id": "Q-150",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "On a genuine Rs 500 note the windowed security thread changes colour from green to blue when the note is tilted",
+   "status": "added", "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "quote": "Windowed security thread changes colour from green to blue when note is tilted"},
+  {"fact": "The numeral 500 with the Rupee symbol at bottom right is in colour-changing ink (green to blue)",
+   "status": "added", "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "quote": "Denomination in numerals with Rupee Symbol in colour changing ink (green to blue) on bottom right"},
+  {"fact": "It has Mahatma Gandhi portrait and electrotype (500) watermarks",
+   "status": "added", "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "quote": "Mahatma Gandhi's portrait and electrotype (500) watermarks"},
+  {"fact": "It has a see-through register of the numeral 500",
+   "status": "added", "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "quote": "See through register in denominational numeral"}
+ ],
+ "behaviour": "Lists the security features of the Rs 500 note as published by RBI (Know your Banknotes / paisaboltahai.rbi.org.in), citing RBI.",
+ "fail_if": "It gives features not on RBI's page, or cites no RBI source.",
+ "summary": "RBI's Know your Banknotes page for the Rs 500 (Mahatma Gandhi New Series): colour-shifting thread and numeral, watermarks, see-through register."
+}

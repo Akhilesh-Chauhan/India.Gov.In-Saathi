@@ -1,0 +1,37 @@
+{
+ "id": "MT-02",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The mobile number can be updated at an Aadhaar Enrolment Centre or through the postman, with no document or old mobile number needed",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "You can update your mobile number in Aadhaar by visiting any of the Aadhaar Enrolment Centre or through postman, for which no document or old mobile number is required."
+  },
+  {
+   "fact": "India Post Payments Bank's doorstep banking service lists 'Mobile number update in AADHAAR'",
+   "status": "confirmed",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "quote": "Third-party Services Life Insurance General Insurance Mutual Funds Financial Services Mobile number update in AADHAAR Digital Life Certificate Generation"
+  },
+  {
+   "fact": "The Aadhaar app also offers Mobile Number Update",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Presently, the Aadhaar app offers various services like - Mobile Number Update, Address Update, Biometric lock/unlock, Selective Sharing of Aadhaar Verifiable Credential, check Authentication History, download e-Aadhaar, share Contact Card, Track my request, etc."
+  },
+  {
+   "fact": "The official fee for a mobile number update done separately is Rs 75",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"
+  },
+  {
+   "fact": "UIDAI's official centre locator is the Bhuvan Aadhaar portal",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "You can update your mobile number by visiting any Aadhaar Enrolment centre. Aadhaar Enrolment centre can be located by visiting at Bhuvan portal: https://bhuvan-app3.nrsc.gov.in/aadhaar/"
+  }
+ ],
+ "summary": "Turn facts confirmed on UIDAI pages: centre/postman (IPPB doorstep)/Aadhaar app channels, no document or old number, Rs 75 fee, Bhuvan Aadhaar locator."
+}

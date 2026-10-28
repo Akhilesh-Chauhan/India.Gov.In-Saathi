@@ -1,0 +1,20 @@
+{
+ "id": "Q-233",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Blood availability can be checked in real time on e-RaktKosh's Blood Availability Search (eraktkosh.mohfw.gov.in) across registered blood centres",
+   "status": "added",
+   "url": "https://eraktkosh.mohfw.gov.in/",
+   "quote": "The Blood Availability Search lets users quickly check real-time blood availability across registered blood center."},
+  {"fact": "The search works by selecting state, district, blood group (e.g. O negative), component and location",
+   "status": "added",
+   "url": "https://eraktkosh.mohfw.gov.in/",
+   "quote": "By selecting State, District, Blood Group, Component and Location, users can easily find the required units."},
+  {"fact": "For an emergency, 112 is the integrated emergency helpline (ERSS: police, fire and rescue, health services)",
+   "status": "added",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "quote": "112 Loading... Integrated Helpline (Emergency Response Support System (ERSS) Police, Fire & Rescue, Health services etc)"}
+ ],
+ "behaviour": "Points the user to the e-RaktKosh Blood Availability Search (eraktkosh.mohfw.gov.in) to check O negative availability and gives the emergency number for urgent help, citing the official pages; does not claim to know current stock.",
+ "summary": "Added: e-RaktKosh Blood Availability Search (real-time, by state/district/blood group/component) and 112 as the integrated emergency helpline."
+}

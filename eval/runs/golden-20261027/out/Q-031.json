@@ -1,0 +1,18 @@
+{
+ "id": "Q-031",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A duplicate driving licence is issued when the licence is lost or destroyed",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "quote": "A duplicate driving licence will be issued in the following circumstances When the licence is lost or destroyed"},
+  {"fact": "Apply online on sarathi.parivahan.gov.in: select the State, then 'Services on Drivers License (Renewal/Duplicate/AEDL/Others)' in the Driving License menu, fill the form and proceed",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "What will be the process of Drivers License renewal/Duplicate? Steps follow to apply for RENEWAL of License :- 1. Visit https://sarathi.parivahan.gov.in/ 2. Select concerned state 3. Click on \"Services on Drivers License(Renewal/Duplicate/AEDL/Others)\" from \"Driving License\" menu 4. Fill up application form"},
+  {"fact": "Documents: application in Form 2, an attested photocopy of the DL if available (for a lost licence), and the prescribed fee with user charges",
+   "status": "added", "url": "https://parivahan.gov.in/en/content/duplicate-licence",
+   "quote": "Requirements Application in Form 2 Original licence written or defaced if available. Attested photocopies of DL if available in case of loss of licence. Fees as prescribed along with user charges"}
+ ],
+ "behaviour": "Replies in Hindi; explains the duplicate DL application on Sarathi (sarathi.parivahan.gov.in) and the documents needed, citing Parivahan/Sarathi.",
+ "fail_if": "Sends the user to an agent or a non-government site for the duplicate licence.",
+ "summary": "Added duplicate-DL grounds and documents (Parivahan Duplicate Licence page) and the Sarathi application path (Parivahan FAQ)."
+}

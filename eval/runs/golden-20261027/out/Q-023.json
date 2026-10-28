@@ -1,0 +1,33 @@
+{
+ "id": "Q-023",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Ask the recruiting agent to show the original Registration Certificate issued by the Protector General of Emigrants (MEA)",
+   "status": "added",
+   "url": "https://www.mea.gov.in/guide-to-consular-services-menu",
+   "quote": "Ask him to show his Original Registration Certificate issued by the Protector General of Emigrants, Govt. of India."
+  },
+  {
+   "fact": "The agent's registration can be checked on MEA's eMigrate portal (emigrate.gov.in) through 'Find Recruiting Agent'",
+   "status": "added",
+   "url": "https://emigrate.gov.in/",
+   "quote": "Quick Links Recruiting agent registration Find Recruiting Agent Details of PDOT Centers"
+  },
+  {
+   "fact": "If in doubt, check with an office of the Protector of Emigrants (POE) or the Protector General of Emigrants (PGE)",
+   "status": "added",
+   "url": "https://www.mea.gov.in/guide-to-consular-services-menu",
+   "quote": "In case of doubt, check with any of the offices of the Protector of Emigrants (POEs) or the Protector General of Emigrants (PGE)."
+  },
+  {
+   "fact": "Do not deal with sub-agents: they are not permitted under the Emigration Act, 1983",
+   "status": "added",
+   "url": "https://www.mea.gov.in/guide-to-consular-services-menu",
+   "quote": "Do not deal with sub-agents as they are not permitted under the Emigration Act, 1983 and Rules."
+  }
+ ],
+ "behaviour": "Uses only MEA guidance (mea.gov.in / emigrate.gov.in) on registered recruiting agents and emigration; warns about illegal agents and sub-agents; no third-party sites.",
+ "fail_if": "Cites third-party or private recruitment sites; says any agent can be trusted without checking registration; gives invented helplines.",
+ "summary": "Added MEA guidance: check the agent's PGE registration certificate and on eMigrate, ask POE/PGE if in doubt, avoid sub-agents."
+}

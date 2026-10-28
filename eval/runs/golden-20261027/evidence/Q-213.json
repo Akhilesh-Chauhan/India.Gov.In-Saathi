@@ -1,0 +1,82 @@
+{
+ "id": "Q-213",
+ "checked_at": "2026-10-28T14:03:09+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "final": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:15+05:30",
+   "sha256": "8d73989088febe131299d4b9a2f17b83002a576fab15084882c8f30d3424bc20",
+   "copy": "badc2062ef76f2d3208c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "final": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:15+05:30",
+   "sha256": "8d73989088febe131299d4b9a2f17b83002a576fab15084882c8f30d3424bc20",
+   "copy": "badc2062ef76f2d3208c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "final": "https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:15+05:30",
+   "sha256": "8d73989088febe131299d4b9a2f17b83002a576fab15084882c8f30d3424bc20",
+   "copy": "badc2062ef76f2d3208c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "final": "https://rtionline.gov.in/faq.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:10+05:30",
+   "sha256": "dad93630d6468ab979a02aed85db001ffc4d0fef678efd2e6697a1d6fe374d5d",
+   "copy": "47a5e51340891f1d338f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://rtionline.gov.in/faq.php",
+   "final": "https://rtionline.gov.in/faq.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:10+05:30",
+   "sha256": "dad93630d6468ab979a02aed85db001ffc4d0fef678efd2e6697a1d6fe374d5d",
+   "copy": "47a5e51340891f1d338f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

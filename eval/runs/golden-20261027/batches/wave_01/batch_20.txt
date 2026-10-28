@@ -1,0 +1,185 @@
+=== Q-424 | P0 | English | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: For my constituency meeting: how much does each PM-Kisan beneficiary get per year and when was the last instalment released?
+EXPECTED ANSWER NOW:
+Rs 6,000 a year in three equal instalments of Rs 2,000; the latest is the 23rd instalment, released on 20 June 2026 (still latest as of 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 6,000 a year in three equal instalments of Rs 2,000 | latest (23rd) instalment released on 20 June 2026
+
+=== Q-425 | P0 | English | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Annual benefit under PM-KISAN, number of instalments released to date, and date of the latest release, with source.
+EXPECTED ANSWER NOW:
+Rs 6,000 a year in three equal instalments of Rs 2,000; the latest is the 23rd instalment, released on 20 June 2026 (still latest as of 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 6,000 a year in three equal instalments of Rs 2,000 | 23 instalments released to date (latest is the 23rd) | latest release on 20 June 2026
+
+=== Q-476 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Stable fact, not re-verified - reviewer confirm; Indexed chunk is outdated - golden follows the current official position
+QUESTION: पीएम किसान में कितना पैसा मिलता है और कितनी किस्तों में?
+EXPECTED ANSWER NOW:
+Rs 6,000 a year per family in three equal instalments (every four months). Must NOT say the scheme is limited to 2 hectares - the original 2019 guideline in the index says so, but the revised scheme covers all landholding farmer families subject to exclusions (precedence: revised guidelines, G05).
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 6,000 a year per farmer family | paid in three equal instalments
+
+=== Q-477 | P0 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Stable fact, not re-verified - reviewer confirm; Indexed chunk is outdated - golden follows the current official position
+QUESTION: mere paas 4 hectare zameen hai, pm kisan sirf 2 hectare walon ke liye hai na?
+EXPECTED ANSWER NOW:
+Corrects the user: the 2-hectare limit was in the original guideline; the revised PM-KISAN covers all landholding farmer families regardless of holding size, subject to the exclusion criteria (no eligibility verdict). Cites the revised guidelines, not only the original.
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): corrects the user: the 2-hectare limit was only in the original guideline | revised scheme covers all landholding farmer families regardless of size | coverage is subject to the exclusion criteria
+
+=== Q-478 | P1 | English | Current rule or circular (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Indexed chunk is outdated - golden follows the current official position
+QUESTION: Is Aadhaar mandatory for getting PM-KISAN money?
+EXPECTED ANSWER NOW:
+Yes, Aadhaar is mandatory (it was optional only for the 1st instalment); the exemption for Assam, Meghalaya and J&K ended on 31.03.2020 and must not be presented as current. eKYC is also required (portal).
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/RevisedFAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, Aadhaar is mandatory for PM-KISAN payments | Aadhaar was optional only for the 1st instalment | the Assam, Meghalaya and J&K exemption ended on 31.03.2020 | eKYC is also required
+
+=== Q-479 | P0 | English | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How much pension does a farmer get under PM Kisan Maan-Dhan Yojana and how much does he have to contribute?
+EXPECTED ANSWER NOW:
+PM-KMY (a separate, contributory pension scheme): Rs 3,000 per month from age 60; the farmer contributes Rs 55 to Rs 200 per month until 60 and the Centre contributes an equal amount; entry age 18-40; for small and marginal farmers. Must not mix it with PM-KISAN's Rs 6,000 a year.
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/PM-KMY%20-%20Salient%20Features.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): pension of Rs 3,000 per month from age 60 | farmer contributes Rs 55 to Rs 200 per month until 60 | the Centre contributes an equal amount
+
+=== Q-480 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: pm kisan me budhape me pension kitni milti hai
+EXPECTED ANSWER NOW:
+Distinguishes the schemes: PM-KISAN is income support (Rs 6,000 a year, non-contributory), not a pension; the farmer pension is PM-KMY (Rs 3,000 a month at 60, contributory, join at 18-40). Fail if it says PM-KISAN pays a pension or gives Rs 3,000 as PM-KISAN's amount.
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/PM-KMY%20-%20Salient%20Features.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PM-KISAN is income support (Rs 6,000 a year, non-contributory), not a pension | the farmer pension is PM-KMY: Rs 3,000 a month from age 60 | PM-KMY is contributory | PM-KMY entry age 18 to 40
+
+=== Q-481 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmkisan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: मेरे नाम पर जमीन नहीं है, पिता के नाम पर है, क्या मुझे पीएम किसान मिलेगा?
+EXPECTED ANSWER NOW:
+Landholding in one's own name per State land records is the criterion; without it the person is not covered (published criteria, no personal verdict; the Department decides). Check the citation is the right scheme's document - the developer notes this text sits in the PM-KMY FAQ.
+PAGE IN THE BOT'S INDEX: https://pmkisan.gov.in/Documents/PM-KMY%20-%20FAQs.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): criterion is landholding in one's own name per State land records | without land in one's own name the person is not covered
+
+=== Q-189 | P2 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: pmmsy.dof.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: machhli palan ke liye sarkar se kitni subsidy milti hai
+EXPECTED ANSWER NOW:
+Answer: Under PMMSY, beneficiary-oriented (individual/group) projects get government financial assistance (Centre plus State/UT) of 40% of the project/unit cost for the general category, with the beneficiary paying 60%. For women / SC / ST beneficiaries the assistance is 60%, with the beneficiary paying 40%. In Union Territories the full government share comes from the Centre. The eligible project cost is capped at the unit cost in the PMMSY operational guidelines, and land cost is not funded. The applicant must be 18-60 years old, may get benefit for only one project, and must submit a DPR/self-contained proposal to the District Fisheries Office. Lease land needs a registered lease (10 years for infrastructure, 7 years otherwise). PMMSY ran FY 2020-21 to 2024-25 and was extended to 2025-26 (PIB); Budget 2026-27 allocates funds to PMMSY.
+Behaviour: rates cited to pmmsy.dof.gov.in FAQ; no eligibility verdict; points to the District Fisheries Office.
+Fail if: swaps the 40%/60% rates; says 100% subsidy; leaves out the women category from the 60% rate; quotes State-scheme rates as PMMSY rates.
+VERIFICATION NOTES: Unverified: Not confirmed: whether PMMSY has been formally extended or restructured for FY 2026-27. A DD News report on the Budget 2026-27 allocation was not opened.
+The pmmsy FAQ still says the duration is 2020-21 to 2024-25, which is stale.
+SOURCES FOUND EARLIER:
+https://pmmsy.dof.gov.in/assets/documents/farmers-corner/FAQ%20for%20Farmers.pdf - Q3 funding pattern 40%/60% general, 60%/40% women/SC/ST; age 18-60; one project; DPR to District Fisheries Office; unit cost cap; no land; lease terms [crawled]
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202599631401.pdf - PMMSY extended up to 2025-26 (search snippet only; not opened) [subdomain-of-crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PMMSY: 40% of project/unit cost for general category | 60% for women/SC/ST beneficiaries
+
+=== Q-256 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmmvy.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: प्रधानमंत्री मातृ वंदना योजना में कितने पैसे मिलते हैं?
+EXPECTED ANSWER NOW:
+Answer: Under Pradhan Mantri Matru Vandana Yojana (PMMVY 2.0, under Mission Shakti). First child: Rs 5,000 in two instalments. Rs 3,000 is paid on registration of pregnancy plus ANC within 6 months of LMP (the Mission Shakti guidelines say at least one ANC; the portal FAQ table says at least two). Rs 2,000 is paid after the child's birth is registered and the child completes the first cycle of immunisation (14 weeks). Second child: Rs 6,000 in a single instalment after birth, only if the second child is a girl (from 01-04-2022). The beneficiary can also get Janani Suraksha Yojana cash after an institutional delivery. Eligible women include SC/ST women, women with 40% or more disability, BPL ration card holders, PM-JAY beneficiaries, e-Shram card holders, PM-KISAN women farmers, MGNREGA job card holders, NFSA ration card holders, families with net income below Rs 8 lakh a year, and pregnant/lactating AWWs/AWHs/ASHAs. Husband's Aadhaar is not required.
+Behaviour: Gives amounts and instalment conditions with citation. Does not decide eligibility for the user. Directs to the Anganwadi/ASHA or pmmvy.wcd.gov.in.
+Fail if: says Rs 6,000 for the first child (that conflates PMMVY Rs 5,000 + JSY); says Rs 5,000 in three instalments (old 1,000/2,000/2,000 pattern before PMMVY 2.0); says the second child gets money regardless of sex; omits the girl-child condition.
+VERIFICATION NOTES: Unverified: Mission Shakti guidelines cover 2021-22 to 2025-26. Not checked whether new guidelines for 2026-27 onward changed anything.
+Conflict: the FAQ table says 'at least two ANC' for the 1st instalment, while the guideline says 'at least one ANC'. The guideline application form also shows '2nd Instalment Rs 3000', which looks like a typo. The golden avoids the ANC count or notes both.
+SOURCES FOUND EARLIER:
+https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions - Q2, Q3, Q5, Q8, Q9, Q32: Rs 5,000 (3,000 + 2,000) first child; Rs 6,000 second girl child single instalment; eligibility list; JSY additional [crawled]
+https://pmmvy.wcd.gov.in/WebsiteContent/assets/pdf/Mission%20Shakti%20Guidelines%202021-22%20to%202025-26.pdf - First instalment Rs 3,000 on registration and at least one ANC; income < Rs 8 lakh criterion [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): first child: Rs 5,000 in two instalments | Rs 3,000 after pregnancy registration and ANC | Rs 2,000 after birth registration and first immunisation cycle (14 weeks) | second child: Rs 6,000 in one instalment, only if a girl
+
+=== Q-257 | P1 | English | Service procedure (6.2) | expected site: pmmvy.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Can I apply for PMMVY online by myself?
+EXPECTED ANSWER NOW:
+Application channels per PMMVY portal, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): states PMMVY application channels per the PMMVY portal, incl. applying online herself
+
+=== Q-249 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pmsvanidhi.mohua.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: रेहड़ी-पटरी वालों के लिए कौन सी लोन योजना है? कितना लोन मिलता है?
+EXPECTED ANSWER NOW:
+Answer: The scheme is PM SVANidhi (PM Street Vendor's AtmaNirbhar Nidhi), from the Ministry of Housing and Urban Affairs, launched 1 June 2020. It was restructured with Cabinet approval on 27-08-2025, and lending is extended until 31 March 2030. It gives collateral-free working-capital loans in three tranches. The 1st tranche is up to Rs 15,000 (earlier Rs 10,000). The 2nd is up to Rs 25,000 (earlier Rs 20,000) and the 3rd is up to Rs 50,000 (unchanged). Each next tranche comes after repaying the previous one. Other benefits: interest subsidy on timely/early repayment (7% per the portal FAQ); credit-guarantee support; a UPI-linked RuPay credit card with limit up to Rs 30,000 for vendors who have repaid the 2nd tranche (the operating limit starts at Rs 10,000); digital-transaction cashback of up to Rs 1,600. Coverage now includes Census Towns and peri-urban areas in a graded manner. The scheme applies in States/UTs that have notified rules under the Street Vendors Act, 2014. Apply online on pmsvanidhi.mohua.gov.in (Aadhaar-linked mobile needed) or through the ULB/bank.
+Behaviour: Gives the current tranche amounts with the restructuring date and citation. Does not decide whether the user is eligible. Directs to the portal/ULB.
+Fail if: says Rs 10,000 / Rs 20,000 / Rs 50,000 (pre-Aug-2025 amounts, still on the 2020 FAQ PDF and in the commented-out dashboard labels on the portal); says the scheme ended in Dec 2024; invents a 4th tranche or a different credit-card limit; confuses it with PM Mudra/PM Vishwakarma.
+VERIFICATION NOTES: Unverified: Interest subsidy rate (7%) after restructuring: the only official statement found is the 2020 FAQ. Post-2025 PIB releases mention 'interest subsidy' without a rate.
+TRAP: the portal's own FAQ PDF (2020) still shows Rs 10,000, and the HTML has commented-out '10 K 20 K 50 K' labels. Restructured amounts are confirmed by PIB and the portal 'Apply For 15k/25k/50k' buttons.
+SOURCES FOUND EARLIER:
+https://pmsvanidhi.mohua.gov.in/ - Home: 'enhanced loan amount limits', 'Apply For 15k / 25k / 50k', credit card for second-tranche repaid vendors, Census Towns eligible (last updated 13-10-2026) [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161157 - 27-08-2025 Cabinet: restructuring, lending till 31-03-2030, Rs 15,000 / Rs 25,000 / Rs 50,000, RuPay credit card, cashback up to Rs 1,600 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303797 - 27-08-2026: one year of restructuring; credit card limit up to Rs 30,000 [crawled]
+https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=Credit+Card+guidelines.pdf&path=MiscFiles - Credit card: limit Rs 30,000, operating limit initially Rs 10,000 [crawled]
+https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=FAQEng.pdf&path=MiscFiles - STALE (Jul-2020): Rs 10,000 first loan; 7% interest subsidy [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): scheme: PM SVANidhi (MoHUA) | tranches up to Rs 15,000, Rs 25,000 and Rs 50,000 | each next tranche comes after repaying the previous one | apply on pmsvanidhi.mohua.gov.in or through the ULB/bank
+
+=== Q-250 | P2 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: pmsvanidhi.mohua.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: pm svanidhi loan ki dusri kisht kaise milegi
+EXPECTED ANSWER NOW:
+Conditions per portal, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): conditions for the 2nd tranche as stated on the PM SVANidhi portal
+
+=== Q-327 | P2 | Hindi (Devanagari) | State-specific (6.2) | expected site: rajasthan.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: राजस्थान सरकार की 2026 की नई योजनाएं कौन सी हैं?
+EXPECTED ANSWER NOW:
+Only cited schemes with dates; neutral.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Names Rajasthan's new 2026 schemes with dates, cited
+
+=== Q-149 | P1 | English | Service procedure (6.2) | expected site: rbi.org.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My bank charged hidden fees and didn't resolve my complaint in 30 days. Where do I complain?
+EXPECTED ANSWER NOW:
+RBI Integrated Ombudsman / CMS as per rbi.org.in; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): complain to the RBI Ombudsman under the Integrated Ombudsman Scheme 2021 | lodge the complaint online on RBI's CMS portal
+
+=== Q-150 | P2 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: rbi.org.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: 500 का नकली नोट कैसे पहचानें?
+EXPECTED ANSWER NOW:
+Security features as published by RBI, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): security features of the Rs 500 note as published by RBI
+
+=== Q-151 | P2 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: rbi.org.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: pati ke purane bank khaate ka paisa kaise pata kare, unclaimed deposit
+EXPECTED ANSWER NOW:
+RBI UDGAM portal as per rbi.org.in; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): search unclaimed deposits on RBI's UDGAM portal
+
+=== Q-152 | P1 | English | Scheme / fact detail (6.2) | expected site: rbi.org.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is RBI's current repo rate and when was it last changed?
+EXPECTED ANSWER NOW:
+Answer: The policy repo rate is 5.50% (RBI home page, as at 1.00 pm of 14 October 2026). It was last changed on 7 October 2026: the MPC meeting of 5-7 October 2026 unanimously raised it by 25 basis points from 5.25% to 5.50%. Stance was changed to 'calibrated tightening'. Consequently SDF = 5.25%, MSF = 5.75%, Bank Rate = 5.75%. CRR 3.00%, SLR 18.00%. The previous review (August 2026) had kept it unchanged at 5.25%. Next MPC meeting: 2-4 December 2026.
+Behaviour: Give the rate with its as-on date and the MPC date from rbi.org.in. Re-verify on demo day.
+Fail if: says 5.25% (pre-Oct 2026) or 6.50%/6.00%; says the rate was cut in October 2026; omits the date.
+VERIFICATION NOTES: Unverified: The next-meeting date (Dec 2-4, 2026) was seen only in a search excerpt of the RBI monetary policy overview page.
+Direction of change is a trap: this is a hike after a long easing cycle. Bots or old caches will say 5.25% or a cut.
+SOURCES FOUND EARLIER:
+https://www.rbi.org.in/ - Current rates panel: repo 5.50%, SDF 5.25%, MSF/Bank Rate 5.75%, CRR 3%, SLR 18% (as at 14 Oct 2026) [crawled]
+https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744 - Governor's statement 7 Oct 2026: +25 bps to 5.50%, calibrated tightening [subdomain-of-crawled]
+https://m.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742 - MPC resolution Oct 5-7, 2026 (search excerpt: +25 bps to 5.50%) [subdomain-of-crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): policy repo rate 5.50% | last changed 7 Oct 2026: MPC raised it 25 bps from 5.25%
+
+=== MT-06 | conversation | English | Filing an RTI | facts from Q-208 | expected site: rtionline.gov.in
+USER TURNS: I want to file an RTI. / Central - Ministry of Education.
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks the question that changes the answer: Central Ministry/Department or a State/Panchayat body? (rtionline.gov.in covers Central public authorities.)
+Turn 2: Summary + steps on RTI Online, Rs 10 fee, BPL exemption, link + source card + next step.
+
+=== Q-208 | P0 | English | Service procedure (6.2) | expected site: rtionline.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How do I file an RTI online to a central ministry and what is the fee?
+EXPECTED ANSWER NOW:
+Answer: File on RTI Online (rtionline.gov.in, DoPT) - only for Central Ministries/Departments/central public authorities listed on the portal (not for State Government/NCT of Delhi bodies; such applications are returned without refund). Application fee: Rs 10 (RTI Rules, 2012), paid online by internet banking, credit/debit card (Master/Visa/RuPay) or UPI. No fee for applicants Below Poverty Line, who must upload a copy of the BPL certificate issued by the appropriate government. Text box limit 3000 characters; longer text can be uploaded as a PDF 'Supporting document' (PDF up to 1 MB). User registration is not mandatory. Additional fee for providing information (if any) is intimated by the CPIO and payable via View Status. First appeal on the portal is free.
+Steps: 1. Open rtionline.gov.in and click 'Submit Request'. 2. Read the guidelines, tick 'I have read and understood the above guidelines' and click Submit. 3. In the Online RTI Request Form select the Ministry/Department/Apex body, fill the mandatory (*) fields, answer 'Is the Applicant Below Poverty Line?' (Yes = upload BPL certificate and submit without fee). 4. Enter the request text (up to 3000 characters) or attach PDF. 5. Click 'Make Payment' and pay Rs 10. 6. Note the unique registration number (email/SMS alert); the application goes to the Nodal Officer, who forwards it to the CPIO. 7. Track via 'View Status' (OTP-protected). If money is debited but no registration number, wait 24-48 working hours / use 'Payment Reconciliation'; do not pay again.
+Behaviour: steps and fee with citation to rtionline.gov.in; do not draft the RTI on behalf of user beyond general guidance.
+Fail if: says fee is Rs 50/Rs 100 or varies by ministry; says BPL must pay; says first appeal has a fee; says state departments can be approached on rtionline.gov.in; omits that Aadhaar/PAN should not be uploaded (minor).
+VERIFICATION NOTES: The Rs 10 figure is in the citizen user manual PDF on rtionline.gov.in; the HTML guidelines only say 'as prescribed in RTI Rules, 2012'. Bot citing only guidelines.php for 'Rs 10' is a weak citation.
+SOURCES FOUND EARLIER:
+https://rtionline.gov.in/guidelines.php?request - Submit Request flow, 3000 characters, payment modes, BPL exemption with certificate, Nodal Officer->CPIO, first appeal free, fee 'as prescribed in RTI Rules 2012' [crawled]
+https://rtionline.gov.in/viewPDF.php?file=um_citizen.pdf - User manual: non-BPL must pay 'RS 10 as prescribed in the RTI Rules, 2012'; PDF up to 1MB; payment modes incl. RuPay, UPI [crawled]
+https://rtionline.gov.in/faq.php - Central public authorities only; state applications returned without refund; registration not mandatory; payment reconciliation 24-48 working hours; no fee for first appeal [crawled]
+https://www.pmindia.gov.in/wp-content/uploads/2017/04/RTIRules_2012_English_0.pdf - RTI Rules 2012 rule 3: fee of rupees ten; rule 5 BPL exemption [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): file on RTI Online (rtionline.gov.in), only for central public authorities, not State bodies | application fee Rs 10 | pay online by net banking, credit/debit card (Master/Visa/RuPay) or UPI | no fee for BPL applicants who upload a BPL certificate | steps: Submit Request, accept guidelines, pick ministry, text up to 3000 chars, pay, note reg. no.

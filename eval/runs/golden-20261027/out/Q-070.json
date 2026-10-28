@@ -1,0 +1,43 @@
+{
+ "id": "Q-070",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The EPF interest rate for FY 2025-26 is 8.25% per annum, as recommended by the EPFO Central Board of Trustees",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=3&lang=1",
+   "quote": "After due deliberations, CBT recommended 8.25 % annual rate of interest to be credited on EPF accumulations in members’ accounts for the financial year 2025-26."
+  },
+  {
+   "fact": "The recommendation was made at the CBT's 239th meeting (PIB release of 2 March 2026)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=3&lang=1",
+   "quote": "Dr. Mansukh Mandaviya Chairs 239th meeting of Central Board of Trustees (CBT), EPF Central Board recommends 8.25% rate of interest on EPF to its subscribers for FY 2025-26"
+  },
+  {
+   "fact": "The PIB release on the 239th CBT meeting is dated 2 March 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502&reg=3&lang=1",
+   "quote": "Posted On: 02 MAR 2026 3:37PM by PIB Delhi"
+  },
+  {
+   "fact": "The 8.25% rate for 2025-26 has since been notified and EPFO offices directed to credit it to members' accounts (News On AIR, 1 July 2026)",
+   "status": "confirmed",
+   "url": "https://newsonair.gov.in/epfo-notifies-8-25-interest-rate-on-epf-deposits-for-fy-2025-26/",
+   "quote": "EPFO has officially notified an 8.25 percent interest rate on EPF deposits for financial year 2025-26."
+  },
+  {
+   "fact": "8.15% was the EPF rate for FY 2022-23 (an older year, not 2025-26)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911334",
+   "quote": "The Central Board recommended 8.15 % annual rate of interest to be credited on EPF accumulations in members’ accounts for the financial year 2022-23."
+  },
+  {
+   "fact": "8.5% was the EPF rate for FY 2020-21 (an older year, not 2025-26)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1702466&reg=48&lang=2",
+   "quote": "The Central Board recommended 8.50% annual rate of interest to be credited on EPF accumulations in members’ accounts for the financial year 2020-21."
+  }
+ ],
+ "summary": "Confirmed: 8.25% for FY 2025-26 (239th CBT, PIB 2 Mar 2026), notified for crediting (News On AIR, 1 Jul 2026); 8.15% (2022-23) and 8.5% (2020-21) are older years."
+}

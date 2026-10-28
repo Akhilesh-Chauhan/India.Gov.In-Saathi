@@ -1,0 +1,97 @@
+{
+ "id": "Q-146",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PMJJBY is a one-year term life insurance cover, renewable every year, for death due to any cause",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "The scheme is a one-year cover term life insurance scheme, renewable from year to year, offering life insurance cover for death due to any cause."
+  },
+  {
+   "fact": "Cover: Rs 2 lakh paid on the subscriber's death due to any cause",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "Rs.2 lakh is payable on a subscriber’s death due to any cause."
+  },
+  {
+   "fact": "Premium: Rs 436 per year",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "The premium payable is Rs.436/- per annum per subscriber."
+  },
+  {
+   "fact": "The premium is auto-debited from the bank/post office account in one instalment",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "The premium will be deducted from the account holder’s bank / Post office account through ‘auto debit’ facility in one instalment"
+  },
+  {
+   "fact": "Cover period: 1 June to 31 May",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "The cover shall be for one-year period stretching from 1st June to 31st May."
+  },
+  {
+   "fact": "Pro-rata premium for first-time joiners: full Rs 436 for enrolment in June-August and Rs 342 in September-November",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "a) For enrolment in June, July and August – Full annual premium of Rs.436/- is payable. b) For enrolment in September, October, and November – pro rata premium of Rs. 342/- is payable"
+  },
+  {
+   "fact": "Pro-rata premium for first-time joiners: Rs 228 for enrolment in December-February and Rs 114 in March-May",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "c) For enrolment in December, January and February – pro rata premium of Rs. 228/- is payable. d) For enrolment in March, April and May – pro rata premium of Rs. 114/- is payable."
+  },
+  {
+   "fact": "The full Rs 436 is payable at renewal",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "However, full year’s premium @ Rs 436/- is payable at the time of renewal under the scheme."
+  },
+  {
+   "fact": "Entry: savings account holders aged 18 to 50, through one account only",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "All individual (single or joint) account holders of participating banks / Post office, in the age group of 18 to 50 years are entitled to join."
+  },
+  {
+   "fact": "Once enrolled, cover can continue up to age 55 with annual renewal (no entry after 50)",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "On attaining age 55 years (age near birth day), subject to annual renewal up to that date (entry, however, will not be possible beyond the age of 50 years)."
+  },
+  {
+   "fact": "30-day lien period: death other than by accident within 30 days of enrolment is not covered",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmjjby",
+   "quote": "insurance cover shall not be available for death (other than due to accident) occurring during the first 30 days from the date of enrolment into the scheme (lien period)"
+  },
+  {
+   "fact": "The premium was revised from Rs 330 to Rs 436 with effect from 1 June 2022",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/sites/default/files/2026-01/Website-MDO-English--May-2022.pdf",
+   "quote": "from Rs.330 to Rs.436 and from Rs.12 to Rs.20, respectively."
+  },
+  {
+   "fact": "Enrolment is possible online through the Jan Suraksha Portal (besides the bank/post office branch)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "The launch of the online Jan Suraksha Portal has made it possible for citizens to enrol conveniently without visiting bank branches or post offices."
+  },
+  {
+   "fact": "The premium is still Rs 436 per year (PIB, 9 May 2026); no revision found up to Oct 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "Premium: Rs.436/- per annum per member."
+  },
+  {
+   "fact": "Enrol by visiting the bank branch, BC point (Bank Mitra) or bank website (net banking), or the post office for a post office savings account",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1823754",
+   "quote": "Enrolments under the scheme can be done by visiting the branch/ BC point or website of the bank of the account holder or at the post office in case of post office savings bank account."
+  }
+ ],
+ "summary": "DFS PMJJBY FAQ (24 Dec 2025) still shows Rs 436, Rs 2 lakh, pro-rata 342/228/114, 18-50 entry, cover to 55, 30-day lien; no revision found; all confirmed."
+}

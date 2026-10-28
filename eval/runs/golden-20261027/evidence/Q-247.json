@@ -1,0 +1,67 @@
+{
+ "id": "Q-247",
+ "checked_at": "2026-10-28T14:03:26+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://awaassoft.pmayg.dord.gov.in/netiay/Benificiary.aspx",
+   "final": "https://awaassoft.pmayg.dord.gov.in/netiay/Benificiary.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:45:32+05:30",
+   "sha256": "067c31c9ab3f169b4fc1b1d1d1a491c2e66a9e3c320bdbcbf357d094ddd09b4f",
+   "copy": "6233ce6f6c265c2e8ef6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://awaassoft.pmayg.dord.gov.in/netiay/fto_transaction_details.aspx",
+   "final": "https://awaassoft.pmayg.dord.gov.in/netiay/fto_transaction_details.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:45:32+05:30",
+   "sha256": "1855c436dd00ffa26c5c043b2fb77a283833eb4eca264313aa7d87625d1095d7",
+   "copy": "a69c4e0fb8ad4a086048.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmayg.dord.gov.in/netiayHome/home.aspx",
+   "final": "https://pmayg.dord.gov.in/netiayHome/home.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:26+05:30",
+   "sha256": "c30f1b072498d7e4a9708b581ee1362d41c92bfabb25d7cbb8fa629a12ac16cd",
+   "copy": "8f1bff72e83e9c528dcf.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://pmay-urban.gov.in/",
+   "final": "https://pmay-urban.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:45:19+05:30",
+   "sha256": "f70f527a0b3c321e527e5fdb9b51f01a347982c6de3e8c632549dd18e89f6e43",
+   "copy": "0fbbced075876a468db1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

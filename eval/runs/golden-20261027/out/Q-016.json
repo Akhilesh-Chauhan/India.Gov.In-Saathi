@@ -1,0 +1,25 @@
+{
+ "id": "Q-016",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Aadhaar enrolment is carried out by UIDAI's Registrars (mainly state governments, central ministries, banks and public sector organisations), themselves or through enrolment agencies they contract",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/registrars",
+   "quote": "Registrars shall carry the enrolment of individuals seeking to enrol by themselves or through enrolment agencies contracted by them."},
+  {"fact": "Residents enrol at a nearby Aadhaar Enrolment Centre or Aadhaar camp",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-enrolment",
+   "quote": "Individuals of all states/UTs seeking enrolment , are required to enrol only at nearby Aadhaar Enrolment Centre/Aadhaar Camps ."},
+  {"fact": "UIDAI Regional Offices each cover listed states and UTs; the Regional Offices page gives the office for each state",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/regional-offices",
+   "quote": "Regional Offices with the covering States and UTs under their jurisdiction are listed below"},
+  {"fact": "UIDAI's contact: toll-free 1947 and email help@uidai.gov.in",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/regional-offices",
+   "quote": "Toll-free Number 1947 Email help[at]uidai[dot]gov[dot]in"}
+ ],
+ "behaviour": "Replies in Hinglish/Hindi; gives only what UIDAI publishes: enrolment is run by Registrars (state government etc.) and their enrolment agencies at centres/camps, so the request should go to the state Registrar or the UIDAI Regional Office for the state, or via 1947 / help@uidai.gov.in; does not invent an application procedure, form, fee or timeline for organising a camp.",
+ "fail_if": "Invents a step-by-step camp application process, form, fee or guaranteed approval; gives non-official contacts.",
+ "summary": "UIDAI publishes no resident procedure for requesting a camp; it says enrolment is run by Registrars/enrolment agencies at centres or camps, lists Regional Offices by state and gives 1947 / help@uidai.gov.in."
+}

@@ -1,0 +1,37 @@
+{
+ "id": "Q-026",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "final": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:37+05:30",
+   "sha256": "39ab624aad9e32de225f9aaa68d6f9a89c02989b5a7b3a8179339dc104200ba0",
+   "copy": "faea6d9d141e85383db5.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "final": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:17:37+05:30",
+   "sha256": "39ab624aad9e32de225f9aaa68d6f9a89c02989b5a7b3a8179339dc104200ba0",
+   "copy": "faea6d9d141e85383db5.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,82 @@
+{
+ "id": "Q-195",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "final": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:09+05:30",
+   "sha256": "bc642dc9a5ecb458f63c8e712d5b10f43a01b79756217ead7b786ae1596ac7ca",
+   "copy": "b5c969dca97db64795da.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "final": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:48+05:30",
+   "sha256": "cb65efbfdd07407f9c5e792573de4debd7586e19f2f2254b078161dbf026db9f",
+   "copy": "f8adc8f596e1843cfbbc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "final": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:27:48+05:30",
+   "sha256": "cb65efbfdd07407f9c5e792573de4debd7586e19f2f2254b078161dbf026db9f",
+   "copy": "f8adc8f596e1843cfbbc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "final": "https://nfsa.gov.in/portal/Salient_Features_NFSA_AA",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:09+05:30",
+   "sha256": "bc642dc9a5ecb458f63c8e712d5b10f43a01b79756217ead7b786ae1596ac7ca",
+   "copy": "b5c969dca97db64795da.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:30:17+05:30",
+   "sha256": "b808e498d080b4d0d7c8c115e845e03e7db93df33c9a7f4b1eb3f3886a015409",
+   "copy": "7790b20a50fc5436edb4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

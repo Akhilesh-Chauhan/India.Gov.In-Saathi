@@ -1,0 +1,52 @@
+{
+ "id": "Q-260",
+ "checked_at": "2026-10-28T14:03:29+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/",
+   "final": "https://cara.wcd.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:34+05:30",
+   "sha256": "bb4406d8e3a1fc9b7be8549ef950dd062533b5c59e865ef811a2ef22d5f2c6b2",
+   "copy": "be752d42c3861d25ae69.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "final": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:18+05:30",
+   "sha256": "1daeccf84c3774d13102a1f8d655e96886afc9bcf5048cfe6ba3621f2dafb536",
+   "copy": "9893958ce5dc9d5a2242.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "final": "https://cara.wcd.gov.in/PDF/faqs.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:57:18+05:30",
+   "sha256": "1daeccf84c3774d13102a1f8d655e96886afc9bcf5048cfe6ba3621f2dafb536",
+   "copy": "9893958ce5dc9d5a2242.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

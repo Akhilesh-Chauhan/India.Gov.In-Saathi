@@ -1,0 +1,37 @@
+{
+ "id": "Q-232",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://esanjeevani.mohfw.gov.in/#/about",
+   "final": "https://esanjeevani.mohfw.gov.in/#/about",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:48:24+05:30",
+   "sha256": "085e227175b830d8d677d54c6f1d0dc8ef6925b60a0a2463081e5c96f3793c96",
+   "copy": "3ffdb8202eff723ca3fd.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://esanjeevani.mohfw.gov.in/#/about",
+   "final": "https://esanjeevani.mohfw.gov.in/#/about",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:48:24+05:30",
+   "sha256": "085e227175b830d8d677d54c6f1d0dc8ef6925b60a0a2463081e5c96f3793c96",
+   "copy": "3ffdb8202eff723ca3fd.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

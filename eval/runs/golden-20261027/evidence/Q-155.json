@@ -1,0 +1,42 @@
+{
+ "id": "Q-155",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmevents.mygov.in/en/home/",
+   "final": "https://pmevents.mygov.in/en/home/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:55:40+05:30",
+   "sha256": "a37ed004c34b3f72f228fb61e01f0e63013562c38874cc255acb876b61472d67",
+   "copy": "75dc0d091f290a0e4e7b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "manual",
+   "url": "https://pmkisan.gov.in/new_images/PMKisantwentyfortyinstallment.jpg"
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "final": "https://pmkisan.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:11+05:30",
+   "sha256": "7afd837e60514a2d2e50132b02b2d697cd59b3f01b7b1776603b09d0ab3346d9",
+   "copy": "f8131e3c5fdc9e1b6716.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

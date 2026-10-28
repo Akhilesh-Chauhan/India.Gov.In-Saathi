@@ -1,0 +1,7 @@
+{
+ "id": "Q-391",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "Insufficient-sources check: the bot must say no matching Central scheme was found in myScheme and must not invent one; there is no official value to verify, and an absence cannot be quoted from a page.",
+ "summary": "No-matching-scheme behaviour only; nothing to verify."
+}

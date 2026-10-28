@@ -1,0 +1,42 @@
+{
+ "id": "Q-276",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:21:14+05:30",
+   "sha256": "378840dfc8bb37dbe37021b2d03fbfaca3557af1727e6a39135d0f5473269c56",
+   "copy": "aedfad4460a843b1cc75.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2042761&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:21:14+05:30",
+   "sha256": "378840dfc8bb37dbe37021b2d03fbfaca3557af1727e6a39135d0f5473269c56",
+   "copy": "aedfad4460a843b1cc75.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "manual",
+   "url": "https://scholarships.gov.in/All-Scholarships"
+  }
+ ],
+ "problems": []
+}

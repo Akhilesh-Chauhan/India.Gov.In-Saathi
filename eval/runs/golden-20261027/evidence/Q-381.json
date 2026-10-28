@@ -1,0 +1,22 @@
+{
+ "id": "Q-381",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/help/user-manual/list?index=4",
+   "final": "https://web.umang.gov.in/help/user-manual/list?index=4",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:15:11+05:30",
+   "sha256": "97552794aad3463556d567df1a287669241a23c8626a4b66d89a7e1609b36cb2",
+   "copy": "652621d613dab757744b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

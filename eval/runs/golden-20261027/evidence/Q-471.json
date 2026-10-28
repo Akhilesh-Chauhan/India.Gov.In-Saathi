@@ -1,0 +1,82 @@
+{
+ "id": "Q-471",
+ "checked_at": "2026-10-28T14:03:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:44+05:30",
+   "sha256": "d577698991029c092eee37cf426f48a2766072929832f2ff67b152fc8c8cac27",
+   "copy": "e27bc592025338c1a6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:44+05:30",
+   "sha256": "d577698991029c092eee37cf426f48a2766072929832f2ff67b152fc8c8cac27",
+   "copy": "e27bc592025338c1a6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:44+05:30",
+   "sha256": "d577698991029c092eee37cf426f48a2766072929832f2ff67b152fc8c8cac27",
+   "copy": "e27bc592025338c1a6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:44+05:30",
+   "sha256": "d577698991029c092eee37cf426f48a2766072929832f2ff67b152fc8c8cac27",
+   "copy": "e27bc592025338c1a6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:44+05:30",
+   "sha256": "d577698991029c092eee37cf426f48a2766072929832f2ff67b152fc8c8cac27",
+   "copy": "e27bc592025338c1a6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

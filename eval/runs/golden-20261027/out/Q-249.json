@@ -1,0 +1,99 @@
+{
+ "id": "Q-249",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The scheme is PM SVANidhi (PM Street Vendor's AtmaNirbhar Nidhi), launched on 1 June 2020, giving collateral-free working-capital loans to street vendors",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303797",
+   "quote": "The Prime Minister Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi) Scheme, launched on 1 June 2020 to provide collateral-free working capital loans to urban street vendors"
+  },
+  {
+   "fact": "It is run by the Ministry of Housing and Urban Affairs (jointly with the Department of Financial Services)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161157",
+   "quote": "Implementation of the scheme would be the joint responsibility of Ministry of Housing & Urban Affairs (MoHUA) and Department of Financial Services (DFS)"
+  },
+  {
+   "fact": "The Cabinet approved its restructuring on 27-08-2025 (27 August 2025) and lending is extended until 31 March 2030",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303797",
+   "quote": "Approved by the Union Cabinet on 27 August 2025, the lending under the restructured Scheme has been extended up to 31 March 2030"
+  },
+  {
+   "fact": "The loans are collateral-free working-capital term loans in three tranches",
+   "status": "confirmed",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "SVs will be eligible for collateral free working capital term loan in three tranches:"
+  },
+  {
+   "fact": "The 1st tranche rose to Rs 15,000 (from Rs 10,000) and the 2nd to Rs 25,000 (from Rs 20,000); the 3rd stays Rs 50,000",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161157",
+   "quote": "The enhanced loan structure includes first tranche loans increased up to ₹15,000 (from ₹10,000) and second tranche loans increased up to ₹25,000 (from ₹20,000), while the third tranche remains unchanged at ₹50,000."
+  },
+  {
+   "fact": "Each next tranche is available on timely or early repayment of the previous one",
+   "status": "confirmed",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "Upon timely or early repayment of a tranche, vendors will be eligible for the next tranche of working capital term loans, with the enhanced limit."
+  },
+  {
+   "fact": "Borrowers get an interest subsidy of 7% a year (on timely/early repayment)",
+   "status": "confirmed",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "The vendors, availing loan under the scheme, are eligible to get an interest subsidy at 7% per annum.",
+   "note": "The restructured scheme guidelines (MoHUA, Jan 2026) now state the 7% rate, so it no longer rests only on the 2020 portal FAQ."
+  },
+  {
+   "fact": "Lenders get credit-guarantee cover through CGTMSE",
+   "status": "confirmed",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "The Scheme has a provision of Graded Guarantee Cover provided to Lending Institutions for the loans sanctioned, as indicated below, to be administered by Credit Guarantee Fund Trust"
+  },
+  {
+   "fact": "A UPI-linked RuPay credit card is available to vendors who have repaid the 2nd tranche",
+   "status": "confirmed",
+   "url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+   "quote": "A UPI linked RuPay Credit Card will be available as an additional facility for PM SVANidhi beneficiaries who have successfully repaid their 2nd tranche loan and are eligible for 3rd"
+  },
+  {
+   "fact": "The credit card limit is up to Rs 30,000, with the operating limit starting at Rs 10,000",
+   "status": "confirmed",
+   "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=Credit+Card+guidelines.pdf&path=MiscFiles",
+   "quote": "The PM SVANidhi credit card will have a credit limit of ₹30,000 (Rupees Thirty thousand). However, the operating limit will be initially fixed at ₹10,000 which"
+  },
+  {
+   "fact": "Digital-transaction cashback of up to Rs 1,600",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161157",
+   "quote": "the street vendors can avail cashback incentives upto ₹1,600 on making retail & wholesale transactions."
+  },
+  {
+   "fact": "Coverage now extends to census towns and peri-urban areas in a graded manner",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161157",
+   "quote": "The scheme’s coverage is being expanded beyond statutory towns to census towns, peri-urban areas etc. in graded manner."
+  },
+  {
+   "fact": "The scheme applies in States/UTs that have notified rules and a scheme under the Street Vendors Act, 2014",
+   "status": "confirmed",
+   "url": "https://pmsvanidhi.mohua.gov.in/",
+   "quote": "The scheme is available for beneficiaries belonging to only those States/UTs which have notified rules and scheme under Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014."
+  },
+  {
+   "fact": "Apply online on pmsvanidhi.mohua.gov.in; the mobile number must be linked to Aadhaar",
+   "status": "confirmed",
+   "url": "https://pmsvanidhi.mohua.gov.in/",
+   "quote": "2 Apply Online 2. Make sure your mobile number is linked to your Aadhaar"
+  },
+  {
+   "fact": "Vendors can also apply with help from a bank correspondent / MFI agent (the ULB has the list)",
+   "status": "confirmed",
+   "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=FAQEng.pdf&path=MiscFiles",
+   "quote": "You can approach a Banking Correspondent (BC)/ Agent of Micro Finance Institution (MFI) in your area (ULBs will have the list of these persons).",
+   "note": "Supports 'or through the ULB/bank': the portal FAQ (2020) names bank correspondents/MFI agents, with ULBs keeping the list; the 2026 guidelines say ULBs issue the Letter of Recommendation."
+  }
+ ],
+ "summary": "All claims confirmed: PIB (27 Aug 2025, 27 Aug 2026), the Jan 2026 MoHUA scheme guidelines (which now state the 7% interest subsidy), the credit card guidelines and the portal."
+}

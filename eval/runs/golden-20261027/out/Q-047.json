@@ -1,0 +1,16 @@
+{
+ "id": "Q-047",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The AY 2026-27 return due date for audit cases was extended from 31 Oct 2026 to 21 Nov 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+   "quote": "hereby extends the due date for furnishing Return of Income for the Assessment Year 2026-27 (Previous Year 2025-26) for the persons referred in sl.no.2 of the table below Explanation 2 to sub-section (1) of section 139 of the Act, from 31.10.2026 to 21.11.2026."},
+  {"fact": "The extension is by CBDT Circular No. 07/2026 dated 28 September 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "quote": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below:"},
+  {"fact": "It applies to persons at Sl. No. 2 of the table below Explanation 2 to section 139(1) of the Income-tax Act, 1961 (cases requiring audit)", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "quote": "Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 31st October 2026 to 21st November 2026"}
+ ],
+ "summary": "Circular 07/2026 dated 28.09.2026 (31.10.2026 -> 21.11.2026 for sl. no. 2 audit cases) confirmed; no later extension on the ITD news page as of 28 Oct 2026."
+}

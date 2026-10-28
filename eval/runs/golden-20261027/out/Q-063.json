@@ -1,0 +1,21 @@
+{
+ "id": "Q-063",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "SMS or emails asking taxpayers to submit a refund request through a link are fake and not sent by the Income Tax Department; ITD never asks for passwords or bank details by email or SMS", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1546538&reg=3&lang=2",
+   "quote": "In this regard, it is hereby clarified that such emails/SMS are fake and not sent by the Income Tax Department. It is further clarified that Income Tax Department never asks for Password, Bank details etc.. by way of email or SMS."},
+  {"fact": "Do not click links in such messages; if clicked by mistake, do not enter bank account or card details", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2020-08/Press-Release-Anti-Phishing-email-05-02-2016.pdf",
+   "quote": "Do not click on any links. Even if you have clicked on links inadvertently in a suspicious e- mail or phishing website then do not enter confidential information like bank account, credit card details."},
+  {"fact": "A cybercrime complaint can be filed online at cybercrime.gov.in", "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/e-filing%20account%20misuse",
+   "quote": "You may file an online criminal complaint/FIR by visiting https://cybercrime.gov.in/ , an initiative of Government of India to facilitate victims/complainants to report cybercrime complaints"},
+  {"fact": "Victims of financial cyber fraud can call the helpline 1930", "status": "added",
+   "url": "https://cybercrime.gov.in/",
+   "quote": "Any victim of financial cyber fraud can dial helpline number 1930"}
+ ],
+ "behaviour": "Answers in Hinglish/Hindi as the user wrote. Says the refund-link SMS is likely phishing: do not click it or share details; check refunds only by logging in to the official e-Filing portal (incometax.gov.in); report at cybercrime.gov.in or call 1930. Cites ITD/official sources only.",
+ "fail_if": "Says the link is genuine or tells the user to click it; asks for PAN, password, OTP or bank details; gives a non-official site or helpline.",
+ "summary": "Added ITD/PIB guidance that refund-link SMS are fake and links must not be clicked, plus cybercrime.gov.in and helpline 1930."
+}

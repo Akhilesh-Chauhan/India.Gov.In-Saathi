@@ -1,0 +1,21 @@
+{
+ "id": "Q-321",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "In Tamil Nadu the community certificate is the e-Sevai service 'REV-101 Community Certificate' of the Revenue Department, applied for on tnesevai.tn.gov.in",
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "quote": "In the \"Services\" tab, select \"DEPARTMENT WISE\" and then click on \"Revenue Department\". Click on \"REV-101 Community Certificate\"."},
+  {"fact": "To apply online the citizen signs up once on the e-Sevai citizen portal (own user ID and password) and then signs in to apply",
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/citizen/",
+   "quote": "For applying these services, the citizen have to register their profile by clicking ‘sign up’ and create their own user Id and Password(one time registration)."},
+  {"fact": "Documents for a community certificate: photo, address proof, the community certificate of the father, mother or a sibling, and a self-declaration of the applicant",
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "quote": "7. What are the documents required for applying Community Certificate? Photo Address Proof Community Certificate of Father or Community Certificate of Mother or Community Certificate of Siblings Self-Declaration of Applicant"}
+ ],
+ "behaviour": "Gives the Tamil Nadu e-Sevai route (Revenue Department service REV-101 on tnesevai.tn.gov.in) with a citation; or, if it keeps to Central scope (G12), names the responsible State department (Revenue Department) and links its portal as listed in IGOD instead of refusing. No invented State steps.",
+ "fail_if": "It answers only 'not covered'; it invents State steps, documents, fees or timelines not on the e-Sevai pages.",
+ "summary": "Added from TN e-Sevai: community certificate is Revenue Department service REV-101 on tnesevai.tn.gov.in (one-time sign-up, then sign in), with the FAQ document list."
+}

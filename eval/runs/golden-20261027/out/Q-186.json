@@ -1,0 +1,28 @@
+{
+ "id": "Q-186",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The latest Punjab Agromet Advisory bulletin (IMD Meteorological Centre Chandigarh, state of Punjab) is Bulletin No. 86/2026 issued on 27.10.2026",
+   "status": "added",
+   "url": "https://mausam.imd.gov.in/chandigarh/mcdata/agromet_pun.pdf",
+   "quote": "Agromet Advisory Service Bulletin for the State of PUNJAB (Advisories mentioned in the bulletin are prepared by different AMFUs and DAMUs in Punjab) Bulletin No. 86/2026 Issued on 27.10.2026"
+  },
+  {
+   "fact": "Wheat (sowing): the Punjab (PAU Ludhiana) district bulletin advises starting sowing of varieties such as PBW 826, PBW 824, PBW 766, DBW 187 and HD 3226 in the entire state under irrigated conditions",
+   "status": "added",
+   "url": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "quote": "Start sowing wheat varieties, namely, PBW 826, PBW 824, PBW 766, DBW 187, HD 3226, PBW 725, PBW 677, HD-3086, Unnat PBW 343, PBW 1 Chapati, PBW 1 Zn, PBW Zn 2 and durum wheat WHD 943 and PDW 291 in entire state under irrigated conditions.",
+   "note": "District bulletin header: 'Date : 2026-10-27'."
+  },
+  {
+   "fact": "Under irrigated conditions wheat can be sown from 25 October to the 4th week of November",
+   "status": "added",
+   "url": "https://imdagrimet.gov.in/Services/DistrictBulletin.php?state=Punjab&district=Ludhiana&language=English",
+   "quote": "Under irrigated conditions wheat can be sown from 25 October to 4th week of November."
+  }
+ ],
+ "behaviour": "Gives the latest Punjab (state or district) agromet advisory for wheat sowing with its issue date, citing imdagrimet.gov.in or IMD Chandigarh. As of 28 Oct 2026 the latest bulletins are dated 27 Oct 2026; a newer bulletin, quoted with its date, is also acceptable.",
+ "fail_if": "Gives advice without a bulletin date or source; presents an old (e.g. 2025) bulletin as this week's; invents varieties or sowing dates not in the bulletin.",
+ "summary": "Added the 27 Oct 2026 IMD Punjab bulletin (No. 86/2026) and the imdagrimet Ludhiana district bulletin wheat advice (varieties, 25 Oct-4th week Nov window, weather warnings); time-sensitive, re-check on demo day."
+}

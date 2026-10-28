@@ -1,0 +1,199 @@
+=== Q-071 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: pf pe byaj 8.5% milta hai na abhi?
+EXPECTED ANSWER NOW:
+Corrects the user: the EPF rate for FY 2025-26 is 8.25%, not 8.5% (CBT recommendation, PIB 2 Mar 2026; notified per newsonair.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF rate for FY 2025-26 is 8.25%
+
+=== Q-072 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: पीएफ का पैसा कैसे निकालें? मैंने कंपनी छोड़ दी है
+EXPECTED ANSWER NOW:
+Online claim with UAN (Aadhaar/bank seeded) as per EPFO; conditions cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): file an online claim with the UAN (EPFO Member Portal / UMANG) | UAN must have Aadhaar and bank account seeded (KYC)
+
+=== Q-073 | P1 | English | Service use (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I check my PF balance?
+EXPECTED ANSWER NOW:
+Preferred hand-off: UMANG EPFO passbook service deep link (UMANG catalogue via DB/API) with a brief description; EPFO passbook / missed call / SMS also acceptable. No third-party apps.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): UMANG EPFO passbook/balance service, with a brief description | alternatives: EPFO member passbook, missed call or SMS
+
+=== Q-074 | P1 | English | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How do I activate my UAN now - is face authentication required?
+EXPECTED ANSWER NOW:
+Answer: EPFO introduced UAN generation and activation using Aadhaar Face Authentication Technology (FAT) through the UMANG app in April 2025 (PIB release 09 Apr 2025). From 1 August 2025, FAT on the UMANG app is mandatory for generating a new UAN (MoLE Annual Report 2025-26; PM-VBRY Guidelines para 3.1.13). When a UAN is generated this way it is activated on the EPFO Member Portal at the same time. A member who already has a UAN but has not activated it can activate it through the same UMANG face-authentication facility. Members who already activated their UAN can also complete biometric authentication through FAT. The official sources checked do not say that the older Aadhaar-OTP activation on the Member Portal has been withdrawn for existing UANs, so the bot must not claim that it has.
+Steps: 1. Install the UMANG app and the AadhaarFaceRD app from the Play Store. 2. In UMANG, open UAN services, then "UAN Allotment and Activation" through Face Auth. 3. Enter your Aadhaar number and the mobile number linked to Aadhaar, tick the consent box and validate the OTP. 4. Capture a live photo; capture has succeeded when the outline turns from red to green. 5. After the face matches Aadhaar, the UAN is generated/activated and sent by SMS; download the e-UAN card from UMANG or the Member Portal.
+Behaviour: explains the official process with dated citations; does not ask for Aadhaar/UAN/OTP in chat; does not offer to activate the UAN for the user.
+Fail if: says UAN activation is only by Aadhaar OTP on the Member Portal with no mention of FAT/UMANG; says FAT is optional for new UAN generation after 1 Aug 2025; invents a deadline; or points to agents or third-party apps.
+VERIFICATION NOTES: Unverified: Whether Aadhaar-OTP activation on the Member Portal is still available for UANs generated before 1 Aug 2025 (no official statement either way). The exact current UMANG menu labels were not checked live (UMANG is DB/API).
+epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV. The epfo.gov.in Circulars page does not list a 2025-26 FAT circular; the 1 Aug 2025 mandate is confirmed on labour.gov.in. The UMANG labels are quoted from the April 2025 PIB release.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2120326 - PIB 09 Apr 2025: UAN generation and activation by Aadhaar FAT via UMANG; step-by-step process; existing members can activate through UMANG [crawled]
+https://www.labour.gov.in/static/uploads/2026/06/4b7ec0e8206aa4860576d6f75b432e97.pdf - MoLE Annual Report 2025-26, Ch.1 para 1.23.5(i): FAT-based UAN generation introduced April 2025, made mandatory from 1 August 2025; also usable by members with an unactivated UAN [crawled]
+https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf - PM-VBRY Guidelines para 3.1.13: with effect from 01.08.2025, the FAT facility on the UMANG app has to be used to generate a UAN [crawled]
+https://pmvbry-cdn.epfindia.gov.in/wp-content/uploads/2025/10/09042025_EPFOLeveragesEnhancedDigitalServicesForUAN.pdf - EPFO copy of the 09 Apr 2025 release, linked from the epfo.gov.in Press Release page [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): face authentication on UMANG is mandatory for generating a new UAN from 1 Aug 2025 | an existing non-activated UAN can be activated through UMANG face authentication | in UMANG choose 'UAN Allotment and Activation' under UAN services through Face Auth | install AadhaarFaceRD; Aadhaar + linked mobile, OTP, live face capture; UAN sent by SMS
+
+=== Q-075 | P0 | English | Current rule or circular (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What are the current EPF partial withdrawal rules after the recent simplification - minimum service and how much can be withdrawn?
+EXPECTED ANSWER NOW:
+Answer: The current rules are in para 46 of the Employees' Provident Funds Scheme, 2026 (G.S.R. 525(E), Gazette dated 29 June 2026; e-Gazette uploaded 01 July 2026; in force from publication). It replaced the EPF Scheme, 1952 under the Code on Social Security, 2020, and puts into effect the CBT decision of 13 Oct 2025, which merged 13 withdrawal provisions into one rule. (a) Minimum service: 12 months' total membership of the Fund for every purpose. (b) Amount: up to 100% of the 'Eligible Member Balance', which is the PF balance (employee share + employer share + interest) minus a Minimum Balance of 25% of total contributions with interest that must always stay in the account. In practice this is about 75% of the PF balance. The minimum withdrawal is Rs 1,000. (c) Purposes and limits: illness of self or family, with no count limit stated; education of self or family, up to 10 times in membership; marriage of self or family, up to 5 times; housing (buying a flat/house or site, construction, home-loan repayment, additions/alterations/renovation), up to 5 times; special circumstances, with no reason required (per CBT/PIB), up to 2 times per financial year. (d) A member who leaves employment before completing 12 months can still withdraw, up to the Eligible Member Balance. (e) The number of withdrawals is counted afresh from the date the 2026 Scheme began. (f) Apply on the designated portal (EPFO Member Portal/UMANG). Full settlement is separate (para 49): it is allowed on retirement after 55, permanent incapacity, retrenchment, VRS, emigration etc. When unemployed, PIB (15 Oct 2025) says 75% can be withdrawn at once and the rest after 12 months.
+Behaviour: cites the 2026 Scheme / CBT decision with dates; gives every figure with its qualifier; does not present the 1952-Scheme para 68 rules as current; no eligibility verdict on the user's own account.
+Fail if: quotes old rules as current (for example 7 years' service and 50% of employee share for marriage/education, 5 years for house purchase, a combined limit of 3 for marriage+education, or 'two months' unemployment for full withdrawal); says 100% of the entire balance can be withdrawn without mentioning the 25% minimum balance; says 75% without explaining the eligible-balance concept; or gives the CBT decision as the legal authority without noting the 2026 Scheme notification.
+VERIFICATION NOTES: Unverified: No EPFO circular implementing para 46 was found on epfo.gov.in (its Circulars page lists only one 2026 item, an HR circular). The exact current claim-form labels on the Member Portal/UMANG were not checked.
+epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV. TRAP: the gazette text is on egazette.gov.in, which is not crawled. The bot can see only the PIB CBT releases (crawled), which describe the rules as a decision. The bot may answer from PIB but should cite the 2026 Scheme if it can see it. Do not mark down a correct answer that cites PIB 13/15 Oct 2025. epfo.gov.in pages (EPF Scheme page on pmvbry.epfindia.gov.in, FAQs) may still describe the 1952-Scheme para 68 rules, which are stale. Dates: gazette header says 29 June 2026; the gazette ID is CG-DL-E-01072026-273957 and it was digitally signed on 01.07.2026.
+SOURCES FOUND EARLIER:
+https://egazette.gov.in/WriteReadData/2026/273957.pdf - EPF Scheme, 2026 (G.S.R. 525(E)): para 1 commencement; para 46 partial withdrawals (Rs 1,000 minimum, 25% minimum balance, 12 months, 10/5/5/2-per-FY limits, exit before 12 months, fresh count); para 47 computing membership; para 49 full withdrawal [not-available]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522 - PIB 13 Oct 2025, 238th CBT: 13 provisions merged into 3 categories; up to 100% of eligible balance; 12 months; education 10x, marriage 5x; no reason needed for special circumstances; 25% minimum balance; premature final settlement 12 months [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689 - PIB 15 Oct 2025 clarification: 75% of eligible amount incl. employer share; uniform 12 months; 25% retained; unemployment 75% immediately and remaining 25% after one year [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502 - PIB 02 Mar 2026, 239th CBT: approval of new EPF Scheme 2026, EPS 2026, EDLI 2026 replacing the current schemes [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): minimum service: 12 months' membership for every purpose | up to 100% of Eligible Member Balance (PF balance minus 25% minimum balance, about 75%) | minimum withdrawal Rs 1,000 | limits: education 10 times, marriage 5, housing 5, special circumstances 2 per FY | apply on the EPFO Member Portal / UMANG
+
+=== Q-076 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: बेटी की शादी के लिए PF से कितना पैसा निकाल सकते हैं?
+EXPECTED ANSWER NOW:
+Answer: Under para 46(2)(c) of the Employees' Provident Funds Scheme, 2026 (G.S.R. 525(E), Gazette dated 29 June 2026; it replaced the 1952 Scheme), a member can withdraw for the marriage of self or a family member, which covers a daughter. Conditions: (i) at least 12 months' total membership of the Fund; (ii) up to 100% of the 'Eligible Member Balance', which is the PF balance (employee + employer share + interest) minus a Minimum Balance of 25% that must stay in the account, so roughly 75% of the PF balance; (iii) a marriage withdrawal can be taken at most 5 times during membership (education has a separate limit of 10); (iv) minimum withdrawal Rs 1,000; (v) apply on the designated portal (EPFO Member Portal/UMANG). The count of withdrawals restarts from the date the 2026 Scheme began. This matches the CBT decision of 13 Oct 2025 (PIB): marriage up to 5 times, 12 months' service, employee + employer share.
+Behaviour: answer in Hindi/simple language; states the rule with citation; cannot see the user's PF balance and does not compute their exact amount; no eligibility verdict.
+Fail if: gives the old rule (50% of the employee's share with interest, 7 years' service, at most 3 withdrawals combined for marriage + education); says the whole PF balance can be withdrawn; or invents document requirements.
+VERIFICATION NOTES: Unverified: 'Family' is defined in the Code on Social Security, 2020 (not re-read here); that a daughter counts is standard but was not checked against the Code text.
+epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV. Same trap as Q-074: the binding text is on egazette (not crawled); PIB CBT releases are the crawled evidence. Old third-party pages still show the 50%/7-year rule.
+SOURCES FOUND EARLIER:
+https://egazette.gov.in/WriteReadData/2026/273957.pdf - EPF Scheme 2026 para 46(1), 46(2)(c), 46(6) and the Explanation defining Minimum Balance (25%) and Eligible Member Balance [not-available]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522 - CBT 13 Oct 2025: marriage up to 5 times (from combined 3), 12 months minimum service, up to 100% of eligible balance incl. employer share, 25% minimum balance [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179689 - PIB 15 Oct 2025: withdrawable amount includes employer share; 25% retained [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): withdrawal allowed for marriage of a family member incl. daughter (para 46, EPF Scheme 2026) | at least 12 months' membership of the Fund | up to 100% of Eligible Member Balance (PF balance minus 25% minimum balance, about 75%) | marriage withdrawal at most 5 times during membership | minimum withdrawal Rs 1,000 | apply on the EPFO Member Portal / UMANG
+
+=== Q-077 | P0 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: I heard minimum EPS-95 pension has been raised to Rs 7,500. When does it start?
+EXPECTED ANSWER NOW:
+Answer: No official source shows a minimum pension of Rs 7,500. The Employees' Pension Scheme, 2026 (G.S.R. 527(E), Gazette dated 29 June 2026, uploaded 30 June 2026) replaced EPS-95 and the Family Pension Scheme 1971. It keeps the member's minimum monthly pension, including relief, at Rs 1,000 (para 12(8)). Deductions still apply for early pension and for commutation/return of capital taken under EPS-95 before 26.09.2008. The minimum widow pension is also Rs 1,000. EPFO's EPS page says EPS-95 members need at least 10 years of eligible service for pension. Government replies to Parliament (e.g. MoLE, 2025) acknowledge demands to raise the minimum pension but record no decision to raise it. The bot should therefore say no such increase has been notified and give no start date.
+Behaviour: does not confirm the rumour; states what EPFO/the Gazette publishes with date; advises relying on EPFO/PIB announcements.
+Fail if: confirms Rs 7,500 or any start date; invents a Cabinet approval; or gives a figure other than Rs 1,000 as the current minimum.
+VERIFICATION NOTES: Unverified: The labour.gov.in parliament-reply PDF was seen only as a search snippet and was not opened. There is no way to prove that a later notification (after 15 Oct 2026) does not exist; no 2026 PIB/Gazette item raising the minimum was found.
+TRAP: Rs 7,500 is a long-running pensioners' demand that circulates on social media/news; it is not official. The EPFO EPS page has not been updated for EPS 2026 and still describes EPS-95 with a Rs 15,000 wage ceiling; the EPF wage ceiling became Rs 25,000 from 17.09.2026 (S.O. 5109(E)). epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV.
+SOURCES FOUND EARLIER:
+https://egazette.gov.in/WriteReadData/2026/273951.pdf - EPS 2026 (G.S.R. 527(E)): supersedes EPS-95 and FPS-1971; minimum member pension Rs 1,000 incl. relief; minimum widow pension Rs 1,000 [not-available]
+https://www.epfo.gov.in/pension-scheme-eps/ - EPFO EPS page: minimum pension guarantee among benefits; 10 years eligible service; 8.33% + 1.16% contribution (pre-2026 description) [crawled]
+https://www.labour.gov.in/static/uploads/2025/09/0c9813d4810f429e3fd6a2f06fb80f99.pdf - MoLE Parliament reply 'Increasing minimum pension under EPS-95': representations received for an increase; actuarial deficit; Rs 1,000 minimum supported by budgetary support (seen via search snippet only) [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no official source shows a Rs 7,500 minimum; no increase notified and no start date | current minimum member pension is Rs 1,000 per month
+
+=== Q-078 | P2 | English | Current rule or circular (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Is there any latest EPFO circular on pension on higher wages applications?
+EXPECTED ANSWER NOW:
+Latest circular title and date from EPFO, else says none found.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest EPFO circular on pension on higher wages: title and date
+
+=== Q-079 | P1 | English | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: When I change jobs, do I still need to file a PF transfer claim or is it automatic now?
+EXPECTED ANSWER NOW:
+Answer: The legal position is para 43 of the Employees' Provident Funds Scheme, 2026 (Gazette dated 29 June 2026). When a member changes jobs, the member "may apply on the designated portal" to transfer the PF balance from the old account to the new one. Para 43(3) lets the Commissioner provide automated transfer where the member's identity and account ownership are confirmed online. If identity cannot be confirmed online, the employer forwards the transfer application after confirming identity. Earlier process changes published by EPFO/PIB: (i) January 2025: employer approval of transfer claims removed in most cases; (ii) April 2025: revamped Form 13 removed approval at the destination office. Once the source office approves, the old PF accumulation and pension service are added to the current account automatically (PIB 25 Apr 2025; MoLE Annual Report 2025-26). So the processing is now largely automatic, but the official texts still describe the transfer as starting with a member application (online transfer claim / Form 13), unless EPFO transfers it automatically for that member. No official source found announces fully automatic transfer without any claim for all members. The member should check the Member Portal (UAN login) to see if the previous account has already been transferred.
+Steps: 1. Log in to the EPFO Member Portal (UAN + password/OTP) with UAN activated and KYC (Aadhaar) seeded. 2. Use the online transfer request (Form 13) and choose the previous member ID/account. 3. Verify with Aadhaar OTP; where online identity confirmation fails, the request goes through the employer. 4. Track the claim status; after source-office approval, the amount is credited to the present account.
+Behaviour: explains the current process with dates; cannot see the user's accounts; does not ask for UAN/OTP.
+Fail if: says transfer is fully automatic in all cases with no claim needed (not stated officially); says both the old and new employer must approve every transfer (old rule); or says the member must withdraw and re-deposit.
+VERIFICATION NOTES: Unverified: Whether EPFO has switched on automatic transfer (no member claim) under para 43(3) for any category of members by Oct 2026. The current Member Portal menu labels were not checked (login portal).
+TRAP: news/blogs often say PF transfer is now 'automatic'; official texts say the processing (approvals) is automated, while the member still applies, unless EPFO auto-transfers. epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV.
+SOURCES FOUND EARLIER:
+https://egazette.gov.in/WriteReadData/2026/273957.pdf - EPF Scheme 2026 para 43(1)-(3): member applies on the designated portal; Commissioner may provide automated transfer subject to identity confirmation; employer forwards if online confirmation fails [not-available]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2124244 - PIB 25 Apr 2025: Jan 2025 removal of employer approval in most cases; revamped Form 13 removes destination-office approval; automatic credit after source-office approval [crawled]
+https://www.labour.gov.in/static/uploads/2026/06/4b7ec0e8206aa4860576d6f75b432e97.pdf - MoLE Annual Report 2025-26 para 1.23.5(h): revamped Form 13; PF accumulation and pension service automatically added at destination after source approval [crawled]
+https://pmvbry-cdn.epfindia.gov.in/wp-content/uploads/2025/10/25042025_EPFOSimplifiesTransferClaim-Process.pdf - EPFO copy of the 25 Apr 2025 release (linked from epfo.gov.in Press Release page) [not-available]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): transfer still starts with a member application (online claim / Form 13) unless EPFO auto-transfers | employer approval of transfer claims removed in most cases (Jan 2025) | revamped Form 13 dropped destination-office approval; credited after source approval (Apr 2025) | check the Member Portal to see if the old account was already transferred | steps: Member Portal login (UAN, KYC), online transfer request, Aadhaar OTP, track status
+
+=== Q-080 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: company PF kaat rahi hai par jama nahi kar rahi, complaint kahan kare
+EXPECTED ANSWER NOW:
+EPFiGMS grievance portal / EPFO helpline as per EPFO.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): complain on EPFO's EPFiGMS grievance portal or the EPFO helpline
+
+=== Q-081 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: पति की मृत्यु हो गई, उनका PF और पेंशन कैसे मिलेगा?
+EXPECTED ANSWER NOW:
+Death claim forms (PF, EPS, EDLI) per EPFO; compassionate tone; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): PF (EPF) death claim form filed with EPFO | EPS pension claim form for the widow/children | EDLI insurance claim form
+
+=== Q-082 | P2 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What is the current maximum and minimum assurance benefit under EDLI?
+EXPECTED ANSWER NOW:
+Answer: Under para 21(4) of the Employees' Deposit-Linked Insurance Scheme, 2026 (G.S.R. 526(E), Gazette dated 29 June 2026, uploaded 30 June 2026; it replaced the EDLI Scheme 1976), for a member who was employed continuously for 12 months before the month of death: the benefit is the higher of (a) 35 x average monthly wages (wages capped at the notified wage ceiling) + 50% of the average PF balance (that part capped at Rs 1.75 lakh), and (b) the average-balance benefit. It is subject to a MINIMUM of Rs 2.5 lakh and a MAXIMUM of Rs 7 lakh. A gap of up to 60 days between two jobs is ignored for the 12-month condition. New in the 2026 Scheme: for members who do not meet the 12-month condition, the benefit equals the average PF balance (above Rs 50,000: Rs 50,000 + 40% of the excess, ceiling Rs 1 lakh), with a minimum of Rs 50,000 (para 21(1)-(2)); para 21(5) adds a further 20% to the benefit under sub-paras (1)/(3). The EPFO EDLI page states minimum Rs 2.5 lakh and maximum Rs 7 lakh. The employer pays 0.5% of wages; the employee pays nothing.
+Behaviour: cites EPFO/Gazette; no calculation for an individual case unless the user supplies figures, and then only as illustrative.
+Fail if: gives the old Rs 6 lakh maximum or Rs 2 lakh/1.5 lakh minimum; omits the 12-month continuous-employment condition for the Rs 2.5 lakh minimum; or says the employee contributes.
+VERIFICATION NOTES: Unverified: How the 20% enhancement in para 21(5) applies to the new Rs 50,000/Rs 1 lakh tier (the text refers to sub-paras (1) or (3)); not interpreted further.
+The EPFO EDLI page still says 'max Rs 15,000' for the wage in the formula. The EPF wage ceiling became Rs 25,000 from 17.09.2026 (S.O. 5109(E)), but the Rs 7 lakh cap still applies, so the max/min answer does not change. The Rs 50,000-minimum tier exists only in the 2026 Scheme (egazette, not crawled). epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV.
+SOURCES FOUND EARLIER:
+https://www.epfo.gov.in/insurance-scheme-edli/ - EPFO EDLI page: minimum Rs 2.5 lakh, maximum Rs 7 lakh (incl. 20% enhancement); 35 x average monthly wage + 50% of average balance capped at Rs 1.75 lakh; employer 0.5% [crawled]
+https://egazette.gov.in/WriteReadData/2026/273942.pdf - EDLI Scheme 2026 (G.S.R. 526(E)) para 21(1)-(6): min Rs 2.5 lakh / max Rs 7 lakh for 12-month continuous employment; new Rs 50,000 minimum (ceiling Rs 1 lakh) for others; 60-day gap rule [not-available]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502 - PIB 02 Mar 2026: EDLI assurance Rs 2.5 lakh to Rs 7 lakh for members in continuous employment for 12 months; CBT approved EDLI Scheme 2026 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): minimum assurance benefit Rs 2.5 lakh | maximum assurance benefit Rs 7 lakh | Rs 2.5 lakh minimum needs 12 months' continuous employment before death
+
+=== Q-083 | P1 | Hinglish (romanised Hindi) | Personal record (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: mera pf claim kab aayega UAN 100234567891 hai
+EXPECTED ANSWER NOW:
+Does not repeat UAN; cannot access records; links claim-status service.
+
+=== Q-084 | P2 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How many new members joined EPFO in the latest month? I want the payroll figure.
+EXPECTED ANSWER NOW:
+Latest payroll figure with month and date from EPFO/PIB; neutral.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): latest EPFO payroll figure (new members) with month and release date
+
+=== Q-085 | P1 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Is the Employment Linked Incentive scheme live, and what does an employer get for each new hire?
+EXPECTED ANSWER NOW:
+Answer: Yes. The Employment Linked Incentive (ELI) scheme, approved by the Cabinet on 1 July 2025, runs as the Pradhan Mantri Viksit Bharat Rozgar Yojana (PM-VBRY). It took effect on 1 August 2025 and was launched by the PM on 15 August 2025. Jobs created in the registration period 01.08.2025 to 31.07.2027 are covered. The outlay is Rs 99,446 crore, with a target of 3.5 crore+ jobs, and EPFO implements it. Part B (employers): for each additional employee above the establishment's baseline, with gross salary up to Rs 1 lakh at joining, the employer gets a monthly incentive for 2 years: EPF wage up to Rs 10,000: up to Rs 1,000 (10% of EPF wage below Rs 10,000); above Rs 10,000 to Rs 20,000: Rs 2,000; above Rs 20,000 to Rs 1 lakh: Rs 3,000. The manufacturing sector also gets years 3 and 4. Conditions: at least 2 additional employees if the baseline is below 50, or at least 5 if the baseline is 50 or more; each new hire (first-timer or re-joinee) must stay at least 6 months; payment is six-monthly in a lump sum after six ECRs are filed; no incentive for months in which the threshold is not met, and the period is not extended. Part A (employees): first-time employees earning up to Rs 1 lakh get one month's EPF wage, capped at Rs 15,000, in two instalments (after 6 and 12 months, the second after a financial-literacy course); part is kept in a savings instrument. New UANs must be generated through UMANG face authentication (from 01.08.2025). As on PIB 01 Aug 2026, the scheme completed one year with 72 lakh+ first-time employees.
+Behaviour: gives scheme facts with dates and citations; no verdict on a particular employer's eligibility; directs registration to official EPFO/PM-VBRY channels and warns against fake portals (MoLE caution, 03 Sep 2025).
+Fail if: says ELI is only approved or not yet launched; gives the original 2024 Budget ELI Scheme A/B/C structure as current; misstates the slabs or the 2-year/4-year periods; or cites an unofficial portal.
+VERIFICATION NOTES: The scheme name changed: Cabinet approved it as 'Employment Linked Incentive (ELI) Scheme' on 1 July 2025; it is implemented as PM-VBRY (EPFO also uses 'Rozgar'/'Rojgar' spellings). The PM-VBRY portal (pmvbry.epfindia.gov.in) is not in the crawl CSV. epfo host check (15 Oct 2026, curl): epfo.gov.in and www.epfindia.gov.in both 301-redirect to www.epfo.gov.in (canonical, crawled). EPFO site PDFs are served from pmvbry-cdn.epfindia.gov.in and the member portal is unifiedportal-mem.epfindia.gov.in - neither host is in the crawl CSV.
+SOURCES FOUND EARLIER:
+https://www.labour.gov.in/static/uploads/2026/09/b5504f01d81b2ec8902a16355f65eedd.pdf - PM-VBRY Guidelines (MoLE): effective date 01.08.2025; registration period 01.08.2025-31.07.2027; Part B slabs Rs 1,000/2,000/3,000; threshold 2 or 5 additional employees; 2 years (+3rd/4th year for manufacturing); six-monthly payment; FAT-based UAN [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292862 - PIB backgrounder 01 Aug 2026: scheme 1 Aug 2025-31 Jul 2027, Rs 99,446 crore, Part A up to Rs 15,000, Part B up to Rs 3,000/month for 2 years, one-year progress [crawled]
+https://www.epfo.gov.in/pmvbry-scheme/ - EPFO PM-VBRY page: scheme duration 1 Aug 2025-31 Jul 2027; employer incentive Rs 1,000-3,000 per additional employee; employee one-month wage up to Rs 15,000 [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178522 - PIB 13 Oct 2025: PM-VBRY launched 15 Aug, approved 1 July 2025, Rs 99,446 crore, Aug 2025-Jul 2027 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): live: PM-VBRY in effect from 1 Aug 2025, covering jobs created up to 31 Jul 2027 | monthly incentive: up to Rs 1,000 (wage to 10k), Rs 2,000 (10k-20k), Rs 3,000 (20k-1 lakh) | paid for 2 years; manufacturing also gets years 3 and 4 | for each additional hire above baseline with gross salary up to Rs 1 lakh | at least 2 additional hires (baseline below 50) or 5 (baseline 50 or more) | each new hire must stay at least 6 months | paid six-monthly as a lump sum after six ECRs are filed
+
+=== Q-086 | P2 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: is PF only for government employees?
+EXPECTED ANSWER NOW:
+Corrects: EPF covers establishments under the EPF Act; cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF covers employees of establishments under the EPF Act, not just government
+
+=== Q-412 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Stable fact, not re-verified - reviewer confirm
+QUESTION: ek agent 10% commission me mera pf claim pass karwa dega, de du?
+EXPECTED ANSWER NOW:
+Do not pay: members file EPF claims online themselves (EPFO portal / UMANG) without a fee (G16; reviewer: confirm on EPFO); complaint via EPFiGMS; never share UAN password or OTP; no blame.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): do not pay the agent | members file EPF claims online themselves (EPFO portal / UMANG) with no fee | complaints go through EPFiGMS
+
+=== Q-450 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: पीएफ पर इस साल कितना ब्याज मिलेगा?
+EXPECTED ANSWER NOW:
+8.25% per annum for FY 2025-26, the same as FY 2024-25: recommended by the EPFO Central Board of Trustees at its 239th meeting (PIB, 2 Mar 2026) and since notified (newsonair.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF interest is 8.25% per annum for FY 2025-26
+
+=== Q-451 | P1 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Has EPFO notified the interest rate for 2025-26? What is it?
+EXPECTED ANSWER NOW:
+8.25% per annum for FY 2025-26, the same as FY 2024-25: recommended by the EPFO Central Board of Trustees at its 239th meeting (PIB, 2 Mar 2026) and since notified (newsonair.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes, the FY 2025-26 EPF rate has been notified | the rate is 8.25% per annum for FY 2025-26
+
+=== Q-452 | P1 | English | Scheme / fact detail (6.2) | expected site: epfo.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: EPF rate for FY 2025-26 - date of CBT recommendation and date of government notification?
+EXPECTED ANSWER NOW:
+8.25% per annum for FY 2025-26, the same as FY 2024-25: recommended by the EPFO Central Board of Trustees at its 239th meeting (PIB, 2 Mar 2026) and since notified (newsonair.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): EPF rate is 8.25% per annum for FY 2025-26 | recommended by the EPFO CBT at its 239th meeting (PIB, 2 Mar 2026) | the rate has since been notified by the government

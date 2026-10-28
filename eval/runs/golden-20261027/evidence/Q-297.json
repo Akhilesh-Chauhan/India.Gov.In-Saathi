@@ -1,0 +1,52 @@
+{
+ "id": "Q-297",
+ "checked_at": "2026-10-28T14:03:32+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.ugc.gov.in/universitydetails/HEIs_Violating_Regulations?tab=fakeuni",
+   "final": "https://www.ugc.gov.in/universitydetails/HEIs_Violating_Regulations?tab=fakeuni",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:17+05:30",
+   "sha256": "cd4c914e3a268617059cf34659d81e2169bc092fd0097c5c09c4486d0e5dc3bf",
+   "copy": "2ed49a9913ddc4ed1f81.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "final": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:38+05:30",
+   "sha256": "bc35b476c10894382f4465c89e71764b1fecdce4571aece449523170cb036ea6",
+   "copy": "587c6806a86a02866665.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "final": "https://www.ugc.gov.in/pdfnews/FAQ_uni_clg.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:38+05:30",
+   "sha256": "bc35b476c10894382f4465c89e71764b1fecdce4571aece449523170cb036ea6",
+   "copy": "587c6806a86a02866665.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

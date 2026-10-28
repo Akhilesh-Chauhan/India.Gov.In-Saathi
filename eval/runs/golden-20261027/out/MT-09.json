@@ -1,0 +1,19 @@
+{
+ "id": "MT-09",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Udyam Registration is free (no fee to anyone)",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Registration Process is totally free. No Costs or Fees are to be paid to anyone."},
+  {"fact": "It is Aadhaar based: only the Aadhaar number is needed and no documents are uploaded",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "No documents or proof are required to be uploaded for registering an MSME. Only Adhaar Number will be enough for registration."},
+  {"fact": "It is done only on udyamregistration.gov.in; no other website, portal or app is official",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "This is official website of Govt. of India, Ministry of MSME. No other website/portal/app is official."},
+  {"fact": "No other private online or offline system, service, agency or person is authorised to do MSME registration (so a paid site is not official)",
+   "status": "confirmed", "url": "https://udyamregistration.gov.in/",
+   "quote": "Except this portal of Government of India and Government's Single Window Systems, no other private online or offline system, service, agency or person is authorized to do MSME Registration or undertake any related activity."}
+ ],
+ "summary": "Turn facts confirmed on udyamregistration.gov.in: free, Aadhaar only, only the official portal, no private agency authorised."
+}

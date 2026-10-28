@@ -1,0 +1,52 @@
+{
+ "id": "Q-209",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "final": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:40+05:30",
+   "sha256": "e0b70162cb414d26455b86ee566db5f918bcd2bbcdc1b24d331e1a5a3933e577",
+   "copy": "29487ade6474063431ac.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://rtionline.gov.in/faq.php",
+   "final": "https://rtionline.gov.in/faq.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:10+05:30",
+   "sha256": "dad93630d6468ab979a02aed85db001ffc4d0fef678efd2e6697a1d6fe374d5d",
+   "copy": "47a5e51340891f1d338f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "final": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:48:40+05:30",
+   "sha256": "e0b70162cb414d26455b86ee566db5f918bcd2bbcdc1b24d331e1a5a3933e577",
+   "copy": "29487ade6474063431ac.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

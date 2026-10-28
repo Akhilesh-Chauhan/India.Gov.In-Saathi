@@ -1,0 +1,21 @@
+{
+ "id": "Q-040",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Indian citizens who are 18 on a qualifying date (1 January, 1 April, 1 July or 1 October of the roll revision year) can register as voters",
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Election commission of India offers online voter registration for Indian citizens who have attained the age of 18 on the qualifying date (1 Jan, 1 April, 1 July and 1 Oct of the year of revision of electoral roll)."},
+  {"fact": "A new voter registers by filling Form 6",
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "General Voters need to fill Form 6 (Link to online form). This is only for the Registration of new voters."},
+  {"fact": "Apply online on ECI's Voters' Service Portal (voters.eci.gov.in) or through the Voter Helpline App",
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Visit https://voters.eci.gov.in for voter registration. Also, you can use Voter Helpline App (Android) and Voter Helpline App (iOS) to verify your name in Electoral Roll or register online."}
+ ],
+ "behaviour": "Explains registering with Form 6 through ECI voter services; cites eci.gov.in.",
+ "fail_if": "It names a form other than Form 6 for a new voter, or gives no ECI citation.",
+ "summary": "ECI FAQ: 18 on a qualifying date, Form 6 for new voters, online at voters.eci.gov.in or the Voter Helpline App."
+}

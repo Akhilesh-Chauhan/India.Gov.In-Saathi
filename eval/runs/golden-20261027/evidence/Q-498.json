@@ -1,0 +1,52 @@
+{
+ "id": "Q-498",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/electors",
+   "final": "https://www.eci.gov.in/electors",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:39+05:30",
+   "sha256": "5408e031bcebcd4e0b8d5212b9015bde2e91680a385285d9a057ee2892029246",
+   "copy": "b27eb1cb36c3ac188676.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/voters-services-portal",
+   "final": "https://www.eci.gov.in/voters-services-portal",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:57+05:30",
+   "sha256": "5408e031bcebcd4e0b8d5212b9015bde2e91680a385285d9a057ee2892029246",
+   "copy": "3e3528e2b7998ea59aa6.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/e-epic/",
+   "final": "https://old.eci.gov.in/e-epic/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:19+05:30",
+   "sha256": "4b73eeef0b1a97c5b13648f876d8d80139e8d27573e762d1f611106f3664b6df",
+   "copy": "5eb4d6d36743d66b15b7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

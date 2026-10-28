@@ -1,0 +1,22 @@
+{
+ "id": "Q-396",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/All-Scholarships",
+   "final": "https://scholarships.gov.in/All-Scholarships",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:18:31+05:30",
+   "sha256": "50e31ddeb09a12a3ecb945d7b569e3ec463ba817637e5e52359b1011cc2dab9b",
+   "copy": "41cd0b1261e201242722.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-104",
+ "checked_at": "2026-10-28T14:02:53+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "final": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:56+05:30",
+   "sha256": "136ad9d5612a5147e12a60b3fd1d2ba3d2171c03dfcc9a85eb0f40320ddf9c4f",
+   "copy": "4afe6526665419927521.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/",
+   "final": "https://pgportal.gov.in/pension/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:39+05:30",
+   "sha256": "9f6a5846c420d296c6ff9a1908aad33858c41b7b817e42ea520feb764ce1545f",
+   "copy": "0f409c2bf15bc2f8afa4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pgportal.gov.in/pension/",
+   "final": "https://pgportal.gov.in/pension/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:47:39+05:30",
+   "sha256": "9f6a5846c420d296c6ff9a1908aad33858c41b7b817e42ea520feb764ce1545f",
+   "copy": "0f409c2bf15bc2f8afa4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "final": "https://cpao.nic.in/Pensioner/pensioners.php",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:56+05:30",
+   "sha256": "136ad9d5612a5147e12a60b3fd1d2ba3d2171c03dfcc9a85eb0f40320ddf9c4f",
+   "copy": "4afe6526665419927521.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,20 @@
+{
+ "id": "Q-498",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The voter ID can be downloaded online as an e-EPIC from ECI's electors services",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/electors",
+   "quote": "3 Download Voter ID (E-EPIC) Download electronic copy of EPIC Card"},
+  {"fact": "The e-EPIC is downloaded through ECI's Voters' Service Portal (voters.eci.gov.in)",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/voters-services-portal",
+   "quote": "Download of e-EPIC:You can download a digital copy of your EPIC (e-EPIC) online through the VSP."},
+  {"fact": "To download, enter the EPIC number or the Form Reference Number and verify the OTP sent to the registered mobile",
+   "status": "confirmed",
+   "url": "https://old.eci.gov.in/e-epic/",
+   "quote": "Enter EPIC Number or Form Reference Number Verify the OTP sent on the registered mobile number Click on Download e-EPIC",
+   "note": "The steps are on ECI's older e-EPIC page (it names NVSP, since replaced by the Voters' Service Portal); the current eci.gov.in pages name the service but not the steps."}
+ ],
+ "summary": "Confirmed: e-EPIC download via ECI's Voters' Service Portal using the EPIC number or form reference number."
+}

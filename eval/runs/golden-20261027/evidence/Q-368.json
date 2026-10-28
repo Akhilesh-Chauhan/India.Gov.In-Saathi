@@ -1,0 +1,82 @@
+{
+ "id": "Q-368",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "final": "https://sancharsaathi.gov.in/sfc/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:39+05:30",
+   "sha256": "c79acfa5cd11bb351a354d690bf350d72e723cf246a75c13cdcd87b67c5cba62",
+   "copy": "cbea6589b3a12ad17dee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "final": "https://sancharsaathi.gov.in/sfc/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:39+05:30",
+   "sha256": "c79acfa5cd11bb351a354d690bf350d72e723cf246a75c13cdcd87b67c5cba62",
+   "copy": "cbea6589b3a12ad17dee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "final": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:20+05:30",
+   "sha256": "75d4b202313ec1b41f7e8be59a33cba8f62ebaf671fb3911fa0881a2df5751f6",
+   "copy": "a493e75761c29f37a3d7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "final": "https://sancharsaathi.gov.in/sfc/Home/sfc-complaint.jsp",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:20+05:30",
+   "sha256": "75d4b202313ec1b41f7e8be59a33cba8f62ebaf671fb3911fa0881a2df5751f6",
+   "copy": "a493e75761c29f37a3d7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://sancharsaathi.gov.in/sfc/",
+   "final": "https://sancharsaathi.gov.in/sfc/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:51:39+05:30",
+   "sha256": "c79acfa5cd11bb351a354d690bf350d72e723cf246a75c13cdcd87b67c5cba62",
+   "copy": "cbea6589b3a12ad17dee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

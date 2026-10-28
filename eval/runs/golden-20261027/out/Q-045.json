@@ -1,0 +1,76 @@
+{
+ "id": "Q-045",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Yes: under Section 60(c) of the RP Act, 1951, ECI has notified that PwD electors flagged in the electoral roll may vote by postal ballot",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2242483&reg=3&lang=1",
+   "quote": "The Commission, as per Section 60(c) of the Representation of the People Act, 1951, has notified that electors above the age of 85 years and Persons with Disabilities (PwDs) flagged in Electoral Rolls may cast their vote through postal ballot."
+  },
+  {
+   "fact": "The current age for senior citizens' home voting is above 85 years (not 80 as in ECI's 2021 document)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2176283&reg=3&lang=2",
+   "quote": "has notified that electors above the age of 85 years and electors with benchmark disabilities may cast their vote through postal ballot.",
+   "note": "The expected answer left the age open because no current ECI source was found on 15 Oct; ECI's PIB releases of 6 Oct 2025 (Bihar) and 19 Mar 2026 both state above 85."
+  },
+  {
+   "fact": "PwD electors qualify for home voting with 40% benchmark disability",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2022053&reg=3&lang=2",
+   "quote": "Any eligible citizen aged 85 and above or with 40% benchmarked disability, can avail the provision of home voting facility through postal ballot in these elections."
+  },
+  {
+   "fact": "Apply in Form 12D, submitted to the Returning Officer through the BLO within 5 days of the election notification; polling teams then collect the vote at home",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2242483&reg=3&lang=1",
+   "quote": "Such electors can avail this facility using Form 12 D and submitting to the Returning Officer through their BLO within 5 days of notification of election. Polling teams will collect their votes at their homes"
+  },
+  {
+   "fact": "Polling-station facilities per ECI: Assured Minimum Facilities, volunteers for aid and assistance, ramps and wheelchairs, transport to and from the booth, sign-language interpreters and Braille EVMs",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/eci/public/api/document?id=13902",
+   "quote": "Assured Minimum Facilities at polling stations, volunteers for aid and assistance, provision of ramp and wheelchair, transport to and from the booth, sign language interpreters and Braille EVMs are just some of the initiatives of the Commission"
+  },
+  {
+   "fact": "Form 8 is used for marking an elector as PwD",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "quote": "Please fill Form 8 (Link to online form) for shifting of Residence/Correction of Entries in Existing Electoral Roll/Replacement of EPIC / Marking of PwD."
+  },
+  {
+   "fact": "Through ECI's Saksham app a booth-level officer visits the PwD elector at home to complete registration formalities",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/saksham-appp",
+   "quote": "Once they do that, a booth-level officer will visit them at home to fulfill other formalities."
+  },
+  {
+   "fact": "The Saksham app lets PwD electors request a wheelchair for poll day",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/saksham-appp",
+   "quote": "Not only has this app also facilitated the PwDs to request for the wheelchair on the poll day."
+  },
+  {
+   "fact": "The Saksham app shows the accessibility features available at the elector's polling station",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/saksham-appp",
+   "quote": "The app provides information on polling stations, including the location of the polling station, the accessibility features available at the polling station, and the contact details of the polling officials."
+  },
+  {
+   "fact": "The Saksham app lets PwD electors file complaints",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/saksham-appp",
+   "quote": "Complaints: The app allows PwDs to file complaints about any problems they face while participating in the electoral process."
+  },
+  {
+   "fact": "ECI's toll-free voter helpline is 1950",
+   "status": "confirmed",
+   "url": "https://www.eci.gov.in/saksham-appp",
+   "quote": "Menu Toll Free - 1950 Screen Reader Access"
+  }
+ ],
+ "behaviour": "Says yes, home voting by postal ballot is available, and gives the current eligibility (above 85, PwD with benchmark disability flagged in the roll) and Form 12D within 5 days of notification only with a citation to ECI or ECI's PIB release, noting these are notified per election; lists polling-station facilities and Saksham app features as on ECI pages with citation; may refer to the BLO/ERO, Voter Helpline 1950 or the Saksham app; no eligibility verdict for the individual; no political commentary.",
+ "fail_if": "States 'above 80' as the current age criterion from the 2021 document; invents form numbers/deadlines without an ECI citation; says PwD can vote online; omits polling-station facilities.",
+ "summary": "ECI's PIB releases (6 Oct 2025, 19 Mar 2026) now give the home-voting rules: above 85 or PwD with benchmark (40%) disability, Form 12D via BLO within 5 days of notification; facilities and Saksham features confirmed."
+}

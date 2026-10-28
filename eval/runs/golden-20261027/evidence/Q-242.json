@@ -1,0 +1,67 @@
+{
+ "id": "Q-242",
+ "checked_at": "2026-10-28T14:03:22+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "final": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:44:32+05:30",
+   "sha256": "839905e0526cdaf682cffd124e1bc797e558d47362d2e7cfbb52d1c8b4b37de6",
+   "copy": "eef428abc5d43af083de.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "final": "https://pmaymis.gov.in/PMAYMIS2_2024/PDF/UserManual/BeneficairyApplication_for_SoP_27_12_24.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:44:32+05:30",
+   "sha256": "839905e0526cdaf682cffd124e1bc797e558d47362d2e7cfbb52d1c8b4b37de6",
+   "copy": "eef428abc5d43af083de.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://pmaymis.gov.in/PMAYMIS2_2024/PmayDefault.aspx",
+   "final": "https://pmaymis.gov.in/PMAYMIS2_2024/PmayDefault.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:44:16+05:30",
+   "sha256": "15c5252e738b79a54754ea89382e5dd72973bc8f6782cc4c86acc85668f71921",
+   "copy": "04905836c4f06c9146a5.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "final": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:44:02+05:30",
+   "sha256": "74c4f6724f6645f08463e9b09009edd3ddd720739bf2a13af0f4bf22fea4b0f3",
+   "copy": "671c9a7f911862bfc19b.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

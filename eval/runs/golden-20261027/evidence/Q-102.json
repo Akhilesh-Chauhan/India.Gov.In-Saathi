@@ -1,0 +1,67 @@
+{
+ "id": "Q-102",
+ "checked_at": "2026-10-28T14:02:52+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:39+05:30",
+   "sha256": "a30a91ce7eab4fa7c6d0ca8c2214a40a6163f581ec9b69b71181787e662f98a7",
+   "copy": "5ba4bdef9e765710c682.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://8cpc.gov.in/",
+   "final": "https://8cpc.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:47+05:30",
+   "sha256": "771450f93134dc538cd79f87d283313a1e6905037ca53a2bc4bf5d958a478a27",
+   "copy": "e17d2263a6ed18f9d1b1.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:39+05:30",
+   "sha256": "a30a91ce7eab4fa7c6d0ca8c2214a40a6163f581ec9b69b71181787e662f98a7",
+   "copy": "5ba4bdef9e765710c682.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2183289&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:49:39+05:30",
+   "sha256": "a30a91ce7eab4fa7c6d0ca8c2214a40a6163f581ec9b69b71181787e662f98a7",
+   "copy": "5ba4bdef9e765710c682.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

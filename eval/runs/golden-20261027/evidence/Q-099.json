@@ -1,0 +1,67 @@
+{
+ "id": "Q-099",
+ "checked_at": "2026-10-28T14:02:52+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Circular/1778055324_dearnessrelief-dr.pdf",
+   "final": "https://www.icmr.gov.in/icmrobject/uploads/Circular/1778055324_dearnessrelief-dr.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:46:58+05:30",
+   "sha256": "29dda1173a6281aa02cdb0bbeff69ca94f10b1f06ae39bd95c27c789a958f6e0",
+   "copy": "6ca1113b99f6e28ae3a9.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:42:33+05:30",
+   "sha256": "7739d4e6350115ad69c8f3588f4e2f37f68431c7668ed6317594f6724d221f2a",
+   "copy": "95b837be01c82e50c87e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253244&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:42:33+05:30",
+   "sha256": "7739d4e6350115ad69c8f3588f4e2f37f68431c7668ed6317594f6724d221f2a",
+   "copy": "95b837be01c82e50c87e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://doe.gov.in/en/orders-circulars/27",
+   "final": "https://doe.gov.in/en/orders-circulars/27",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:42:06+05:30",
+   "sha256": "361054e8d64e926fac38625960cb6a31ee05cfa26f37cb0b35050f56180d8a53",
+   "copy": "01ea38799a0bcbeefea6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

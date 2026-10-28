@@ -1,0 +1,67 @@
+{
+ "id": "Q-184",
+ "checked_at": "2026-10-28T14:03:07+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "final": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:35:03+05:30",
+   "sha256": "3592e32c99737fa362baf5e31503dc9d169c3c8882842c1a33e09745449bfcf2",
+   "copy": "328b5740777ed6e854b7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "final": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:35:03+05:30",
+   "sha256": "3592e32c99737fa362baf5e31503dc9d169c3c8882842c1a33e09745449bfcf2",
+   "copy": "328b5740777ed6e854b7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "final": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:35:03+05:30",
+   "sha256": "3592e32c99737fa362baf5e31503dc9d169c3c8882842c1a33e09745449bfcf2",
+   "copy": "328b5740777ed6e854b7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "final": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_ad3cac_25._National_Bulletin_No_25-28Oct2026_0830IST.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:35:03+05:30",
+   "sha256": "3592e32c99737fa362baf5e31503dc9d169c3c8882842c1a33e09745449bfcf2",
+   "copy": "328b5740777ed6e854b7.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "Q-359",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nalsa.gov.in/legal-aid/",
+   "final": "https://nalsa.gov.in/legal-aid/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:13:44+05:30",
+   "sha256": "5cb82733418e5c21de272cb212ccb9642c3d2de851af1a047e33f1c0b1bcf61b",
+   "copy": "0ebc50a0b4e7115be137.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nalsa.gov.in/promoting-inclusive-legal-system/",
+   "final": "https://nalsa.gov.in/promoting-inclusive-legal-system/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:32:58+05:30",
+   "sha256": "ed1f0e2d33a2fba463968958ac9329f43be81c6e1abb75e54ea440860c6271bd",
+   "copy": "d001be5f11dce82f460f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

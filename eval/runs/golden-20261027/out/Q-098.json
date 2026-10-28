@@ -1,0 +1,45 @@
+{
+ "id": "Q-098",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Step 1: install the AadhaarFaceRD app from the Google Play Store",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "Step-1: Download and Install AadhaarFaceRd App from Google Play Store"
+  },
+  {
+   "fact": "Step 2: install the Jeevan Pramaan app from the Google Play Store",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "Open Google Play Store, search for Jeevan Pramaan. Install the application."
+  },
+  {
+   "fact": "Step 3: a one-time device registration and operator identification; any person, including the pensioner, can act as the operator",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "Step-3: Device Registration & Operator Identification (one time process) ❑ Next the ‘Device Registration & Operator Identification’ screen appears. This is a one time process. Any person can act as an operator. The pensioner can also act as an operator."
+  },
+  {
+   "fact": "On success the DLC is generated and an SMS with the Pramaan ID and the download link is sent to the mobile number given",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "The pensioner shall also receive a SMS on the mobile number provided during pensioner identification, the SMS contains the Pramaan-id and the link from which the DLC can be downloaded."
+  },
+  {
+   "fact": "Step 4: in pensioner identification, with the face option the pensioner scans his or her face",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "In case user has selected face scan option or has only face RdService installed the user is required to scan his/her face."
+  },
+  {
+   "fact": "For face authentication only the AadhaarFaceRD app is needed; no biometric device is required",
+   "status": "added",
+   "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+   "quote": "AadhaarFaceRD app ( No biometric device is required )"
+  }
+ ],
+ "behaviour": "Gives the Jeevan Pramaan face-authentication steps on a phone (AadhaarFaceRD + Jeevan Pramaan app, face scan, SMS with Pramaan ID) in Hindi, citing jeevanpramaan.gov.in.",
+ "fail_if": "It invents an app, link or step not in the Jeevan Pramaan manual, or says a biometric device is required for face authentication.",
+ "summary": "Added the four face-authentication steps from the Jeevan Pramaan Android app user manual on jeevanpramaan.gov.in."
+}

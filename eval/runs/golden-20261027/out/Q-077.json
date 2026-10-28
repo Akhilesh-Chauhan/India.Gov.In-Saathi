@@ -1,0 +1,49 @@
+{
+ "id": "Q-077",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Employees' Pension Scheme, 2026 (G.S.R. 527(E), Gazette dated 29 June 2026) superseded the Family Pension Scheme, 1971 and EPS-95",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "in supersession of the Employees’ Family Pension Scheme, 1971 and the Employees’ Pension Scheme, 1995, except as respects things done or omitted to be done before such supersession"
+  },
+  {
+   "fact": "The e-Gazette copy of the EPS 2026 (CG-DL-E-30062026-273951) was digitally signed and uploaded on 30 June 2026",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "Digitally signed by SARVESH KUMAR SRIVASTAVA SRIVASTAVA Date: 2026.06.30 22:46:02"
+  },
+  {
+   "fact": "The current minimum monthly member pension, including relief, is Rs 1,000 (EPS 2026 para 12(8)); no official source shows a Rs 7,500 minimum or a start date for one",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "the member’s monthly pension including any relief payable to any existing or future member under this paragraph, shall not be less than one thousand rupees."
+  },
+  {
+   "fact": "The Rs 1,000 minimum is subject to deductions for commutation/return of capital taken under EPS-95 before 26.09.2008 and for early pension",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "deductions on account of benefits of commutation and return of capital taken by members under the provisions of the erstwhile Employees’ Pension Scheme, 1995 prior to 26th September, 2008; and (ii) deductions on account of early pension under sub-paragraph (7)."
+  },
+  {
+   "fact": "The minimum widow pension is also Rs 1,000 per month",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273951.pdf",
+   "quote": "in cases, where the monthly widow pension including relief, if any, is less than one thousand rupees per month, such pension shall be enhanced to one thousand rupees per month."
+  },
+  {
+   "fact": "EPFO's EPS page says members need at least 10 years of eligible service for pension",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/pension-scheme-eps/",
+   "quote": "Members with minimum 10 years of eligible service are entitled to pension; others may opt for withdrawal benefits or scheme certificate."
+  },
+  {
+   "fact": "The government's 2025 Parliament reply acknowledges demands to raise the Rs 1,000 minimum pension but records no decision to raise it",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147929",
+   "quote": "Representations have been received from various stakeholders including trade unions and public representatives to increase the minimum pension under the Employees’ Pension Scheme (EPS), 1995 from existing Rs. 1000/- per month."
+  }
+ ],
+ "summary": "EPS 2026 para 12(8) keeps the minimum pension at Rs 1,000; no notice of Rs 7,500 found on pib.gov.in/labour.gov.in/epfo.gov.in (28 Oct 2026); no change."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "Q-380",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "The answer states the assistant's own privacy design (UMANG identity, mobile number and profile not passed; session state held 30 minutes; conversation not retained), set by the Saathi concept note 'One Government, One Conversation' (6.1, 8.1), which says exactly this; it is an internal document with no public government URL, so there is no official page to check it against.",
+ "summary": "No facts: the answer describes the assistant's own design (concept note 6.1, 8.1: identity not passed, 30-minute session, not retained), confirmed in the concept note but not on any public page."
+}

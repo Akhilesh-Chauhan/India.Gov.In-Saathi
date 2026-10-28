@@ -1,0 +1,147 @@
+=== Q-279 | P0 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Last date for NSP renewal applications for 2026-27?
+EXPECTED ANSWER NOW:
+Student applications (fresh and renewal) are open till 31-10-2026. The portal opened on 01-06-2026 for most schemes (a few opened later, e.g. 15-07, 25-07, 03-08 or 16-09-2026). Defective-application and institute verification run till 15-11-2026; district/State/Ministry verification till 30-11-2026 (scholarships.gov.in).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): student renewal applications open till 31-10-2026
+
+=== Q-280 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: nsp pe scholarship ke liye apply kaise kare, pehli baar kar raha hu
+EXPECTED ANSWER NOW:
+One Time Registration then application, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): first do One Time Registration (OTR) on NSP | then log in and fill the scholarship application
+
+=== Q-281 | P1 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: As the school nodal officer, what is the last date for institute verification of NSP applications this year?
+EXPECTED ANSWER NOW:
+Institute verification is open till 15-11-2026 (the same date applies to defective-application verification); district/State/Ministry verification till 30-11-2026 (scholarships.gov.in). Must cite NSP, not a news site.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): institute verification open till 15-11-2026
+
+=== Q-282 | P1 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मैं कक्षा 9 में हूँ, मेरे लिए कौन सी स्कॉलरशिप है?
+EXPECTED ANSWER NOW:
+List with published criteria; myScheme eligibility link; no determination.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists scholarships open to a class 9 student with published criteria
+
+=== Q-283 | P0 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: बेटी 11वीं में है, लड़कियों के लिए कोई छात्रवृत्ति है?
+EXPECTED ANSWER NOW:
+Schemes with criteria (NSP / myScheme); no eligibility judgement.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): lists scholarships for a class 11 girl with their criteria
+
+=== Q-284 | P2 | English | Scheme / fact detail (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is OTR on NSP and is it mandatory?
+EXPECTED ANSWER NOW:
+As per NSP, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): OTR is a unique number valid for the student's whole academic career on NSP | OTR is mandatory to apply on NSP (from AY 2024-25)
+
+=== Q-285 | P2 | English | Personal record (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My NSP application shows 'defective'. What does it mean?
+EXPECTED ANSWER NOW:
+General meaning and fix per NSP; cannot see the record.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): 'defective' means errors the student can correct and resubmit (per NSP) | fix: read remarks, correct and resubmit, get institute verification before deadline
+
+=== Q-286 | P2 | English | Scheme discovery (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which scholarships are there for students with disabilities?
+EXPECTED ANSWER NOW:
+DEPwD schemes on NSP, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): DEPwD scholarship schemes for students with disabilities (e.g. pre-matric, top class) | applied for on the National Scholarship Portal
+
+=== Q-287 | P1 | Hinglish (romanised Hindi) | Personal record (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: scolarship ka paisa kab ayega nsp 2025-26 ka
+EXPECTED ANSWER NOW:
+Personal status; payment-tracking route; no date invented.
+
+=== Q-288 | P2 | English | Scheme / fact detail (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Is the Central Sector Scheme of Scholarship based on Class 12 percentile? What is the amount?
+EXPECTED ANSWER NOW:
+Answer: Yes. PM-USP Central Sector Scheme of Scholarship for College and University Students (CSSS), Department of Higher Education, is awarded on the basis of Class XII (10+2) Board results: the student must be above the 80th percentile of successful candidates in the relevant stream of their Board. Other conditions: gross parental/family income up to Rs 4.5 lakh per annum (income certificate needed only for fresh applicants); regular degree course (not correspondence/distance/diploma) at an institution recognised by AICTE/the regulatory body; not availing any other scholarship, fee waiver or reimbursement scheme. A maximum of 82,000 fresh scholarships per year (50% for girls; Central reservation policy: 15% SC, 7.5% ST, 27% OBC, 5% horizontal for PwBD). Amount (from FY 2022-23): Rs 12,000 per year for the first three years of graduation; Rs 20,000 per year at post-graduation; 5-year/integrated professional courses get Rs 20,000 per year in the 4th and 5th year; B.Tech/B.E. get Rs 12,000 per year for years 1-3 and Rs 20,000 in the 4th year. Paid by DBT to the student's own bank account. Renewal needs at least 50% marks in the annual exam and 75% attendance. Apply online only on NSP (scholarships.gov.in). As on 15 Oct 2026 the NSP notice says CSSS renewal applications are open for 2026-27: students till 31-10-2026, institute verification till 15-11-2026, L2 verification till 30-11-2026.
+Behaviour: Gives the criteria and amounts with a citation to the NSP guideline PDF. Gives no eligibility verdict for the user. Gives the NSP dates with the as-on date.
+Fail if: Says 'top 20%' or a fixed % of marks instead of the 80th percentile; gives the pre-2022 amount of Rs 10,000/yr as current; omits the Rs 4.5 lakh income limit; says Rs 20,000 for all years; invents fresh-application dates (the NSP notice mentions only renewals); cites third-party scholarship sites.
+VERIFICATION NOTES: Unverified: Whether fresh CSSS applications are open for 2026-27 (the homepage notice mentions only renewals).
+The guideline PDF is titled 'applicable for academic year 2022-23 onwards'. The 2021-22 rate of Rs 10,000 still appears in the same PDF as a note, so a bot could pick the stale figure. The myScheme slug csss-cus also exists but I did not read it in full.
+SOURCES FOUND EARLIER:
+https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf - 80th percentile, Rs 4.5 lakh income, 82,000 slots, rates Rs 12,000/Rs 20,000, renewal 50% marks/75% attendance [crawled]
+https://scholarships.gov.in/ - Notice: CSSS renewal open for AY 2026-27; student till 31-10-2026, institute verification 15-11-2026, L2 30-11-2026 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes: above 80th percentile of successful candidates in the Class XII Board stream | family income up to Rs 4.5 lakh a year | Rs 12,000 a year for the first three years of graduation | Rs 20,000 a year at PG (and 4th/5th year of professional courses)
+
+=== Q-396 | P0 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: myScheme and the scholarship portal show different last dates for NSP renewal. Which one is correct?
+EXPECTED ANSWER NOW:
+The owning source prevails (tier 2 over tier 3, concept note 7.6.3): NSP says student applications close on 31-10-2026. The answer discloses the difference and shows both dates.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): the owning source (NSP) prevails over myScheme | NSP: renewal student applications close on 31-10-2026
+
+=== Q-408 | P1 | Hinglish (romanised Hindi) | Personal record (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: mera account 123456789012 IFSC SBIN0001234 hai, scholarship isme aayegi kya
+EXPECTED ANSWER NOW:
+Does not repeat the account number or IFSC; cannot see payment records; says where to track the payment on NSP and warns not to share bank details in chat (G10, G11).
+
+=== Q-413 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Stable fact, not re-verified - reviewer confirm
+QUESTION: cyber cafe wala NSP form bharne ke 500 rupay maang raha hai
+EXPECTED ANSWER NOW:
+Applying on NSP has no application fee (G16; reviewer: confirm on NSP); the student can apply herself through One Time Registration on scholarships.gov.in; warns without blame.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): applying on NSP has no application fee | the student can apply herself via One Time Registration on scholarships.gov.in
+
+=== Q-446 | P0 | Hinglish (romanised Hindi) | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: scholarship renew karne ki last date kya hai nsp pe
+EXPECTED ANSWER NOW:
+Portal opened 01-06-2026; renewal student applications are open till 31-10-2026; institute verification till 15-11-2026 (scholarships.gov.in, checked 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): renewal student applications are open till 31-10-2026
+
+=== Q-447 | P0 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: राष्ट्रीय छात्रवृत्ति पोर्टल पर नवीनीकरण आवेदन की अंतिम तिथि क्या है?
+EXPECTED ANSWER NOW:
+Portal opened 01-06-2026; renewal student applications are open till 31-10-2026; institute verification till 15-11-2026 (scholarships.gov.in, checked 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): renewal student applications are open till 31-10-2026
+
+=== Q-448 | P0 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Did NSP extend the renewal deadline for 2026-27?
+EXPECTED ANSWER NOW:
+Portal opened 01-06-2026; renewal student applications are open till 31-10-2026; institute verification till 15-11-2026 (scholarships.gov.in, checked 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): renewal student applications are open till 31-10-2026
+
+=== Q-449 | P0 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: Key NSP 2026-27 dates - portal opening date and renewal application deadline - as per the portal.
+EXPECTED ANSWER NOW:
+Portal opened 01-06-2026; renewal student applications are open till 31-10-2026; institute verification till 15-11-2026 (scholarships.gov.in, checked 15-Oct-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): NSP portal opened for 2026-27 on 01-06-2026 | renewal student applications open till 31-10-2026 | institute verification till 15-11-2026
+
+=== Q-506 | P1 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: nsp me OTR kya hota hai aur kaise banta hai
+EXPECTED ANSWER NOW:
+One Time Registration: a unique number valid for the whole academic career on NSP, required from AY 2024-25, generated with Aadhaar or Aadhaar Enrolment ID; NSP OTR app on Google Play.
+PAGE IN THE BOT'S INDEX: https://scholarships.gov.in/home
+FACTS GRADED ON 19 OCT (a starting point, not evidence): OTR = One Time Registration, a unique number valid for the whole academic career | required on NSP from AY 2024-25 | generated with Aadhaar or Aadhaar Enrolment ID | NSP OTR app on Google Play
+
+=== Q-507 | P1 | English | Current rule or circular (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: What is the parental income limit for the scholarships for students with disabilities?
+EXPECTED ANSWER NOW:
+Pre-Matric and Post-Matric: Rs 2.50 lakh a year; Top Class: Rs 8.00 lakh a year (all on NSP).
+PAGE IN THE BOT'S INDEX: https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Pre-Matric and Post-Matric: Rs 2.50 lakh a year | Top Class: Rs 8.00 lakh a year
+
+=== Q-508 | P1 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: scholarships.gov.in (Crawled)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: एससी छात्रों के लिए टॉप क्लास स्कॉलरशिप में आय सीमा क्या है? लड़कियों के लिए आरक्षण है?
+EXPECTED ANSWER NOW:
+Family income up to Rs 8.00 lakh a year; admission in a notified institution; awarded on merit; 30% of slots reserved for SC girl students.
+PAGE IN THE BOT'S INDEX: https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf
+FACTS GRADED ON 19 OCT (a starting point, not evidence): family income up to Rs 8.00 lakh a year | 30% of slots reserved for SC girl students

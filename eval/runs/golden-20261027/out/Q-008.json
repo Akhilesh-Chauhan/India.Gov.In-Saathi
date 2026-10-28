@@ -1,0 +1,69 @@
+{
+ "id": "Q-008",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Aadhaar PVC card costs Rs 75, inclusive of GST and speed post charges",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Charges to be paid for Aadhaar PVC Card are Rs.75/- (Inclusive of GST & speed post charges).",
+   "note": "Older answers on uidai.gov.in/en/enrolment-and-update still say 'chargeable at Rs. 50/- per Aadhaar PVC card' (stale; the charge was revised from Rs 50 to Rs 75)."
+  },
+  {
+   "fact": "It is ordered online on the myAadhaar portal (myaadhaar.uidai.gov.in)",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "How one can raise the request for “Aadhaar PVC Card”? The facility can be availed by visiting myAadhaar portal at the following link: https://myaadhaar.uidai.gov.in ."
+  },
+  {
+   "fact": "It can also be ordered in the Aadhaar App",
+   "status": "unsupported",
+   "note": "UIDAI's FAQ names only the myAadhaar portal for ordering; the Aadhaar app FAQ lists its services (mobile and address update, biometric lock/unlock, e-Aadhaar download, etc.) without PVC ordering; only the January 2024 Citizen's Charter mentions the older 'mAadhaar App'. myAadhaar pages block the checker (28 Oct 2026)."
+  },
+  {
+   "fact": "The card is normally delivered within 10 working days (excluding the day of the request) by India Post Speed Post to the address registered with UIDAI",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "On receipt of successful request from the Aadhaar Number Holder, Aadhaar PVC card is delivered normally within 10 working days (excluding day of raising request) through Speed post services of India Post at the address registered with UIDAI."
+  },
+  {
+   "fact": "The consignment/AWB number is sent by SMS to the registered mobile and can be tracked on indiapost.gov.in",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Consignment Number/AWB is sent to the registered mobile number of ANH and same can be tracked on https://www.indiapost.gov.in ."
+  },
+  {
+   "fact": "The myAadhaar service page shows delivery as 'Up to 30 days'",
+   "status": "manual",
+   "url": "https://myaadhaarbeta.uidai.gov.in/pvc/en",
+   "note": "Only on the myAadhaar service card, which returns HTTP 500 to the checker's browser and only a title to a plain fetch (28 Oct 2026); a person must check it."
+  },
+  {
+   "fact": "The card prints the details currently in Aadhaar: to change them, update Aadhaar first and then order the card",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "If residents want some changes in the details to be printed on Aadhaar PVC Card, they first need to update their details in Aadhaar by visiting Enrolment Center or online (depending upon type of update) and then raise the request for Aadhaar PVC Card after successful completion of update request."
+  },
+  {
+   "fact": "It can be ordered even if no mobile number is linked to Aadhaar, using any mobile number for the OTP",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "This service can be availed of even if your mobile number is not linked with your Aadhaar. In such case, you can order PVC card by providing any mobile number to receive OTP for verification."
+  },
+  {
+   "fact": "With a non-registered mobile number there is no preview of the card details",
+   "status": "manual",
+   "url": "https://myaadhaarbeta.uidai.gov.in/pvc/en",
+   "note": "Not stated on uidai.gov.in FAQs; only on the myAadhaar PVC page, which blocks the checker."
+  },
+  {
+   "fact": "The card can be re-ordered",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Can I reorder Aadhaar PVC Card? Yes, you can reorder Aadhaar PVC card multiple times."
+  }
+ ],
+ "behaviour": "Gives the fee (Rs 75 incl. GST and speed post) and delivery time from the current UIDAI pages with citation and as-on date; if quoting delivery, mentions the 10-working-days FAQ figure and/or the 'Up to 30 days' shown on the myAadhaar service page; ordering is on myAadhaar ('Order Aadhaar PVC Card').",
+ "fail_if": "It says Rs 50 (old fee still printed in some older UIDAI FAQ answers); says it is free; gives a delivery period not on UIDAI pages; points to unofficial print shops.",
+ "summary": "Rs 75 incl. GST/speed post, myAadhaar ordering, 10 working days by Speed Post, AWB tracking, update-first, non-registered mobile option and re-order confirmed; 'Aadhaar App' ordering unsupported; myAadhaar 'Up to 30 days' and no-preview are manual (myAadhaar blocks the checker)."
+}

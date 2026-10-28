@@ -1,0 +1,21 @@
+{
+ "id": "Q-116",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "To add a dependent, log in to the ECHS online application portal, choose Edit application, open the Add Dependent tab, fill in the dependent's details and save",
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "quote": "You can add dependents by login to the online application portal, then select edit application option, thereafter click on tab Add Dependent and fill details of your dependent and save details."},
+  {"fact": "After adding the dependent, pay the additional amount for the added member; the temporary slip can be downloaded once the Record Office verifies the dependent's details",
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "quote": "After adding Dependents make additional payment for the members added in the application. After verification of details of dependents by Record Office, Temp slip can be downloaded."},
+  {"fact": "A son is eligible as an ECHS dependent until he starts earning, gets married or turns 25, whichever is earlier",
+   "status": "added",
+   "url": "https://www.echs.gov.in/assets/policy/Final%20ECHS%20FAQs%2010%20Apr%202023.pdf",
+   "quote": "Son is eligible for ECHS membership till he starts earning or gets married or attains the age of 25 years,"}
+ ],
+ "behaviour": "Gives the procedure as per ECHS (echs.gov.in), cited.",
+ "fail_if": "It invents ECHS steps, forms or fees not on ECHS pages, or gives no ECHS citation.",
+ "summary": "ECHS FAQ: add the son via Edit application > Add Dependent on the online portal, pay the extra amount, Record Office verifies; son eligible till earning, marriage or 25."
+}

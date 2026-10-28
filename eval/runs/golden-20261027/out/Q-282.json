@@ -1,0 +1,56 @@
+{
+ "id": "Q-282",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The student can check which schemes they may be eligible for with the 'Scholarship Eligibility' option on the National Scholarship Portal (scholarships.gov.in)",
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "quote": "Scholarship Eligibility Know your eligibility for different scholarship schemes available on National Scholarship Portal."
+  },
+  {
+   "fact": "myScheme (myscheme.gov.in) lets a citizen find government schemes based on their eligibility details",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/",
+   "quote": "It provides an innovative, technology-based solution to discover scheme information based upon the eligibility of the citizen."
+  },
+  {
+   "fact": "National Means-cum-Merit Scholarship (NMMS): awarded every year to meritorious students at class IX level and can continue up to class XII",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf",
+   "quote": "are awarded to the meritorious students every year at class IX level, which can be continued upto class Xll"
+  },
+  {
+   "fact": "NMMS: for students of Government, Government-aided or local body schools whose parental income is not more than Rs 3,50,000 a year",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/NMMSS_FAQ.pdf",
+   "quote": "studying in Government, Government-aided or local body schools and fulfilling the Scheme guidelines are eligible to apply for the scholarship. Students whose parental income from all sources is not more than Rs. 3,50,000/- per annum are eligible to avail the scholarship."
+  },
+  {
+   "fact": "Pre-Matric Scholarship for Students with Disabilities (DEPwD): for class IX and X in a Government or Government-recognised school",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "Pre-Matric Scheme for SwDs:- For class-IX & X in a Government school or in a school recognized by Government or by a Central/State Board of Secondary Education."
+  },
+  {
+   "fact": "Pre-Matric Scholarship for OBC, EBC and DNT students (PM YASASVI): for students in class IX and X in Government schools",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
+   "quote": "The students should be studying in class IX and X on a full-time basis in Government Schools only."
+  },
+  {
+   "fact": "Pre-Matric Scholarship for OBC, EBC and DNT students: parents' income from all sources must not exceed Rs 2,50,000 a year",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
+   "quote": "Scholarship award will be sanctioned in the case of students whose parents/guardians income from all sources does not exceed Rs.2,50,000/- per annum."
+  }
+ ],
+ "behaviour": "Replies in Hindi; lists scholarships open to a class 9 student with their published criteria (from NSP or the scheme guidelines), points to NSP's Scholarship Eligibility option or myScheme to check eligibility, and does not decide whether this student is eligible.",
+ "fail_if": "Tells the student they are or are not eligible for a scheme; names a scholarship without its official criteria or source; cites third-party scholarship sites.",
+ "summary": "Added the NSP eligibility option and myScheme, plus example class-IX schemes (NMMS, DEPwD Pre-Matric, OBC/EBC/DNT Pre-Matric) with criteria from NSP PDFs."
+}

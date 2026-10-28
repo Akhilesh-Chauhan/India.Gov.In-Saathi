@@ -1,0 +1,43 @@
+{
+ "id": "Q-459",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "myScheme (myscheme.gov.in) is the national platform to search Central and State schemes and check them against the citizen's eligibility",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/",
+   "quote": "myScheme is a National Platform that aims to offer one-stop search and discovery of the Government schemes. It provides an innovative, technology-based solution to discover scheme information based upon the eligibility of the citizen."
+  },
+  {
+   "fact": "Old-age pension under NSAP (IGNOAPS, Ministry of Rural Development): Central assistance of Rs 200 a month for ages 60-79 and Rs 500 a month for 80 and above, for persons meeting the Below Poverty Line (BPL) criteria",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202",
+   "quote": "The Ministry of Rural Development has informed that under IGNOAPS, financial assistance of ₹200 per month is provided to persons aged 60–79 years and ₹500 per month to persons aged 80 years and above, subject to eligibility under the Below Poverty Line (BPL) criteria.",
+   "example": true
+  },
+  {
+   "fact": "Ayushman Bharat PM-JAY gives health cover of Rs 5 lakh to all senior citizens aged 70 and above, irrespective of income or socio-economic status",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "quote": "Under Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) , health insurance coverage of ₹5 lakh is provided to all senior citizens aged 70 years and above, irrespective of their socio-economic status.",
+   "example": true
+  },
+  {
+   "fact": "Rashtriya Vayoshri Yojana gives physical aids and assisted-living devices to senior citizens with age-related disabilities whose monthly income is not more than Rs 15,000",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "quote": "Under the Rashtriya Vayoshri Yojana (RVY) , senior citizens with a monthly income of not more than ₹15,000 and suffering from age-related disabilities or infirmities are provided physical aids and assisted-living devices aimed at restoring near-normal bodily functions.",
+   "example": true
+  },
+  {
+   "fact": "Senior Citizens' Savings Scheme (Ministry of Finance, listed on myScheme) can be opened by individuals over 60, singly or jointly",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/scss",
+   "quote": "The Senior Citizens’ Saving Scheme is a retirement benefit program by the Government of India. Individuals over 60 years can opt for the SCSS scheme by investing by making an individual or joint investment.",
+   "example": true
+  }
+ ],
+ "behaviour": "Lists the same set of Central schemes for people above 60 from myScheme (and the owning ministry's or PIB page) every time, each with its published eligibility criteria and a citation; uses the templated eligibility wording (the Department determines eligibility) and gives the myScheme eligibility link; gives no eligibility verdict. The old-age pension may be named IGNOAPS or its new name, Pradhan Mantri Vridhavastha Pension Yojana (renamed by the Cabinet on 14 Oct 2026).",
+ "fail_if": "It gives a yes/no eligibility verdict for the user; lists State schemes as Central; says the PM-JAY senior cover depends on income or starts below age 70; gives a Central old-age pension other than Rs 200 (60-79) / Rs 500 (80+); cites unofficial sites.",
+ "summary": "Added the myScheme platform fact plus example Central schemes for 60+: NSAP old-age pension Rs 200/500 (BPL), PM-JAY Rs 5 lakh for 70+, RVY aids (income up to Rs 15,000/month), SCSS for 60+."
+}

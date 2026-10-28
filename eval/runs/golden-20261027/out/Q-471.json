@@ -1,0 +1,22 @@
+{
+ "id": "Q-471",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "After logging in, go to Services > Condonation request > Application for statutory Forms", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "quote": "Step 1: Go to the e-Filing portal homepage and Click on Login. Step 2: Enter the User ID and Password. Step 3: Go to Services > Condonation request > Application for statutory Forms."},
+  {"fact": "Click + Create Condonation request (then Start new filing)", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "quote": "Step 4: Click on +Create Condonation request. If you want to view previously raised request, click on “View Details” Step 5: Click on Start new filing."},
+  {"fact": "Fill in the condonation application form (taxpayer details, form details, attachments)", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "quote": "Step 6: Fill the Condonation application form: 1. Details of Taxpayer 2. Details of Form."},
+  {"fact": "E-verify to submit the request", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "quote": "Step 7: Select mode of E-Verify and click continue. Step 8: After E-VERIFICATION your form will be submitted."},
+  {"fact": "Note the transaction ID for future reference", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/statutory-forms/popular-form/%20form%2010A%20u/s%2012A%20-um",
+   "quote": "After E-VERIFICATION your form will be submitted. Note the transaction ID for future reference."}
+ ],
+ "summary": "Form 10A condonation steps confirmed on the ITD user manual: Services > Condonation request > Application for statutory Forms, + Create, fill, e-verify, note transaction ID."
+}

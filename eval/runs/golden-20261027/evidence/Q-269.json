@@ -1,0 +1,52 @@
+{
+ "id": "Q-269",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

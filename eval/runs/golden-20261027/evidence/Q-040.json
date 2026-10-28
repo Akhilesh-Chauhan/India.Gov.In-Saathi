@@ -1,0 +1,52 @@
+{
+ "id": "Q-040",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "final": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:33+05:30",
+   "sha256": "5408e031bcebcd4e0b8d5212b9015bde2e91680a385285d9a057ee2892029246",
+   "copy": "3f2827be2e5ecebe259b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "final": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:33+05:30",
+   "sha256": "5408e031bcebcd4e0b8d5212b9015bde2e91680a385285d9a057ee2892029246",
+   "copy": "3f2827be2e5ecebe259b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "final": "https://www.eci.gov.in/faq/en/how-to-register/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:33+05:30",
+   "sha256": "5408e031bcebcd4e0b8d5212b9015bde2e91680a385285d9a057ee2892029246",
+   "copy": "3f2827be2e5ecebe259b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,16 @@
+{
+ "id": "Q-384",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "On 28 Oct 2026 the UMANG home page showed 889 Central and 1,726 State services (from 80 Central and 162 State departments/entities); the counts are live and change over time",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/",
+   "quote": "Departments/Entities Central 80 State 162 Services Central 889 State 1,726",
+   "note": "The page shows live counters with no as-on date; the date here is the day the page was read."
+  }
+ ],
+ "behaviour": "Gives the service count only from UMANG data with its as-on date (a different current figure from UMANG data is fine when dated); otherwise says the count is not available and links web.umang.gov.in. No remembered figure.",
+ "fail_if": "Gives a remembered or undated count as current; invents a number.",
+ "summary": "Added: UMANG home page counters on 28 Oct 2026 showed 889 Central + 1,726 State services (80 Central, 162 State entities); counters are live, undated."
+}

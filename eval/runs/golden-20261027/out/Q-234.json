@@ -1,0 +1,20 @@
+{
+ "id": "Q-234",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A doctor's registration can be checked in the Indian Medical Register (IMR) search on the NMC website (nmc.org.in), which lists doctors registered with the State Medical Councils",
+   "status": "added",
+   "url": "https://nmc.org.in/information-desk/indian-medical-register",
+   "quote": "Indian Medical Registry Search This section of our website publishes the Registered Doctors with the various State Medical Councils across India"
+  },
+  {
+   "fact": "You can search by the doctor's name, qualification, registration year, registration number or State Medical Council",
+   "status": "added",
+   "url": "https://nmc.org.in/information-desk/indian-medical-register",
+   "quote": "To search the database for Registered Doctors , please enter / Select the Name, Qualification, Registration Year, Registration No, Registered Council that you want to search, given below."
+  }
+ ],
+ "behaviour": "Explains how to search the Indian Medical Register on the NMC website (nmc.org.in), cited.",
+ "summary": "Added from NMC's Indian Medical Register page: IMR search of doctors registered with State Medical Councils; search by name, qualification, year, registration number, council; data being updated, some councils missing."
+}

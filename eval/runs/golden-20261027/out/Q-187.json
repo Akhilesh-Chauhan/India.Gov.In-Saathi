@@ -1,0 +1,31 @@
+{
+ "id": "Q-187",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN, a Central Sector scheme, gives land-holding farmer families income support of Rs 6,000 a year in three equal instalments",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families.",
+   "example": true
+  },
+  {
+   "fact": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is the Central crop insurance scheme for farmers",
+   "status": "added",
+   "url": "https://pmfby.gov.in/",
+   "quote": "Pradhan Mantri Fasal Bima Yojana - Crop Insurance | PMFBY - Crop Insurance",
+   "example": true
+  },
+  {
+   "fact": "Kisan Credit Card / interest subvention (MISS): short-term agri-loans up to Rs 3 lakh are available at 7% interest, effectively 4% with timely repayment",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004",
+   "quote": "Short-term agri-loans up to Rs 3 lakh are available at 7% interest, with an additional 3% subvention for timely repayment, reducing the effective rate to 4%.",
+   "example": true,
+   "note": "The quote is in the release's section 'Enhancing Farmers' Access to Affordable Credit under MISS and KCC'. The same release also says 'the crop loan limit under MISS ... has been raised from Rs 3 lakh to Rs 5 lakh' in 2025-26, while RBI's MISS master circular for FY 2025-26 (13 Jan 2026, used in Q-188) keeps the overall subvention limit at Rs 3 lakh."
+  }
+ ],
+ "behaviour": "Lists the main Central Government schemes for farmers with citations (agriwelfare.gov.in / myScheme / the scheme portals); makes no judgement on the user's eligibility.",
+ "fail_if": "Gives an eligibility verdict for the user, lists only State schemes, or cites unofficial sites.",
+ "summary": "Added the core Central farmer schemes: PM-KISAN Rs 6,000/yr, PMFBY crop insurance, KCC loans at 7% (4% on timely repayment); agriwelfare.gov.in pages now render 'page not found'."
+}

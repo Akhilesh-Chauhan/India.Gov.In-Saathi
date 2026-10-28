@@ -1,0 +1,15 @@
+{
+ "id": "Q-495",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A fresh passport application cannot be submitted directly at a Passport Office", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "No, you cannot apply for a Passport at a Passport Office. You need to visit Passport Seva Kendra/ Post Office Passport Seva Kendra to submit your Passport application.",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqWhereToApply)"},
+  {"fact": "The application is submitted at a Passport Seva Kendra (PSK) or Post Office Passport Seva Kendra (POPSK)", "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/locales/en/translation.json",
+   "quote": "You need to visit Passport Seva Kendra/ Post Office Passport Seva Kendra to submit your Passport application.",
+   "note": "Quoted from the Passport Seva portal's own content file, which the FAQ page loads; the FAQ answers sit in collapsed accordions, so the page's visible text does not show them. (https://www.passportindia.gov.in/psp/FaqWhereToApply)"}
+ ],
+ "summary": "Passport Seva FAQ still says fresh applications go to a PSK/POPSK, not the Passport Office."
+}

@@ -1,0 +1,13 @@
+{
+ "id": "Q-298",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "An engineering college's AICTE approval can be checked in AICTE's list of approved institutions (AICTE dashboard of approved institutes, searchable by State, programme and level)",
+   "status": "manual",
+   "url": "https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php",
+   "note": "On 28 Oct 2026 aicte.gov.in served only a 'down for maintenance' page (its inner pages 404) and aicte-india.org / facilities.aicte-india.org reset the checker's connection. Retried 28 Oct 2026 13:35-13:40 IST (second reader): aicte.gov.in still 'down for maintenance', /education/institutions 404, aicte-india.org and facilities.aicte-india.org still reset the connection; PIB has only a 2019 note on AICTE's unapproved-institutes list. A person should open the approved-institutes list once the site is back."
+  }
+ ],
+ "summary": "AICTE approved-institutes search is the right route, but every AICTE site was down or blocked for the checker on 28 Oct 2026; marked manual."
+}

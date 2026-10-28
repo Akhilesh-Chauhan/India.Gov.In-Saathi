@@ -1,0 +1,18 @@
+{
+ "id": "Q-257",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: an eligible woman can fill the PMMVY form herself on the PMMVY portal (pmmvy.wcd.gov.in) using citizen login",
+   "status": "added", "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "quote": "An eligible women can also fill the form directly from the PMMVY portal using citizen login."},
+  {"fact": "Self-registration is available across the country through the PMMVY portal and the mobile app",
+   "status": "added", "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "quote": "Self-registration by citizen through PMMVY portal and mobile app has been introduced across the country"},
+  {"fact": "Alternatively, the nearest Anganwadi worker or ASHA worker can fill the form online for her",
+   "status": "added", "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "quote": "The nearest Anganwadi worker/ASHA worker can fill the form online for an eligible woman."}
+ ],
+ "behaviour": "States the PMMVY application channels from the PMMVY portal (self-registration online via the portal or app, or through the Anganwadi/ASHA worker), citing pmmvy.wcd.gov.in.",
+ "fail_if": "It says she cannot apply online herself, or gives no official source.",
+ "summary": "PMMVY FAQ: she can self-register on pmmvy.wcd.gov.in (citizen login) or the mobile app, or apply through the Anganwadi/ASHA worker."
+}

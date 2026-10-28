@@ -1,0 +1,67 @@
+{
+ "id": "Q-038",
+ "checked_at": "2026-10-28T14:02:23+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "final": "https://ihmcl.co.in/faq/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:12+05:30",
+   "sha256": "abc9bfc49124668eb1dcb113950e31afa2f3ba78d3713c6dbbe18f7a584d0618",
+   "copy": "0ac2fd0da45e24b39885.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

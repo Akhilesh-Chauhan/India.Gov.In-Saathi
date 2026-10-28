@@ -1,0 +1,20 @@
+{
+ "id": "Q-361",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A passport appointment can be rescheduled up to three times",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/applyFor",
+   "quote": "Users can re-schedule appointments three times except in the case of tatkaal which is once.",
+   "note": "'Updated 06-10-2026' in the expected answer is the date of the copy in the bot's index (developer seed), a citation note, not a fact; the live page now shows 'Last updated on: 21/10/2026' and still states the same rule."
+  },
+  {
+   "fact": "A Tatkaal appointment can be rescheduled only once",
+   "status": "confirmed",
+   "url": "https://www.passportindia.gov.in/psp/applyFor",
+   "quote": "Users can re-schedule appointments three times except in the case of tatkaal which is once."
+  }
+ ],
+ "summary": "Passport Seva applyFor page still says three reschedules, once for Tatkaal."
+}

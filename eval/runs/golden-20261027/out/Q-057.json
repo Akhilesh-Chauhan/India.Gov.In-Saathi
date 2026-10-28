@@ -1,0 +1,49 @@
+{
+ "id": "Q-057",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The return must be e-verified (or ITR-V submitted) within 30 days of filing (Notification No. 2/2024 dated 31.03.2024)",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "The time-limit for e-verification or submission of ITR-V shall be 30 days from the date of filing the return of income. (To know more refer to the: Notification No. 2/2024 dated 31.03.2024 w.e.f. 01/04/2024)"
+  },
+  {
+   "fact": "If verified within 30 days, the upload date is the date of filing",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "If the return of income is uploaded and ITR-V is submitted within 30 days of uploading, then in such cases the date of uploading the return of income shall be considered as the date of furnishing the return of income."
+  },
+  {
+   "fact": "If verified after 30 days, the verification date is treated as the filing date and all late-filing consequences follow",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "in such cases the date of e-verification/ITR-V submission shall be treated as the date of furnishing the return of income and all consequences of late filing of return under the act shall follow, as applicable."
+  },
+  {
+   "fact": "A return not verified is invalid, though a condonation request can be made for genuine delay",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "It is further clarified that where the return of income is not verified after uploading, such return shall be treated as invalid, although a condonation request can be submitted for genuine delays."
+  },
+  {
+   "fact": "Example: uploaded 5 July 2025 and verified 10 August 2025, so the filing date is 10 August 2025",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/itr-v-faqs30-days-timeline-e-verification-returns",
+   "quote": "5 July 2025 10 July 2025 5 July 2025 5 July 2025 10 August 2025 10 August 2025"
+  },
+  {
+   "fact": "Under the 2025 Act (s.265) there is no substantive change in the manner of verification",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/%20income%20tax%20returns-faq",
+   "quote": "There is no substantive change in the manner of verification of the return of income or as regards person who is required to verify the return under the new Act. Section 265 of the Income Tax Act, 2025 prescribes the persons authorised to verify the return"
+  },
+  {
+   "fact": "The limit was cut from 120 days to 30 days by DGIT(S) Notification No. 5/2022 from 1 August 2022",
+   "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news?year=2022&link=1&page=%2C3",
+   "quote": "01-Aug-2022 DGIT (S) Notification No 5/2022 issued for Reduction of time limit for verification of ITR from 120 days to 30 days of transmitting the data of ITR electronically."
+  }
+ ],
+ "summary": "30-day limit (Notification 2/2024), filing-date rules, invalid-if-unverified with condonation, example and s.265 no-change all confirmed on ITD FAQs."
+}

@@ -1,0 +1,21 @@
+{
+ "id": "Q-385",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "UMANG's Jeevan Pramaan 'Generate Life Certificate' service lets a pensioner submit a digital life certificate with biometric authentication",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "quote": "Generate Life Certificate This service allows users to authenticate their existence and confirm their eligibility for pension benefits using biometric devices."},
+  {"fact": "UMANG's Pensioners Portal (Department of Pension and Pensioners' Welfare) 'Bhavishya' service shows a pensioner's dashboard with sanction and payment details",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/pensioners-portal.html",
+   "quote": "Bhavishya Pensioners will be able to check their dashboard including Sanction details and payment details."},
+  {"fact": "UMANG's EPFO Pensioner Services include 'Download Pension Payment Order : EPS-95'",
+   "status": "added", "example": true,
+   "url": "https://web.umang.gov.in/landing/department/epfo.html",
+   "quote": "Pensioner Services Expand Download Pension Payment Order : EPS-95"}
+ ],
+ "behaviour": "Gives one clear, labelled deep link to the correct UMANG pension service from the catalogue (asks briefly which pension service if the request is unclear); short, accessible text with no unlabelled links or link-only icons (GIGW 3.0 / WCAG 2.1 AA).",
+ "fail_if": "Gives an unlabelled or bare link, a long answer, or a link to a non-pension service; invents a link.",
+ "summary": "Added examples of UMANG pension services: Jeevan Pramaan 'Generate Life Certificate', Pensioners Portal 'Bhavishya', EPFO 'Download Pension Payment Order : EPS-95'."
+}

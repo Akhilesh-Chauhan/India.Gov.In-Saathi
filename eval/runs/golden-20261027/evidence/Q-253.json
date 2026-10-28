@@ -1,0 +1,52 @@
+{
+ "id": "Q-253",
+ "checked_at": "2026-10-28T14:03:28+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "final": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:43:01+05:30",
+   "sha256": "76c0a37b654ab7914a0e840722482ac7bf701049c3a7bd82ea18471f424ccee0",
+   "copy": "51fb7e38e3fc485cd0bf.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "final": "https://nulm.gov.in/PDF/NULM_Mission/NULM_mission_document.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:43:01+05:30",
+   "sha256": "76c0a37b654ab7914a0e840722482ac7bf701049c3a7bd82ea18471f424ccee0",
+   "copy": "51fb7e38e3fc485cd0bf.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220349&reg=3&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220349&reg=3&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:42:40+05:30",
+   "sha256": "d08ec8c5da38ba10b1fe33552d27771ed08731bb61a853c8075643e4eda64054",
+   "copy": "39a45f68958fb009a558.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

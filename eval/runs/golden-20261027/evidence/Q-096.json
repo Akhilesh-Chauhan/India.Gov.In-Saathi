@@ -1,0 +1,37 @@
+{
+ "id": "Q-096",
+ "checked_at": "2026-10-28T14:02:51+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "final": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:37+05:30",
+   "sha256": "ac8fc9e0b74d34d491dd6a03561ee7a1f2ee8fd184cdedcc0797bd7827e0c3bb",
+   "copy": "d246323603faeb0c3c7e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "final": "https://labourbureau.gov.in/uploads/public/notice/Press-Release-CPI-IW-August2026Epdf-7814c1556da667188465b41cb4aee755.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:23:37+05:30",
+   "sha256": "ac8fc9e0b74d34d491dd6a03561ee7a1f2ee8fd184cdedcc0797bd7827e0c3bb",
+   "copy": "d246323603faeb0c3c7e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

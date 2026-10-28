@@ -1,0 +1,21 @@
+{
+ "id": "Q-264",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: the National Creche Scheme for children of working mothers runs as Palna, a component of Mission Shakti (Ministry of Women and Child Development)",
+   "status": "added",
+   "url": "https://wcd.gov.in/offerings/mission-shakti-guidelines-for-implementation-mission-shakti",
+   "quote": "The National Creche Scheme for children of working mothers will run as the component named Palna under Mission Shakti."},
+  {"fact": "Palna provides day-care creche facilities for the children of working mothers",
+   "status": "added",
+   "url": "https://wcd.gov.in/women/palna",
+   "quote": "Considering the difficulties faced by the working mothers in giving due child care and protection to their children, it has been decided to provide the day-care créche facilities through the component of Palna."},
+  {"fact": "Palna is for children aged 6 months to 6 years",
+   "status": "added",
+   "url": "https://wcd.gov.in/women/palna",
+   "quote": "What is the target group and beneficiaries on which the scheme focuses? The scheme focuses on children of 6 months to 6 years."}
+ ],
+ "behaviour": "Names the Palna scheme (creches under Mission Shakti, Ministry of Women and Child Development) and cites wcd.gov.in.",
+ "fail_if": "Names no official creche scheme, invents a scheme, or cites no official source.",
+ "summary": "Added from WCD: Palna = National Creche Scheme for working mothers under Mission Shakti; day-care creches; children 6 months to 6 years."
+}

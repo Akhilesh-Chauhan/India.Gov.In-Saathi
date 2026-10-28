@@ -1,0 +1,19 @@
+{
+ "id": "Q-462",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An Aadhaar number is a 12-digit random number",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "quote": "Aadhaar number is a 12 digit random number assigned to an individual seeking enrolment on completing the enrolment process."},
+  {"fact": "It is assigned to a person on completing the enrolment process",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "quote": "Aadhaar number is a 12-digit random number assigned to an individual seeking enrolment on completing the enrolment process."},
+  {"fact": "It is a digital identity that can be authenticated through biometrics or mobile OTP",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "quote": "This is digital identity issued to an Aadhaar holder which can be authenticated through biometric or mobile OTP."}
+ ],
+ "summary": "UIDAI 'Your Aadhaar' page still defines Aadhaar as a 12-digit random number assigned on completing enrolment, a digital identity authenticated by biometric or mobile OTP (top of page also adds face authentication)."
+}

@@ -1,0 +1,15 @@
+{
+ "id": "Q-193",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Nationally, as of February 2026, States/UTs had identified 80.56 crore persons under NFSA against an intended coverage of 81.35 crore",
+   "status": "added", "url": "https://www.pib.gov.in/FactsheetDetails.aspx?id=150838&NoteId=150838&ModuleId=16&reg=5&lang=1",
+   "quote": "As of February 2026, under the National Food Security Act (NFSA), against the intended coverage of 81.35 crore , the States/UTs have identified 80.56 crore persons for the provision of subsidized foodgrains."},
+  {"fact": "Uttar Pradesh has 3.68 crore ration cards covering 14.72 crore beneficiaries (UP Food and Civil Supplies Department, as on 27 Oct 2026)",
+   "status": "added", "url": "https://fcs.up.gov.in/",
+   "quote": "कुल राशन कार्ड / लाभार्थी 3.68 करोड़ / 14.72 करोड़ (As On 27-Oct-2026 21:00 )"}
+ ],
+ "behaviour": "Gives the national and Uttar Pradesh NFSA coverage figures only with a citation and an as-on date (e.g. PIB factsheet for the national figure, the UP Food and Civil Supplies Department or nfsa.gov.in State page for UP); other official figures are acceptable when cited with their date; no undated or guessed figures.",
+ "fail_if": "It gives figures without a source or as-on date; invents figures; presents the intended coverage ceiling as the number actually covered; cites unofficial sites.",
+ "summary": "Added: national NFSA coverage 80.56 crore identified vs 81.35 crore intended (Feb 2026, PIB); UP 14.72 crore beneficiaries in 3.68 crore cards (fcs.up.gov.in, as on 27 Oct 2026)."
+}

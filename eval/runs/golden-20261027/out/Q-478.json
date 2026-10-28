@@ -1,0 +1,23 @@
+{
+ "id": "Q-478",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes, Aadhaar seeding is mandatory for PM-KISAN payments (from the 3rd instalment onwards)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "Aadhaar seeding of beneficiaries' data was made mandatory for release of 3'o installment pertaining to the period 01.08.2019, and for subsequent installments onwards."},
+  {"fact": "Aadhaar was optional only for the 1st instalment (period 1.12.2018 to 31.3.2019)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "Aadhaar number was optional and not mandatory for release of 1st installment pertaining to the period 01 .12.2018 to 31.03.2019"},
+  {"fact": "The exemption for Assam, Meghalaya and J&K ran only till 31 March 2020, so it is not current",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+   "quote": "and therefore these States have been exempted from the requirement till 31't N/arch, 2020."},
+  {"fact": "eKYC is also mandatory for registered PM-KISAN farmers",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "eKYC is MANDATORY for PMKISAN Registered Farmers."}
+ ],
+ "summary": "Revised FAQ: Aadhaar optional only for the 1st instalment, mandatory from the 3rd; NE/J&K exemption till 31.3.2020; portal says eKYC is mandatory."
+}

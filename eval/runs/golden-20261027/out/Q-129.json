@@ -1,0 +1,86 @@
+{
+ "id": "Q-129",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Minimum deposit is Rs 1,000, in multiples of Rs 1,000, and the maximum is Rs 30 lakh",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "The account shall be opened with a minimum deposit of one thousand rupees or any sum in multiples of one thousand rupees not exceeding thirty lakh rupees"
+  },
+  {
+   "fact": "The Rs 30 lakh maximum applies to all of a person's SCSS accounts taken together",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(3) An account holder may operate more than one account under this Scheme subject to the condition that the deposits in all the accounts taken together shall not exceed the maximum limit as specified under paragraph 4."
+  },
+  {
+   "fact": "Rs 30 lakh replaced Rs 15 lakh by G.S.R. 240(E) dated 31.03.2023",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "In subparagraph (1) of this para for the words \"fifteen lakhs\" at both the places where they occur, the words \"thirty lakh\" substituted vide G.S.R. 240 (E) dated 31.03.2023"
+  },
+  {
+   "fact": "For retirees aged 55-60 the deposit is limited to the retirement benefits received or Rs 30 lakh, whichever is lower",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "Provided that the deposits in the account specified under clause (ii) of sub-paragraph (1) of paragraph 3, shall be restricted to the retirement benefits received, or thirty lakh rupees, whichever is lower."
+  },
+  {
+   "fact": "A joint account can be opened only with the spouse",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(4) An individual may open an account in individual capacity, or jointly with spouse."
+  },
+  {
+   "fact": "In a joint account the first holder's age decides eligibility; there is no age limit for the second (spouse) holder",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(5) In case of a joint account, the age of the first account holder shall be considered to determine the eligibility to open the account and there shall be no age-limit for the second applicant."
+  },
+  {
+   "fact": "The whole deposit in a joint account is attributed to the first holder, so it counts against the first holder's Rs 30 lakh limit",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(6) The whole amount of deposit in a joint account shall be attributable to the first account holder only.",
+   "note": "'Counts against the first holder's limit' follows from para 3(6) read with the all-accounts limit in para 3(3)."
+  },
+  {
+   "fact": "If both spouses are individually eligible, each can open single/joint accounts with the other up to Rs 30 lakh each",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(7) Both the spouses can open single account and joint accounts with each other with the maximum deposit of upto thirty lakhs rupees in each account provided both are individually eligible to open the account."
+  },
+  {
+   "fact": "Eligible: anyone aged 60 or above on the date of opening",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "(i) who has attained the age of sixty years on the date of opening of the account; or"
+  },
+  {
+   "fact": "Eligible: aged 55-60 and retired on superannuation, VRS or Special VRS",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=62",
+   "quote": "an individual who has attained the age of 55 years or more but less than 60 years and has retired under Superannuation, VRS or Special VRS, can open an account."
+  },
+  {
+   "fact": "A 55-60 retiree must open the account within one month of receiving the retirement benefits",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "subject to the condition that the account is opened by such individual within one month of the date of receipt of the retirement benefits"
+  },
+  {
+   "fact": "Retired Defence personnel (excluding civilian Defence employees) are eligible from age 50",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "Provided that the retired personnel of Defence Services (excluding Civilian Defence employees) shall be eligible to open an account under this Scheme on attaining the age of fifty years"
+  },
+  {
+   "fact": "The limit and joint-account rules come from the Senior Citizens' Savings Scheme, 2019 (G.S.R. 916(E) dated 12/12/2019), published on NSI",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=168",
+   "quote": "SENIOR CITIZENS' SAVINGS SCHEME (Notified vide G.S.R. 916(E) dated 12/12/2019 and further amended vide G.S.R. 287(E) dated 05/05/2020)"
+  }
+ ],
+ "summary": "All SCSS limit, joint-account and eligibility facts confirmed on NSI (SCSS Rules 2019 page as amended by G.S.R. 240(E) of 31.03.2023, and the NSI SCSS page)."
+}

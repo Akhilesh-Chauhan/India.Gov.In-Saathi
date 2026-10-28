@@ -1,0 +1,52 @@
+{
+ "id": "Q-411",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+   "final": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:09+05:30",
+   "sha256": "3f0392a28b4e2e4b06400d37929618844f56237845a9a160937b27cc4afd5ac7",
+   "copy": "8e85860aa6e034d79f3c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+   "final": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:09+05:30",
+   "sha256": "3f0392a28b4e2e4b06400d37929618844f56237845a9a160937b27cc4afd5ac7",
+   "copy": "8e85860aa6e034d79f3c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "final": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:40:35+05:30",
+   "sha256": "1c6afbc5d874c42430f3940054d2b5b9f8f0c431becd48c933ef2a0957d40ca7",
+   "copy": "ca954c9f655fab7022ee.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

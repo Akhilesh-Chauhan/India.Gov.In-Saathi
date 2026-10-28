@@ -1,0 +1,103 @@
+{
+ "id": "Q-145",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The 'Rs 20 insurance' is PMSBY, a one-year personal accident insurance cover, renewable every year, against death or disability due to accident",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "The scheme is a one year cover Personal Accident Insurance Scheme, renewable from year to year, offering protection against death or disability due to accident."
+  },
+  {
+   "fact": "The premium is Rs 20 per year per member",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Premium payable is Rs.20/- per annum per member."
+  },
+  {
+   "fact": "The premium is auto-debited from the bank/post office account in one instalment, as per the consent given at enrolment",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "The premium will be deducted from the account holder’s bank / Post office account through ‘auto debit’ facility in one instalment, as per the consent given by the subscriber at the time of enrolment."
+  },
+  {
+   "fact": "The cover period runs from 1 June to 31 May",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "The cover shall be for one-year period stretching from 1st June to 31st May."
+  },
+  {
+   "fact": "Accidental death, or total loss of both eyes, both hands/feet, or one eye plus one hand/foot: Rs 2 lakh; loss of one eye or use of one hand/foot: Rs 1 lakh",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Death Rs. 2 Lakh Total and irrecoverable loss of both eyes or loss of use of both hands or feet or loss of sight of one eye and loss of use of hand or foot Rs. 2 Lakh Total and irrecoverable loss of sight of one eye or loss of use of one hand or foot Rs. 1 Lakh"
+  },
+  {
+   "fact": "Death or disability from natural calamities and murder are covered; suicide is not",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "While death due to suicide is not covered, that from murder is covered."
+  },
+  {
+   "fact": "Eligible: individual (single or joint) account holders of participating banks/post offices aged 18 to 70, through one account only",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "All individual (single or joint) account holders of participating banks / Post office, in the age group of 18 to 70 years are entitled to join."
+  },
+  {
+   "fact": "Cover ends at age 70 (age nearer birthday), on closure of the account, or if the balance is insufficient",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "On attaining age 70 years (age nearer birth day). Closure of account with the Bank or insufficiency of balance to keep the insurance in force."
+  },
+  {
+   "fact": "Late joiners' cover starts from the date of auto-debit",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "However, risk cover would start from the date of auto debit of premium from the subscriber’s account."
+  },
+  {
+   "fact": "Late joiners (delayed enrolment or renewal) pay the annual premium",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Delayed enrolment / renewal subsequent to this date will be possible on payment of annual premium."
+  },
+  {
+   "fact": "Hospitalisation expenses are not reimbursed",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "Is there any provision for reimbursement of hospitalisation expenses following accident resulting in death or disablement? No"
+  },
+  {
+   "fact": "The premium was revised from Rs 12 to Rs 20 with effect from 1 June 2022",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/sites/default/files/2026-01/Website-MDO-English--May-2022.pdf",
+   "quote": "from Rs.330 to Rs.436 and from Rs.12 to Rs.20, respectively."
+  },
+  {
+   "fact": "Enrol by visiting the bank branch, BC point (Bank Mitra) or bank website, or the post office for a post office savings account",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1823754",
+   "quote": "Enrolment under the scheme can be done by visiting the branch/ BC point or website of the bank of the account holder or at the post office in case of post office savings bank account."
+  },
+  {
+   "fact": "Enrolment is also possible online through the Jan Suraksha Portal",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "The launch of the online Jan Suraksha Portal has made it possible for citizens to enrol conveniently without visiting bank branches or post offices."
+  },
+  {
+   "fact": "The premium is still Rs 20 per year (PIB, 9 May 2026); no further revision found up to Oct 2026",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259251",
+   "quote": "Premium: Rs.20/- per annum per member."
+  },
+  {
+   "fact": "The enrolment-cum-consent form records the nominee, who files the claim on the subscriber's death",
+   "status": "confirmed",
+   "url": "https://financialservices.gov.in/pmsby",
+   "quote": "claim can be filed by the nominee/appointee as per the enrolment form or by the legal heir/s in case there is no nomination made by the subscriber bank account holder."
+  }
+ ],
+ "summary": "DFS PMSBY FAQ (24 Dec 2025) and PIB 09.05.2026 still show Rs 20, Rs 2 lakh/Rs 1 lakh, 18-70, 1 June-31 May; no revision found; all confirmed."
+}

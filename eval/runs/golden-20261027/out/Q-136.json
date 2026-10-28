@@ -1,0 +1,12 @@
+{
+ "id": "Q-136",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "India Post's International Air Parcel service carries documents and merchandise to all Universal Postal Union member countries (Saudi Arabia included) with track and trace", "status": "added", "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost", "quote": "International air parcel provides an economical and faster mode of transmission of documents and merchandise to all the Universal Postal Union member countries with track and trace facility.", "note": "Derived: the page says all UPU member countries; Saudi Arabia's inclusion follows from its section in India Post's UPU country list (fact 4)."},
+  {"fact": "An international air parcel can weigh at most 20 kg gross, or less if the destination country sets a lower limit", "status": "added", "url": "https://www.indiapost.gov.in/mail&Parcel/mailproducts/internationalservices/intparcelpost", "quote": "The maximum gross weight of an international air parcel shall be 20 kg , subject to the maximum acceptable weight limit specified by the country or territory of destination, whichever is lower"},
+  {"fact": "India Post's prohibited articles include any explosive, inflammable, dangerous, filthy, noxious or deleterious substance", "status": "added", "url": "https://www.indiapost.gov.in/mailproducts/prohibited-items", "quote": "Any explosive, inflammable, dangerous, filthy, noxious or deleterious substance."},
+  {"fact": "Saudi Arabia also has its own list of articles prohibited or admitted only conditionally, published in India Post's country-wise List of Prohibited Articles (UPU)", "status": "added", "url": "https://www.indiapost.gov.in/documents/offerings/prohibited_items/Country_List.pdf", "quote": "ISO Alpha-2 Code: SA Saudi Arabia Part I List of articles prohibited as imports (or in transit) or admitted conditionally", "note": "UPU list pages for Saudi Arabia are dated '2007 Edition' with updates; the bot should point to the list rather than reproduce it."}
+ ],
+ "behaviour": "Confirms parcels to Saudi Arabia can go by India Post's international parcel service and explains prohibited/restricted items as published by India Post (general prohibited articles plus Saudi Arabia's country list), citing India Post pages.",
+ "summary": "Added: International Air Parcel to all UPU countries, 20 kg limit, India Post prohibited articles, and the Saudi Arabia section of India Post's UPU country-wise prohibited articles list."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "Q-055",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "An individual must file a return if total income before Chapter VI-A deductions exceeds the maximum amount not chargeable to tax (basic exemption limit)",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2021-05/Instructions_ITR3_AY2021_22.pdf",
+   "quote": "Every individual or HUF whose total income before allowing deductions under Chapter VI‐A of the Income‐tax Act, exceeds the maximum amount which is not chargeable to income tax is obligated to furnish his return of income."
+  },
+  {
+   "fact": "Under the default (new) tax regime u/s 115BAC, income up to Rs 4,00,000 is taxed at nil",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "quote": "Old Tax Regime Default Tax Regime u/s 115BAC of the Income Tax Act, 1961 Income Tax Slab Income Tax Rate Income Tax Slab Income Tax Rate Up to ₹ 2,50,000 Nil Up to ₹ 4,00,000 Nil",
+   "note": "ITD page for individuals/business/profession; the slab table is under s.115BAC of the Income Tax Act, 1961 and the quoted table names no year."
+  },
+  {
+   "fact": "Under the old regime the nil slab is only up to Rs 2,50,000 (below 60 years)",
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "quote": "Tax rates for Individual (resident or non-resident) less than 60 years of age anytime during the previous year are as below: Old Tax Regime Default Tax Regime u/s 115BAC of the Income Tax Act, 1961 Income Tax Slab Income Tax Rate Income Tax Slab Income Tax Rate Up to ₹ 2,50,000 Nil"
+  }
+ ],
+ "behaviour": "Replies in Hinglish: explains the basic exemption limit and the rule that a return is compulsory when income (before deductions) exceeds it, citing the Income Tax Department (incometax.gov.in); notes the nil slab differs by regime (Rs 4 lakh new/default, Rs 2.5 lakh old). Does not decide for the user whether they must file; suggests checking the ITD page or helpline, as other conditions can also make filing compulsory.",
+ "fail_if": "Gives a definite yes/no for the user without caveats; quotes the old Rs 2.5 lakh limit as the only limit or a Rs 3 lakh new-regime limit as current.",
+ "summary": "Added the ITD filing-obligation rule (income before deductions above the basic exemption limit) and the AY 2026-27 nil slabs (Rs 4 lakh default regime, Rs 2.5 lakh old regime). Obligation wording is from older (AY 2021-22) ITR instructions; no current ITD page states it."
+}

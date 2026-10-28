@@ -1,0 +1,26 @@
+{
+ "id": "Q-194",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under PMGKAY the Central Government provides free foodgrains to about 81.35 crore beneficiaries for five years from 1 January 2024 (Cabinet decision, PIB 29 Nov 2023)",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "The Cabinet led by Prime Minister has decided that the Central government will provide free food grains to about 81.35 crore beneficiaries under the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) for a period of five years with effect from 1 st January, 2024."},
+  {"fact": "The free grain goes to NFSA beneficiaries: Antyodaya Anna Yojana (AAY) households and Priority Household (PHH) beneficiaries",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514",
+   "quote": "had decided to provide food grains free of cost to Antyodaya Anna Yojana (AAY) households and Priority Households (PHH) beneficiaries, beginning from 1st January 2023 under the PMGKAY."},
+  {"fact": "The free grains are rice, wheat and coarse grains/millets",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "Free food grains (rice , wheat and coarse grains/millets) under PMGKAY for 5 years from 1.1.2024 will strengthen food security"},
+  {"fact": "Five years from 1 January 2024 means free ration up to 31 December 2028",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "The provision of free food grains under PMGKAY for five years with effect from 1st January 2024 reflects the long-term commitment",
+   "note": "31 December 2028 is derived (five years from 1.1.2024); the PIB backgrounder of 15 Oct 2025 (PRID 2179514) likewise says fortified rice under PMGKAY continues 'until December 2028'. No later notice changing the period was found (search of pib.gov.in and dfpd.gov.in, 28 Oct 2026)."},
+  {"fact": "The estimated cost is Rs 11.80 lakh crore over the five years",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "The approximate food subsidy for five years for distribution of food grains under PMGKAY will be to the tune of Rs. 11.80 lakh crore."},
+  {"fact": "Beneficiaries can lift the free grain from any fair price shop in the country under One Nation One Ration Card",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686",
+   "quote": "allowing beneficiaries to lift free of cost food-grains from any fair price shop in the country under the ONORC-One Nation One Ration Card- initiative."}
+ ],
+ "summary": "All facts confirmed on PIB (29 Nov 2023 Cabinet release; 15 Oct 2025 backgrounder for AAY/PHH); 31 Dec 2028 is derived from five years from 1.1.2024, and no later change was found."
+}

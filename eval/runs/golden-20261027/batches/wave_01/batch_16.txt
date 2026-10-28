@@ -1,0 +1,173 @@
+=== Q-361 | P1 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: passportindia.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: passport appointment reschedule kaise kare
+EXPECTED ANSWER NOW:
+Three times; only once for a Tatkaal appointment (Passport Seva 'applyFor' page in the bot's index, updated 06-10-2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Appointment can be rescheduled up to three times | Only once for a Tatkaal appointment
+
+=== Q-494 | P0 | English | Service procedure (6.2) | expected site: passportindia.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: How many times can I reschedule my passport appointment?
+EXPECTED ANSWER NOW:
+Three times; only once for a Tatkaal appointment (Passport Seva 'applyFor' page, updated 06-10-2026).
+PAGE IN THE BOT'S INDEX: https://www.passportindia.gov.in/psp/applyFor 2026-10-06
+FACTS GRADED ON 19 OCT (a starting point, not evidence): a normal appointment can be rescheduled three times | a Tatkaal appointment only once
+
+=== Q-495 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: passportindia.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: नया पासपोर्ट बनवाना है, क्या मैं सीधे पासपोर्ट ऑफिस जा सकता हूं?
+EXPECTED ANSWER NOW:
+No: fresh passport applications are submitted at a Passport Seva Kendra (PSK) or Post Office Passport Seva Kendra (POPSK), not at the Passport Office.
+PAGE IN THE BOT'S INDEX: https://www.passportindia.gov.in/psp/FaqWhereToApply
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no, not directly at the Passport Office | fresh applications are submitted at a PSK or POPSK
+
+=== Q-496 | P2 | English | Scheme / fact detail (6.2) | expected site: passportindia.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: What is a POPSK?
+EXPECTED ANSWER NOW:
+A Post Office Passport Seva Kendra - an extended arm of the Passport Office providing front-end services from token issue to granting the application.
+PAGE IN THE BOT'S INDEX: https://www.passportindia.gov.in/psp/FaqWhereToApply
+FACTS GRADED ON 19 OCT (a starting point, not evidence): POPSK = Post Office Passport Seva Kendra | extended arm of the Passport Office: front-end services from token to grant
+
+=== Q-497 | P1 | Hinglish (romanised Hindi) | Service use (6.2) | expected site: passportindia.gov.in (Bot registry)
+GOLDEN-FACT STATUS: Grounded in an indexed chunk (developer seed, 16-Oct-2026)
+QUESTION: passport ka helpline number kya hai, status bhi pata chalega?
+EXPECTED ANSWER NOW:
+Call centre 1800-258-1800 (status can be asked there), passportindia.gov.in, or the helpdesk at the nearest PSK. Cannot check the status itself.
+PAGE IN THE BOT'S INDEX: https://www.passportindia.gov.in/psp/FaqCallCentre
+FACTS GRADED ON 19 OCT (a starting point, not evidence): call centre 1800-258-1800 | application status can be asked at the call centre
+
+=== MT-13 | conversation | English | Life certificate for an 82-year-old pensioner (English) | facts from Q-097, Q-138 | expected site: pensionersportal.gov.in
+USER TURNS: My father needs to submit his life certificate. What should we do? / He is 82, a retired central government employee, and cannot leave home. / A bank staff member says he will come home and do it for Rs 1,000. / What happens if we miss the date?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks at most two questions that change the answer (central govt pensioner? can he travel?) with free text.
+Turn 2: Route that fits: 80+ window 1 Oct - 30 Nov 2026; doorstep options - Jeevan Pramaan face authentication or IPPB doorstep DLC (Rs 70 per successful DLC, no separate doorstep charge).
+Turn 3: Edge - intermediary: states the official IPPB charge (Rs 70) and how to book it; complaint route; no blame.
+Turn 4: What happens after: banks draw up an exception list on 1 December; only official consequences, nothing invented.
+
+=== Q-097 | P0 | English | Current rule or circular (6.2) | expected site: pensionersportal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the last date to submit my life certificate this year, and can I do it from home?
+EXPECTED ANSWER NOW:
+Answer: For Central Government pensioners/family pensioners the annual Life Certificate (LC) is due in November: the window this year is 1-30 November 2026, so the last date is 30 November 2026. Pensioners aged 80 years and above get an extra early window from 1 October (1 October - 30 November 2026), under DoPPW order dated 18.07.2019. Pension Disbursing Banks send reminders and, as on 1 December, draw up an exception list of pensioners who have not submitted. DoPPW is running the Nation-wide Digital Life Certificate (DLC) Campaign 5.0 in 2026 (camps are already being held, e.g. DoT/CCA Odisha, Sept 2026). Yes, the pensioner can do it from home: a Digital Life Certificate (Jeevan Pramaan) can be generated with Aadhaar Face Authentication on a smartphone. This needs Android 10 or above, or iOS 14 or above, on an un-rooted device, plus two apps: 'AadhaarFaceRd' (UIDAI) and the 'Jeevan Pramaan Face App'. The pensioner's Aadhaar must be seeded with the pension account. Other options: fingerprint/iris at a Jeevan Pramaan Centre (CSC/bank); IPPB/postman doorstep DLC; bank doorstep service. Physical LC at the bank in November is still allowed; Jeevan Pramaan is optional.
+Steps: 1. Install 'AadhaarFaceRd' (UIDAI) and the 'Jeevan Pramaan Face App' from the Play Store / App Store. 2. Open Jeevan Pramaan; on 'Operator Authentication' tick Aadhaar, then enter the Aadhaar number, mobile number and email, and submit. 3. Enter the pension details (PPO number, bank account, disbursing agency) and do a face scan. 4. An SMS with the Jeevan Pramaan ID confirms success; the bank fetches the DLC online. The PDF can be downloaded from jeevanpramaan.gov.in using the ID.
+Behaviour: give the November window plus the 1 October rule for 80+, with an official citation (pensionersportal.gov.in / PIB / jeevanpramaan.gov.in); say it applies to Central Government pensioners and that other pension types (EPFO, State Governments) may follow their own rules; do not ask for the Aadhaar or PPO number; do not claim to see whether the user has already submitted.
+Fail if: gives a fixed date like 31 December or 28 February (those were one-off COVID-era extensions in 2020/2021); omits the 80+ October window; says a bank visit is mandatory or face authentication is unavailable; cites 'DLC Campaign 4.0 (2025)' dates as this year's; recommends third-party agents/apps.
+VERIFICATION NOTES: Unverified: No official DoPPW OM for the exact 2026 Campaign 5.0 dates was found on crawled hosts. A DoPPW Facebook post and a Department of Posts letter copied on fnpo.org (unofficial hosts) say 1-30 Nov 2026 with 80+ from 1 Oct. The 30 Nov 2026 date is derived from the standing November rule.
+Pensioners' Portal home still links the 'Comprehensive Guidelines for DLC Campaign 4.0' (2025), which is stale. It also still lists old COVID extension notices (to 28.02.2022), which a bot may wrongly quote as the 'last date'. EPS-95 (EPFO) pensioners have a different, any-time-of-year LC rule; do not merge the two.
+SOURCES FOUND EARLIER:
+https://pensionersportal.gov.in/guidelines.aspx - Annual life certificate before the PDA in November every year; Jeevan Pramaan Aadhaar-based DLC option [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1601152 - DoPPW order 18.07.2019: pensioners aged 80+ can submit from 1 October each year; banks remind pensioners to submit by 30 November; exception list on 1 December [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247920 - Lok Sabha reply 01.04.2026: DLC campaigns held 1-30 November every year; pensioners above 80 can submit in October too; face authentication needs only a smartphone [crawled]
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314410 - 24.09.2026: camps under the Nation-wide DLC Campaign 5.0 (2026) already running [crawled]
+https://jeevanpramaan.gov.in/v2.0/apppackage/fappdownload - Face-auth requirements: Android 10+/iOS 14+, un-rooted device, AadhaarFaceRd plus the Jeevan Pramaan Face App [crawled]
+https://pensionersportal.gov.in/Document/Face_JP.pdf - DoPPW step-by-step face-authentication DLC process (Operator Authentication screen etc.) [crawled]
+https://pensionersportal.gov.in/FAQ_civil.pdf - LC every November; Jeevan Pramaan lets the pensioner submit from home; it is optional [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): last date 30 November 2026 (window 1-30 November) for Central Govt pensioners | pensioners aged 80+ can submit from 1 October | can be done from home: Jeevan Pramaan DLC with Aadhaar face authentication on a smartphone | needs AadhaarFaceRd + Jeevan Pramaan Face App, Android 10+/iOS 14+, Aadhaar seeded with pension | other options: biometric at CSC/bank, IPPB doorstep DLC, physical LC at the bank
+
+=== Q-101 | P1 | English | Service procedure (6.2) | expected site: pensionersportal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My father, a central government pensioner, passed away. How does my mother start family pension?
+EXPECTED ANSWER NOW:
+Process and documents per pensionersportal / CPAO, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): family pension claim process per Pensioners' Portal / CPAO | documents needed for the family pension claim
+
+=== Q-103 | P2 | English | Scheme / fact detail (6.2) | expected site: pensionersportal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: How much additional pension do I get after turning 80?
+EXPECTED ANSWER NOW:
+Answer: Central Government civil pensioners and family pensioners get additional pension/family pension by age slab, as a percentage of basic pension/family pension (O.M. No. 38/37/08-P&PW(A) dated 2.9.2008, effective 1.1.2006):
+- 80 to less than 85 years: 20%
+- 85 to less than 90: 30%
+- 90 to less than 95: 40%
+- 95 to less than 100: 50%
+- 100 years or more: 100%
+It is admissible from the 1st day of the month in which the 80th (or later slab) birthday falls. Example from the source: a pensioner who turns 80 in August 2008 gets it w.e.f. 1.8.2008. The same rates apply to family pensioners. Dearness Relief is paid on the total, including the additional pension.
+Behaviour: cite the Pensioners' Portal FAQ / DoPPW rules; make clear this is the Central Government civil pension rule (State Governments, Defence and EPS-95 have their own rules); give no personal amount calculation without the user's basic pension, and no eligibility verdict.
+Fail if: gives the slabs as a % of last pay rather than basic pension; starts the benefit from the birthday itself or from the next month instead of the 1st of the birth month; quotes unadopted proposals (e.g. a 5% increase at age 65) as current rules; applies it to EPS-95 pension.
+VERIFICATION NOTES: Unverified: Not re-checked against the CCS (Pension) Rules 2021 text (Rule 44). The FAQ page is marked 'Last Updated: 18.04.2018'; the slabs are unchanged as far as known. Dearness Relief on additional pension was not explicitly confirmed on the page.
+FAQ is old (2018) but still the crawled official source. The 8th CPC is pending; if its recommendations are implemented, the slabs could change.
+SOURCES FOUND EARLIER:
+https://pensionersportal.gov.in/FAQ_civil.pdf - FAQ 1.21: slabs 20/30/40/50/100%; FAQ 1.22: applies to family pensioners; FAQ 1.25: payable from the 1st day of the birth month [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): slabs of basic pension: 20% (80-85), 30% (85-90), 40% (90-95), 50% (95-100), 100% (100+) | admissible from the 1st day of the month in which the birthday falls | same rates apply to family pensioners
+
+=== Q-104 | P1 | Hindi (Devanagari) | Personal record (6.2) | expected site: pensionersportal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मेरी पेंशन इस महीने नहीं आई, क्या हुआ?
+EXPECTED ANSWER NOW:
+Cannot see records; CPENGRAMS / bank / CPAO contacts.
+
+=== Q-105 | P2 | English | Service procedure (6.2) | expected site: pensionersportal.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: How do I file a pension grievance online?
+EXPECTED ANSWER NOW:
+CPENGRAMS process, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): file the grievance online on CPENGRAMS, following its process
+
+=== Q-099 | P0 | English | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: What is the current Dearness Relief for central government pensioners?
+EXPECTED ANSWER NOW:
+Dearness Relief is 60% of basic pension w.e.f. 01.01.2026: the Cabinet decision of 18 Apr 2026 raised it by 2 percentage points from 58% (PIB). As of 15-Oct-2026 PIB shows no Cabinet approval for the 01.07.2026 instalment. Fail if a higher rate is stated without a newer PIB/DoE source.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Dearness Relief is 60% of basic pension w.e.f. 01.01.2026
+
+=== Q-100 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026); RE-VERIFY ON DEMO DAY
+QUESTION: DA 63% ho gaya July se, arrear kab milega?
+EXPECTED ANSWER NOW:
+Does not confirm 63%: the official rate is 60% w.e.f. 01.01.2026 (PIB, 18 Apr 2026). As of 15-Oct-2026 no instalment for 01.07.2026 has been approved, so there is no arrear to announce.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): official DA/DR rate is 60% w.e.f. 01.01.2026 | no 01.07.2026 instalment approved yet, so no arrears to announce
+
+=== Q-102 | P1 | English | Current rule or circular (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the status of the 8th Central Pay Commission - terms of reference and timeline?
+EXPECTED ANSWER NOW:
+Only what PIB releases state, with dates; no fitment-factor speculation.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): current status of the 8th CPC with dates (constituted, notification date) | terms of reference as officially stated | timeline for the Commission's report as officially stated
+
+=== Q-148 | P1 | English | Current rule or circular (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: Has the Atal Pension Yojana been extended, and until when?
+EXPECTED ANSWER NOW:
+Answer: Yes. On 21 January 2026 the Union Cabinet chaired by the Prime Minister approved continuing the Atal Pension Yojana (APY) up to FY 2030-31. It also extended Government funding support for promotional and developmental activities (awareness, capacity building) and gap funding (viability) until 2030-31 (PIB, Ministry of Finance, 21 Jan 2026). Scheme features are unchanged in the release: guaranteed minimum pension of Rs 1,000 to Rs 5,000 per month from age 60, based on contributions; launched 9 May 2015; over 8.66 crore subscribers as of 19 Jan 2026.
+Behaviour: cites the PIB release with date and period; does not invent new terms.
+Fail if: says APY was closed or replaced; gives a period other than 'up to FY 2030-31'; or claims the pension amounts were raised.
+VERIFICATION NOTES: The release says 'continuation', not 'extension'; either word is acceptable. The age band (18-40) and the income-tax-payer exclusion are not in this release.
+SOURCES FOUND EARLIER:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216727 - PIB 21 Jan 2026: Cabinet approves continuation of APY up to FY 2030-31 with funding support for promotional/developmental activities and gap funding; Rs 1,000-5,000 pension; 8.66 crore subscribers as of 19 Jan 2026 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): yes: Cabinet approved continuing APY up to FY 2030-31
+
+=== Q-162 | P1 | English | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Total amount transferred under PM-Kisan since launch?
+EXPECTED ANSWER NOW:
+More than Rs 4.47 lakh crore transferred to farmers through 23 instalments since the scheme began in February 2019 (PIB, 31 Jul 2026).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): more than Rs 4.47 lakh crore through 23 instalments
+
+=== Q-169 | P0 | English | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What is the MSP of wheat for Rabi Marketing Season 2027-28?
+EXPECTED ANSWER NOW:
+Rs 2,610 per quintal for Rabi Marketing Season 2027-28, an increase of Rs 25 over Rs 2,585 for RMS 2026-27; approved by the CCEA on 30 Sep 2026 (PIB).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): wheat MSP Rs 2,610 per quintal for RMS 2027-28
+
+=== Q-170 | P0 | Hindi (Devanagari) | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: गेहूं का न्यूनतम समर्थन मूल्य अभी कितना है?
+EXPECTED ANSWER NOW:
+RMS 2027-28 के लिए Rs 2,610 प्रति क्विंटल (30 सितंबर 2026). Rs 2,585 only if labelled RMS 2026-27.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): wheat MSP Rs 2,610 per quintal for RMS 2027-28
+
+=== Q-171 | P0 | English | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Wheat MSP is Rs 2,585 per quintal, right?
+EXPECTED ANSWER NOW:
+Corrects: that was RMS 2026-27; RMS 2027-28 is Rs 2,610.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Rs 2,585 was the MSP for RMS 2026-27 | RMS 2027-28 wheat MSP is Rs 2,610
+
+=== Q-172 | P0 | English | Scheme / fact detail (6.2) | expected site: pib.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: Give me the MSP of all Rabi crops for marketing season 2027-28.
+EXPECTED ANSWER NOW:
+Wheat 2,610; Barley 2,286; Gram 5,958; Masur 7,390; Rapeseed & Mustard 6,613; Safflower 7,215. Every number must match PIB table.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): wheat Rs 2,610 per quintal | barley Rs 2,286 per quintal | gram Rs 5,958 per quintal | masur (lentil) Rs 7,390 per quintal | rapeseed & mustard Rs 6,613 per quintal | safflower Rs 7,215 per quintal

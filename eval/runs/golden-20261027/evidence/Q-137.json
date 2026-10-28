@@ -1,0 +1,67 @@
+{
+ "id": "Q-137",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "final": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:08+05:30",
+   "sha256": "0b551d01f927c2fa4735be3494f38ce8b6fb5ad6d87055920fb12974ddd4a589",
+   "copy": "c5f5575eedfe1b93b6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "final": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:08+05:30",
+   "sha256": "0b551d01f927c2fa4735be3494f38ce8b6fb5ad6d87055920fb12974ddd4a589",
+   "copy": "c5f5575eedfe1b93b6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "final": "https://ippbonline.bank.in/web/ippb/doorstep-banking",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:08+05:30",
+   "sha256": "0b551d01f927c2fa4735be3494f38ce8b6fb5ad6d87055920fb12974ddd4a589",
+   "copy": "c5f5575eedfe1b93b6cc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "final": "https://www.indiapost.gov.in/api/documents/file/103pg0i2m4g701grd3jv2e3da860fhn10sjr80fiob3ennq01gju3mn7q07234",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:02:28+05:30",
+   "sha256": "f55068acec5bf033ec0c161a6a5165a1a54d66a7b5f9f7f269016cc3ca8bff5f",
+   "copy": "664eaa2634a29003c44e.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

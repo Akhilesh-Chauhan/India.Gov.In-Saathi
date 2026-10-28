@@ -1,0 +1,37 @@
+{
+ "id": "Q-018",
+ "checked_at": "2026-10-28T14:02:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/your-aadhaar",
+   "final": "https://uidai.gov.in/en/your-aadhaar",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:35+05:30",
+   "sha256": "7c7f3fa7f2935011d008ff9a5727bc2755b9d652034efefe2777c091fd86fe20",
+   "copy": "e30ee6bcd799079b724a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "final": "https://uidai.gov.in/en/enrolment-and-update",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:39+05:30",
+   "sha256": "05a706195c6ee7ad4f9649d6f7c9bf09dd3157870d908757ab366b49eac536ac",
+   "copy": "575017bf8e0125a49643.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-385",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "final": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:09:51+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "97d9f588fabef4402526.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/pensioners-portal.html",
+   "final": "https://web.umang.gov.in/landing/department/pensioners-portal.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:16:48+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "e776d954a46e4390e972.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/epfo.html",
+   "final": "https://web.umang.gov.in/landing/department/epfo.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:43:43+05:30",
+   "sha256": "4e5eae067aa32e4ada0eb6c03586c0d2648af6800df2d59320a740ed32d1fe74",
+   "copy": "dab15b52bcfaecfed0cd.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

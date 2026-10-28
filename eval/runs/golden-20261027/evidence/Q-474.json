@@ -1,0 +1,37 @@
+{
+ "id": "Q-474",
+ "checked_at": "2026-10-28T14:03:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "final": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:15:40+05:30",
+   "sha256": "804dcf58c402dfa6f3d2b34fc36a2af944cc49629a3af8097e1402d33a2c0b08",
+   "copy": "4345e5534b38da9126e0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "final": "https://ir.indianrailways.gov.in/GST/FAQs.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:15:40+05:30",
+   "sha256": "804dcf58c402dfa6f3d2b34fc36a2af944cc49629a3af8097e1402d33a2c0b08",
+   "copy": "4345e5534b38da9126e0.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

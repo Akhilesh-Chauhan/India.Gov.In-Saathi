@@ -1,0 +1,37 @@
+{
+ "id": "Q-190",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "DAHD's main scheme for cows and buffaloes is the Rashtriya Gokul Mission (RGM), which aims to promote indigenous cattle and buffalo rearing and conservation",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "quote": "To promote indigenous cattle & buffalo rearing and conservation in a scientific and holistic manner.",
+   "example": true
+  },
+  {
+   "fact": "Under RGM's Nationwide Artificial Insemination Programme, artificial insemination is provided free of cost at the farmer's doorstep",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112788",
+   "quote": "The Nationwide Artificial Insemination Programme (NAIP) under the RGM provides free of cost Artificial Insemination (AI) at the farmer’s doorstep in 605 districts across the country where the baseline AI coverage was below 50%.",
+   "example": true
+  },
+  {
+   "fact": "Revised RGM gives farmers 3% interest subvention on loans to buy high genetic merit IVF heifers",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "quote": "(ii) 3% interest subvention to farmers for procurement of HGM IVF heifers.",
+   "example": true
+  },
+  {
+   "fact": "Feed and fodder development is supported under the National Livestock Mission (NLM) and the Animal Husbandry Infrastructure Development Fund (AHIDF)",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "quote": "The Government of India provides support related to feed and fodder development activities under Animal Husbandry Infrastructure Development Fund (AHIDF) and National Livestock Mission (NLM) schemes.",
+   "example": true
+  }
+ ],
+ "behaviour": "Replies in Hindi; names one or more DAHD schemes for cattle and buffalo rearing (e.g. Rashtriya Gokul Mission; NLM/AHIDF for feed and fodder) with their official details and citations to official sources.",
+ "fail_if": "Offers the discontinued Breed Multiplication Farm subsidy under RGM as currently available; names schemes not run by DAHD as the answer; cites unofficial sites.",
+ "summary": "dahd.gov.in is now a JS app whose old scheme pages/PDFs 404; used MoFAHD PIB replies (Mar & Aug 2025): RGM for cattle/buffalo, free doorstep AI, 3% subvention on IVF heifers, NLM/AHIDF for fodder; BMF component discontinued."
+}

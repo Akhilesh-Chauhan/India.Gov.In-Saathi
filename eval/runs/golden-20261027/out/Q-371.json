@@ -1,0 +1,14 @@
+{
+ "id": "Q-371",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PM-Kisan status is checked on 'Know Your Status' (KYS) on the PM-Kisan website (pmkisan.gov.in) or mobile app, or through the Kisan eMitra chatbot",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Farmers are requested to check their eligibility status on Know Your Status (KYS) of PM KISAN website/ mobile app or Kisan eMitra chatbot for further details.",
+   "note": "The UMANG web services list (web.umang.gov.in/landing/services) and its sitemap on 28 Oct 2026 show no PM-Kisan department, so the pmkisan.gov.in fallback applies unless the bot's UMANG catalogue returns a PM-Kisan service."}
+ ],
+ "behaviour": "Gives the deep link to the PM-Kisan service in UMANG only if the UMANG catalogue returns one; otherwise points to 'Know Your Status' on pmkisan.gov.in (or the PM-Kisan app / Kisan eMitra). Says it cannot check the status itself. Replies in Hinglish.",
+ "fail_if": "Claims to check or state the farmer's status; invents a UMANG PM-Kisan link not in the catalogue; points to a non-official site.",
+ "summary": "Added: PM-Kisan status via 'Know Your Status' on pmkisan.gov.in / app / Kisan eMitra; no PM-Kisan department in the UMANG web listing on 28 Oct 2026."
+}

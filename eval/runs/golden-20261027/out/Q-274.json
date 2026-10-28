@@ -1,0 +1,29 @@
+{
+ "id": "Q-274",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "PMS-SC is a Centrally Sponsored Scheme of the Ministry/Department of Social Justice and Empowerment, implemented through the States and UTs", "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307396",
+   "quote": "The Ministry of Social Justice and Empowerment is implementing the Centrally Sponsored Post-Matric Scholarship Scheme for Scheduled Caste students through State Governments and Union Territory Administrations."},
+  {"fact": "Parents'/guardians' income from all sources must not exceed Rs 2,50,000 a year, counted for the last financial year", "status": "confirmed",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf",
+   "quote": "5.3 Scholarships will be paid to the students whose parents’/guardians' income from all sources does not exceed Rs. 2,50,000/- (Rupees Two lakh Fifty thousand only) during the last Financial Year."},
+  {"fact": "The income certificate is needed only once, at admission, for courses lasting more than one year", "status": "confirmed",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf",
+   "quote": "Income certificate is required to be taken once only i.e. at the time of admission only to courses which are continuing for more than one year."},
+  {"fact": "The income certificate is issued by the authority the State Government decides", "status": "confirmed",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf",
+   "quote": "The income certificate shall be issued by the Authority as decided by the State Government."},
+  {"fact": "These guidelines were issued in March 2021 and apply from 2020-21, running up to FY 2025-26", "status": "confirmed",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf",
+   "quote": "FOR STUDIES IN INDIA (2020-2021 to 2025-26) GOVERNMENT OF INDIA MINISTRY OF SOCIAL JUSTICE & EMPOWERMENT Department of Social Justice & Empowerment (March, 2021)",
+   "note": "Scanned PDF read by OCR. PIB release of 07-09-2026 (PRID 2307396) shows the scheme still being implemented; no notice revising the Rs 2.5 lakh ceiling for 2026-27 was found."},
+  {"fact": "Funding is shared 60:40 between Centre and States (90:10 for North-Eastern States)", "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488",
+   "quote": "The scheme is funded on a 60:40 Centre–State sharing basis, and 90:10 for North-Eastern States."},
+  {"fact": "Applications go through the designated State scholarship portal or the National Scholarship Portal", "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307396",
+   "quote": "Applications under the Scheme are invited through designated State scholarship portals or the National Scholarship Portal."}
+ ],
+ "summary": "All PMS-SC facts confirmed (Rs 2.5 lakh ceiling, certificate once, 60:40, State portal/NSP); PIB 07-09-2026 shows the scheme continuing with no revised ceiling."
+}

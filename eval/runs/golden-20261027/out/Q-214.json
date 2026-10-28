@@ -1,0 +1,157 @@
+{
+ "id": "Q-214",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "A victim of financial cyber fraud should call the National Cyber Crime Helpline 1930",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Any victim of financial cyber fraud can dial helpline number 1930"
+  },
+  {
+   "fact": "Report the fraud immediately on cybercrime.gov.in (or call 1930)",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "If you are a victim of cybercrime, report immediately at https://www.cybercrime.gov.in/ or call 1930."
+  },
+  {
+   "fact": "Notify your bank of the unauthorised transaction at once: the longer you take, the higher the risk of loss",
+   "status": "confirmed",
+   "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11040&Mode=0",
+   "quote": "The customers must be advised to notify their bank of any unauthorised electronic banking transaction at the earliest after the occurrence of such transaction, and informed that the longer the time taken to notify the bank, the higher will be the risk of loss to the bank/ customer."
+  },
+  {
+   "fact": "On the portal choose 'Report Other Cybercrimes' and register with your name and a valid Indian mobile number",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "In case of other cybercrimes, you can select the “Report Other Cybercrimes” section. You are required to register yourself using your name and a valid Indian mobile number."
+  },
+  {
+   "fact": "The registration OTP is valid for 30 minutes only",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "You will receive a One-Time Password (OTP) on your mobile number, which remains valid for 30 minutes only."
+  },
+  {
+   "fact": "'Online Financial Fraud' is a complaint category on the portal",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Online Financial Fraud"
+  },
+  {
+   "fact": "For a financial crime keep ready the name of the bank / wallet / merchant",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Name of the Bank / Wallet / Merchant"
+  },
+  {
+   "fact": "Keep ready the 12-digit transaction ID / UTR number",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "12-digit Transaction id / UTR No."
+  },
+  {
+   "fact": "Incident details must be at least 200 characters with no special characters",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Incident details (minimum 200 characters) without any special characters (#$@^*'~!)."
+  },
+  {
+   "fact": "Evidence files may be up to 10 MB each",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Soft copy of all the relevant evidences related to the cyber crime (not more than 10 MB each)"
+  },
+  {
+   "fact": "A soft copy of a national ID of the complainant is needed in jpeg/jpg/png, up to 5 MB",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Soft copy of any national ID (Voter Id, Driving license, Passport, PAN Card, Aadhar Card) of complainant in .jpeg, .jpg, .png format (file size should not exceed 5 MB)."
+  },
+  {
+   "fact": "Complaints are handled by the police of the State/UT selected when reporting",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Complaints reported on the portal are handled by the concerned State/UT police authorities based on the State/UT selected while reporting the complaint."
+  },
+  {
+   "fact": "The complainant gets an acknowledgement number to track the complaint via 'Check Status' after logging in",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "The complainant will receive an acknowledgement number, which can be used to track the progress of the complaint by logging into the portal and clicking on the “Check Status” option."
+  },
+  {
+   "fact": "For emergencies or non-cyber crimes call local police on 112",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "For emergencies or non-cyber crimes, contact local police (112), National Women Helpline (181), or Cyber Crime Helpline (1930)."
+  },
+  {
+   "fact": "1930 is the current helpline; the old number was 155260",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1814120",
+   "quote": "The Ministry of Home Affairs has operationalized a toll-free Helpline number ‘1930’ (earlier ‘155260’) for immediate reporting of financial frauds"
+  },
+  {
+   "fact": "The National Cyber Crime Reporting Portal is run under the Ministry of Home Affairs through the Indian Cyber Crime Coordination Centre (I4C)",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Indian Cyber Crime Coordination Centre (I4C) has been established under Ministry of Home affairs (MHA) to act as a nodal point at National level in the fight against cybercrime."
+  },
+  {
+   "fact": "'Report Cyber Crime' is the portal menu under which complaints are reported",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "\"REPORT_CYBER_CRIME\": \"Report Cyber Crime\""
+  },
+  {
+   "fact": "Keep ready the incident date and time",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Incident Date and Time."
+  },
+  {
+   "fact": "Keep ready the date of transaction",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Date of transaction"
+  },
+  {
+   "fact": "Keep ready the fraud amount",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "\"BULLET_POINTS_8\": \"Fraud amount\""
+  },
+  {
+   "fact": "Keep ready suspect details if available, such as mobile number, e-mail and bank account number",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "\"Suspect details (if available)\", \"BULLET_POINTS_12\": \"Mobile No\", \"BULLET_POINTS_13\": \"Email ID\", \"BULLET_POINTS_14\": \"Bank Account No\""
+  },
+  {
+   "fact": "Keep ready suspected website URLs / social media handles",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Suspected website URLs / Social Media handles (wherever applicable)"
+  },
+  {
+   "fact": "Suspect account details can include the suspect's account number / wallet ID / UPI ID",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "Account No. / Wallet ID / Merchant ID / UPI ID"
+  },
+  {
+   "fact": "Transaction details on the form: mode of payment, bank/wallet, account/wallet/UPI ID and transaction ID/UTR number",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "\"MODE\": \"Mode of Payment\", \"BANK\": \"Bank / (Wallet / PG / PA) / Merchant\", \"ACCOUNT\": \"Account No / Wallet ID / UPI ID\", \"ACCOUNT1\": \"Account No\", \"TRANSACTION_ID\": \"Transaction ID / UTR Number\""
+  },
+  {
+   "fact": "The complaint form has three steps: incident and complainant details, suspect details, then preview and submit",
+   "status": "confirmed",
+   "url": "https://cybercrime.gov.in/assets/i18n/en.json",
+   "quote": "\"STEP_1\": \"Incident and Complainant Details\", \"STEP_2\": \"Suspect Details\", \"STEP_3\": \"Preview & Submit\""
+  }
+ ],
+ "summary": "All values confirmed on cybercrime.gov.in (assets/i18n/en.json); 1930 replaced 155260 (PIB 2022); 'inform your bank at once' backed by RBI's customer-liability circular."
+}

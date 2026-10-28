@@ -1,0 +1,19 @@
+{
+ "id": "Q-506",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "OTR (One Time Registration) is a unique number allotted to the student, valid for the whole academic career on NSP",
+   "status": "confirmed", "url": "https://scholarships.gov.in/home",
+   "quote": "One Time Registration (OTR) is a unique number allotted to the student and is applicable for entire academic career on National Scholarship Portal."},
+  {"fact": "OTR is required to apply for scholarships on NSP from AY 2024-25",
+   "status": "confirmed", "url": "https://scholarships.gov.in/home",
+   "quote": "OTR is required to apply for the scholarships on National Scholarship Portal from AY 2024-25."},
+  {"fact": "OTR is generated using Aadhaar or the Aadhaar Enrolment ID (EID)",
+   "status": "confirmed", "url": "https://scholarships.gov.in/home",
+   "quote": "OTR can be generated using Aadhaar/Aadhaar Enrollment number(EID)"},
+  {"fact": "The NSP OTR app is available on the Google Play Store",
+   "status": "confirmed", "url": "https://scholarships.gov.in/home",
+   "quote": "NSP OTR App is available on Google Play Store."}
+ ],
+ "summary": "All four OTR facts confirmed on the NSP homepage."
+}

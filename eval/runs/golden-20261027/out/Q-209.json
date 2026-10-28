@@ -1,0 +1,19 @@
+{
+ "id": "Q-209",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Under the RTI Act, 2005 every citizen has the right to information held by public authorities",
+   "status": "added", "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "quote": "Subject to the provisions of this Act, all citizens shall have the right to information."},
+  {"fact": "The RTI Online portal (rtionline.gov.in) is only for public authorities under the Central Government; it cannot be used for State public authorities",
+   "status": "added", "url": "https://rtionline.gov.in/faq.php",
+   "quote": "Can I file RTI application for state public authorities through this portal? No. This Portal is exclusively meant for Public Authorities under Central Govt. only."},
+  {"fact": "Information about a village panchayat (a public authority under the State) is requested from the State Public Information Officer of that public authority, not through RTI Online",
+   "status": "added", "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "quote": "(a) the Central Public Information Officer or State Public Information Officer, as the case may be, of the concerned public authority;",
+   "note": "Derived: s.6(1) sends the request to the CPIO or SPIO of the concerned public authority; a panchayat is a State-level body (s.2(a)(ii): authorities set up or financed by the State Government come under the State Government), so its SPIO is the route."}
+ ],
+ "behaviour": "Replies in Hindi; explains what RTI is; says RTI Online (rtionline.gov.in) covers only Central Government public authorities and that information about a gram panchayat is sought through the State RTI route (the panchayat's / State public authority's State PIO), citing the official source.",
+ "fail_if": "Tells the user to file the panchayat RTI on rtionline.gov.in; says RTI applies only to Central Government bodies.",
+ "summary": "Added RTI Act s.3 right, RTI Online Central-only rule (FAQ) and the SPIO route for State bodies such as panchayats."
+}

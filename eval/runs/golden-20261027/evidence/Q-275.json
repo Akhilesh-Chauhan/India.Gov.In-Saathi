@@ -1,0 +1,37 @@
+{
+ "id": "Q-275",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Comparative%20Statement-without%20Header-Footer.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/Comparative%20Statement-without%20Header-Footer.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:53+05:30",
+   "sha256": "3a74cdf40cfb4b4a2e156a03ba871f3185958284a2883c2cb861da63a7467927",
+   "copy": "20efe1e886484d454234.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191178",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191178&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:55+05:30",
+   "sha256": "bdba5c5258cdb57deaab6caecd6e6506c88b83e166abc2d884402075b1b41adc",
+   "copy": "5075127418955da54107.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

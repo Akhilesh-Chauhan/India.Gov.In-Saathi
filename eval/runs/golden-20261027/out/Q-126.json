@@ -1,0 +1,33 @@
+{
+ "id": "Q-126",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The NSI table shows the 5-year Post Office Time Deposit at 7.5% from 01-01-2024 to 30-09-2026 (covering Jul-Sep 2026; columns 1/2/3/5 years: 6.90, 7.00, 7.10, 7.50)",
+   "status": "confirmed",
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=185",
+   "quote": "01-07-2023 to 31-12-2023 6.90 7.00 7.00 7.50 01-01-2024 to 30-09-2026 6.90 7.00 7.10 7.50"
+  },
+  {
+   "fact": "India Post's savings page gives Time Deposit rates of 6.9% to 7.5% depending on the period",
+   "status": "confirmed",
+   "url": "https://www.indiapost.gov.in/banking-services/savings",
+   "quote": "National Savings Time Deposit Account (TD) Rate of Interest: 6.9% to 7.5% Interest rates vary based on the period.",
+   "note": "The India Post page shows 'Last Updated On: 19.10.2026' (within Q3 FY 2026-27). The 7.5% top rate is the 5-year deposit per the NSI table."
+  },
+  {
+   "fact": "Rates for 1 Oct - 31 Dec 2026 (Q3 FY 2026-27) were set by DEA's Office Memorandum dated 30.09.2026",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/budget-division/475",
+   "quote": "Revision of interest rates for Small Savings Schemes for Q3 2026-27 30.09.2026"
+  },
+  {
+   "fact": "DEA's OM of 30.09.2026 keeps all small savings rates for Oct-Dec 2026 (Q3 FY 2026-27) unchanged from Q2, so the 5-year Time Deposit stays at 7.5%",
+   "status": "confirmed",
+   "url": "https://dea.gov.in/files/budget_division_documents/R.pdf",
+   "note": "Quoted from the OCR of the scanned OM. The 7.5% is derived: the OM keeps Q2 rates, and NSI shows the 5-year TD at 7.5% to 30.09.2026.",
+   "quote": "The rates of interest on various Small Savings Schemes for the third quarter of FY 2026-27 starting from 1% October, 2026 and ending on 31° December, 2026 shall remain unchanged from those notified for the second quarter"
+  }
+ ],
+ "summary": "5-year TD 7.5% confirmed on NSI (to 30-09-2026) and consistent with India Post's current 6.9%-7.5% range; DEA Q3 OM dated 30.09.2026 confirmed; 'unchanged' only in the scanned OM (manual)."
+}

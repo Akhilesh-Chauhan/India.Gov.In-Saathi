@@ -1,0 +1,82 @@
+{
+ "id": "Q-460",
+ "checked_at": "2026-10-28T14:03:38+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/",
+   "final": "https://www.myscheme.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:32:36+05:30",
+   "sha256": "e224fd67c6f917a24a1ccc2dadece2841b08ebc5eb4d4c1b14d0dab19de1fda6",
+   "copy": "fe078143478b2a1c54c8.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:01+05:30",
+   "sha256": "29f5638d08e2117e3379165d93b0098da0cffbb0aa7e0c54bf49e304312053b7",
+   "copy": "57338a589ed435ab4721.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:34+05:30",
+   "sha256": "d951744bf9c935383b5752f5a15280fd8d72a8e2af7f05c6ad40d8a61ac3302d",
+   "copy": "c1f3908fe00666ed61e6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:34+05:30",
+   "sha256": "d951744bf9c935383b5752f5a15280fd8d72a8e2af7f05c6ad40d8a61ac3302d",
+   "copy": "c1f3908fe00666ed61e6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 5,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/scss",
+   "final": "https://www.myscheme.gov.in/schemes/scss",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:10:54+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "225b993b99463873a22b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

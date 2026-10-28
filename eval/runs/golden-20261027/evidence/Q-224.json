@@ -1,0 +1,67 @@
+{
+ "id": "Q-224",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "final": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:20+05:30",
+   "sha256": "ae0ef2060b76bf43d3e314444e27e7b49ca082eb3ecc031977e19ffbfd9fbbf6",
+   "copy": "c00362f3bf2a67f25af1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "final": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:20+05:30",
+   "sha256": "ae0ef2060b76bf43d3e314444e27e7b49ca082eb3ecc031977e19ffbfd9fbbf6",
+   "copy": "c00362f3bf2a67f25af1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "final": "https://ecourts.gov.in/ecourts_home/static/manuals/efiling-User-manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:20+05:30",
+   "sha256": "ae0ef2060b76bf43d3e314444e27e7b49ca082eb3ecc031977e19ffbfd9fbbf6",
+   "copy": "c00362f3bf2a67f25af1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://ecourts.gov.in/ecourts_home/static/manuals/ePay-Final-USer-manual.pdf",
+   "final": "https://ecourts.gov.in/ecourts_home/static/manuals/ePay-Final-USer-manual.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:56:25+05:30",
+   "sha256": "34bcb3d274d867e5afba8ec3cb1acffb53245726aeaaf94c406e55aa8ad25ff0",
+   "copy": "6712ee6c8fe1ae241eaa.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

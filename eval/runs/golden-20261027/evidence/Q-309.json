@@ -1,0 +1,52 @@
+{
+ "id": "Q-309",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.mudra.org.in/",
+   "final": "https://www.mudra.org.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:20+05:30",
+   "sha256": "5b99eade0b5446109945e67fa6f8d5f3e98ab7b851c0c5679640c538d168060a",
+   "copy": "9b90c07204ff9ccbe7c4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.mudra.org.in/",
+   "final": "https://www.mudra.org.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:20+05:30",
+   "sha256": "5b99eade0b5446109945e67fa6f8d5f3e98ab7b851c0c5679640c538d168060a",
+   "copy": "9b90c07204ff9ccbe7c4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.mudra.org.in/",
+   "final": "https://www.mudra.org.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:31:20+05:30",
+   "sha256": "5b99eade0b5446109945e67fa6f8d5f3e98ab7b851c0c5679640c538d168060a",
+   "copy": "9b90c07204ff9ccbe7c4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

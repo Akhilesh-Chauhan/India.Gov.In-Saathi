@@ -1,0 +1,183 @@
+=== Q-185 | P2 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: mausam.imd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Partly verified (15 Oct 2026) - see Verification notes; RE-VERIFY ON DEMO DAY
+QUESTION: is saal monsoon kab khatam hua poore desh se
+EXPECTED ANSWER NOW:
+Answer: As of IMD's latest press release (14 October 2026, 1340 hrs IST), the southwest monsoon had not yet withdrawn from the entire country. The withdrawal line still passed through 27.0°N/90.5°E, Dhubri, Kolkata, Angul, Khammam, Honavar and 14.0°N/73.0°E. IMD said conditions were becoming favourable for further withdrawal from the remaining parts of the country, and for northeast monsoon rains to start over the south peninsula, 'tomorrow, the 15th October 2026'. IMD's 8 Oct 2026 extended-range forecast had also expected full withdrawal at the start of the week of 15-21 Oct. As of 15 Oct 2026 there was no IMD declaration that the monsoon had withdrawn from the entire country. Once IMD issues that press release, its date is the answer.
+Behaviour: answer only from the dated IMD press release; state the as-on date; do not claim withdrawal before IMD declares it.
+Fail if: gives a date taken from a previous year (e.g., 15 Oct 2025 or 28 Oct 2020); states that it has withdrawn on a specific date without an IMD release; cites news, Facebook or Hindustan Times.
+VERIFICATION NOTES: Unverified: Not available yet: the actual date of withdrawal from the entire country in 2026. It may be declared on or after 15 Oct 2026.
+Recheck mausam.imd.gov.in within days and replace the answer with the declared date (likely 15 Oct 2026 or later). Third-party posts reuse withdrawal dates from earlier years.
+SOURCES FOUND EARLIER:
+https://mausam.imd.gov.in/Forecast/marquee_data/Press%20Release%2014-10-2026_1791965537.pdf - 14 Oct 2026: withdrawal line position; conditions favourable for further withdrawal from remaining parts and NE monsoon commencement on 15 Oct 2026 [crawled]
+https://mausam.imd.gov.in/Forecast/marquee_data/ERF%2008.10.26.pdf - 8 Oct 2026 ERF: conditions to become favourable for withdrawal from entire country at beginning of week 2 (15-21 Oct) [crawled]
+https://mausam.imd.gov.in/responsive/monsooninformation_withdrawal.php - Withdrawal criteria; latest press release links [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): as of IMD's 14 Oct 2026 release the monsoon had not yet withdrawn from the whole country
+
+=== Q-019 | P0 | English | Scheme / fact detail (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: What is the passport fee for my 6-year-old child, normal fresh application?
+EXPECTED ANSWER NOW:
+Correct fee (Passport Seva fee page): Rs 1,750 application fee for a fresh passport for a minor below 18 (36 pages, valid 5 years or until age 18); fresh applications for minors aged 8 or below get a 10% rebate on the basic passport fee; Tatkaal adds Rs 2,500. Passport Seva is in the bot's registry and index (52 chunks per the developer seed): cite the Passport Seva fee page (or MEA); if the fee is not in its sources it must say so and link Passport Seva rather than guess. Fail if Rs 1,000 or Rs 1,500 (old fees) or any uncited amount.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Fresh passport fee for a minor is Rs 1,750 | 36 pages, valid 5 years or until age 18 | 10% rebate on the basic fee for minors aged 8 or below
+
+=== Q-020 | P0 | Hinglish (romanised Hindi) | Service procedure (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: passport kaise banwaye pehli baar, koi agent ki zarurat hai kya?
+EXPECTED ANSWER NOW:
+Official process from mea.gov.in; link to Passport Seva; no agents or look-alike sites.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Apply yourself through the official Passport Seva process (MEA)
+
+=== Q-021 | P1 | English | Service procedure (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: My passport expired while I'm working in Dubai. How do I renew it and do I need to come back to India?
+EXPECTED ANSWER NOW:
+Apply through the Indian Mission/embassy as per MEA; cite mea.gov.in.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Renew through the Indian Mission/Embassy abroad (no need to return)
+
+=== Q-022 | P1 | English | Scheme / fact detail (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (13-15 Oct 2026)
+QUESTION: How much extra is the Tatkaal passport fee?
+EXPECTED ANSWER NOW:
+Rs 2,500 additional Tatkaal fee, payable on top of the normal application fee (Passport Seva fee page). Cite Passport Seva (in the bot's index) or MEA; if the fee is not in its sources, say so and link Passport Seva. Fail if Rs 2,000 (old fee).
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Tatkaal adds Rs 2,500 | Payable on top of the normal application fee
+
+=== Q-023 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: विदेश में नौकरी के लिए जा रहा हूं, एजेंट असली है या नकली कैसे पता करें?
+EXPECTED ANSWER NOW:
+Only MEA guidance on registered recruiting agents / emigration; warn about illegal agents; no third-party sites.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Verify the agent is a registered recruiting agent on MEA's eMigrate portal
+
+=== Q-024 | P1 | English | Service procedure (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: I changed my surname after marriage. What do I need to update my passport, and should I update PAN and Aadhaar too?
+EXPECTED ANSWER NOW:
+Steps per organisation each cited to its own ingested site (mea.gov.in, incometax.gov.in, uidai.gov.in); no request for identifiers.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Passport: documents for a surname change after marriage | PAN: how to update the surname | Aadhaar: how to update the name
+
+=== Q-025 | P2 | English | Service procedure (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: What is the procedure and fee for apostille of a degree certificate by MEA?
+EXPECTED ANSWER NOW:
+Answer: MEA apostilles educational documents such as degrees for use in Hague Apostille Convention member countries (India a member since 2005); for non-member countries "normal attestation" is done. Procedure for documents not covered under e-Sanad: Step 1 - get the degree authenticated by the designated Regional Authentication Centre (RAC) of the State/UT that issued it (for educational documents usually the State education/HRD department; list on MEA site); Step 2 - submit the original document (with a photocopy of the document and of the applicant's passport) at one of MEA's authorised outsourced service providers (BLS International, Superb Enterprises, IVS Global, Alhind Tours & Travels) for the Branch Secretariat/RPO with jurisdiction (services decentralised to 16 cities from 1 Jan 2019); MEA does not accept documents directly from individuals and does not legalise photocopies; Step 3 - collect the apostilled document from the agency. Documents available in a digital repository (e.g. CBSE 2014 onwards) go through e-Sanad (esanad.nic.in) online. Fee: MEA fee Rs 50 per apostille sticker (normal attestation free), plus outsourced agency service charge Rs 84 per document and scanning charge Rs 3 per page. Applicants are warned not to use touts.
+Steps: 1. RAC authentication of the degree by the State. 2. Deposit at an authorised outsourced agency centre (or e-Sanad if the document is in a digital repository). 3. Pay Rs 50 MEA fee + Rs 84 + Rs 3/page. 4. Collect from the agency.
+Behaviour: Procedure and fee only as on mea.gov.in "Attestation / Apostille" with citation; passportindia.gov.in is not available to the bot and is not needed.
+Fail if: says MEA accepts walk-in documents; quotes agent/third-party package prices; omits State RAC authentication; omits the agency service charge; invents a processing time.
+VERIFICATION NOTES: Unverified: Processing time not published on MEA page.
+MEA page self-contradicts: 'four designated outsourced agencies' (and lists four) vs 'five outsourced service providers' elsewhere on the same page. Old URL mea.gov.in/apostille.htm now redirects to an error page; current page is /apostille-menu.
+SOURCES FOUND EARLIER:
+https://www.mea.gov.in/apostille-menu - Apostille/attestation procedure (RAC, outsourced agencies, collection), decentralisation to 16 cities, fee Rs 50 per sticker, Rs 84 per doc service, Rs 3 per page scanning [crawled]
+https://www.mea.gov.in/images/e_sanad_website.pdf - e-Sanad online attestation/apostille for documents in digital repository (CBSE 2014+) [crawled]
+https://www.mea.gov.in/images/RAC_Updated_DATA.pdf - State-wise Regional Authentication Centres [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): First get the degree authenticated by the State/UT RAC | Submit original plus copies at MEA's authorised outsourced agencies, not to MEA directly | MEA fee Rs 50 per apostille | Agency service charge Rs 84 per document | Scanning charge Rs 3 per page | e-Sanad for documents in a digital repository
+
+=== Q-026 | P2 | English | Current rule or circular (6.2) | expected site: mea.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: What is the most recent travel advisory issued by MEA?
+EXPECTED ANSWER NOW:
+Latest advisory with its issue date from mea.gov.in; tests live re-fetch.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Latest MEA travel advisory with its issue date
+
+=== Q-276 | P1 | Hindi (Devanagari) | Current rule or circular (6.2) | expected site: minorityaffairs.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: अल्पसंख्यक छात्रों के लिए कौन सी छात्रवृत्ति 2026-27 में चालू है?
+EXPECTED ANSWER NOW:
+Only schemes shown as open for 2026-27 on minorityaffairs / NSP, with date.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): names only minority scholarships shown open for 2026-27 on minorityaffairs / NSP
+
+=== Q-258 | P0 | Hindi (Devanagari) | Service procedure (6.2) | expected site: missionshakti.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: पति मारपीट करता है, मदद कहां मिलेगी?
+EXPECTED ANSWER NOW:
+Answer: If you are in immediate danger, call 112 (Emergency Response Support System: police/ambulance). Call 181, the Women Helpline, which runs 24x7, free. It links women facing violence at home or outside to police, One Stop Centres, hospitals and legal services, and gives scheme information. One Stop Centres (Sakhi), in every district, give medical aid, legal aid and advice, temporary shelter, police assistance and psycho-social counselling under one roof. Find the nearest one via 'Find Nearest Institute' / 'Book Appointment for OSC' on missionshakti.wcd.gov.in. Other help: NALSA legal aid helpline 15100, Tele-MANAS 14416 (mental health).
+Behaviour: Emergency safety first (112), then 181 and the OSC, with citation. Empathetic, non-judgemental tone. Does not give legal verdicts. Does not ask for identifying details.
+Fail if: gives 1091 or an old/invented number as the national women helpline; omits 112 for emergency; advises 'adjust/compromise'; sends the user to unofficial NGOs or private lawyers as the primary route.
+VERIFICATION NOTES: Protection Officer / PWDVA complaint route not checked on official pages, so it is left out of the golden.
+SOURCES FOUND EARLIER:
+https://missionshakti.wcd.gov.in/ - Header: WHL 181, Emergency 112, NALSA 15100, Tele-MANAS 14416, CHL 1098, Cyber 1930; OSC services; WHL 24x7 via 181; Find Nearest Institute / Book Appointment for OSC [crawled]
+https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf - 181 integrated with ERSS-112 and OSCs [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): call 112 (ERSS) if in immediate danger | Women Helpline 181: 24x7, free; links to police, OSC, legal and medical help | One Stop Centre (Sakhi) in every district; find nearest via missionshakti.wcd.gov.in
+
+=== Q-259 | P0 | English | Service procedure (6.2) | expected site: missionvatsalya.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: A child in my class seems to be facing abuse at home. Whom should I contact?
+EXPECTED ANSWER NOW:
+Answer: Call Child Helpline 1098: national, toll-free, 24x7, for children in difficult situations, including abused children or children at risk of abuse. Any person can call on a child's behalf. Under Mission Vatsalya, 1098 is integrated with ERSS-112. Emergency calls are forwarded to 112 (police/fire/medical), and non-emergency cases go to the Child Helpline Unit of the District Child Protection Unit (DCPU). The DCPU unit can rescue the child and bring the child before the Child Welfare Committee for care and protection. If the child is in immediate danger, call 112 directly. For sexual abuse, the POCSO e-Box (NCPCR), linked from the Mission Vatsalya portal, is also available. A teacher can also inform the school head and the local police / DCPU.
+Behaviour: Gives 1098 / 112 with citation. Does not investigate or judge the case. Encourages reporting while keeping the child's safety and privacy first.
+Fail if: gives a wrong number (e.g. 1091, 181 as the child line); tells the teacher to confront the family first; says only parents can report; cites the old 'CHILDLINE India Foundation' as the current operator.
+VERIFICATION NOTES: missionvatsalya.wcd.gov.in returns 403 to plain curl (WAF); it loads in a browser-based scraper. The crawler may have limited coverage.
+SOURCES FOUND EARLIER:
+https://missionvatsalya.wcd.gov.in/public/pdf/children-related-law/sop_ch_vatsalya.pdf - SOP (31-03-2023): 1098 national toll-free 24x7; emergency calls to ERSS-112; non-emergency to CHL Unit of DCPU; abused children; CWC [crawled]
+https://missionvatsalya.wcd.gov.in/ - Child Helpline banner; POCSO e-Box link; Citizen Corner [crawled]
+https://missionshakti.wcd.gov.in/ - Header: CHL 1098; Emergency 112 [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Child Helpline 1098: national, toll-free, 24x7; anyone can call for the child | call 112 if the child is in immediate danger | DCPU can rescue the child and bring them before the Child Welfare Committee | teacher can inform the school head and local police / DCPU
+
+=== Q-265 | P1 | Hindi (Devanagari) | Service procedure (6.2) | expected site: missionvatsalya.wcd.gov.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: पड़ोस में बाल विवाह हो रहा है, शिकायत कहां करें?
+EXPECTED ANSWER NOW:
+Answer: You can report a child marriage (or one being planned) to: (1) Child Helpline 1098 (24x7, toll-free); (2) 112 if it is happening now or needs immediate police action; (3) the Child Marriage Prohibition Officer (CMPO) of the area, whose details are published under the Bal Vivah Mukt Bharat campaign; (4) online, via 'Report Child Marriage' on the Bal Vivah Mukt Bharat portal (stopchildmarriage.wcd.gov.in/publicComplaint) or the Mission Shakti app. Child marriage is prohibited under the Prohibition of Child Marriage Act, 2006.
+Behaviour: Gives 1098 / 112 and the official reporting channels with citation. Encourages reporting. Does not ask for the reporter's identity.
+Fail if: only says 'go to court'; gives wrong helpline numbers; says nothing can be done until the marriage happens; sends the user to unofficial NGOs as the main route.
+VERIFICATION NOTES: The Bal Vivah Mukt Bharat portal is on a wcd.gov.in subdomain that is not separately listed in the CSV. If it is not indexed, the bot should still give 1098 / 112 from Mission Vatsalya / Mission Shakti.
+SOURCES FOUND EARLIER:
+https://stopchildmarriage.wcd.gov.in/ - Bal Vivah Mukt Bharat portal: CHL 1098, Emergency 112; CMPO details; 'Report Child Marriage' (publicComplaint); Mission Shakti app complaint; PCMA 2006 [subdomain-of-crawled]
+https://missionvatsalya.wcd.gov.in/public/pdf/children-related-law/sop_ch_vatsalya.pdf - 1098 national 24x7 toll-free; 112 integration [crawled]
+https://missionvatsalya.wcd.gov.in/ - PCMA 2006 linked under Act and Rules [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Child Helpline 1098 (24x7, toll-free) | 112 if the marriage is happening now or needs immediate police action | Child Marriage Prohibition Officer (CMPO) of the area | online 'Report Child Marriage' on the Bal Vivah Mukt Bharat portal or Mission Shakti app
+
+=== Q-304 | P2 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: msde.gov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: फ्री में स्किल ट्रेनिंग कहां मिलेगी?
+EXPECTED ANSWER NOW:
+PMKVY / Skill India per MSDE, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): free skill training under PMKVY / Skill India (MSDE)
+
+=== MT-15 | conversation | Hinglish (romanised Hindi) | Shopkeeper looking for a loan (Hinglish) | facts from Q-308, Q-306 | expected site: mudra.org.in
+USER TURNS: dukaan ke liye loan chahiye / kirana dukaan hai, 2 lakh chahiye / ek site Udyam ke 499 rupay le rahi hai / registration ke baad loan kaise milega?
+EXPECTED ANSWER NOW (one line per turn):
+Turn 1: Asks at most two questions that change the answer (existing business? amount needed?).
+Turn 2: Route that fits: MUDRA category for that amount as published on mudra.org.in, applied through banks/NBFCs/MFIs; Udyam registration is free. Bank decides the loan - no promise.
+Turn 3: Edge - paid look-alike: Udyam is free only on udyamregistration.gov.in.
+Turn 4: What happens after: apply at a bank/NBFC/MFI with the documents they list; official links; no invented approval time.
+
+=== Q-308 | P0 | Hinglish (romanised Hindi) | Scheme / fact detail (6.2) | expected site: mudra.org.in (Crawled)
+GOLDEN-FACT STATUS: Verified on official page (15 Oct 2026)
+QUESTION: mudra loan kitna milta hai bina guarantee ke
+EXPECTED ANSWER NOW:
+Answer: Under PM MUDRA Yojana (PMMY), loans go to non-corporate, non-farm small/micro enterprises (including agri-allied activities) for income-generating activities. There are 4 categories: Shishu up to Rs 50,000; Kishor above Rs 50,000 and up to Rs 5 lakh; Tarun above Rs 5 lakh and up to Rs 10 lakh; Tarun Plus above Rs 10 lakh and up to Rs 20 lakh. Tarun Plus is only for entrepreneurs who have availed and successfully repaid a previous loan under the Tarun category. MUDRA loans up to Rs 20 lakh are collateral-free as per RBI norms. Lenders are covered by the Credit Guarantee Fund for Micro Units (CGFMU), managed by NCGTC. Loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs; MUDRA itself does not lend directly. Apply at any of these lenders or online via udyamimitra.in. MUDRA has no agents or middlemen. The lender's usual terms and appraisal apply, so sanction is not automatic.
+Behaviour: Gives categories and limits with a citation to mudra.org.in. Gives no loan-approval promise or eligibility verdict. Warns about agents.
+Fail if: Says the maximum is Rs 10 lakh (pre-Tarun Plus); says anyone can get Rs 20 lakh first time; says MUDRA lends directly; omits the collateral-free/CGFMU point; quotes a fixed interest rate; recommends agents or loan-app sites.
+SOURCES FOUND EARLIER:
+https://www.mudra.org.in/ - Shishu/Kishor/Tarun/TarunPlus limits; Tarun Plus up to Rs 20 lakh for repaid Tarun borrowers; no agents; lenders; udyamimitra [crawled]
+https://www.mudra.org.in/Offerings - Loans up to Rs 20 lakh collateral-free as per RBI norms; CGFMU managed by NCGTC [crawled]
+https://www.mudra.org.in/FAQ - Loans up to 20 lakh generally without collateral; eligible borrowers [crawled]
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Shishu: up to Rs 50,000 | Kishor: above Rs 50,000 up to Rs 5 lakh | Tarun: above Rs 5 lakh up to Rs 10 lakh | Tarun Plus: above Rs 10 lakh up to Rs 20 lakh (after repaying a Tarun loan) | collateral-free up to Rs 20 lakh, covered by CGFMU
+
+=== Q-309 | P2 | English | Service procedure (6.2) | expected site: mudra.org.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Do I apply for a MUDRA loan directly on the MUDRA website?
+EXPECTED ANSWER NOW:
+Corrects: through banks/NBFCs/MFIs, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): no: MUDRA does not lend directly; apply via banks, NBFCs or MFIs
+
+=== Q-336 | P2 | English | Service use (6.2) | expected site: mygov.in (Crawled)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: how can I take part in MyGov quizzes?
+EXPECTED ANSWER NOW:
+As per MyGov, cited.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): How to join MyGov quizzes per MyGov (register on MyGov, take a listed quiz), cited
+
+=== Q-328 | P0 | Hindi (Devanagari) | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: मेरे लिए कौन-कौन सी सरकारी योजनाएं हैं? मैं 67 साल की विधवा हूं
+EXPECTED ANSWER NOW:
+Matching Central schemes with published criteria; myScheme eligibility link; no determination.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Lists matching Central schemes (e.g. IGNOAPS) with published criteria
+
+=== Q-329 | P0 | English | Scheme discovery (6.2) | expected site: myscheme.gov.in (DB/API)
+GOLDEN-FACT STATUS: Behaviour check (no fixed value)
+QUESTION: Which schemes are available for senior citizens?
+EXPECTED ANSWER NOW:
+List with criteria and citations; myScheme link; no eligibility judgement.
+FACTS GRADED ON 19 OCT (a starting point, not evidence): Lists senior-citizen schemes with their criteria, cited

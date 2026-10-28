@@ -1,0 +1,21 @@
+{
+ "id": "Q-326",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Ration cards in Bihar are handled by the State's Food and Consumer Protection Department",
+   "status": "added",
+   "url": "https://nfsa.gov.in/State/BR",
+   "quote": "Department Food and Consumer Protection Department Email : secy-fsc-bih [at] nic [dot] in"},
+  {"fact": "The department works on food security for poor people and the supply of subsidised foodgrains",
+   "status": "added",
+   "url": "https://state.bihar.gov.in/fcp/",
+   "quote": "Food and Consumer Protection Department of Bihar State works towards food security to poor people and supply of food grains and other items at subsidized ra"},
+  {"fact": "The department's website (state.bihar.gov.in/fcp) links to the Online Application for New Ration Card",
+   "status": "added",
+   "url": "https://state.bihar.gov.in/fcp/",
+   "quote": "Important Links Transfer/Posting Notice Board Price Monitoring Report Hostel Welfare Schemes Online Application for New Ration Card"}
+ ],
+ "behaviour": "Bihar portal not ingested. Central only, named not refused (G12): names the responsible State department (Food and Consumer Protection Department, Bihar) and links its official portal (state.bihar.gov.in/fcp, or the portal listed in IGOD); a bare 'not covered' fails; no invented State steps.",
+ "fail_if": "It says only 'not covered' without naming the Bihar department or portal, or invents Bihar ration card steps, documents or fees not on official pages.",
+ "summary": "Added: Bihar Food and Consumer Protection Department (nfsa.gov.in State: Bihar page) and its website state.bihar.gov.in/fcp with the Online Application for New Ration Card link; rconline.bihar.gov.in returned HTTP 503."
+}

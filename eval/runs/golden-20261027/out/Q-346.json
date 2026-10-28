@@ -1,0 +1,31 @@
+{
+ "id": "Q-346",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "139 is Indian Railways' integrated helpline (Rail Madad)",
+   "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "Send Facebook post to RailMadad 139 – Integrated Helpline"},
+  {"fact": "From 1 January 2020 the earlier separate helplines (138, 1800111321, 1072, 152210, 58888, 9717630982) were discontinued and integrated helpline 139 took over",
+   "status": "confirmed",
+   "url": "https://oldsr.indianrailways.gov.in/view_detail.jsp?lang=0&id=0,4,268&dcd=8555&did=15780549594630B11783EDC8CDE2F493E0948936AD05F",
+   "quote": "will be discontinued and INTEGRATED RAILWAY HELPLINE 139 will take over all existing Helpline numbers."},
+  {"fact": "Helpline 139 is integrated with the Emergency Response Support System (ERSS) number 112",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078095",
+   "quote": "For immediate assistance, passengers can make complaint on Rail Madad Portal directly or through Helpline Number 139 [integrated with Emergency Response Support System (ERSS) No.112]."},
+  {"fact": "139 IVR options: 1 security or medical assistance; 2 enquiry; 3 catering complaints; 4 general complaints; 5 bribery and corruption; 6 accident information; 7 IRCTC Tejas Express assistance; 9 status of complaint; * operator",
+   "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "Security Helpline or Medical Assistance ( 1 ) · Enquiry ( 2 ) · Catering Complaints ( 3 ) · General Complaints ( 4 ) · Bribery & Corruption ( 5 ) · Accident Information ( 6 ) · Assistance related to IRCTC - Tejas Express ( 7 ) · Status of your Complaint ( 9 ) · For Operator ( * )"},
+  {"fact": "Complaints can also be sent by SMS to 139",
+   "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "SMS - MADAD (space) \"C omplaint Description\" send to 139"},
+  {"fact": "Complaints can also be lodged on the Rail Madad website (railmadad.indianrailways.gov.in) or app, or via social media @RailMadad",
+   "status": "confirmed",
+   "url": "https://oldwr.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,7,570",
+   "quote": "RailMadad website ( https://railmadad.indianrailways.gov.in/madad/final/home.jsp ) · RailMadad App · Tweet to @RailMadad · Send Facebook post to RailMadad"}
+ ],
+ "summary": "All facts confirmed: 139 integrated helpline with IVR options, SMS, Rail Madad web/app/@RailMadad (WR helpline page), old numbers replaced from 01.01.2020 (SR notice), integrated with ERSS 112 (PIB 27.11.2024)."
+}

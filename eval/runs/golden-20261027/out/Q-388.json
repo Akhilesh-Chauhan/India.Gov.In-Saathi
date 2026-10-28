@@ -1,0 +1,30 @@
+{
+ "id": "Q-388",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Post-Matric Scholarship for SC students (Ministry of Social Justice & Empowerment): paid to students whose parents' or guardians' annual income from all sources is not more than Rs 2.5 lakh",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298357&reg=48&lang=1",
+   "quote": "Under the scheme, the scholarship is paid to students whose parents or guardians have an annual income from all sources not exceeding ₹ 2.5 lakh.",
+   "example": true
+  },
+  {
+   "fact": "Post-Matric Scholarship for Students with Disabilities (DEPwD): for Class 11-12, diploma, degree or post-graduate students with a benchmark disability of 40% or more",
+   "status": "added",
+   "url": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "quote": "Who can apply? Students in Class 11 or 12. Students in Diploma, Degree or Post-Graduate courses. Indian nationals only. Students with a benchmark disability of 40% or more.",
+   "example": true
+  },
+  {
+   "fact": "The DEPwD post-matric scholarship needs a UDID card and Aadhaar, family income up to Rs 2.5 lakh a year, and the student must not get another post-matric scholarship or stipend",
+   "status": "added",
+   "url": "https://depwd.gov.in/en/scholarship-post-matric/",
+   "quote": "Must have UDID Card. Aadhaar Card. Family income up to Rs. 2.5 lakh per year. The student should not receive another post-scholarship or stipend.",
+   "example": true
+  }
+ ],
+ "behaviour": "Lists matching Central schemes (scholarships, disability) such as the Post-Matric Scholarship for SC students and the Post-Matric Scholarship for Students with Disabilities, each with its published criteria and citation (myScheme record or the Ministry/Department page); notes the income criterion she has not stated; no eligibility determination; does not ask for Aadhaar, UDID or other identifiers.",
+ "fail_if": "It says she is eligible or not eligible; asks for her Aadhaar/UDID number or other identifiers; assumes her family income; lists State-only schemes as Central.",
+ "summary": "Added the PMS-SC income ceiling (Rs 2.5 lakh, PIB 12 Aug 2026) and the DEPwD post-matric disability scholarship criteria (40%+ benchmark disability, degree students, Rs 2.5 lakh income, UDID, no other post-matric scholarship)."
+}

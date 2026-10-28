@@ -1,0 +1,18 @@
+{
+ "id": "Q-039",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "A monthly pass for a toll plaza is issued at that toll plaza or at the POS locations of that plaza's acquirer bank", "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Monthly pass for a toll plaza will be issued at that particular toll plaza or the POS locations set by the Acquirer Bank of the toll plaza."},
+  {"fact": "At eligible toll plazas, residents within 20 km can buy the monthly Local Pass online through the NHAI Rajmargyatra mobile app", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "quote": "Under the Digital Local Pass framework, residents residing within a 20 km radius of an eligible toll plaza can apply for the Local Pass through Rajmargyatra Mobile App."},
+  {"fact": "The list of toll plazas with the online Local Pass is at https://rajmargyatra.nhai.gov.in/buy-fastag-local-pass", "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300851&reg=48&lang=1",
+   "quote": "National Highway users can check the list of eligible toll plazas by visiting https://rajmargyatra.nhai.gov.in/buy-fastag-local-pass ."}
+ ],
+ "behaviour": "Gives only official channels and links that open: the toll plaza or its acquirer bank's POS (as per the IHMCL FAQ), and the NHAI Rajmargyatra app / rajmargyatra.nhai.gov.in for the online Local Pass at eligible plazas; cites ihmcl.co.in or the NHAI/PIB release. Trap: the ihmcl.co.in homepage button 'Buy Monthly FASTag Pass' still points to http://sujeetkumar-001-site1.itempurl.com, a non-government free-hosting host that does not resolve (checked 28-Oct-2026).",
+ "fail_if": "The itempurl.com link or any other non-government host is shown as a place to buy the pass.",
+ "summary": "Toll plaza / acquirer-bank POS route confirmed on the IHMCL FAQ; added the NHAI Rajmargyatra online monthly Local Pass (PIB 18 Aug 2026); the itempurl.com trap button is still on the IHMCL homepage on 28 Oct 2026."
+}

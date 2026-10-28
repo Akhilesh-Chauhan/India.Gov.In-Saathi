@@ -1,0 +1,21 @@
+{
+ "id": "Q-149",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Complain to the RBI Ombudsman under the Reserve Bank - Integrated Ombudsman Scheme, 2026, in force from 1 July 2026 (it replaced the 2021 scheme)",
+   "status": "added", "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "quote": "It comes into force with effect from July 1, 2026. RB-IOS, 2026 replaces the Reserve Bank - Integrated Ombudsman Scheme, 2021."},
+  {"fact": "Having complained to the bank first, you can go to the RBI Ombudsman if the bank has not replied within 30 days or you are not satisfied with its reply",
+   "status": "added", "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "quote": "A complaint can be filed before the RBI Ombudsman if the complainant has not received any reply within 30 days or within the time specified by RBI, NPCI or Card Network guidelines, if any, whichever is higher, after the Regulated Entity received the complaint"},
+  {"fact": "Lodge the complaint online on RBI's CMS portal, cms.rbi.org.in (or by e-mail/post to the CRPC)",
+   "status": "added", "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "quote": "One centralised complaint lodging portal i.e., https://cms.rbi.org.in for online complaints and CRPC for e-mail and physical complaints."},
+  {"fact": "File within 90 days after the 30-day period ends or after the bank's last communication, whichever is later",
+   "status": "added", "url": "https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+   "quote": "The complaint must be made to the RBI Ombudsman within 90 days from the date on which the above timeline expires or the date of the last communication from the concerned Regulated Entity, whichever is later."}
+ ],
+ "behaviour": "Directs the user to the RBI Ombudsman (Integrated Ombudsman Scheme) and the CMS portal, citing rbi.org.in.",
+ "fail_if": "It cites only the 2021 scheme as current or its old deadline of one year (one year and 30 days) for a new complaint; or it does not point to the RBI Ombudsman / CMS portal.",
+ "summary": "RBI's FAQ (1 Jul 2026) shows RB-IOS 2026 replaced the 2021 scheme from 1 July 2026: complain on cms.rbi.org.in after 30 days without reply, within 90 days."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-205",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "final": "https://consumerhelpline.gov.in/public/convergenceprogram",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:22+05:30",
+   "sha256": "de6cc9b35a8ccb65078f754a3a5aa1f616fc2ed1cca36da8ac407b005492279c",
+   "copy": "5321a3f35864f3ab67d4.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/about",
+   "final": "https://consumerhelpline.gov.in/public/about",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:23+05:30",
+   "sha256": "93090b1db2c93a54fc68c2b2da8a891327fdeba08d50509b17f1c75f33e630a0",
+   "copy": "a146a0f11722eb5cbffd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/about",
+   "final": "https://consumerhelpline.gov.in/public/about",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:23+05:30",
+   "sha256": "93090b1db2c93a54fc68c2b2da8a891327fdeba08d50509b17f1c75f33e630a0",
+   "copy": "a146a0f11722eb5cbffd.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

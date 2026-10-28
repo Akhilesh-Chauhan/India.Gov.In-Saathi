@@ -1,0 +1,17 @@
+{
+ "id": "Q-317",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The Ministry of MSME publishes State-wise Udyam registration counts (micro, small, medium, total Udyam, Udyam Assist Platform IMEs and total MSMEs per State/UT) on the MSME Dashboard (dashboard.msme.gov.in, 'State Wise Udyam Registration')",
+   "status": "added",
+   "url": "https://dashboard.msme.gov.in/Udyam_Statewise.aspx",
+   "quote": "State Wise Details S. No. State/UT Name Micro Small Medium Total Udyam IMEs (UAP) Total MSMEs"},
+  {"fact": "The dashboard's Udyam registration figures are real-time and shown with an 'As on' date, so any figure quoted must give that date",
+   "status": "added",
+   "url": "https://dashboard.msme.gov.in/",
+   "quote": "MSME Udyam Registration Including UAP R As on 28-10-2026"}
+ ],
+ "behaviour": "Asks for (or uses) the user's State and gives only figures cited from the official MSME Dashboard / Udyam portal with their as-on date, or points the user to the State-wise Udyam registration page.",
+ "fail_if": "It gives a State figure without a citation and date, or invents or estimates a number.",
+ "summary": "Added: State-wise Udyam counts are published on the MSME Dashboard (State Wise Udyam Registration), real-time with an as-on date; no fixed number kept since it changes daily."
+}

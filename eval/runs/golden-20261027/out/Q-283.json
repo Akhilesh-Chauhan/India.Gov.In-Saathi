@@ -1,0 +1,35 @@
+{
+ "id": "Q-283",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Scholarships and their criteria can be checked with the 'Scholarship Eligibility' option on the National Scholarship Portal (scholarships.gov.in)",
+   "status": "added",
+   "url": "https://scholarships.gov.in/Students",
+   "quote": "Scholarship Eligibility Know your eligibility for different scholarship schemes available on National Scholarship Portal."
+  },
+  {
+   "fact": "myScheme (myscheme.gov.in) lets a citizen find government schemes based on their eligibility details",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/",
+   "quote": "It provides an innovative, technology-based solution to discover scheme information based upon the eligibility of the citizen."
+  },
+  {
+   "fact": "CBSE Merit Scholarship for Single Girl Child: for a girl who is the only child of her parents, passed CBSE Class X with 70% or more marks and studies in class XI-XII in a CBSE school (tuition fee limits apply)",
+   "status": "added",
+   "example": true,
+   "url": "https://www.cbse.gov.in/cbsenew/scholar/Guidelines_SGC_2025.pdf",
+   "quote": "All Single Girl Students, who have secured 70% or more marks in CBSE Class X Examination and are studying Class XI & XII in School (affiliated with CBSE) whose tuition fee is not more than Rs. 2,500/- p.m. during the academic year, shall be considered for the purpose."
+  },
+  {
+   "fact": "Post-Matric Scholarship for Students with Disabilities (DEPwD, on NSP): from class XI onwards in recognised schools/institutions",
+   "status": "added",
+   "example": true,
+   "url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+   "quote": "Post-Matric Scheme for SwDs:- For all recognized Schools/Institutions from class XI onwards to Post-graduate Degree/Diploma courses in Full time and Distance Education courses."
+  }
+ ],
+ "behaviour": "Replies in Hindi; names scholarships a class 11 girl may apply for with their published criteria and source (NSP, myScheme or the awarding board), and does not judge whether the daughter is eligible.",
+ "fail_if": "Says the daughter is or is not eligible; names a scheme without official criteria or source; cites third-party scholarship sites.",
+ "summary": "Added the NSP eligibility option and myScheme, plus example schemes for a class 11 girl (CBSE Single Girl Child, DEPwD Post-Matric) with criteria from official PDFs."
+}

@@ -1,0 +1,27 @@
+{
+ "id": "Q-035",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "For a FASTag issued by a bank, KYC is updated online by logging in to that issuer bank's FASTag website (bank links are listed at netc.org.in)",
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "For FASTag issued by different banks Visit website – https://www.netc.org.in/request-for-netc-fastag Under Request for NETC FASTag, Select your FASTag issuer bank and click on the visit website link. Login to respective FASTag issuer bank Update KYC Online"
+  },
+  {
+   "fact": "For a FASTag issued by NHAI, KYC is updated online at fastag.ihmcl.com",
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "The KYC can be updated online as per following procedure: For FASTag issued by NHAI Visit https://fastag.ihmcl.com 2. Login 3. Update KYC Online"
+  },
+  {
+   "fact": "If the tag is blacklisted (e.g. for insufficient balance in the FASTag account), call your bank's toll-free number to get the reason",
+   "status": "added",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "There are various reason of blacklisting of tag, i.e. Tag is not having sufficient balance in FASTag account. In such cases Customer should call his bank toll free call center numbers and get the reason of blacklist."
+  }
+ ],
+ "behaviour": "Replies in Hinglish: FASTag KYC/KYV is completed through the FASTag issuer bank (or fastag.ihmcl.com for an NHAI-issued tag) as per IHMCL/NHAI, citing ihmcl.co.in or the NHAI/PIB release; suggests contacting the issuer bank to learn why the tag was blocked. Does not ask for the user's tag or bank details.",
+ "fail_if": "Sends the user to a third-party agent or non-official site for KYC; says KYC/KYV is done at the toll plaza; says KYV is still routinely required for every existing car FASTag.",
+ "summary": "FASTag KYC per IHMCL FAQ: bank-issued tags via the issuer bank's FASTag site, NHAI tags via fastag.ihmcl.com; for a blacklisted tag call the bank's toll-free number. Trimmed KYV side details."
+}

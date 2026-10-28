@@ -1,0 +1,27 @@
+{
+ "id": "Q-207",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "NCH sends each grievance it receives to the concerned company / agency / regulator / ombudsman for redress",
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Grievances received are sent to the concerned company / agency / regulator / ombudsman, as the case maybe, for speedy redress."
+  },
+  {
+   "fact": "The concerned business updates the action taken on the NCH portal, and NCH sends it reminders at set intervals",
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "Action taken is updated on real time basis by the concerned agency. As a follow up action, these agencies are reminded at stipulated interval."
+  },
+  {
+   "fact": "If the consumer is not satisfied, he or she can approach the appropriate Consumer Commission",
+   "status": "added",
+   "url": "https://consumerhelpline.gov.in/public/about",
+   "quote": "In case, the consumer is not satisfied, he/she can approach the appropriate Consumer Commission."
+  }
+ ],
+ "behaviour": "Explains, in Hinglish, what happens to the business after a consumer complains on the National Consumer Helpline (NCH), from the NCH perspective, citing consumerhelpline.gov.in; gives no legal advice.",
+ "fail_if": "Gives legal advice, predicts a penalty or outcome for the shopkeeper, or cites unofficial sites.",
+ "summary": "NCH About Us page: the grievance is sent to the business for redress, the business updates the action taken (with reminders), and an unsatisfied consumer may approach a Consumer Commission."
+}

@@ -1,0 +1,24 @@
+{
+ "id": "Q-294",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: you can pass Class 10 through the National Institute of Open Schooling (NIOS), whose Secondary course is equivalent to Class 10",
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "quote": "Secondary Course This Course is equivalent to the Xth standard."},
+  {"fact": "NIOS Stream-2 admission is for learners who appeared but could not clear the Secondary exam of any recognised board; it is offered in May-June and they can sit the October-November exam of the same year",
+   "status": "added",
+   "url": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "quote": "Admission in Stream-2 is for learners who had appeared but could not clear the Public Examination of Secondary/Senior Secondary level from any recognized Board. This stream is offered between May and June and the eligible learners are allowed to appear in October-November examination of the same year."},
+  {"fact": "NIOS Stream 3 admission is open throughout the year for such learners, who then take the exam through NIOS's On Demand Examination System (ODES)",
+   "status": "added",
+   "url": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "quote": "Admission in Stream 3 is open throughout the year for those learners who has appeared but could not clear the Public Examination of Secondary level from any recognized Board and want to appear through the On Demand Examination System (ODES) of NIOS for the Secondary level only."},
+  {"fact": "Students who passed at least one subject in their old board can carry those subject marks to NIOS through Transfer of Credit (TOC)",
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "quote": "Ex-Secondary/Senior Secondary students of the following Boards of School Education who have passed in at least one subject, but have not qualified in the course, may seek admission in the respective course at NIOS and avail facility of TOC."}
+ ],
+ "behaviour": "Says yes, Class 10 can be passed through NIOS and gives the NIOS admission route for students who failed (Stream-2 / Stream 3, Transfer of Credit) as published on nios.ac.in, cited.",
+ "summary": "Added from nios.ac.in: Secondary course = Class 10; Stream-2 (May-June, Oct-Nov exam) and Stream 3 (year-round, ODES) for those who failed; TOC for passed subjects."
+}

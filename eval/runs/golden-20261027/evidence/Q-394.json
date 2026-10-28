@@ -1,0 +1,67 @@
+{
+ "id": "Q-394",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:18+05:30",
+   "sha256": "1db05d2df88ad0fd51436ff65447dfa8a737ff746c29016e85dc9e1046c6e38b",
+   "copy": "7fc7c64fb06701a9c87e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:18+05:30",
+   "sha256": "1db05d2df88ad0fd51436ff65447dfa8a737ff746c29016e85dc9e1046c6e38b",
+   "copy": "7fc7c64fb06701a9c87e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "final": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2010133&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:18+05:30",
+   "sha256": "1db05d2df88ad0fd51436ff65447dfa8a737ff746c29016e85dc9e1046c6e38b",
+   "copy": "7fc7c64fb06701a9c87e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290407&reg=48&lang=1",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290407&reg=48&lang=1",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:14:12+05:30",
+   "sha256": "93c0b478c5c651f827ca2e348a9bb152ad45b1806ed393854dce83902a86c5f7",
+   "copy": "66b175f6a114f9801de7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

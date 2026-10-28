@@ -1,0 +1,15 @@
+{
+ "id": "Q-287",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The 'Track Your Payment' option on NSP (scholarships.gov.in) shows the scholarship disbursement status on the PFMS portal",
+   "status": "added", "url": "https://scholarships.gov.in/Students",
+   "quote": "Track Your Payment Track your scholarship disbursement status on PFMS portal"},
+  {"fact": "The student can log in to NSP with the OTR ID and password to check the status of fresh and renewal applications from AY 2024-25 onwards",
+   "status": "added", "url": "https://scholarships.gov.in/Students",
+   "quote": "Login with your OTR ID and PASSWORD to fill and check status of your Fresh and Renewal Scholarship application from AY 2024-25 onwards."}
+ ],
+ "behaviour": "Replies in Hinglish; says it cannot see the student's application or payment record; explains how to check the application status (NSP login with OTR) and the payment (Track Your Payment on NSP / PFMS), citing scholarships.gov.in; does not give or invent a payment date.",
+ "fail_if": "Gives a specific date by which the 2025-26 scholarship will be paid; claims to know this student's payment status; cites a third-party site.",
+ "summary": "Added the NSP 'Track Your Payment' (PFMS) route and the OTR login for application status from NSP's Students page."
+}

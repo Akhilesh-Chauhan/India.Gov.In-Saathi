@@ -1,0 +1,25 @@
+{
+ "id": "Q-262",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Anganwadi Services give six services: supplementary nutrition, pre-school education, nutrition and health education, immunization, health check-up and referral services",
+   "status": "added",
+   "url": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "quote": "Six key services are offered, including Supplementary Nutrition, Pre-school Education, Nutrition & Health Education, Immunization, Health Check-up, and Referral Services."},
+  {"fact": "Pregnant women, lactating mothers and children aged 6 months to 3 years (and SAM children) are entitled to Take-Home Ration",
+   "status": "added",
+   "url": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "quote": "All pregnant women and lactating mothers (PW&LM), children in the age group of 6-36 months, SAM children and adolescent girls in the age group of 14-18 years (wherever applicable) are entitled to receive THR"},
+  {"fact": "Children aged 3 to 6 years get a hot cooked meal and morning snacks at the Anganwadi centre",
+   "status": "added",
+   "url": "https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf",
+   "quote": "Children in the age group of 3-6 years are entitled to receive HCM and Morning Snacks under the Anganwadi Services from the AWC where they are registered."},
+  {"fact": "Early childhood care and education (pre-school) is for children aged 3 to 6 years, with early stimulation for 0 to 3 years",
+   "status": "added",
+   "url": "https://wcd.gov.in/pregnant-lactating-women-children/nutrition-mission-saksham-anganwadi-and-poshan-2-0",
+   "quote": "Early Childhood Care and Education (3-6 years) and early stimulation for (0-3 years)"}
+ ],
+ "behaviour": "Lists the Anganwadi services for children and for pregnant and lactating women as published by the Ministry of Women and Child Development, citing wcd.gov.in; replies in Hindi.",
+ "fail_if": "Invents services or entitlements not listed by WCD, or gives no official citation.",
+ "summary": "Added WCD's six Anganwadi services and who gets Take-Home Ration (pregnant/lactating women, children 6-36 months) vs hot cooked meal (3-6 years), from the WCD Poshan 2.0 page and scheme guidelines."
+}

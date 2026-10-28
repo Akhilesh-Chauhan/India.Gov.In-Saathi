@@ -1,0 +1,19 @@
+{
+ "id": "Q-413",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Applying on the National Scholarship Portal has no application fee: it is completely free of cost",
+   "status": "confirmed", "url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf",
+   "quote": "No, application on the National Scholarship Portal is completely free of cost.",
+   "note": "Answer to Q34 'Is there any fee to apply for this scholarship?' in the Department of Higher Education's CSSS FAQ hosted on scholarships.gov.in."},
+  {"fact": "The student can apply herself: she first generates her One Time Registration (OTR) through NSP's OTR Registration on scholarships.gov.in",
+   "status": "confirmed", "url": "https://scholarships.gov.in/Students",
+   "quote": "One Time Registration (OTR) is mandatory to avail scholarships. It is a unique number allotted to the candidate for the entire academic career and can be generated through National Scholarship Portal OTR Registration ."},
+  {"fact": "If she uses a Common Service Centre (CSC), the total charge for the whole activity (OTR generation, biometric authentication and filling the complete application) is fixed at Rs 30, inclusive of taxes",
+   "status": "added", "url": "https://scholarships.gov.in/",
+   "quote": "The total charges for the entire activity per candidate (including generation of Reference number, biometric -authentication, generation of One-Time Registration (OTR) number, and filing of complete application form of the candidate) is fixed at Rs 30.00 (inclusive of all applicable taxes, etc.)"}
+ ],
+ "behaviour": "Replies in Hinglish; says applying on NSP has no fee and that at a CSC the official charge for OTR plus the full application is Rs 30; explains the student can apply herself through One Time Registration on scholarships.gov.in; warns about overcharging without blaming the user, citing NSP.",
+ "fail_if": "Says Rs 500 (or any amount above the official Rs 30 CSC charge) is a valid fee; says NSP charges an application fee; cites a third-party site.",
+ "summary": "No NSP fee and OTR self-application confirmed; added NSP's notice that CSCs charge a fixed Rs 30 for OTR plus the full application."
+}

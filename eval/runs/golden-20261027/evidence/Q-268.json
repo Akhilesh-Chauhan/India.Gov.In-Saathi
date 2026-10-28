@@ -1,0 +1,67 @@
+{
+ "id": "Q-268",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/common/47564",
+   "final": "https://socialjustice.gov.in/common/47564",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:00:22+05:30",
+   "sha256": "92c3b0007dd83875bc0b97397b5e95d5d3cff0df3d68be3082119a20d233fec0",
+   "copy": "e4cbeebf587d7b45f3b2.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "final": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:27+05:30",
+   "sha256": "db62dbb7d15d6afb76997804333f29aa22d2c740bc7a2fe2b2689cc74ffa1563",
+   "copy": "b967e22fc3c6eff09c10.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

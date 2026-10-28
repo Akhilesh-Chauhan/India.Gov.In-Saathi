@@ -1,0 +1,52 @@
+{
+ "id": "Q-326",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nfsa.gov.in/State/BR",
+   "final": "https://nfsa.gov.in/State/BR",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:30:40+05:30",
+   "sha256": "37e548076ebb4ed233a3ad82231cd96f0618e484e44d7451c2507d6c448648b6",
+   "copy": "ff50e1cd3cccf6ff16d7.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://state.bihar.gov.in/fcp/",
+   "final": "https://state.bihar.gov.in/fcp/CitizenHome.html",
+   "http": null,
+   "fetched_at": "2026-10-28T12:31:30+05:30",
+   "sha256": "90fba9de63590b963bb9912d65455a204d7a15f1d4b476f67f68dd30724432d5",
+   "copy": "3c7bbb312e26511580f6.rendered.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://state.bihar.gov.in/fcp/",
+   "final": "https://state.bihar.gov.in/fcp/CitizenHome.html",
+   "http": null,
+   "fetched_at": "2026-10-28T12:31:30+05:30",
+   "sha256": "90fba9de63590b963bb9912d65455a204d7a15f1d4b476f67f68dd30724432d5",
+   "copy": "3c7bbb312e26511580f6.rendered.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

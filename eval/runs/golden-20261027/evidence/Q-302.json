@@ -1,0 +1,67 @@
+{
+ "id": "Q-302",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://diksha.gov.in/help/energised-textbooks/consumption/access-qr-code.html",
+   "final": "https://diksha.gov.in/help/energised-textbooks/consumption/access-qr-code.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:38:58+05:30",
+   "sha256": "132fdf645cb9b7d9e64e70f57e3d38a9efe69916cd46eae2d24022d556fdfc09",
+   "copy": "8ab5d54974f4a4ff14dc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/library.html",
+   "final": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/library.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:11+05:30",
+   "sha256": "d1488362d81c66a97784a220d7bebb5028c8e964a5a585df8dedeb4a1c7d5296",
+   "copy": "d16f519956bca03473be.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://diksha.gov.in/",
+   "final": "https://diksha.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:27+05:30",
+   "sha256": "b9d6454242b0dd08efaa95f1dc71b53b28bb730414173e86c5d9ace46a21bfd4",
+   "copy": "d347b42478a96649a673.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/",
+   "final": "https://diksha.gov.in/help/getting-started/diksha-mobile-app/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:04+05:30",
+   "sha256": "38ead6a896c0c308eb4b834adf3c17d1ca5369231aa364a9c44f8f3c06bea6f1",
+   "copy": "6f207e27ffc68efab57a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

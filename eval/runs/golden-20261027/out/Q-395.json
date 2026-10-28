@@ -1,0 +1,10 @@
+{
+ "id": "Q-395",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The last-updated date of the myScheme PMMVY record (slug 'pmmvy') is the one the myScheme scheme API (search_schemes) returns for the record", "status": "manual",
+   "url": "https://www.myscheme.gov.in/schemes/pmmvy",
+   "note": "The public scheme page (rendered) and its public data call (api/apisetu/schemes?slug=pmmvy, only schemeOpenDate 2017-01-01) show no record-level last-updated date; the only date on the page is the site-wide footer 'Last Updated On : 18/09/2026 | v-3.1.27', shown on every myScheme page. The record date is only in the authenticated myScheme API the bot uses, so a person must compare the bot's date with that API on demo day."}
+ ],
+ "summary": "No record-level last-updated date is published on the public PMMVY page (only the site-wide footer 18/09/2026); the record date comes from the authenticated myScheme API, so it is marked manual."
+}

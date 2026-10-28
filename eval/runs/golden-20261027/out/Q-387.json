@@ -1,0 +1,24 @@
+{
+ "id": "Q-387",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi, Ministry of Agriculture and Farmers Welfare) gives Rs 6,000 a year per family in three equal instalments of Rs 2,000",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "quote": "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs 2000 each, every four months.",
+   "example": true
+  },
+  {
+   "fact": "PM-KISAN eligibility: all landholding farmers' families with cultivable land in their names (the criteria set no age limit)",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+   "quote": "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme.",
+   "note": "'No age limit' is read from the published eligibility and exclusion criteria, which mention no age (derived).",
+   "example": true
+  }
+ ],
+ "behaviour": "Replies in Hindi. Lists Central schemes from myScheme that match only the stated facts (farmer, age 62; Uttar Pradesh only as residence), with each scheme's published criteria cited (e.g. the myScheme PM-KISAN record); uses the templated eligibility wording (the Department determines eligibility) and gives the myScheme eligibility link; no eligibility verdict; does not assume landholding size, income, caste or BPL status.",
+ "fail_if": "It gives a yes/no eligibility verdict; lists PM Kisan Maandhan Yojana as open to him (entry age 18-40 only); lists UP State schemes as Central; assumes unstated facts (income, caste, BPL card).",
+ "summary": "Added PM-KISAN benefit and eligibility (myScheme record) as an example scheme; PM-KMY (entry age 18-40, pmkmy.gov.in) kept only in fail_if."
+}

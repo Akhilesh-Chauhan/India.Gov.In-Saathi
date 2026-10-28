@@ -1,0 +1,52 @@
+{
+ "id": "Q-321",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "final": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:21+05:30",
+   "sha256": "5f024eca3d1c0774d18b803c4fba0b754a55fec4677ad2c4f8e7431a52ae3daf",
+   "copy": "f93a1cb5d0fc572a87e8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/citizen/",
+   "final": "https://www.tnesevai.tn.gov.in/citizen/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:32+05:30",
+   "sha256": "6a31da0c1b45909a906bf623fd5b5d1f4802a0f182dc8bcf529a04a6ad26875e",
+   "copy": "2f436450474de441c09c.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "final": "https://www.tnesevai.tn.gov.in/Pages/FAQ.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:02:21+05:30",
+   "sha256": "5f024eca3d1c0774d18b803c4fba0b754a55fec4677ad2c4f8e7431a52ae3daf",
+   "copy": "f93a1cb5d0fc572a87e8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

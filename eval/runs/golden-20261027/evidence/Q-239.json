@@ -1,0 +1,37 @@
+{
+ "id": "Q-239",
+ "checked_at": "2026-10-28T14:03:22+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.india.gov.in/directory/helpline",
+   "final": "https://www.india.gov.in/directory/helpline",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:46:38+05:30",
+   "sha256": "9c7a94ee31b6538e0f266252ea949eeadbbfd197433ab1f018cbda63c8b28cc3",
+   "copy": "297d463f5443622a27f0.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1217&lid=189",
+   "final": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1217&lid=189",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:28:15+05:30",
+   "sha256": "c7c725be6b1798a9c01c3eb00292217f22ebbe3ab6b3ce39d4393fe3ce6c63d4",
+   "copy": "4e53720f4476d82c8164.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-311",
+ "checked_at": "2026-10-28T14:03:33+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "final": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:22:47+05:30",
+   "sha256": "7200f4278ddcf64b4586b4fb0584347b6c4c9d9777b8ab6c5c6265ff2c7fb946",
+   "copy": "b916c3efea94b147a394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "final": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:22:47+05:30",
+   "sha256": "7200f4278ddcf64b4586b4fb0584347b6c4c9d9777b8ab6c5c6265ff2c7fb946",
+   "copy": "b916c3efea94b147a394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "final": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:22:47+05:30",
+   "sha256": "7200f4278ddcf64b4586b4fb0584347b6c4c9d9777b8ab6c5c6265ff2c7fb946",
+   "copy": "b916c3efea94b147a394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "final": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:22:47+05:30",
+   "sha256": "7200f4278ddcf64b4586b4fb0584347b6c4c9d9777b8ab6c5c6265ff2c7fb946",
+   "copy": "b916c3efea94b147a394.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,49 @@
+{
+ "id": "Q-036",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Report an incorrect/excess FASTag deduction to the issuer bank's call centre within 40 days of the transaction date",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "You can report an incorrect deduction by calling our call center within 40 days of the transaction date."
+  },
+  {
+   "fact": "The bank raises a chargeback on the user's behalf against the toll plaza to recover the excess amount",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Bank would raise a Chargeback on behalf of you to recover the money that has been collected in excess by Toll Plaza."
+  },
+  {
+   "fact": "The chargeback normally takes up to 20-30 working days; incorrect deductions, if proven, are reversed after the case is represented with the toll plaza",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "This Chargeback process normally takes up to 20-30 working days. All incorrect deductions, if proven so, are reverted back post representing the case with Toll Plaza."
+  },
+  {
+   "fact": "An SMS alert is sent to the registered mobile each time an amount is deducted",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Customers will receive an SMS alert on their registered phone number each time an amount is deducted from their FASTag wallet."
+  },
+  {
+   "fact": "If the issuer bank's customer care does not respond, escalate by email to etc.nodal@ihmcl.com (IHMCL grievance)",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/grievance/",
+   "quote": "All Grievance Matters/Public Grievances Corporate Address: Asia Bhawan, Sec-9, Dwarka, New Delhi-110077 Email at: etc.nodal@ihmcl.com"
+  },
+  {
+   "fact": "Helpline 1033 handles toll-plaza-level FASTag complaints (tag not read/accepted, wrongly stopped as blacklisted, any other applicable FASTag issue)",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/faq/",
+   "quote": "Customer can simply dial 1033 from Mobile/Landline for the following issues: Stopped at the plaza for Tag blacklist reason even though Tagis not blacklisted. Plaza not accepting FASTag Plaza not able to read the Tag Plaza not supporting for monthly pass issuance Any other applicable issue for FASTag"
+  },
+  {
+   "fact": "Customer care numbers of the FASTag issuer banks are listed on ihmcl.co.in",
+   "status": "confirmed",
+   "url": "https://ihmcl.co.in/fastag-user/",
+   "quote": "Calling Toll -Free number of certified issuer banks as below: Sr No. Issuing Bank Customer Care Helpline No 1 Airtel Payments Bank 400/8800-688-006"
+  }
+ ],
+ "summary": "All refund facts confirmed on the IHMCL FAQ (40 days, chargeback 20-30 working days, SMS) and grievance page (etc.nodal@ihmcl.com); 1033 scope confirmed."
+}

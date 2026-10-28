@@ -1,0 +1,13 @@
+{
+ "id": "Q-048",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The AY 2026-27 tax audit report due date was extended from 30 Sep 2026 to 21 Oct 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/latest-news",
+   "quote": "Accordingly, the Audit Reports for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of Income Tax Act 1961 from 30th September 2026 to 21st October, 2026."},
+  {"fact": "The extension is by CBDT Circular No. 07/2026 dated 28 September 2026", "status": "confirmed",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+   "quote": "Consequently, the specified date for furnishing of report of audit for the Assessment Year 2026-27 (Previous Year 2025-26) shall stand extended to 21.10.2026 in terms of clause (ii) of Explanation to section 44AB of the Income-tax Act,1961."}
+ ],
+ "summary": "Audit report date 30.09.2026 -> 21.10.2026 under Circular 07/2026 dated 28.09.2026 confirmed on the circular and ITD news page; no later extension found."
+}

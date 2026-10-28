@@ -1,0 +1,52 @@
+{
+ "id": "Q-393",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "final": "https://www.myscheme.gov.in/schemes/pmv",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "378966517af5d0bb1f35.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "final": "https://www.myscheme.gov.in/schemes/pmv",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "378966517af5d0bb1f35.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "final": "https://www.myscheme.gov.in/schemes/pmv",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:12:12+05:30",
+   "sha256": "494a7354d683176af51162e185bbc873a7dad30b05baba3d428065d958fd8ead",
+   "copy": "378966517af5d0bb1f35.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

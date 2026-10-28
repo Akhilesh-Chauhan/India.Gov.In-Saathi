@@ -1,0 +1,28 @@
+{
+ "id": "Q-155",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The 24th PM-KISAN instalment is officially scheduled for 30 October 2026: a Prime Minister's event in Gujarat to transfer it to more than 9.34 crore beneficiaries",
+   "status": "added",
+   "url": "https://pmevents.mygov.in/en/home/",
+   "quote": "Upcoming Events Transfer of 24th installment to more than 9.34 Crore PM-KISAN beneficiaries 30th October 2026 Gujarat",
+   "note": "Checked 28 Oct 2026; no PIB text release found yet. Re-check on demo day whether it was released as scheduled."
+  },
+  {
+   "fact": "pmkisan.gov.in's home-page banner says the Prime Minister will release the 24th instalment on 30 October 2026, transferring over Rs 18,680 crore to more than 9.34 crore farmers",
+   "status": "manual",
+   "url": "https://pmkisan.gov.in/new_images/PMKisantwentyfortyinstallment.jpg",
+   "note": "Text only inside the home-page banner image (Hindi): '24 वीं किस्त ... 9.34 करोड़ ... ₹18,680 करोड़ ... 30 अक्टूबर 2026'; the checker cannot OCR images."
+  },
+  {
+   "fact": "Until then the latest released instalment is the 23rd (20 June 2026)",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal."
+  }
+ ],
+ "behaviour": "Gives only an officially announced date: the 24th instalment is scheduled for 30 Oct 2026 (Prime Minister's event in Gujarat), citing pmkisan.gov.in / PM Events (pmevents.mygov.in) or PIB; if asked after that date and an official page shows the release, says it was released. If the bot's sources do not show the announcement, saying no official date is available and pointing to pmkisan.gov.in / PIB is acceptable.",
+ "fail_if": "It gives a date other than 30 Oct 2026 for the 24th instalment, or quotes blog/YouTube predictions as the source.",
+ "summary": "The 24th instalment is now officially scheduled for 30 Oct 2026 (PM Events listing; pmkisan.gov.in banner image, manual); 23rd (20 Jun 2026) is the latest released on 28 Oct 2026."
+}

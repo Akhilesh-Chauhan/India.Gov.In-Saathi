@@ -1,0 +1,52 @@
+{
+ "id": "Q-115",
+ "checked_at": "2026-10-28T14:02:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://desw.gov.in/pension-circulars",
+   "final": "https://desw.gov.in/pension-circulars",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:20+05:30",
+   "sha256": "ae557b60d8c9d6a524ea037f02183bd599857b57e4847e76e0a6a437e3876161",
+   "copy": "ffe41494eeec45f98e64.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "final": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:37+05:30",
+   "sha256": "2cd8ace88651bdfca485e76dd3e9d6793e49d325fc475eabf323317f7dfbff18",
+   "copy": "d311e801c8915b5ebc67.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "final": "https://desw.gov.in/sites/default/files/OROP_Pension.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:37+05:30",
+   "sha256": "2cd8ace88651bdfca485e76dd3e9d6793e49d325fc475eabf323317f7dfbff18",
+   "copy": "d311e801c8915b5ebc67.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

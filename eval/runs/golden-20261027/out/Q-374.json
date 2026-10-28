@@ -1,0 +1,18 @@
+{
+ "id": "Q-374",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "CPGRAMS (the Central public grievance system) is available inside the UMANG app",
+   "status": "added",
+   "url": "https://pgportal.gov.in/",
+   "quote": "CPGRAMS is also accessible to the citizens through standalone mobile application downloadable through Google Play store and mobile application integrated with UMANG.",
+   "note": "UMANG's own CPGRAMS department page (web.umang.gov.in/landing/department/cpgrams.html) rendered empty and its web_new link returned 403, so the CPGRAMS portal (DARPG) is cited."},
+  {"fact": "Grievance status is tracked with the unique registration ID given when the grievance was registered",
+   "status": "added",
+   "url": "https://pgportal.gov.in/",
+   "quote": "The status of the grievance filed in CPGRAMS can be tracked with the unique registration ID provided at the time of registration of the complainant."}
+ ],
+ "behaviour": "Gives the deep link to the CPGRAMS service in UMANG if it is in the catalogue (else pgportal.gov.in 'View Status'); says the registration ID is needed; says it cannot see the grievance status itself. Replies in Hinglish.",
+ "fail_if": "Claims to know or fetch the grievance status; asks for login credentials or OTP; invents a link.",
+ "summary": "Added from pgportal.gov.in: CPGRAMS is integrated with UMANG; status is tracked with the registration ID."
+}

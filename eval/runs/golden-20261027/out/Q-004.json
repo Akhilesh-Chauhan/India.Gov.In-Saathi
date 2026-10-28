@@ -1,0 +1,35 @@
+{
+ "id": "Q-004",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "UIDAI has extended the fee waiver: the first mandatory biometric update (MBU-1) stays free for children aged 7 to 15 till 30.09.2027",
+   "status": "changed",
+   "was": "free for ages 7-15 only till 30.9.2026, so not free any more",
+   "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Extn-of-MBU-fee-waiver.pdf",
+   "quote": "Thus, the MBU-1 service shall remain free of cost to the children (aged 7-15 years) till 30.09.2027.",
+   "note": "UIDAI Office Memorandum on extension of the MBU-1 fee waiver, uploaded 25-09-2026. The fee-sheet PDF (Aadhaar_Enrolment__and__Update__-__English.pdf) still prints 30.9.2026 and is out of date."
+  },
+  {
+   "fact": "The Aadhaar Seva Kendra page also shows the update as free for ages 7 to 15 till 30.9.2027",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(*If done between the age of 7 to 15 years: Free, till 30.9.2027)"
+  },
+  {
+   "fact": "Otherwise a biometric update costs Rs 125",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(iii) If done otherwise: ₹125*"
+  },
+  {
+   "fact": "The first or second biometric update between ages 15 and 17 is free",
+   "status": "confirmed",
+   "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(ii) If done first or second time between the age of 15 to 17 years: Free#"
+  }
+ ],
+ "behaviour": "Says the biometric update is still free for the students aged 8 to 14 because UIDAI extended the waiver for ages 7 to 15 till 30.09.2027, citing uidai.gov.in (the extension OM or the Aadhaar Seva Kendra page); replies in the user's language.",
+ "fail_if": "It says the update is no longer free for children aged 7 to 15, or gives 30.9.2026 as the end of the waiver as if it were current, or gives a fee other than Rs 125 for a paid biometric update, or cites no UIDAI page.",
+ "summary": "UIDAI OM (uploaded 25-09-2026) extended the free MBU-1 for ages 7-15 till 30.09.2027; the old answer (free only till 30.9.2026) is out of date. The fee-sheet PDF is stale."
+}

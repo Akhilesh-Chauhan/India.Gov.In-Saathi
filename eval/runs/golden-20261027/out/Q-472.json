@@ -1,0 +1,11 @@
+{
+ "id": "Q-472",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Per the Railways Citizen Charter, the refund amount is transferred within 7 working days to the account from which the ticket was booked",
+   "status": "confirmed",
+   "url": "https://ir.indianrailways.gov.in/railwayboard/uploads/directorate/coaching/TAG_2026/Citizen_Charter.pdf",
+   "quote": "Within 7 working days amount is transferred and deposited in the account from which the ticket was booked."}
+ ],
+ "summary": "Confirmed on the Citizen Charter (TAG 2026) on ir.indianrailways.gov.in; the old indianrailways.gov.in/railwayboard URL now returns 404 after the site redesign."
+}

@@ -1,0 +1,23 @@
+{
+ "id": "Q-033",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "MV Act s.12(5): a person who has completed a training module at a school or establishment accredited by a body notified by the Central Government is eligible to obtain a driving licence for that type of vehicle",
+   "status": "confirmed", "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/1798/1/aA1988-59.pdf",
+   "quote": "where any school or establishment has been accredited by a body notified by the Central Government under any other law for the time being in force, any person who has successfully completed a training module at such school or establishment covering a particular type of motor vehicle shall be eligible to obtain a driving licence for such type of motor vehicle."},
+  {"fact": "Section 12(5) was inserted by the Motor Vehicles (Amendment) Act, 2019",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2022428",
+   "quote": "It was amended vide Motor Vehicles (Amendment) Act, 2019 to insert subsection (5) & (6) for schools or establishments accredited by a body notified by the Central Government."},
+  {"fact": "The completion certificate of an Accredited Driver Training Centre (Form 5B) exempts the holder from the driving test at the RTO",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2022428",
+   "quote": "The certificate issued by the ADTC on successful completion of course (Form 5B) vide sub-rule (iii) of rule 31E of CMVR, 1989 exempts the holder of such certificate from the requirement of driving test under proviso to sub-rule (2) of rule 15 of CMVR, 1989."},
+  {"fact": "A certificate from an ordinary (non-accredited) driving school (Form 5) does not exempt the driving test",
+   "status": "confirmed", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2022428",
+   "quote": "However, this certificate does not exempt its holder from the requirement of driving test under proviso to sub-rule (2) of rule 15 of CMVR, 1989."},
+  {"fact": "A learner's licence is still required before applying for the driving licence",
+   "status": "confirmed", "url": "https://parivahan.gov.in/en/content/faq",
+   "quote": "If you are a Non-Diplomat: You have to apply for Learner's License, before proceeding for Driving License.",
+   "note": "Parivahan FAQ node/183 adds that a driving training school certificate may exempt the learner's licence test itself, 'under the state jurisdiction'; the licence is still needed."}
+ ],
+ "summary": "MV Act s.12(5) (inserted 2019) and MoRTH's 1 June 2024 PIB clarification confirm only ADTC (Form 5B) certificates exempt the RTO driving test, not ordinary school (Form 5) ones; LL still required; expected answer unchanged."
+}

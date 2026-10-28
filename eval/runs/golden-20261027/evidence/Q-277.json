@@ -1,0 +1,52 @@
+{
+ "id": "Q-277",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://trifed.tribal.gov.in/en/pmvdy",
+   "final": "https://trifed.tribal.gov.in/en/pmvdy",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:06:29+05:30",
+   "sha256": "09895fa6382ea4e4c2fbe5fb513189ff6b50c8deaddbd11cbc399cd1fb185f7f",
+   "copy": "6ef2278ec17759033cbc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://trifed.tribal.gov.in/en/pmvdy",
+   "final": "https://trifed.tribal.gov.in/en/pmvdy",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:06:29+05:30",
+   "sha256": "09895fa6382ea4e4c2fbe5fb513189ff6b50c8deaddbd11cbc399cd1fb185f7f",
+   "copy": "6ef2278ec17759033cbc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://trifed.tribal.gov.in/en/pmvdy",
+   "final": "https://trifed.tribal.gov.in/en/pmvdy",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:06:29+05:30",
+   "sha256": "09895fa6382ea4e4c2fbe5fb513189ff6b50c8deaddbd11cbc399cd1fb185f7f",
+   "copy": "6ef2278ec17759033cbc.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

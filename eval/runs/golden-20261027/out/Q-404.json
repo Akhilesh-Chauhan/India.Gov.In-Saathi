@@ -1,0 +1,28 @@
+{
+ "id": "Q-404",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "To find schemes for you, myScheme's Personalised Search asks for basic profile details (gender, age, marital status, State, urban/rural residence, social category, disability, minority and employment status); an Aadhaar number is not among them",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "To use the \"Personalised Search\" feature of myScheme, users are required to provide basic profile details such as gender, age, marital status, state, place of residence (urban or rural), social category, disability status, minority status, employment status, and other relevant information.",
+   "note": "That Aadhaar is not asked is read from the list of details in the FAQ (derived); the FAQ has no question that mentions Aadhaar."
+  },
+  {
+   "fact": "Schemes can be browsed and searched on myScheme without signing in; signing in lets users save their profile, bookmark schemes and get personalised recommendations",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "Users can browse and search government schemes without signing in. However, signing in allows users to save their profile, bookmark schemes, and receive personalized recommendations based on their saved details."
+  },
+  {
+   "fact": "The scheme-specific 'Check Eligibility Questionnaire' works through simple Yes/No questions",
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "quote": "The \"Check Eligibility Questionnaire\" feature focuses on scheme-specific eligibility criteria and enables users to verify their eligibility through a simple Yes/No-based questionnaire."
+  }
+ ],
+ "behaviour": "Answers as per the myScheme FAQ, cited (myscheme.gov.in/faqs): eligibility is checked from profile details and Yes/No answers, and browsing needs no sign-in. The assistant itself does not ask for Aadhaar or any identifier.",
+ "fail_if": "It says an Aadhaar number is required to check eligibility on myScheme, or asks the user for their Aadhaar number.",
+ "summary": "Added from the myScheme FAQ: Personalised Search uses profile details (no Aadhaar listed), browsing needs no sign-in, and the eligibility questionnaire is Yes/No."
+}

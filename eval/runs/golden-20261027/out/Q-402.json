@@ -1,0 +1,10 @@
+{
+ "id": "Q-402",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "myScheme's search shows how many Central schemes are in its 'Women and Child' category (Central Schemes tab): 40 on 28 Oct 2026, out of 483 Central and State schemes in that category", "status": "manual",
+   "url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+   "note": "The count is loaded by the page's search API (level=Central, schemeCategory=Women and Child) and appears only after clicking the 'Central Schemes' tab ('We found 40 schemes based on your preferences'); the checker's rendered copy did not load the results. The number changes as schemes are onboarded, so a person must read it on the day and accept the bot's count only if it gives the date/source; 'Women and Child' category vs a Gender=Female filter give different counts."}
+ ],
+ "summary": "Count is dynamic and only in myScheme's JS search (40 Central schemes in 'Women and Child' on 28 Oct 2026); marked manual, expected answer unchanged."
+}

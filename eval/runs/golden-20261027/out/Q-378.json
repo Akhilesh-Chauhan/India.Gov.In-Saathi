@@ -1,0 +1,14 @@
+{
+ "id": "Q-378",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "UMANG's EPFO department says users can raise a PF claim (and check claim status) using the UMANG app",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/epfo.html",
+   "quote": "EPFO Users can check their PF balance,Raise claim,Apply for Scheme Certificate,Apply for UAN, Seed UAN with Aadhaar,Check claim status,Search for establishment,View EPFO office address,Register Grievance and apply for Jeevan Pramaan certificate using this app.",
+   "note": "The public UMANG web EPFO page on 28 Oct 2026 shows no 'Raise Claim' tile in its service list (the name appears only in the page's meta keywords), so web availability must come from the bot's UMANG catalogue record, not from this page."}
+ ],
+ "behaviour": "States the EPFO claim service's availability on the UMANG app and on UMANG web exactly as recorded in the UMANG catalogue (search_services); gives the deep link; no guess.",
+ "fail_if": "Guesses availability on app or web without the catalogue record; invents a link.",
+ "summary": "Added: UMANG EPFO page says claims can be raised in the app; the web page shows no Raise Claim tile, so web availability rests on the catalogue record."
+}

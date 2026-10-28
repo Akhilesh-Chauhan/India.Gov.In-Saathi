@@ -1,0 +1,12 @@
+{
+ "id": "Q-052",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "An Income Tax Return is the form in which a taxpayer reports income and the tax on it to the Income Tax Department every year", "status": "added", "url": "https://www.incometax.gov.in/iec/foportal/help/how-to-file-itr1-form-sahaj", "quote": "Income Tax Return is the form in which taxpayer files information about income and tax thereon to the Income Tax Department on annual basis."},
+  {"fact": "Agricultural income is exempt income (not chargeable to tax); in the return it is shown only under Exempt Income", "status": "added", "url": "https://www.incometax.gov.in/iec/foportal/help/FileITR-2Online", "quote": "In Schedule Exempt Income (EI) , you need to provide your details of exempt income i.e., income not to be included in total income or not chargeable to tax. The income types included in this schedule include interest, dividend, agricultural income"},
+  {"fact": "ITR-1 can be used only if agricultural income is up to Rs 5,000 (with total income up to Rs 50 lakh from the listed sources); above that ITR-1 cannot be used", "status": "added", "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1", "quote": "This return is applicable for a Resident (other than Not Ordinarily Resident) Individual having Total Income from any of the following sources up to ₹ 50 lakh Salary / Pension One House Property Other sources (Interest, Family Pension, Dividend etc.) Agricultural Income up to ₹ 5,000", "note": "'Above that ITR-1 cannot be used' is derived from the Rs 5,000 limit of ITR-1's applicability."}
+ ],
+ "behaviour": "Replies in simple Hindi: explains what an ITR is and that agricultural income is exempt from income tax, as per the Income Tax Department (incometax.gov.in), citing it. Does not decide whether the user's father must file; says this depends on his other (non-agricultural) income and points to incometax.gov.in or the ITD helpline.",
+ "fail_if": "Says farmers' agricultural income is taxable; tells the user definitively that the father must or need not file without knowing his other income.",
+ "summary": "Added ITD definitions: ITR = annual form reporting income and tax; agricultural income is exempt (Schedule EI); ITR-1 only for agricultural income up to Rs 5,000. No clean ITD page found stating the filing threshold."
+}

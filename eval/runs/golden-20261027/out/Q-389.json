@@ -1,0 +1,7 @@
+{
+ "id": "Q-389",
+ "checked_on": "2026-10-28",
+ "facts": [],
+ "no_facts_reason": "Behaviour check only: the bot must ask at most two clarifying questions (e.g. age, occupation) without asking for Aadhaar or assuming a State; the expected answer names no scheme, amount, helpline or portal to verify.",
+ "summary": "Clarifying-question behaviour only; nothing to verify."
+}

@@ -1,0 +1,21 @@
+{
+ "id": "Q-483",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "The Employees' Provident Funds Scheme, 2026 (G.S.R. 525(E), Gazette of 29 June 2026) has replaced the EPF Scheme, 1952",
+   "status": "confirmed",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "Code on Social Security (36 of 2020) and in supersession of the Employees' Provident Funds Scheme, 1952, except as respects things done or omitted to be done before such supersession"
+  },
+  {
+   "fact": "Under the 2026 scheme, the full PF balance can be withdrawn on leaving a job only after being out of covered employment continuously for at least 12 months before applying, so not after 2 months",
+   "status": "added",
+   "url": "https://egazette.gov.in/WriteReadData/2026/273957.pdf",
+   "quote": "Provided that a member shall not be eligible to withdraw unless the member has not been employed in any factory or other establishment to which the Code applies for a continuous period of not less than twelve months immediately preceding the date of application for withdrawal:"
+  }
+ ],
+ "behaviour": "Answers in simple Hinglish that full PF cannot be withdrawn yet after only 2 months without a job, following the current EPF Scheme 2026 text and citing it with its date (Gazette G.S.R. 525(E), 29.06.2026); may note that the EPFO EPF Scheme web page still shows the older 2-month rule from the 1952 scheme and that the gazetted 2026 scheme prevails (G05); gives no verdict on the user's individual claim.",
+ "fail_if": "Says the full PF can be withdrawn after 2 months of unemployment (the 1952 scheme rule still on the EPFO web page) without flagging the 2026 scheme; or ignores the EPF Scheme 2026.",
+ "summary": "EPF Scheme 2026 (G.S.R. 525(E), 29.06.2026) para 49(2) requires 12 months' continuous unemployment for full withdrawal; the EPFO page still says 2 months; added the 12-month rule."
+}

@@ -1,0 +1,19 @@
+{
+ "id": "Q-225",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Per NALSA's letter of 04.12.2025, National Lok Adalats in 2026 are held on the 2nd Saturday of March, May, September and December, on all subject matters",
+   "status": "added", "url": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "quote": "has informed that the National Lok Adalats will be held on 2nd Saturday of March, May, September and December during the year, 2026 on all subject matters."},
+  {"fact": "The next National Lok Adalat (after 28 Oct 2026) is on 12 December 2026; the 2026 dates are 14.03, 09.05, 12.09 and 12.12.2026",
+   "status": "added", "url": "https://haryana.nalsa.gov.in/lok-adalat/",
+   "quote": "Dates of National Lok Adalat 14.03.2026 09.05.2026 12.09.2026 12.12.2026",
+   "note": "'Next' is derived: 12.12.2026 is the only 2026 date after today (28 Oct 2026). nalsa.gov.in/national-lok-adalat/ lists only past sittings (latest 09.05.2026); the schedule is quoted from HALSA's page citing NALSA letter No. L/34/2018-NALSA dated 04.12.2025."},
+  {"fact": "Traffic challans are among the matters taken up at a National Lok Adalat (e.g. Haryana's sitting on 12.09.2026), alongside compoundable criminal offences",
+   "status": "added", "url": "https://haryana.nalsa.gov.in/event/national-lok-adalat-successfully-organized-on-12-09-2026-under-the-aegis-of-haryana-state-legal-services-authority/",
+   "quote": "pending matters including civil disputes, matrimonial cases, motor accident claim cases, bank recovery matters, cheque bounce cases under the Negotiable Instruments Act, traffic challans, compoundable criminal offences."}
+ ],
+ "behaviour": "Gives the date of the next National Lok Adalat from the NALSA schedule (or a State Legal Services Authority page quoting it) with a citation, and says that traffic challans can be taken up there, with the user to check with the District Legal Services Authority or the traffic police for their State; if no schedule is found, says so rather than guessing.",
+ "fail_if": "It gives a past sitting (e.g. 12.09.2026) as the next one; invents a date; says traffic challans can never be settled at a Lok Adalat; cites unofficial sites.",
+ "summary": "Added the 2026 National Lok Adalat schedule (next: 12.12.2026, per NALSA letter quoted by HALSA) and that traffic challans are taken up at National Lok Adalats."
+}

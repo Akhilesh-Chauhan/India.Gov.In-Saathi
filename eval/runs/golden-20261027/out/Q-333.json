@@ -1,0 +1,13 @@
+{
+ "id": "Q-333",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Budget 2026-27 supports high value crops: coconut, sandalwood, cocoa and cashew in coastal areas, agar in the North East, and almonds, walnuts and pine nuts in hilly regions (Budget Speech para 78)", "status": "added", "example": true, "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf", "quote": "we will support high value crops such as coconut, sandalwood, cocoa and cashew in our coastal areas. Agar trees in North East and nuts such as, almonds, walnuts and pine nuts in our hilly regions will also be supported."},
+  {"fact": "A Coconut Promotion Scheme to raise coconut production and productivity (para 79)", "status": "added", "example": true, "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf", "quote": "To further enhance competitiveness in coconut production, I propose a Coconut Promotion Scheme to increase production and enhance productivity through various interventions"},
+  {"fact": "Bharat-VISTAAR: a multilingual AI tool integrating AgriStack portals and ICAR farm-practice advice for customised advisory to farmers (para 83)", "status": "added", "example": true, "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf", "quote": "I propose to launch Bharat-VISTAAR—a multilingual AI tool that shall integrate the AgriStack portals and the ICAR package on agricultural practices with AI systems."},
+  {"fact": "Fisheries: integrated development of 500 reservoirs and Amrit Sarovars and a stronger fisheries value chain in coastal areas", "status": "added", "example": true, "url": "https://www.indiabudget.gov.in/doc/Budget_Speech.pdf", "quote": "Fisheries: We will undertake initiatives (i) for integrated development of 500 reservoirs and Amrit Sarovars (ii) strengthen the fisheries value chain in coastal areas"}
+ ],
+ "behaviour": "Answers only from the Union Budget 2026-27 speech or documents on indiabudget.gov.in, cited; neutral, no political comment.",
+ "fail_if": "Gives announcements not in the Budget 2026-27 documents, mixes in earlier budgets, or adds political opinion.",
+ "summary": "Added the main farmer items from the Budget 2026-27 speech (paras 76-83): high value crops, Coconut Promotion Scheme, Bharat-VISTAAR, fisheries/animal husbandry."
+}

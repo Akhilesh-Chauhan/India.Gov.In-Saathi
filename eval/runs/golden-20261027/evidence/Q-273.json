@@ -1,0 +1,67 @@
+{
+ "id": "Q-273",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209488&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:16+05:30",
+   "sha256": "2c80efcc1a6371f9c616c96328eb6d26852fc5297426d2fa1e896538e82ed52d",
+   "copy": "0c8ecf11cc07a5303e47.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "final": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:05:50+05:30",
+   "sha256": "4e717de709f790a9ae3a84a6767497f571c5b6ec41edb0e2782d4a409ad77bee",
+   "copy": "9c05de16590618da892e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299181&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:11:34+05:30",
+   "sha256": "d951744bf9c935383b5752f5a15280fd8d72a8e2af7f05c6ad40d8a61ac3302d",
+   "copy": "c1f3908fe00666ed61e6.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "final": "https://www.dosje.gov.in/schemes-and-services/rashtriya-vayoshri-yojana-rvy/",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:05:50+05:30",
+   "sha256": "4e717de709f790a9ae3a84a6767497f571c5b6ec41edb0e2782d4a409ad77bee",
+   "copy": "9c05de16590618da892e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

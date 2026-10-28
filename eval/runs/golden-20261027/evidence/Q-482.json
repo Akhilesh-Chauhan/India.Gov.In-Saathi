@@ -1,0 +1,52 @@
+{
+ "id": "Q-482",
+ "checked_at": "2026-10-28T14:03:55+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "final": "https://www.epfo.gov.in/epf-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:13+05:30",
+   "sha256": "1fde33570829c83e363a2ddd19b635088770020922e46449d158ac3371370771",
+   "copy": "c159920c2d92dfe0f086.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "final": "https://www.epfo.gov.in/epf-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:13+05:30",
+   "sha256": "1fde33570829c83e363a2ddd19b635088770020922e46449d158ac3371370771",
+   "copy": "c159920c2d92dfe0f086.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "final": "https://www.epfo.gov.in/epf-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:13+05:30",
+   "sha256": "1fde33570829c83e363a2ddd19b635088770020922e46449d158ac3371370771",
+   "copy": "c159920c2d92dfe0f086.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

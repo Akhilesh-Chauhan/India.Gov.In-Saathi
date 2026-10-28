@@ -1,0 +1,67 @@
+{
+ "id": "Q-271",
+ "checked_at": "2026-10-28T14:03:30+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/adip-scheme/",
+   "final": "https://depwd.gov.in/en/adip-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:45+05:30",
+   "sha256": "34a0742790533bbf1fe32c4b0a4b4e9d6ca9de9454f38243362ea923e8f4baec",
+   "copy": "efb09ea8d5fbcd81551a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/adip-scheme/",
+   "final": "https://depwd.gov.in/en/adip-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:45+05:30",
+   "sha256": "34a0742790533bbf1fe32c4b0a4b4e9d6ca9de9454f38243362ea923e8f4baec",
+   "copy": "efb09ea8d5fbcd81551a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/adip-scheme/",
+   "final": "https://depwd.gov.in/en/adip-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:45+05:30",
+   "sha256": "34a0742790533bbf1fe32c4b0a4b4e9d6ca9de9454f38243362ea923e8f4baec",
+   "copy": "efb09ea8d5fbcd81551a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://depwd.gov.in/en/adip-scheme/",
+   "final": "https://depwd.gov.in/en/adip-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:56:45+05:30",
+   "sha256": "34a0742790533bbf1fe32c4b0a4b4e9d6ca9de9454f38243362ea923e8f4baec",
+   "copy": "efb09ea8d5fbcd81551a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

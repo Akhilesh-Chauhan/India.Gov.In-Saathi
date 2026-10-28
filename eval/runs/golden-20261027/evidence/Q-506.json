@@ -1,0 +1,67 @@
+{
+ "id": "Q-506",
+ "checked_at": "2026-10-28T14:03:57+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/home",
+   "final": "https://scholarships.gov.in/home",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:41+05:30",
+   "sha256": "ee3da75f4991357ee1988fe019688fbefe144f0c19658e1f193493e4a9dca209",
+   "copy": "5969f2eba0dbaa735677.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/home",
+   "final": "https://scholarships.gov.in/home",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:41+05:30",
+   "sha256": "ee3da75f4991357ee1988fe019688fbefe144f0c19658e1f193493e4a9dca209",
+   "copy": "5969f2eba0dbaa735677.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/home",
+   "final": "https://scholarships.gov.in/home",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:41+05:30",
+   "sha256": "ee3da75f4991357ee1988fe019688fbefe144f0c19658e1f193493e4a9dca209",
+   "copy": "5969f2eba0dbaa735677.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://scholarships.gov.in/home",
+   "final": "https://scholarships.gov.in/home",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:01:41+05:30",
+   "sha256": "ee3da75f4991357ee1988fe019688fbefe144f0c19658e1f193493e4a9dca209",
+   "copy": "5969f2eba0dbaa735677.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

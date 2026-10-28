@@ -1,0 +1,52 @@
+{
+ "id": "Q-230",
+ "checked_at": "2026-10-28T14:03:21+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://abha.abdm.gov.in/abha/v3/",
+   "final": "https://abha.abdm.gov.in/abha/v3/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:07+05:30",
+   "sha256": "8ec28fbdb9b3e063b0c6d9330688c6f65f00193adbab2d4c4fa3ebc6779c16ee",
+   "copy": "3d1e8d4560c55d11483c.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "final": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:14+05:30",
+   "sha256": "cdf742ac834779202908611032237874970d2009106947b2993f73bebb4648a0",
+   "copy": "c61d1ed0260478aa783d.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "final": "https://abdm.gov.in/strapicms/uploads/ABDM_Building_Blocks_v8_3_External_Version_eabbc5c0f3_4_a96f40c645_5716a684de_b344369144.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:51:14+05:30",
+   "sha256": "cdf742ac834779202908611032237874970d2009106947b2993f73bebb4648a0",
+   "copy": "c61d1ed0260478aa783d.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

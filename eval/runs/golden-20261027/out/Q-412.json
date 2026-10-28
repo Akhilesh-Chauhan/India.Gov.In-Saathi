@@ -1,0 +1,37 @@
+{
+ "id": "Q-412",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Members can file EPF claims themselves online through the EPFO portal and the UMANG app",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592",
+   "quote": "EPFO strongly advises all its members, employers, and pensioners to utilize the online services available through the EPFO portal and UMANG app."
+  },
+  {
+   "fact": "Claim filing and all other EPFO services are free; members should not pay agents or cyber cafes",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2136592",
+   "quote": "All EPFO services including claim filing, transfers, KYC updation, and grievance process are entirely free of cost and members should not pay any fees to third party agents or cyber cafes for services that can be easily accessed online."
+  },
+  {
+   "fact": "Complaints can be lodged on EPFO's EPFiGMS grievance portal",
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/contact-us/",
+   "quote": "Register your grievance online through the official EPFiGMS Portal: https://epfigms.gov.in/ Grievance can be lodged by PF member, EPS Pensioner, Employer and Others"
+  },
+  {
+   "fact": "Never share the OTP with anyone",
+   "status": "confirmed",
+   "url": "https://passbook.epfindia.gov.in/",
+   "quote": "Please never respond to any call for sharing any personal details like Aadhaar, PAN, Bank details, OTP or request for any payment."
+  },
+  {
+   "fact": "Never share the UAN password",
+   "status": "confirmed",
+   "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "quote": "Keep system updated and patched. Maintain a complex password. Do not share passwords."
+  }
+ ],
+ "summary": "Confirmed on PIB 16 Jun 2025 (EPFO services free, use EPFO portal/UMANG), EPFO Contact Us (EPFiGMS) and the EPFO passbook page (never share OTP)."
+}

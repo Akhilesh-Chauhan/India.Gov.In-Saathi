@@ -1,0 +1,67 @@
+{
+ "id": "Q-418",
+ "checked_at": "2026-10-28T14:03:37+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=aboutus",
+   "final": "https://nsap.dord.gov.in/circular.do?method=aboutus",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:32+05:30",
+   "sha256": "a9242e7c01e0776946c6a194ad126150bf4769f1c059b62dbabda145c6995459",
+   "copy": "dd3627d24c67156afafb.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "final": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:39+05:30",
+   "sha256": "d53a782b3be5b935393627d0d7ead94eeb24d341153ccac69befb8cc9a994718",
+   "copy": "88288af35a85c072524c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/circular.do?method=faq",
+   "final": "https://nsap.dord.gov.in/circular.do?method=faq",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:07+05:30",
+   "sha256": "e32439faa058a68d56ba16e2a2893e33ef0ce4f4722f8fcf65f352cc9e7d7a40",
+   "copy": "0fb9c784e09aa6a399b8.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "confirmed",
+   "url": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "final": "https://nsap.dord.gov.in/Guidelines/nsap_guidelines_oct2014.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:40:39+05:30",
+   "sha256": "d53a782b3be5b935393627d0d7ead94eeb24d341153ccac69befb8cc9a994718",
+   "copy": "88288af35a85c072524c.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

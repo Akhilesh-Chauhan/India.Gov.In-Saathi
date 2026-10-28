@@ -1,0 +1,52 @@
+{
+ "id": "Q-484",
+ "checked_at": "2026-10-28T14:03:56+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "final": "https://www.epfo.gov.in/faq-epfo/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:33+05:30",
+   "sha256": "7219427adf1fe64daece44fd35260f8531391077acbfa77c2822a586b968ea64",
+   "copy": "7e3d538f2c04694179aa.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "confirmed",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "final": "https://www.epfo.gov.in/faq-epfo/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:33+05:30",
+   "sha256": "7219427adf1fe64daece44fd35260f8531391077acbfa77c2822a586b968ea64",
+   "copy": "7e3d538f2c04694179aa.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "confirmed",
+   "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "final": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:42:31+05:30",
+   "sha256": "9f060c0fd183ae0498b2f97466558c0fa41713bcf45ca7f35a2eadf94943053e",
+   "copy": "198e340229f557e1f564.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

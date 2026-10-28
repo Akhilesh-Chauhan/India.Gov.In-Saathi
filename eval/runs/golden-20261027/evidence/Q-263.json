@@ -1,0 +1,37 @@
+{
+ "id": "Q-263",
+ "checked_at": "2026-10-28T14:03:29+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://wcd.gov.in/women/beti-bachao-beti-padhao",
+   "final": "https://wcd.gov.in/women/beti-bachao-beti-padhao",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:43+05:30",
+   "sha256": "185d91fd6ca0e92e4621f55df16710a000e2d5da76316c20346f0e37fbf85c5e",
+   "copy": "61bf4f9518d449bfad30.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://wcd.gov.in/offerings/pradhan-mantri-matru-vandana-yojana",
+   "final": "https://wcd.gov.in/offerings/pradhan-mantri-matru-vandana-yojana",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:03:58+05:30",
+   "sha256": "decec09e6026fd56a01ed71077a87b164d75203d40a8bd04c90f8a0bc2b283c3",
+   "copy": "f588beead05aa238ff9b.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

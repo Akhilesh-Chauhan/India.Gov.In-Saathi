@@ -1,0 +1,32 @@
+{
+ "id": "Q-425",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "PM-KISAN gives land-holding farmer families Rs 6,000 a year in three equal instalments",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Under the scheme an income support of 6,000/- per year in three equal installments will be provided to all land holding farmer families."
+  },
+  {
+   "fact": "Each instalment is Rs 2,000",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&reg=48&lang=2",
+   "quote": "This is disbursed in three equal instalments of ₹2,000 through the Direct Benefit Transfer (DBT) mechanism into Aadhaar-seeded bank accounts"
+  },
+  {
+   "fact": "23 instalments have been released to date",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292460&reg=3&lang=1",
+   "quote": "More than Rs.4.47 lakh crore has been transferred directly into farmers’ bank accounts through 23 instalments under the Scheme."
+  },
+  {
+   "fact": "The latest (23rd) instalment was released on 20 June 2026, and it was still the latest as of 15-Oct-2026 (still so on 28 Oct 2026)",
+   "status": "confirmed",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "The Hon’ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal.",
+   "note": "\"Still latest as of 15-Oct-2026\" is derived: the portal on 28 Oct 2026 still names the 23rd instalment of 20 June 2026 as the latest release."
+  }
+ ],
+ "summary": "Rs 6,000 a year in three Rs 2,000 instalments; 23 instalments so far, the latest on 20 June 2026 (pmkisan.gov.in and PIB, 28 Oct 2026)."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Q-349",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:55:58+05:30",
+   "sha256": "d13e12a54dc52a2968433f5f1e3c4a8451b45500ff19c6db6ca22afa3e2ef590",
+   "copy": "77312661b54a69980c1a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276793&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T11:55:58+05:30",
+   "sha256": "d13e12a54dc52a2968433f5f1e3c4a8451b45500ff19c6db6ca22afa3e2ef590",
+   "copy": "77312661b54a69980c1a.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://hajcommittee.gov.in/uploads/circulars/178213884104Guidelines_for_Haj_2027.pdf",
+   "final": "https://hajcommittee.gov.in/uploads/circulars/178213884104Guidelines_for_Haj_2027.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:18+05:30",
+   "sha256": "0969fd9fab4c3132cf9744116288ec9519742c2b8d2a7395fbe6e9cff65e6194",
+   "copy": "9127d828cc2a5b501536.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://hajcommittee.gov.in/circulars",
+   "final": "https://hajcommittee.gov.in/circulars",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:57:37+05:30",
+   "sha256": "e1d66079720765b19ecbab1db37f6ad4508cfce834e5bff1ccf9bd62031000a4",
+   "copy": "1d61910c8159cf3bec45.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

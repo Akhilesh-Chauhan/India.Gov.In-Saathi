@@ -1,0 +1,17 @@
+{
+ "id": "Q-373",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: a pensioner can generate a Digital Life Certificate through the UMANG app",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "quote": "Generate your Digital Life Certificate in just a few minutes through the UMANG app."},
+  {"fact": "The UMANG service is Jeevan Pramaan 'Generate Life Certificate', which authenticates the pensioner with a biometric device",
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/jeevan-pramaan.html",
+   "quote": "Generate Life Certificate This service allows users to authenticate their existence and confirm their eligibility for pension benefits using biometric devices."}
+ ],
+ "behaviour": "Says yes and gives the deep link to the Jeevan Pramaan 'Generate Life Certificate' service in UMANG (from the catalogue); if it is not listed, points to jeevanpramaan.gov.in; cites the source.",
+ "fail_if": "Says it cannot be done through UMANG; invents a link; cites no official source.",
+ "summary": "Added from UMANG: Digital Life Certificate can be generated in the UMANG app via Jeevan Pramaan 'Generate Life Certificate' (biometric authentication)."
+}

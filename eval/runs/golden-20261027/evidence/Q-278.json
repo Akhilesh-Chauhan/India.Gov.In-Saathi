@@ -1,0 +1,67 @@
+{
+ "id": "Q-278",
+ "checked_at": "2026-10-28T14:03:31+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "final": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:03+05:30",
+   "sha256": "3b49c4b6321fc42b2c923670fb0db2f2c17eb493ff62039a9ee4b9f980927918",
+   "copy": "50dd6c333671a5dee161.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "final": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:03+05:30",
+   "sha256": "3b49c4b6321fc42b2c923670fb0db2f2c17eb493ff62039a9ee4b9f980927918",
+   "copy": "50dd6c333671a5dee161.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "final": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:03+05:30",
+   "sha256": "3b49c4b6321fc42b2c923670fb0db2f2c17eb493ff62039a9ee4b9f980927918",
+   "copy": "50dd6c333671a5dee161.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "final": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:04:03+05:30",
+   "sha256": "3b49c4b6321fc42b2c923670fb0db2f2c17eb493ff62039a9ee4b9f980927918",
+   "copy": "50dd6c333671a5dee161.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

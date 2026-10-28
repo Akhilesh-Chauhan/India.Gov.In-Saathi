@@ -1,0 +1,39 @@
+{
+ "id": "Q-009",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "UIDAI's Biometric Lock/Unlock service lets the Aadhaar holder lock their biometrics and unlock them temporarily",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Biometric Locking/Unlocking is a service that allows an Aadhaar holder to lock and temporarily unlock their biometrics."
+  },
+  {
+   "fact": "While locked, fingerprints, iris and face cannot be used for any Aadhaar authentication by anyone",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Locked Biometrics confirms that Aadhaar holder will not be able to use Biometrics (fingerprints/iris/Face) for authentication, it is a safety feature to stop any kind of biometric authentication."
+  },
+  {
+   "fact": "The Aadhaar app offers biometric lock/unlock",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/enrolment-and-update",
+   "quote": "Presently, the Aadhaar app offers various services like - Mobile Number Update, Address Update, Biometric lock/unlock, Selective Sharing of Aadhaar Verifiable Credential, check Authentication History, download e-Aadhaar, share Contact Card, Track my request, etc."
+  },
+  {
+   "fact": "Biometrics can be unlocked on the UIDAI website (myAadhaar), at an enrolment centre / Aadhaar Seva Kendra, or in the Aadhaar app",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "The biometric unlock can be done by Aadhaar number holder either by visiting UIDAI website, enrolment centre, Aadhaar Seva Kendra(ASK), through Aadhaar app."
+  },
+  {
+   "fact": "A mobile number registered with Aadhaar is needed to use the service",
+   "status": "added",
+   "url": "https://uidai.gov.in/en/aadhaar-online-services",
+   "quote": "Note: Registered Mobile Number is essential to avail this service. In case your mobile number is not registered with Aadhaar visit the nearest Enrolment Centre/Mobile Update End Point."
+  }
+ ],
+ "behaviour": "Explains biometric lock and temporary unlock via the UIDAI website (myAadhaar) or the Aadhaar app as published by UIDAI, citing uidai.gov.in for every step; does not ask for the user's Aadhaar number or OTP.",
+ "fail_if": "It gives steps or channels not on UIDAI pages, says biometrics cannot be unlocked, or asks for the Aadhaar number or OTP.",
+ "summary": "Added from UIDAI FAQs: lock and temporary unlock, effect of the lock, Aadhaar app lock/unlock, unlock channels (UIDAI website, centre/ASK, app), registered mobile needed."
+}

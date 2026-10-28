@@ -1,0 +1,67 @@
+{
+ "id": "Q-190",
+ "checked_at": "2026-10-28T14:03:08+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:47+05:30",
+   "sha256": "37238671f322b1d13d27eb4814f2865e88c7a94fb771c1e2925086af411778b5",
+   "copy": "9adf900faa5d18fa76cf.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112788",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112788&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:37+05:30",
+   "sha256": "9faed51cf64728e7a8faf7da0646543341c1dd9e76c1ef129d61e2043bb728f4",
+   "copy": "880606f2bd9d40e2ef1d.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:47+05:30",
+   "sha256": "37238671f322b1d13d27eb4814f2865e88c7a94fb771c1e2925086af411778b5",
+   "copy": "9adf900faa5d18fa76cf.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899",
+   "final": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2157899&reg=48&lang=2",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:50:47+05:30",
+   "sha256": "37238671f322b1d13d27eb4814f2865e88c7a94fb771c1e2925086af411778b5",
+   "copy": "9adf900faa5d18fa76cf.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

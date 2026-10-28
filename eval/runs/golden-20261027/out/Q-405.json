@@ -1,0 +1,13 @@
+{
+ "id": "Q-405",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "The myScheme page for PM Vishwakarma is https://www.myscheme.gov.in/schemes/pmv (slug 'pmv'); it opens on the PM Vishwakarma scheme of the Ministry of MSME", "status": "added",
+   "url": "https://www.myscheme.gov.in/schemes/pmv",
+   "quote": "PM Vishwakarma is a Central Sector Scheme launched by Ministry of Micro, Small and Medium Enterprises to provide holistic and end-to-end support to artisans and craftspeople",
+   "note": "The guessed slug /schemes/pm-vishwakarma returns only the site shell ('Something went wrong'), not the scheme."}
+ ],
+ "behaviour": "Gives the myScheme scheme page URL from the record, https://www.myscheme.gov.in/schemes/pmv, which opens (HTTP 200) on PM Vishwakarma; no fabricated slug.",
+ "fail_if": "It gives a made-up myScheme slug (e.g. /schemes/pm-vishwakarma, which does not open the scheme) or a non-government link.",
+ "summary": "PM Vishwakarma's myScheme page is /schemes/pmv (opens on the scheme); /schemes/pm-vishwakarma does not."
+}

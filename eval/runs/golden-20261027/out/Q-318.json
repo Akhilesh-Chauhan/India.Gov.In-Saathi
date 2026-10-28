@@ -1,0 +1,15 @@
+{
+ "id": "Q-318",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Maharashtra's Aaple Sarkar portal is where income certificates are applied for and issued",
+   "status": "confirmed",
+   "url": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "quote": "Aaple Sarkar is Maharashtra’s online portal offering over 400 government services, including teacher transfer applications, certificate issuance (e.g., income, caste, domicile), licenses, permits, and welfare schemes."},
+  {"fact": "The Aaple Sarkar portal address is aaplesarkar.mahaonline.gov.in",
+   "status": "confirmed",
+   "url": "https://rdd.maharashtra.gov.in/en/service/aaple-sarkar/",
+   "quote": "Services are accessible via aaplesarkar.mahaonline.gov.in , with features like online document upload, application tracking, secure payments, and grievance redressal."}
+ ],
+ "summary": "Maharashtra RDD page confirms Aaple Sarkar (aaplesarkar.mahaonline.gov.in) issues income certificates; the Aaple Sarkar site itself was unreachable from here (network unreachable)."
+}

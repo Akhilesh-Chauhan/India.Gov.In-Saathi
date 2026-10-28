@@ -1,0 +1,52 @@
+{
+ "id": "Q-055",
+ "checked_at": "2026-10-28T14:02:24+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2021-05/Instructions_ITR3_AY2021_22.pdf",
+   "final": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2021-05/Instructions_ITR3_AY2021_22.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:54:19+05:30",
+   "sha256": "d4c5fd8ef762b39ec80884e19a9e926160dabcd804c5c7a004b9d20b7e1e1a9e",
+   "copy": "d08cee8fca489068e9e1.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:45+05:30",
+   "sha256": "45d4fc4adc982dd9053c7f76ccbbc37f17b713ba2da36a79ab34accd68f4e837",
+   "copy": "256f39c8aa01c4313736.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "final": "https://www.incometax.gov.in/iec/foportal/help/individual-business-profession",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:53:45+05:30",
+   "sha256": "45d4fc4adc982dd9053c7f76ccbbc37f17b713ba2da36a79ab34accd68f4e837",
+   "copy": "256f39c8aa01c4313736.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

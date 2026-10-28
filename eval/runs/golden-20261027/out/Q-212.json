@@ -1,0 +1,33 @@
+{
+ "id": "Q-212",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Anyone who gets no decision within the time limit can file a first appeal within 30 days from the expiry of that period, to the officer senior in rank to the PIO (First Appellate Authority)",
+   "status": "added",
+   "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "quote": "may within thirty days from the expiry of such period or from the receipt of such a decision prefer an appeal to such officer who is senior in rank to the Central Public Information Officer or State Public Information Officer as the case may be, in each public authority"
+  },
+  {
+   "fact": "For an RTI filed on RTI Online, the first appeal is filed through 'Submit First Appeal' using the original application's registration number and e-mail ID",
+   "status": "added",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "the applicant has to select the option \"Submit First Appeal\" in the RTI Online Portal and fill up the form that will appear. The registration number and e-mail ID of the original application is required for filing the first appeal."
+  },
+  {
+   "fact": "No fee is payable for a first appeal",
+   "status": "added",
+   "url": "https://rtionline.gov.in/faq.php",
+   "quote": "Do I need to make any payment for filing an appeal? As per RTI Act, no fee has to be paid for first appeal."
+  },
+  {
+   "fact": "A second appeal lies with the Central (or State) Information Commission within 90 days from the date the first-appeal decision should have been made or was received",
+   "status": "added",
+   "url": "https://cic.gov.in/sites/default/files/RTI-Act_English.pdf",
+   "quote": "shall lie vvithin ninety days from the date on which the decision should have been made or was actually received, with the Central Information Commission or the State Information Commission"
+  }
+ ],
+ "behaviour": "Explains the first appeal (to the First Appellate Authority, within 30 days) and then the second appeal to the Central/State Information Commission, citing the RTI Act / RTI Online.",
+ "fail_if": "Says a fee is needed for the first appeal; tells the user to go straight to the CIC without the first appeal; gives other time limits.",
+ "summary": "Added first appeal (30 days, FAA, Submit First Appeal, free) and second appeal (CIC/SIC, 90 days) from the RTI Act and RTI Online FAQ."
+}

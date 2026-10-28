@@ -1,0 +1,67 @@
+{
+ "id": "Q-330",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "final": "https://www.myscheme.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:43+05:30",
+   "sha256": "07eb50abf859f1e665f8ba5bf317c54dc46060a86a0ac859f7613494101d118f",
+   "copy": "f6af00548a7eb19450f2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/faqs",
+   "final": "https://www.myscheme.gov.in/faqs",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:06:43+05:30",
+   "sha256": "07eb50abf859f1e665f8ba5bf317c54dc46060a86a0ac859f7613494101d118f",
+   "copy": "f6af00548a7eb19450f2.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/privacy-policy",
+   "final": "https://www.myscheme.gov.in/privacy-policy",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:11+05:30",
+   "sha256": "a824563fae65c51240889b65247c13a66115f57c179b96ab7eca1e827b268532",
+   "copy": "b94df1cbfcd54df47a37.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://www.myscheme.gov.in/privacy-policy",
+   "final": "https://www.myscheme.gov.in/privacy-policy",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:07:11+05:30",
+   "sha256": "a824563fae65c51240889b65247c13a66115f57c179b96ab7eca1e827b268532",
+   "copy": "b94df1cbfcd54df47a37.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

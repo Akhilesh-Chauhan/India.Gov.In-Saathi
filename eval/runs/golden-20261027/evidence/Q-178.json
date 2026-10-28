@@ -1,0 +1,37 @@
+{
+ "id": "Q-178",
+ "checked_at": "2026-10-28T14:03:06+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "final": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:37+05:30",
+   "sha256": "b56f36bf369f77fdf6fb00d29cc90870c0cfc00f76756fc2270fa8d134fad7d4",
+   "copy": "68dc7cc0888803dc5157.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "final": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS25_tpFUNy.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:52:37+05:30",
+   "sha256": "b56f36bf369f77fdf6fb00d29cc90870c0cfc00f76756fc2270fa8d134fad7d4",
+   "copy": "68dc7cc0888803dc5157.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

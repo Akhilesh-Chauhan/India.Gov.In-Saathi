@@ -1,0 +1,52 @@
+{
+ "id": "Q-291",
+ "checked_at": "2026-10-28T14:03:31+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+   "final": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:32+05:30",
+   "sha256": "529c3aa37d4af6b420fb1297c2f83b01659ba76246f6671607b669277c77d5fd",
+   "copy": "d445d3e3db68437b7fe4.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+   "final": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:32+05:30",
+   "sha256": "529c3aa37d4af6b420fb1297c2f83b01659ba76246f6671607b669277c77d5fd",
+   "copy": "d445d3e3db68437b7fe4.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "official-not-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf",
+   "final": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:41:15+05:30",
+   "sha256": "abf6b8a9cebd6653bb26cb70f5ffc742c76fe915d98ef3d83462727308abcbad",
+   "copy": "df2c17cf988fd2fd3351.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

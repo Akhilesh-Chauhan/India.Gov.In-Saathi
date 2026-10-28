@@ -1,0 +1,21 @@
+{
+ "id": "Q-319",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Fresh and renewal MahaDBT scholarship applications for 2026-27 are accepted only on the MahaDBT 2.0 portal (mahadbt2.maharashtra.gov.in)",
+   "status": "added",
+   "url": "https://mahadbt.maharashtra.gov.in/home/index",
+   "quote": "Fresh and renewal applications for the Academic Year 2026-27 will be accepted only through the MahaDBT 2.0 Portal. Portal: (https://mahadbt2.maharashtra.gov.in/)"
+  },
+  {
+   "fact": "New MahaDBT applications for 2026-27 are accepted from 1 June 2026",
+   "status": "added",
+   "url": "https://mahadbt2.maharashtra.gov.in/",
+   "quote": "२०२६-२७ या नवीन शैक्षणिक वर्षासाठी नवीन अर्ज स्वीकारण्यास १ जून २०२६ पासून सुरुवात होईल"
+  }
+ ],
+ "behaviour": "Gives the date from MahaDBT if covered: as of 28 Oct 2026 MahaDBT publishes no 2026-27 last date, only that applications (from 1 June 2026) are on the MahaDBT 2.0 portal, so the bot should say no last date is published and link the portal. If the build follows concept-note 6.2 it may instead decline State content and point to the State portal; either is OK, inventing a date is not.",
+ "fail_if": "It invents a last date for 2026-27 MahaDBT scholarship applications.",
+ "summary": "MahaDBT: 2026-27 applications only on the MahaDBT 2.0 portal, open from 1 June 2026; no last date published as of 28 Oct 2026."
+}

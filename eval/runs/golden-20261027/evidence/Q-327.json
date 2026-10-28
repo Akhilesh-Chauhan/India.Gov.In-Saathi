@@ -1,0 +1,67 @@
+{
+ "id": "Q-327",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "final": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:43+05:30",
+   "sha256": "82b4e1b5d6c653e349657190371262b173f9587fb0681edacfdab302a146baf7",
+   "copy": "6e7e84adfbc36d4732fb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "final": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:43+05:30",
+   "sha256": "82b4e1b5d6c653e349657190371262b173f9587fb0681edacfdab302a146baf7",
+   "copy": "6e7e84adfbc36d4732fb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "final": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:43+05:30",
+   "sha256": "82b4e1b5d6c653e349657190371262b173f9587fb0681edacfdab302a146baf7",
+   "copy": "6e7e84adfbc36d4732fb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "final": "https://finance.rajasthan.gov.in/docs/budget/statebudget/2026-2027/pressnoteng2026-27.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:54:43+05:30",
+   "sha256": "82b4e1b5d6c653e349657190371262b173f9587fb0681edacfdab302a146baf7",
+   "copy": "6e7e84adfbc36d4732fb.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

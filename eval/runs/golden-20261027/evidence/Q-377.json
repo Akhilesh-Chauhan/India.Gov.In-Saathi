@@ -1,0 +1,37 @@
+{
+ "id": "Q-377",
+ "checked_at": "2026-10-28T14:03:36+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://web.umang.gov.in/landing/department/mera-ration.html",
+   "final": "https://web.umang.gov.in/landing/department/mera-ration.html",
+   "http": 200,
+   "fetched_at": "2026-10-28T13:12:30+05:30",
+   "sha256": "2d576ec6450e6fa9c2bcb026132bc303264dae6ba842c3a1c1716397fdaba9b1",
+   "copy": "ab75454045318a6a917b.html",
+   "rendered": true,
+   "ocr": false,
+   "site": "DB/API",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://nfsa.gov.in/portal/apply_ration_card",
+   "final": "https://nfsa.gov.in/portal/apply_ration_card",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:25:35+05:30",
+   "sha256": "f604b4041cbdd966be2f71f2ec3c9b92718d73d807b82e914d8992937ae2b041",
+   "copy": "fba9d6e908bbf8c1e33f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

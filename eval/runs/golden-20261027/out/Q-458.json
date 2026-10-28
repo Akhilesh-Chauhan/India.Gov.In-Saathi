@@ -1,0 +1,31 @@
+{
+ "id": "Q-458",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Old age pension (IGNOAPS, under NSAP): Rs 200 a month for ages 60-79 and Rs 500 a month for 80 and above, for persons meeting the BPL criteria",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2226202&reg=3&lang=1",
+   "quote": "The Ministry of Rural Development has informed that under IGNOAPS, financial assistance of ₹200 per month is provided to persons aged 60–79 years and ₹500 per month to persons aged 80 years and above, subject to eligibility under the Below Poverty Line (BPL) criteria.",
+   "example": true
+  },
+  {
+   "fact": "IGNOAPS is renamed Pradhan Mantri Vridhavastha Pension Yojana, and NSAP is renamed Pradhan Mantri Samajik Sahayata Yojana",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323264&amp=&reg=48&amp=&lang=1",
+   "quote": "National Social Assistance Programme (NSAP) Pradhan Mantri Samajik Sahayata Yojana(प्रधानमंत्री सामाजिक सहायता योजना) Indira Gandhi National Old Age Pension Scheme (IGNOAPS) Pradhan Mantri Vridhavastha Pension Yojana",
+   "example": true,
+   "note": "Same PIB Cabinet release: approved for 2026-27 to 2030-31, with the old-age pension continuing 'in its existing form'."
+  },
+  {
+   "fact": "Ayushman Vay Vandana card (AB-PMJAY): all senior citizens aged 70 and above, irrespective of income, get free treatment up to Rs 5 lakh a year",
+   "status": "added",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+   "quote": "to include all senior citizens aged 70 years and above, irrespective of their socio-economic status. Under this initiative, beneficiaries will receive free treatment benefits of up to ₹5 lakh per year through Ayushman Vay Vandana cards.",
+   "example": true
+  }
+ ],
+ "behaviour": "Replies in Hindi. Gives the same set of Central schemes for senior citizens from myScheme every time (e.g. the old age pension under NSAP, now Pradhan Mantri Vridhavastha Pension Yojana, and the Ayushman Vay Vandana card), each with its published criteria and citation; uses the templated eligibility wording (the Department determines eligibility) and gives the myScheme eligibility link; no eligibility verdict.",
+ "fail_if": "It gives an eligibility verdict, gives pension amounts other than Rs 200 (60-79) / Rs 500 (80+) as the Central share, says the Vay Vandana card has an income limit, or lists State schemes as Central.",
+ "summary": "Added IGNOAPS amounts and BPL criterion (PIB 11 Feb 2026), its renaming to Pradhan Mantri Vridhavastha Pension Yojana with no change (Cabinet, PIB 14 Oct 2026), and the Ayushman Vay Vandana 70+ Rs 5 lakh cover."
+}

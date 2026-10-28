@@ -1,0 +1,30 @@
+{
+ "id": "Q-131",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "National Savings Recurring Deposit (post office RD): 5 years, minimum Rs 100 per month, no maximum, so Rs 500 a month fits",
+   "status": "added",
+   "example": true,
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "quote": "2 National Savings Recurring Deposit Account 5 Years Minimum Rs. 100/- per month. No maximum limit."
+  },
+  {
+   "fact": "Public Provident Fund: 15 years, minimum Rs 500 and maximum Rs 1,50,000 in a financial year",
+   "status": "added",
+   "example": true,
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "quote": "8 Public Provident Fund Scheme 15 Years Minimum Rs. 500/- & Maximum Rs. 150000/- in a F.Y."
+  },
+  {
+   "fact": "Sukanya Samriddhi Account (for a girl child): 21 years, minimum Rs 250 and maximum Rs 1,50,000 in a financial year",
+   "status": "added",
+   "example": true,
+   "url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=188",
+   "quote": "9 Sukanya Samriddhi Account 21 Years Minimum Rs. 250/- & Maximum Rs. 150000/- in a F.Y."
+  }
+ ],
+ "behaviour": "Lists government small-savings schemes that accept Rs 500 a month (e.g. Post Office RD, PPF, Sukanya Samriddhi) with their minimum deposits as published by NSI (nsiindia.gov.in), in Hinglish; gives no advice on which to choose.",
+ "fail_if": "It recommends one scheme for the user, or gives minimum deposits that differ from NSI.",
+ "summary": "Added NSI at-a-glance minimums as examples: RD Rs 100/month, PPF Rs 500/FY, SSY Rs 250/FY (max Rs 1.5 lakh/FY for PPF and SSY)."
+}

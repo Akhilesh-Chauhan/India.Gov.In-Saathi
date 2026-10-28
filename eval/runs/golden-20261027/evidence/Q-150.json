@@ -1,0 +1,67 @@
+{
+ "id": "Q-150",
+ "checked_at": "2026-10-28T14:02:58+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "final": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:21+05:30",
+   "sha256": "326512ab8b549e0aad0d7a121875eb71a0d2a87ea4055c442b475cdd7b2d4e7a",
+   "copy": "f58cb86a2a3ae4556879.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "final": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:21+05:30",
+   "sha256": "326512ab8b549e0aad0d7a121875eb71a0d2a87ea4055c442b475cdd7b2d4e7a",
+   "copy": "f58cb86a2a3ae4556879.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "final": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:21+05:30",
+   "sha256": "326512ab8b549e0aad0d7a121875eb71a0d2a87ea4055c442b475cdd7b2d4e7a",
+   "copy": "f58cb86a2a3ae4556879.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "final": "https://paisaboltahai.rbi.org.in/rupees-five-hundred.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:56:21+05:30",
+   "sha256": "326512ab8b549e0aad0d7a121875eb71a0d2a87ea4055c442b475cdd7b2d4e7a",
+   "copy": "f58cb86a2a3ae4556879.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

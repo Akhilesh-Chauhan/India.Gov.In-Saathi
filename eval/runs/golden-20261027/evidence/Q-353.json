@@ -1,0 +1,22 @@
+{
+ "id": "Q-353",
+ "checked_at": "2026-10-28T14:03:35+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "confirmed",
+   "url": "https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf",
+   "final": "https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:42:19+05:30",
+   "sha256": "f0b5d6a52ca42b76af657be21f54d03e9a2117277f800a56620d15a384eff001",
+   "copy": "ef86aadfd1b92f9b3a42.pdf",
+   "rendered": false,
+   "ocr": true,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

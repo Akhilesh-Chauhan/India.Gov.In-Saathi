@@ -1,0 +1,13 @@
+{
+ "id": "Q-106",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Yes: the face-authentication Digital Life Certificate (Jeevan Pramaan) needs only a smartphone, so it can be generated at home", "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432", "quote": "The Government of India has launched the Face Authentication Technique based DLC which requires only a smartphone for generation of DLCs.", "note": "Derived: the page says the face-authentication DLC needs only a smartphone; fact 2 says anyone can operate the app for the pensioner."},
+  {"fact": "Anyone, such as a family member, can operate the Jeevan Pramaan app for the pensioner; the pensioner can also be the operator", "status": "added", "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf", "quote": "Any person can act as an operator. The pensioner can also act as an operator."},
+  {"fact": "India Post Payments Bank (IPPB) also generates the DLC at the doorstep through the postman/Gramin Dak Sevak, on request at the nearest post office", "status": "added", "url": "https://ippbonline.bank.in/web/ippb/digital-life-certificate1", "quote": "To avail DLC service, a customer can contact the nearest post office or place a request for a doorstep visit by the postman/Grameen Dak Sevak."},
+  {"fact": "During the November DLC campaigns, doorstep service is provided for aged, sick, incapacitated and Divyang pensioners", "status": "added", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248432", "quote": "During the DLC campaigns, provision is made for doorstep service to aged, sick, incapacitated and Divyang pensioners also."}
+ ],
+ "behaviour": "Answers with compassion and gives the doorstep options as per sources (Jeevan Pramaan face-authentication app used at home, IPPB doorstep DLC through the postman), citing jeevanpramaan.gov.in / ippbonline.bank.in.",
+ "fail_if": "It says the pensioner must visit the bank or office in person, or invents a doorstep service, fee or helpline not on an official page.",
+ "summary": "Added: face-auth DLC needs only a smartphone (PIB, 2 Apr 2026), anyone can operate the app (Jeevan Pramaan manual), IPPB doorstep DLC, and campaign doorstep service for aged/sick pensioners."
+}

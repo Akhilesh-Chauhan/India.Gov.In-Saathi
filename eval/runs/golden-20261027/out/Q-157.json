@@ -1,0 +1,21 @@
+{
+ "id": "Q-157",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Farmers can check their PM-KISAN status on 'Know Your Status' (KYS) on the PM-KISAN website, mobile app or the Kisan eMitra chatbot",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/",
+   "quote": "Farmers are requested to check their eligibility status on Know Your Status (KYS) of PM KISAN website/ mobile app or Kisan eMitra chatbot for further details."},
+  {"fact": "Know Your Status asks for the Registration No. and sends an OTP to the registered mobile number (a 'Know Your Registration No.' option is given)",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/BeneficiaryStatus_New.aspx",
+   "quote": "Know Your Status Know Your Registration No. Back Enter Registration No. OTP will be sent to your Registered Mobile Number."},
+  {"fact": "The 'Beneficiary List' on pmkisan.gov.in shows the list by selecting State, District, Sub-District, Block and Village",
+   "status": "added",
+   "url": "https://pmkisan.gov.in/Rpt_BeneficiaryStatus_pub.aspx",
+   "quote": "Select State District * * Select District Sub-District * * Select Sub District Block * * Select Block Village * * Select Village"}
+ ],
+ "behaviour": "Points the user to 'Know Your Status' and the 'Beneficiary List' (State > District > Sub-District > Block > Village) on pmkisan.gov.in, cited; says it cannot look up the user's own record.",
+ "fail_if": "It claims to check or confirm whether the user's name is on the list, or gives no pmkisan.gov.in route.",
+ "summary": "Added the official routes: Know Your Status (Registration No. + OTP; website/app/Kisan eMitra) and the village-wise Beneficiary List on pmkisan.gov.in."
+}

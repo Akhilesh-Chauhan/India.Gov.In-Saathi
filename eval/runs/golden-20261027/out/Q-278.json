@@ -1,0 +1,33 @@
+{
+ "id": "Q-278",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Admission to Class VI in EMRSs is made strictly through an entrance test, the Eklavya Model Residential School Selection Test (EMRSST) (NESTS Admission Guidelines 2026-27)",
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "quote": "Admission to class VI shall be made strictly on the basis of an entrance test called Eklavya Model Residential School Selection Test (EMRSST)."
+  },
+  {
+   "fact": "The registration form for the EMRS Selection Test can be filled online or offline",
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "quote": "Registration forms can be filled through the online/ offline mode."
+  },
+  {
+   "fact": "A candidate for Class VI must have passed Class V from a Government, Government-aided, Government-recognised or CBSE-affiliated school or NIOS Level B; a child who studied at home without attending school may also apply",
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "quote": "Candidate should have qualified class V from a Govt./ Govt. aided/ Govt. recognized School/ CBSE Affiliated School/ Level B of NIOS OBE Program. Or a Candidate who has not attended any school but studied at home is also eligible to apply for admission in Class VI"
+  },
+  {
+   "fact": "A separate merit list is prepared for each reservation category on the basis of the Selection Test",
+   "status": "added",
+   "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1771225613.pdf",
+   "quote": "The merit list for each category shall be prepared separately on the basis of the Selection Test."
+  }
+ ],
+ "behaviour": "Describes the EMRS admission process as published by the Ministry of Tribal Affairs / NESTS (tribal.gov.in, nests.tribal.gov.in admission guidelines), cited.",
+ "fail_if": "It invents an admission route, fee, eligibility rule or dates not in the official NESTS admission guidelines, or cites an unofficial site.",
+ "summary": "Added from the NESTS EMRS Admission Guidelines 2026-27: Class VI admission via the EMRSST entrance test, online/offline registration announced by State/UT EMRS Societies, Class V eligibility, category-wise merit lists."
+}

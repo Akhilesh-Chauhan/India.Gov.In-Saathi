@@ -1,0 +1,22 @@
+{
+ "id": "Q-026",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "As of 28 Oct 2026 the latest MEA travel advisory (flagged 'New' on the mea.gov.in home page) is the 'Advisory for Indians travelling to Russia', dated 30 September 2026",
+   "status": "added",
+   "url": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "quote": "30 September, 2026 Advisory for Indians travelling to Russia We are continuing to see reports about Indian nationals recruited into the Russian armed forces.",
+   "note": "MEA home page announcements (mea.gov.in) list only this advisory as New; the travel-advisories index has no dates. Time-sensitive: a newer advisory replaces this."
+  },
+  {
+   "fact": "It advises Indian nationals to exercise due diligence before accepting job offers from agents not registered with MEA (it concerns recruitment into the Russian armed forces)",
+   "status": "added",
+   "url": "https://www.mea.gov.in/press-releases?dtl/41836",
+   "quote": "Indian nationals are advised to exercise due diligence before accepting job offers from such agents which are not registered with the Ministry of External Affairs."
+  }
+ ],
+ "behaviour": "Re-fetches mea.gov.in and gives the latest travel advisory with its issue date and a link; if a newer advisory has been issued since 28 Oct 2026, that one is the correct answer.",
+ "fail_if": "Gives an advisory without its date; presents an older advisory (e.g. Iran, July 2026) as the latest without checking; cites news sites instead of mea.gov.in.",
+ "summary": "Latest MEA advisory on 28 Oct 2026: 'Advisory for Indians travelling to Russia' dated 30 Sep 2026 (on recruitment into the Russian armed forces)."
+}

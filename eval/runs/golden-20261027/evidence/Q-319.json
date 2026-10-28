@@ -1,0 +1,37 @@
+{
+ "id": "Q-319",
+ "checked_at": "2026-10-28T14:03:34+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://mahadbt.maharashtra.gov.in/home/index",
+   "final": "https://mahadbt.maharashtra.gov.in/home/index",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:25+05:30",
+   "sha256": "0fbc9417c887b2be8a9ebf1bffa5acf6320e22e9539c4669478e80f8f8351bac",
+   "copy": "bcedb2f2d1270187687e.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://mahadbt2.maharashtra.gov.in/",
+   "final": "https://mahadbt2.maharashtra.gov.in/",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:36+05:30",
+   "sha256": "a970f2c4e608ae973ba6ae379a9235a0bf49e919cd8f0644e6d48e4fa9cc0eb7",
+   "copy": "6ed9f65196c8bc323318.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "subdomain-of-crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,16 @@
+{
+ "id": "Q-005",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "Updating the email address through the Aadhaar App is free",
+   "status": "confirmed", "url": "https://uidai.gov.in/images/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "quote": "(^Email address update through Aadhaar App): Free till 31.12.2026"},
+  {"fact": "The free email update in the app is available till 31.12.2026",
+   "status": "confirmed", "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Aadhaar_Enrolment__and__Update__-__English.pdf",
+   "quote": "Email address update through Aadhaar mobile App: Free (till 31.12.2026)"},
+  {"fact": "Done any other way as a separate demographic update, it costs Rs 75",
+   "status": "confirmed", "url": "https://uidai.gov.in/en/aadhaar-seva-kendra",
+   "quote": "(2) Demographic update: Update of enrolled name, gender, date of birth, address, mobile number or email address, or any combination of the same (i) If done at the same time with biometric update: Free (ii) If done separately: ₹75"}
+ ],
+ "summary": "Confirmed on UIDAI fee sheets: email update via the Aadhaar App free till 31.12.2026; otherwise Rs 75 as a separate demographic update."
+}

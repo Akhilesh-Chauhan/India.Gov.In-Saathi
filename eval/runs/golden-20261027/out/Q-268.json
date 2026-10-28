@@ -1,0 +1,13 @@
+{
+ "id": "Q-268",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {"fact": "SMILE gives scholarships to transgender students from Class IX upwards", "status": "added", "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf", "quote": "1.2.1. Scholarships for Students who identify as Transgender Persons (IX and above)"},
+  {"fact": "SMILE provides skill development and livelihood support for the transgender community", "status": "added", "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf", "quote": "1.2.2.Skill Development and Livelihood for the empowerment of transgender community"},
+  {"fact": "SMILE's components for transgender persons include composite medical health support", "status": "added", "url": "https://socialjustice.gov.in/common/47564", "quote": "This scheme has various components for welfare of transgender persons namely Skill Development and Livelihood, Composite Medical Health, Safe shelters in the form of Garima Grehs, National Portal for Transgender persons through which Transgender certificates are issued, Provision of Transgender Protection Cell and other welfare measures.", "note": "The next sentence on the page says health facilities are given to transgender persons under PM-JAY through an MoU with the National Health Authority."},
+  {"fact": "SMILE provides shelter homes (Garima Greh) for transgender persons", "status": "added", "url": "https://socialjustice.gov.in/writereaddata/UploadFile/57291728283781.pdf", "quote": "1.2.4.Housing in the form of ‘Garima Greh’ for Transgender Persons"}
+ ],
+ "behaviour": "Lists the SMILE components for transgender persons as published by the Department of Social Justice and Empowerment (socialjustice.gov.in), with citation.",
+ "fail_if": "Invents cash amounts or benefits not in the SMILE guidelines, or confuses the transgender sub-scheme with the begging-rehabilitation sub-scheme.",
+ "summary": "SMILE guidelines (w.e.f. 12-02-2022) and the DoSJE page: scholarships (IX+), skilling/livelihood, composite medical health (PM-JAY via NHA), Garima Greh shelters."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "Q-086",
+ "checked_at": "2026-10-28T14:02:49+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/epf-scheme/",
+   "final": "https://www.epfo.gov.in/epf-scheme/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:13+05:30",
+   "sha256": "1fde33570829c83e363a2ddd19b635088770020922e46449d158ac3371370771",
+   "copy": "c159920c2d92dfe0f086.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.labour.gov.in/static/uploads/2025/07/b0620548445580767b5c0d18c95c26f7.pdf",
+   "final": "https://www.labour.gov.in/static/uploads/2025/07/b0620548445580767b5c0d18c95c26f7.pdf",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:47:15+05:30",
+   "sha256": "975235e57b8b8c3f4a09f6c9f0dbb2bfc663c15faf3715108ea33113ef565be7",
+   "copy": "01ec959e54f6ff000e4a.pdf",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.epfo.gov.in/faq-epfo/",
+   "final": "https://www.epfo.gov.in/faq-epfo/",
+   "http": 200,
+   "fetched_at": "2026-10-28T10:39:33+05:30",
+   "sha256": "7219427adf1fe64daece44fd35260f8531391077acbfa77c2822a586b968ea64",
+   "copy": "7e3d538f2c04694179aa.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}

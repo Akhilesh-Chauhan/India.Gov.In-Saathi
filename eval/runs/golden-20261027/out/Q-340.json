@@ -1,0 +1,62 @@
+{
+ "id": "Q-340",
+ "checked_on": "2026-10-28",
+ "facts": [
+  {
+   "fact": "Concessional booking for all categories except patients, students and Divyangjan (so including senior citizens) was suspended from 00:00 hrs of 20 March 2020",
+   "status": "confirmed",
+   "url": "https://oldnfr.indianrailways.gov.in/view_detail.jsp?lang=0&id=0,4,268&dcd=1530&did=15879842186716354176768856D607F367E4C0E009E2C",
+   "quote": "concessional booking of all tickets except Patients, students and Divyangjan category for Unreserved & Reserved segment are being suspended form 00:00 hrs of 20th March till further advisory."
+  },
+  {
+   "fact": "The Railway Minister's Lok Sabha reply of 11.03.2026 lists the concessions continuing beyond the general subsidy as 4 categories of persons with disabilities, 11 categories of patients and 8 categories of students (senior citizens are not among them)",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238430",
+   "quote": "Further, concessions beyond this subsidy amount are continuing for many categories like 4 categories of Persons with Disabilities (Divyangjans), 11 categories of patients and 8 categories of students.",
+   "note": "Derived: that the senior citizen concession has not been restored (as of 15 Oct and still on 28 Oct 2026) rests on this reply; no restoring circular appears in the Railway Board commercial circular lists (2026 list on ir.indianrailways.gov.in reviewed 22-10-2026)."
+  },
+  {
+   "fact": "All passengers get an average subsidy (concession) of 43% on fares; the subsidy on passenger tickets was Rs 60,239 crore in 2024-25",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238430",
+   "quote": "Indian Railways gave subsidy of Rs. 60,239 crore on passenger tickets in 2024-25. This amounts to concession of 43% on an average, to every person, travelling on Railways."
+  },
+  {
+   "fact": "Senior citizens are allotted lower berths automatically, even if no choice is given, subject to availability",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238430",
+   "quote": "Allotment of lower berths to Persons with Disabilities (PwDs), senior citizens, female passengers of 45 years and above automatically, even if no choice is given, subject to availability."
+  },
+  {
+   "fact": "A combined lower-berth quota of 6-7 per coach in Sleeper, 4-5 in 3AC and 3-4 in 2AC is earmarked for senior citizens, women aged 45 and above and pregnant women",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238430",
+   "quote": "Earmarking of a combined quota of six to seven lower berths per coach in Sleeper class, four to five lower berths per coach each in Air Conditioned 3 tier (3AC) and three to four lower berths per coach in Air Conditioned 2 tier (2AC) classes"
+  },
+  {
+   "fact": "Lower berths falling vacant in the train are allotted on priority to senior citizens who were given a middle or upper berth",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238430",
+   "quote": "Allotment of lower berths falling vacant in the train to senior citizens, Persons with Disabilities or pregnant women (who have been allotted middle/upper berth) on priority."
+  },
+  {
+   "fact": "Wheelchairs are provided free of cost to senior citizens' attendants to escort them to and from trains",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2201576",
+   "quote": "Wheelchairs are provided by Railways and are given to attendants of the Divyangjan, Senior Citizens etc free of cost to escort them from and to the trains."
+  },
+  {
+   "fact": "Battery-operated vehicles are available at some major stations (196 at 79 stations as of 10.12.2025), prioritising senior citizens among others",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2201576",
+   "quote": "196 Battery Operated Vehicles Available at 79 Major Railway Stations, Prioritising Divyangjans, Senior Citizens, Sick Passengers, and Pregnant Women"
+  },
+  {
+   "fact": "Separate counters are earmarked at PRS centres for senior citizens (among others) where the demand justifies",
+   "status": "confirmed",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2201576",
+   "quote": "Separate counters are earmarked at various Passenger Reservation System(PRS) centres for dealing with the reservation requisitions received from Persons with Disabilities (Divyangjan), senior citizens, Ex. MPs, MLAs, accredited journalists and freedom fighters"
+  }
+ ],
+ "summary": "All facts confirmed: concession suspended from 20.03.2020 (NFR notice), only PwD/patient/student concessions continue per PIB 11.03.2026, 43% average subsidy; senior-citizen berth, wheelchair, BOV and counter facilities per PIB 11.03.2026 and 10.12.2025."
+}

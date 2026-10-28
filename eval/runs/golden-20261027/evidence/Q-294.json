@@ -1,0 +1,67 @@
+{
+ "id": "Q-294",
+ "checked_at": "2026-10-28T14:03:32+05:30",
+ "facts": [
+  {
+   "n": 1,
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "final": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:36+05:30",
+   "sha256": "481d29a969c9e815350fc0f07206f778cc51cd7b6c7e81c8fd2b78e05b151101",
+   "copy": "75d8ac13ab20e0700f61.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 2,
+   "status": "added",
+   "url": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "final": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:59+05:30",
+   "sha256": "31c4945fefdb579c16f02739e032de8bd83b3b541df717cb17636f53a87ba06e",
+   "copy": "7a45b765978d0a8c7a4f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 3,
+   "status": "added",
+   "url": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "final": "https://www.nios.ac.in/about-us/citizens-charter.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:59+05:30",
+   "sha256": "31c4945fefdb579c16f02739e032de8bd83b3b541df717cb17636f53a87ba06e",
+   "copy": "7a45b765978d0a8c7a4f.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  },
+  {
+   "n": 4,
+   "status": "added",
+   "url": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "final": "https://nios.ac.in/student-information-section/admission-procedure.aspx",
+   "http": 200,
+   "fetched_at": "2026-10-28T12:24:36+05:30",
+   "sha256": "481d29a969c9e815350fc0f07206f778cc51cd7b6c7e81c8fd2b78e05b151101",
+   "copy": "75d8ac13ab20e0700f61.html",
+   "rendered": false,
+   "ocr": false,
+   "site": "crawled",
+   "quote_found": true,
+   "also": []
+  }
+ ],
+ "problems": []
+}
