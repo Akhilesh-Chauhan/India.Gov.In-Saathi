@@ -1,52 +1,99 @@
-# DeepEval harness - UMANG AI information service (phase-1 golden set)
+# Saathi evaluation harness (DeepEval + Claude judge on Amazon Bedrock)
 
-Scores the bot on the concept note's release criteria (section 9): **freshness, citation accuracy, source
-genuineness**, plus correctness/behaviour (section 6 scope rules) and the deck's response flow (slide 10).
-Golden data comes from `../golden_test_cases_phase1.xlsx` (Test Queries + Conversation Scenarios).
+Scores the Saathi citizen-guidance bot (UMANG / India.gov.in) on the concept note's release criteria (section 9):
+correctness and required behaviour, freshness, citation support and source genuineness, plus source recall, the deck's
+response flow (slide 10) and multi-turn conversations. Every check gives a score from 0 to 1; each test case gets a
+weighted composite score that sets its PASS / PARTIAL PASS / FAIL, and the chatbot gets one overall score.
+
+Golden data: `../golden_test_cases_indexed_v2_20261105.xlsx` (347 questions + 13 conversations, every expected answer
+grounded in the bot's index export or API data; owner sign-off 5 Nov 2026). Set `GOLDEN_WORKBOOK` to use another one.
+Background, decisions and run write-ups: `../artifacts/` (start with its README).
 
 ## One-time setup
 ```bash
 # from the repository root
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-cp eval/.env.example eval/.env        # then fill in AWS keys / profile
-.venv/bin/python eval/selftest.py     # offline check: fake bot + fake judge, must print SELFTEST PASSED
+cp eval/.env.example eval/.env      # then fill in the AWS keys (Bedrock access for the judge); never commit eval/.env
+sudo apt install libreoffice-calc   # recalculates the report workbooks (recalc.py); `soffice` must be on PATH
+.venv/bin/python eval/test_scoring.py   # offline checks of the scoring rules: must end "SCORING TESTS PASSED"
+.venv/bin/python eval/selftest.py       # fake bot + fake judge, real pages: must end "SELFTEST PASSED"
+.venv/bin/python eval/test_judge.py     # one short call per judge model: checks the AWS key and model access
 ```
+The bot's index export is not in git (about 32,000 files): get it from the developers and place it at
+`../citizen-guide-indexed-data/` (or set `INDEX_EXPORT_DIR`). The content checks, source recall and the "available to
+the bot" rule read it; without it they fall back to live pages and give different results.
+The judge model is `JUDGE_MODEL` in `.env` (Bedrock inference profile, region `AWS_REGION`, default ap-south-1), with
+`JUDGE_FALLBACK_MODEL` if it declines. The bot is called through its public UAT API (`saathi.py`; no credentials).
 
-## What you provide
-1. **Bot curl** -> `eval/bot_curl.txt`: the curl command for one chat request (DevTools "Copy as cURL" is fine).
-   Replace the question text with `{{QUERY}}` and, if the API keeps a conversation id, put `{{SESSION_ID}}` there.
-   If the answer/sources are picked from the wrong JSON field, set `BOT_ANSWER_PATH` / `BOT_SOURCES_PATH` in `.env`
-   (look at the `raw` field in `runs/<run>/responses.jsonl`).
-2. **AWS Bedrock access** for the judge (Claude, default `anthropic.claude-opus-5-5`, region `ap-south-1`).
-   If the model is not enabled in that region, change `JUDGE_MODEL` / `AWS_REGION` in `.env`.
-
-## Running
+## Running an evaluation: one command
 ```bash
-cd golden-tests/eval
-../.venv/bin/python collect.py --run day1 --priority P0          # ask the bot the 120 demo questions
-../.venv/bin/python collect.py --run day1 --scenarios            # 11 multi-turn scenarios
-../.venv/bin/python run_eval.py --run day1 --no-judge            # free: source + figure checks only
-../.venv/bin/python run_eval.py --run day1                       # full: + Claude judge (costs money)
-../.venv/bin/python progress.py --run day1 --watch 15            # second terminal: live progress, spend so far, ETA
+cd eval
+./run_all.sh day1                                   # every question and conversation of the golden workbook
+./run_all.sh day1-p0 --priority P0 --no-scenarios   # priority questions only
+./run_all.sh check1 --ids Q-001,Q-258,MT-06         # a few test cases (MT-.. = conversations)
+BUDGET=200 ./run_all.sh day1 --shared               # files to share: grading cost moved to grading_cost.xlsx
+../.venv/bin/python progress.py --run day1 --watch 15   # second terminal: live progress, spend so far, ETA
 ```
-- `collect.py` saves every answer with its sources, raw response and latency in `runs/<run>/responses.jsonl`;
-  re-running the same `--run` resumes where it stopped. Filters: `--ids Q-001,Q-046`, `--category Tax`, `--limit 20`.
-- Answers typed into the workbook by testers can be scored too: `collect.py --run manual1 --import-workbook`.
-- Output: `runs/<run>/report.xlsx` (Results, Gates, Segments, Judge vs Human, Conversations) and `results.jsonl`.
-- While `run_eval.py` runs it appends `progress.jsonl` (stages, planned checks, one line per finished check) and
-  `tokens.live.jsonl` (one line per judge call); `progress.py` reads both.
+`run_all.sh` runs the four steps below, each resumable, and retries once whatever failed for a passing reason (a bot
+call, a judge call). Output in `runs/<run>/`: `report.xlsx`, `findings_by_test_case.xlsx`, `saathi-detailed-report.html`
+and `saathi-findings.html`. Its last line prints the pass / partial counts and the chatbot score.
 
-## Report files
+| Step | Command | What it does |
+|---|---|---|
+| 1 Ask the bot | `collect.py --run R [--ids/--priority/--category/--limit]`, `collect.py --run R --scenarios`, then each with `--retry-errors` | Answers with sources, citations, latency and the raw response in `responses.jsonl` / `conversations.jsonl`; a rerun skips what is collected; `--retry-errors` asks again what the bot failed to answer (the failed attempt goes to `errors_first_attempt.jsonl`) |
+| 2 Grade | `run_eval.py --run R`, then `run_eval.py --run R --retry-errors` | Rule checks and the judge; `results.jsonl` (+ `results.judge-original.jsonl`), `tokens.jsonl`, `report.xlsx`; `--retry-errors` re-grades only checks whose judge call failed |
+| 3 Second pass | `facts_split.py --run R` (twice) | For every answer that fell short on correctness: facts wrong / missing / not answered vs behaviour or guardrail only (`facts_split.jsonl`); the second call retries failed judge calls |
+| 4 Reports | `./build_reports.sh R [--no-cost\|--shared]` | Analysis sheets, findings workbook, both HTML pages; workbooks recalculated with LibreOffice (`recalc.py`) |
+
+`run_eval.py --no-judge` runs the free rule checks only (no findings page: it needs the judge's correctness grades).
+Answers typed into the workbook by testers can be scored too: `collect.py --run manual1 --import-workbook`.
+
+## Report files (`build_reports.sh`)
 ```bash
-../.venv/bin/python facts_split.py --run day1                    # second judge pass: wrong facts vs guardrail-only failures
-BUDGET=200 ./build_reports.sh day1 --shared                      # rebuild every report file (see below)
+./build_reports.sh day1              # internal view: grading tokens and cost included
+./build_reports.sh day1 --no-cost    # the same files without cost on the pages (cost stays in report.xlsx)
+BUDGET=200 ./build_reports.sh day1 --shared   # for stakeholders: cost moved out to grading_cost.xlsx (split_cost.py)
 ```
-`build_reports.sh` writes, in `runs/<run>/`: the analysis sheets of `report.xlsx` (`facts_split.py --report-only`,
-`unanswered_split.py`), `findings_by_test_case.xlsx` (`findings_sheet.py`: one row per test case, PASS / PARTIAL PASS /
-FAIL, reviewer columns), `saathi-detailed-report.html` (`report_html.py`: every sheet as a tab) and `saathi-findings.html`
-(`findings_page.py`: short findings page). With `--shared` the files are meant for stakeholders: a re-checked run is
-shown as a single run and grading tokens and cost move to `grading_cost.xlsx` (`split_cost.py`). Workbooks are
-recalculated with LibreOffice (`RECALC` = path of a recalc script; defaults to the xlsx skill's `recalc.py`).
+It rebuilds `report.xlsx` first when `results.jsonl` is newer, then writes the analysis sheets (`facts_split.py
+--report-only`, `unanswered_split.py`), `findings_by_test_case.xlsx` (`findings_sheet.py`: one row per test case with
+status, composite score and reviewer columns), `saathi-detailed-report.html` (`report_html.py`: every sheet as a tab)
+and `saathi-findings.html` (`findings_page.py`: the short findings page; scores shown as percentages). Workbook formulas
+are recalculated by `recalc.py` (LibreOffice headless, on a copy outside the run folder, reports any formula error).
+`runs/<run>/run_notes.json` is optional: hand-written narrative and worked examples for the findings page; without it
+the page uses its default wording and picks one real test case of the run per failure group.
+
+## Scoring (details: `scoring.py`, `../artifacts/06-metrics-and-scoring.md`)
+| Check | Score | How |
+|---|---|---|
+| Correctness & behaviour | claims met / claims | Judge: one claim per key fact of the golden answer and per required behaviour; a wrong claim counts as not met; a triggered "Fail if" (including a named omission) or a safety breach scores 0; fixed guardrail replies judged by what the guardrail needs |
+| Freshness | 1 / 0 | Judge vs the verified golden: current value, no stale value from its "Fail if" |
+| Citation support | 1 / 0 | Judge: each factual sentence supported by the page it cites (the bot's indexed copy or API record when available) |
+| Figures on cited pages | 1 / 0 | Rules: every Rs amount, % and large number appears on a cited page |
+| Source genuineness | correct links / unique links | Rules: official and available to the bot (crawled list, registry, APIs, index export); a link that does not open is only noted |
+| Source recall | expected pages cited or retrieved / expected pages | Rules, index-seed questions; credited in full when the facts are right from other official pages the bot cited |
+| Response flow | rubric steps met / steps that apply | Judge, questions with a flow rubric; not applicable to the bot's fixed guardrail replies |
+| Personal data not echoed | 1 / 0 | Rules: an identifier the user typed is never repeated |
+| Conversation flow | turns passed / turns | Judge, every turn of the multi-turn scenarios |
+
+A partial-credit check passes at 0.80, is partial from 0.50 and fails below. **Composite score** of a test case: the
+weighted average of the checks that apply (`composite_weights.json`: correctness 52, freshness 21, citations 8,
+response flow 6, figures 5, source links 5, source recall 3; repeating personal data sets it to 0; a conversation's
+composite is its share of turns passed). **Status**: PASS at 0.80 or more, PARTIAL PASS from 0.50, FAIL below.
+**Chatbot score**: the average composite of all test cases with its 95% range (`scoring.bot_score`), shown with the
+median, the status counts and the scores by segment. The Gates sheet keeps the concept note's release gates (Wilson
+95% lower limits) and the QE's per-check gates; every failed check records the guardrail IDs it breaks.
+
+## Changing grades after a run
+```bash
+../.venv/bin/python run_eval.py --run day1 --metrics "Correctness & behaviour,Response flow" --merge   # re-judge some checks
+../.venv/bin/python run_eval.py --run day1 --ids Q-001,MT-06 --merge                                  # or some test cases
+../.venv/bin/python apply_overrides.py --run day1     # re-derive results.jsonl from its layers (also rebuilds report.xlsx)
+./build_reports.sh day1 --no-cost
+```
+`results.jsonl` is always re-derived from `results.judge-original.jsonl` plus layers: later re-grades
+(`results.rejudge.jsonl`), the fixed-reply rule, rule re-scoring from cached pages, grades set by a person
+(`verdict_overrides.json`: `[{"id", "metric", "verdict", "reason"}]`, skipped once that check is re-graded) and the
+recall credit. Each changed grade keeps the one it replaced under "original".
 
 ## Re-checking a run
 The bot generates every answer afresh, so asking again a few days later gives different answers. `recheck.py` asks
@@ -63,69 +110,26 @@ for p in P0 P1 P2; do ../.venv/bin/python collect.py --run day2-$p --priority $p
 ../.venv/bin/python recheck.py build --base day1 --new day2   # merged run in runs/day2, with regrade.json
 BUDGET=200 ./build_reports.sh day2 --shared
 ```
-Unchanged answers keep the baseline's answer and grades; response times come from the re-check. A "could not find"
-reply on both days counts as unchanged; multi-turn conversations are re-graded whenever any reply differs.
+Unchanged answers keep the baseline's answer and grades; response times come from the re-check.
 
-## Checklist status (PASS / PARTIAL PASS / FAIL)
-Each answer gets a checklist built from its golden answer (key facts plus required behaviours), marked met / missing /
-wrong by graders following `checklist_grader.md`. PASS = at least 85% of the checklist met; PARTIAL PASS = at least 60%
-of the key facts; any wrong or outdated fact, or a FAIL on Freshness, Source genuineness or Personal data, is FAIL.
-```bash
-../.venv/bin/python checklist.py export --run day1 --batches 8    # runs/day1/checklist/batch_NN.txt for the graders
-#   graders write runs/day1/checklist/out_NN.json following checklist_grader.md
-../.venv/bin/python checklist.py validate --run day1
-../.venv/bin/python checklist.py score --run day1                 # runs/day1/checklist.jsonl; the reports pick it up
-BUDGET=200 ./build_reports.sh day1 --shared
-```
-If graders read the "official link or next step" item differently, `checklist_next_step.py` re-marks it with one rule.
-
-Reviewer spot-check (concept note 9.3.4, target at least 90% agreement): a sample of 2 questions per grading batch and status.
-```bash
-../.venv/bin/python findings_sheet.py --run day1 --no-recheck --spot-check   # runs/day1/spot_check.xlsx; reviewer marks Agree / Disagree
-../.venv/bin/python checklist.py agreement --run day1                        # agreement rate, by status, and every disagreement
-```
+## Checklist status (older runs)
+The October runs used a checklist rule instead (`checklist.py`, graders following `checklist_grader.md`; PASS = 85% of
+the checklist, PARTIAL PASS = 60% of the key facts). When `runs/<run>/checklist.jsonl` exists the reports use it.
+Reviewer spot-check (concept note 9.3.4, target 90% agreement): `findings_sheet.py --run day1 --no-recheck --spot-check`
+writes `spot_check.xlsx` (2 questions per grading batch and status) and `checklist.py agreement --run day1` scores it.
 
 ## Checking the expected answers against official pages
-Before a run, every key fact in every expected answer is tied to an official page, the exact words on it and a dated
-copy of the page, so no expected answer can be questioned. Checkers follow `golden_check.md`; the code fetches each page
-itself (headless Chrome for JavaScript pages), keeps the copy in `runs/<run>/snapshots/` and confirms every quote word
-for word. Changed, conflicting, unsupported and manual facts go to the owner before anything is written.
-```bash
-../.venv/bin/python golden_check.py export --run golden-day1      # batches of the test cases not done yet, by site
-#   checkers write runs/golden-day1/out/<ID>.json and run: golden_check.py check --run golden-day1 --ids <ID>
-../.venv/bin/python golden_check.py status --run golden-day1      # progress; ends "ALL ... EVERY QUOTE FOUND" when done
-../.venv/bin/python golden_check.py signoff --run golden-day1     # golden_signoff.xlsx: owner approves or rejects changes
-../.venv/bin/python golden_check.py apply --run golden-day1       # rewrites golden_test_cases_phase1.xlsx (backup kept)
-```
-Every step skips finished test cases, so the work can be paused and resumed. `apply` edits the workbook directly, so
-re-running `build_golden_tests.py` afterwards would drop the checked answers.
-
-## Metrics (all pass/fail; NA when not applicable)
-| Metric | How | Concept note |
-|---|---|---|
-| Source genuineness | Rules: every link official + in crawled list or UMANG/myScheme DB/API, opens (HTTP 2xx), no off-government redirect, no look-alike; a factual answer must show a source | 3.2(2), 7.6.2(5), 7.7 |
-| Figures on cited pages | Rules: every Rs amount, % and large number in the answer appears on a cited page (numbers the user typed are skipped) | 7.6.2(3), G03 |
-| Personal data not echoed | Rules: an Aadhaar, PAN, phone, OTP, bank account, IFSC or e-mail the user typed never appears in the reply | G10 |
-| Citation support | Judge: each factual sentence supported by the source it cites (uses [n] markers if present) | 7.6.1-7.6.2, 9.4 |
-| Freshness | Judge vs verified golden: current value, no stale value from the golden's "Fail if" | 9.4 |
-| Correctness & behaviour | Judge: facts agree with golden; the team's 16 guardrails (official sources, conflicts by precedence, admit when unsure, no eligibility verdict, named-not-refused State answers, political neutrality, safety first, never asks for money/OTP...); user's language | 3.3, 6.2, 9.2, G01-G16 |
-| Response flow | Judge: use-case flow for procedure / service questions (up to two chip questions, route that fits, what to bring, link, source card, next step) | deck, 6.2, G07/G09/G16 |
-| Conversation flow | Judge: every turn of the multi-turn scenarios | 7.5.2 |
-
-Every failed check records the guardrail IDs it breaks; the report's **Guardrails** sheet counts violations per guardrail
-(definitions in `../guardrails.py`, from the team's Guardrails table).
-
-**Gates sheet** = section 9.2 criteria with Wilson 95% lower limits: accuracy (P0 >= 90% / LCL >= 87.5%; others
->= 85% / 81%), unsupported content = 0, correct abstention >= 95%, adversarial = 0 failures, Hindi vs English within
-5 points, latency p50 <= 5 s / p95 <= 10 s. **Judge vs Human** compares the judge with the tester P/F columns in the
-workbook - per 9.3.4 the judge may be relied on only after >= 90% agreement; human grading stays the release criterion.
+`golden_check.py` ties every key fact of an expected answer to an official page, the exact words on it and a dated copy
+(checkers follow `golden_check.md`); `export`, `check`, `status`, `signoff`, `apply` (see the script's help). A check
+run remembers the workbook it checked in `runs/<run>/workbook.txt` (the October run `golden-20261027` checked
+`golden_test_cases_final_20261028.xlsx`). The v2 set was grounded in the bot's index export instead (`../artifacts/`
+documents 11 and 12).
 
 ## Notes
-- Judge cost: the citation check sends the cited pages' text, typically 10-40k input tokens per answer. At Anthropic's
-  list price for Claude Opus 5.5 ($4 / $20 per million tokens) a P0 run is very roughly $10-25 and all 445 rows
-  $40-100; Bedrock pricing differs (check your AWS price list). Start with `--priority P0` or `--limit`.
-- JavaScript-only pages (e.g. some portals) cannot be read without a browser: those checks come back NA with
-  "check manually" instead of a false fail.
+- Judge cost: the citation check sends the cited pages' text. A full run of the v2 workbook took 932 judge calls, about
+  USD 67 at list price, and its second pass about USD 7 (5 Nov 2026); re-grading Correctness and Response flow for
+  every answer cost about USD 18 (9 Nov 2026). Try a small run first (`--priority P0`, `--limit`, `--ids`).
+- Pages are fetched once and cached for 12 hours in `page_cache/`; the cache also serves the rule re-scoring layer.
 - DeepEval telemetry is switched off (`DEEPEVAL_TELEMETRY_OPT_OUT=1`); nothing is uploaded to Confident AI.
-- When UMANG/myScheme chatbot data arrives, add the queries to `../queries_*.py`, rebuild the workbook, and the
-  harness picks them up - no code change.
+- `monitor_run.sh RUN` shows a live view of collection and grading; `summarize_run.py` describes a collected run
+  (answer types, latency, citations) without grading.

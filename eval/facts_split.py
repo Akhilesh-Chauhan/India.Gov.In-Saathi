@@ -31,7 +31,9 @@ Cause = Literal["wrong or stale fact", "required fact missing", "not answered (f
                 "unsure without helpline or search detail", "fee or intermediary warning missing", "wrong language",
                 "unneeded question or inferred fact", "required behaviour not met", "other guardrail"]
 CAUSES = list(Cause.__args__)
-CLASSES = ["Correct, within guardrails", "Wrong or outdated facts", "Not answered", "Required fact missing", "Required behaviour not met",
+# Correctness & behaviour passed (score 0.80 or more); the test case can still fall short on another check
+CORRECT = "Correctness passed (other checks may still fail)"
+CLASSES = [CORRECT, "Wrong or outdated facts", "Not answered", "Required fact missing", "Required behaviour not met",
            "Guardrails only"]
 
 
@@ -121,6 +123,8 @@ def _head(ws, r, cols, widths=None):
 
 
 def write_sheets(run_dir, rows, results, split):
+    from run_eval import _clean  # judge reasons can carry control characters Excel cannot store
+    results, split = _clean(results), _clean(split)
     path = run_dir / "report.xlsx"
     wb = load_workbook(path)
     for name in ("Facts vs guardrails", "Facts split detail"):
@@ -153,7 +157,7 @@ def write_sheets(run_dir, rows, results, split):
                 res.get("Citation support", {}).get("verdict", "NA"), why, cb.get("reason", "")]
         for c, v in enumerate(vals, 1):
             d.cell(n, c, v)
-        d.cell(n, 10, f'=IF(G{n}="P","Correct, within guardrails",IF(H{n}="wrong","Wrong or outdated facts",IF(H{n}="not answered","Not answered",'
+        d.cell(n, 10, f'=IF(G{n}="P","{CORRECT}",IF(H{n}="wrong","Wrong or outdated facts",IF(H{n}="not answered","Not answered",'
                       f'IF(H{n}="incomplete","Required fact missing",IF(H{n}="not split","Not split yet",'
                       f'IF(I{n}="N","Required behaviour not met","Guardrails only"))))))')
     for r in d.iter_rows(min_row=2):
@@ -185,21 +189,21 @@ def write_sheets(run_dir, rows, results, split):
     for c in range(2, 9):
         col = get_column_letter(c)
         s.cell(11, c, f"=SUM({col}5:{col}10)")
-    s.cell(12, 1, "Facts right (Correct, within guardrails + Guardrails only)")
+    s.cell(12, 1, "Facts right (Correctness passed + Guardrails only)")
     for c in range(2, 9):
         col = get_column_letter(c)
         s.cell(12, c, f'=IF({col}11=0,"",({col}5+{col}10)/{col}11)').number_format = "0.0%"
 
     # Gate view: what accuracy would be if guardrail-only failures were set aside (concept note 9.2 thresholds)
     _head(s, 14, ["Accuracy view", "P0", "P1 + P2", "P0 target", "Others target"])
-    ok_facts = f'{cls},"Correct, within guardrails"', f'{cls},"Guardrails only"'
+    ok_facts = f'{cls},"{CORRECT}"', f'{cls},"Guardrails only"'
     nofail = f'{rng("M")},"<>F",{rng("N")},"<>F",{rng("O")},"<>F"'
     s["A15"] = "As graded (Correctness PASS, no other factual FAIL)"
     s["A16"] = "Facts right (ignoring guardrail-only failures)"
     s["A17"] = "Facts right and grounded (no figure, citation or freshness FAIL)"
     pri = rng("B")
-    s["B15"] = f'=COUNTIFS({cls},"Correct, within guardrails",{pri},"P0",{nofail})/COUNTIF({pri},"P0")'
-    s["C15"] = f'=COUNTIFS({cls},"Correct, within guardrails",{pri},"<>P0",{nofail})/COUNTIF({pri},"<>P0")'
+    s["B15"] = f'=COUNTIFS({cls},"{CORRECT}",{pri},"P0",{nofail})/COUNTIF({pri},"P0")'
+    s["C15"] = f'=COUNTIFS({cls},"{CORRECT}",{pri},"<>P0",{nofail})/COUNTIF({pri},"<>P0")'
     s["B16"] = f'=(COUNTIFS({ok_facts[0]},{pri},"P0")+COUNTIFS({ok_facts[1]},{pri},"P0"))/COUNTIF({pri},"P0")'
     s["C16"] = f'=(COUNTIFS({ok_facts[0]},{pri},"<>P0")+COUNTIFS({ok_facts[1]},{pri},"<>P0"))/COUNTIF({pri},"<>P0")'
     s["B17"] = f'=(COUNTIFS({ok_facts[0]},{pri},"P0",{nofail})+COUNTIFS({ok_facts[1]},{pri},"P0",{nofail}))/COUNTIF({pri},"P0")'

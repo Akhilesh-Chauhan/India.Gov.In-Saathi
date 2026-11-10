@@ -15,7 +15,9 @@ import re
 from openpyxl import load_workbook
 
 import config
-from run_eval import _read_jsonl
+from run_eval import BOT_TITLE, _read_jsonl
+from scoring import PARTIAL_CREDIT, PENDING, SCORE_PARTIAL, SCORE_PASS, weights_text
+from workbook import EVIDENCE, load_rows
 
 CHECKS = ["Correctness & behaviour", "Citation support", "Freshness", "Figures on cited pages", "Source genuineness",
           "Source recall", "Response flow", "Personal data not echoed"]
@@ -35,6 +37,31 @@ def table(ws, header_row=1, last_row=None, c1=None):
     return {"head": head, "rows": rows}
 
 
+def gate_layout(gates):
+    """The Gates sheet's parts found by their labels: gate rows (from row 2 to the first blank), language and latency
+    rows, the note and the average-score table (the layout grew when gates were added on 6 Nov 2026)."""
+    labels = {gates.cell(r, 1).value: r for r in range(1, gates.max_row + 1) if gates.cell(r, 1).value}
+    rows, r = [], 2
+    while gates.cell(r, 1).value:
+        rows.append(r)
+        r += 1
+    pick = lambda names: [sheet_rows(gates, labels[k], labels[k], 1, 7)[0] for k in names if k in labels]
+    note = next((str(k) for k in labels if str(k).startswith("Wilson score interval")), "")
+    def block(title, width):  # the rows under a block's title row, to the first blank row
+        out, top = [], labels.get(title)
+        if top:
+            r = top + 1
+            while gates.cell(r, 1).value:
+                out.append(sheet_rows(gates, r, r, 1, width)[0])
+                r += 1
+        return out
+    return {"rows": [sheet_rows(gates, x, x, 1, 7)[0] for x in rows],
+            "lang": pick(("Accuracy - English", "Accuracy - Hindi + Hinglish", "Language parity gap (points)")),
+            "latency": pick(("Latency p50 (s)", "Latency p95 (s)")), "note": note,
+            "scores": block("Average score by check (0 to 1)", 7),
+            "bot": block(BOT_TITLE, 10)}  # chatbot score: all test cases, questions, conversations (9 Nov 2026)
+
+
 def collect(run_dir, recheck=True, cost_tab=True):
     rep = load_workbook(run_dir / "report.xlsx", data_only=True)
     fnd = load_workbook(run_dir / "findings_by_test_case.xlsx", data_only=True)["Findings"]
@@ -46,6 +73,7 @@ def collect(run_dir, recheck=True, cost_tab=True):
         raise SystemExit("report.xlsx has no calculated values - run recalc first")
 
     res = table(rep["Results"])
+    golden_rows = load_rows()  # for the index-seed URL shown under "Expected source"
     results = []
     for r in res["rows"]:
         d = dict(zip(res["head"], r))
@@ -57,11 +85,13 @@ def collect(run_dir, recheck=True, cost_tab=True):
             "answer": f.get("Bot response") or d["Bot answer"], "sources": d["Sources shown"] or "",
             "latency": d["Latency (s)"], "golden": f.get("Expected response (golden answer)") or "",
             "site": f.get("Expected source site") or "", "golden_urls": f.get("Expected source URLs (verified)") or "",
+            "evidence": d.get(EVIDENCE) or "", "index_url": (golden_rows.get(d["Test ID"]) or {}).get("Index chunk URL") or "",
             "status": f.get("Status") or "", "group": f.get("Result group") or "", "reason": f.get("Reason") or "",
+            "composite": d.get("Composite score"), "composite_note": d.get("Composite note") or "",
             "why_unanswered": f.get("Why unanswered") or "", "profile": f.get("User profile") or "",
             "facts": f.get("Facts vs golden answer") or "", "behaviour": f.get("Required behaviour met") or "",
             "checklist_met": f.get("Checklist met"), "facts_present": f.get("Key facts present"), "checklist": f.get("Checklist") or "",
-            "checks": {c: [d.get(c), d.get(c + " - reason")] for c in CHECKS},
+            "checks": {c: [d.get(c), d.get(c + " - reason"), d.get(c + " - score")] for c in CHECKS},
             "citation_combined": d["Citation (combined)"], "accuracy": d["Accuracy"],
             "unsupported": d["Unsupported content"], "overall": d["Overall"],
             "gr_violated": d["Guardrails violated"] or "", "gr_exercised": d["Guardrails exercised (golden)"] or "",
@@ -72,7 +102,33 @@ def collect(run_dir, recheck=True, cost_tab=True):
 
     convs = [{"id": i, "title": f["Category"], "lang": f["Language"], "turns": f["Query"], "expected": f["Expected response (golden answer)"],
               "transcript": f["Bot response"], "urls": f["Bot cited URLs"] or "", "status": f["Status"], "reason": f["Reason"],
-              "guardrails": f["Guardrails broken"] or ""} for i, f in findings.items() if str(i).startswith("MT-")]
+              "guardrails": f["Guardrails broken"] or "", "composite": f.get("Composite score (0-1)")}
+             for i, f in findings.items() if str(i).startswith("MT-")]
+    composite_rule = any(r["composite"] is not None for r in results)
+    pending = sum(r["composite_note"] == PENDING for r in results)
+    status_note = (
+        "Status: each test case gets a composite score from 0 to 1, a weighted average of its check scores ("
+        + weights_text() + "). Checks that do not apply are left out and the other weights re-spread; repeating the "
+        f"user's personal data sets the composite to 0. PASS = {SCORE_PASS:.2f} or more, PARTIAL PASS = {SCORE_PARTIAL:.2f} to "
+        f"{SCORE_PASS - 0.01:.2f}, FAIL = below {SCORE_PARTIAL:.2f}. A conversation's composite is its share of turns passed. "
+        "The weights keep two promises: wrong facts always fail, because correctness outweighs all the other checks "
+        "together, and an outdated value alone never passes. Every check keeps its own score and result in the tables "
+        f"(source links, source recall, correctness, response flow and conversations pass at {SCORE_PASS:.2f} and are partial "
+        f"from {SCORE_PARTIAL:.2f}; the others pass or fail), and the release checks above count each check on its own. The workbook's Overall "
+        "column (PASS/FAIL) is the strict every-check view."
+        + (f" {pending} answer(s) have no composite yet (graded pass/fail before scores existed) and keep the earlier rule: "
+           "fail when correctness, source links, source recall, response flow or a conversation is in the fail band, or "
+           "freshness or personal data failed; partial pass when anything else fell short." if pending else ""))
+    if not composite_rule:  # a run graded pass/fail before scores existed: the earlier rule throughout
+        status_note = ("Status: every check scores 0 to 1. Source genuineness, Source recall, Correctness & behaviour, "
+                       "Response flow and Conversation flow give partial credit: pass at 0.80 or more, partial from 0.50, "
+                       "fail below; the other checks are pass or fail. PASS = every check that applies passed. FAIL = "
+                       "Correctness & behaviour, Source genuineness, Source recall, Response flow or Conversation flow in the "
+                       "fail band (below 0.50), or Freshness or Personal data failed. PARTIAL PASS = anything else that fell "
+                       "short. Graded pass/fail before scores existed: a correctness fail whose facts a second grading pass "
+                       "found right shows Part (no score), and a Response flow fail stops a PASS but cannot fail the test "
+                       "case until it is re-graded with step scores. The workbook's Overall column (PASS/FAIL) counts partial "
+                       "passes as FAIL.")
 
     gates = rep["Gates"]
     fvg = rep["Facts vs guardrails"]
@@ -91,14 +147,28 @@ def collect(run_dir, recheck=True, cost_tab=True):
     statuses = {}
     for f in findings.values():
         statuses[f["Status"]] = statuses.get(f["Status"], 0) + 1
+    layout = gate_layout(gates)
+    bot = {r[0]: r for r in layout["bot"]}
+    whole = layout["bot"][0] if layout["bot"] else None
+    f2 = lambda x: "–" if x in (None, "") else f"{x:.2f}"
+    bot_note = "" if not whole or whole[2] in (None, "") else (
+        f"Chatbot score: the average composite score of all {int(whole[1] or 0)} test cases, each counting once: {f2(whole[2])} "
+        f"(95% range {f2(whole[3])} to {f2(whole[4])}; median {f2(whole[5])}"
+        + (f"; questions {f2(bot['Questions'][2])}, conversations {f2(bot['Conversations'][2])}" if "Conversations" in bot else "")
+        + "). The range reflects the choice of test cases, not day-to-day changes in Saathi's answers, so a repeat run can "
+        "differ. The score follows this test set's mix of questions: the Segments tab breaks it down by language, "
+        "priority, category and question type. Preliminary until the grader's agreement with human graders is checked "
+        "(concept note 9.3.4).")
     return {
         "run": run_dir.name,
         "results": results,
         "conversations": convs,
         "status_counts": statuses,
         "checklist_rule": "Checklist met" in fhead,
-        "gates": {"rows": sheet_rows(gates, 2, 8, 1, 7), "lang": sheet_rows(gates, 10, 12, 1, 7),
-                  "latency": sheet_rows(gates, 14, 15, 1, 7), "note": gates["A17"].value},
+        "composite_rule": composite_rule,
+        "status_note": status_note,
+        "bot_note": bot_note,
+        "gates": layout,
         "fvg": {"title": fvg["A1"].value, "note": fvg["A2"].value, "classes": table(fvg, 4, 12, 9),
                 "accuracy": table(fvg, 14, 17, 5), "acc_note": fvg["A18"].value, "causes": table(fvg, 20, fvg.max_row, 5)},
         "unanswered": {"title": uns["A1"].value, "note": uns["A2"].value, "summary": table(uns, 4, 9, 8),
@@ -204,6 +274,7 @@ PAGE = r"""<!doctype html>
   .v { display: inline-block; min-width: 22px; text-align: center; font-size: 12px; font-weight: 700; border-radius: 4px; padding: 0 4px; }
   .v.P { background: var(--good-soft); color: var(--good-ink); }
   .v.F { background: var(--bad-soft); color: var(--bad-ink); }
+  .v.PT { background: var(--warn-soft); color: var(--warn-ink); }
   .v.NA { color: var(--muted); font-weight: 400; }
   .filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; }
   .filters label { display: grid; gap: 3px; font-size: 12.5px; color: var(--muted); font-weight: 600; }
@@ -216,6 +287,9 @@ PAGE = r"""<!doctype html>
   tr.q.open td { background: var(--accent-soft); }
   tr.detail > td { background: var(--bg); padding: 16px; }
   .detail-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
+  .answer-row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin-bottom: 14px; }
+  @media (max-width: 1100px) { .answer-row { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 640px) { .answer-row { grid-template-columns: 1fr; } }
   .block { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; display: grid; gap: 6px; min-width: 0; align-content: start; }
   .detail-inner { position: sticky; left: 0; }
   .block h4 { margin: 0; font-size: 12.5px; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
@@ -249,7 +323,7 @@ PAGE = r"""<!doctype html>
 (function () {
   "use strict";
   var D = JSON.parse(document.getElementById("data").textContent);
-  var CHECKS = __CHECKS__, SHORT = __SHORT__;
+  var CHECKS = __CHECKS__, SHORT = __SHORT__, PARTIAL = __PARTIAL__;  /* PARTIAL: checks with partial credit */
 
   function el(tag, attrs, kids) {
     var e = document.createElement(tag);
@@ -273,7 +347,21 @@ PAGE = r"""<!doctype html>
     var label = s === "YES" ? "Met" : s === "NO" ? "Not met" : (s || "–");
     return el("span", {cls: "chip " + c, text: label});
   }
-  function v(x) { var s = txt(x) || "NA"; return el("span", {cls: "v " + (s === "P" || s === "F" ? s : "NA"), text: s === "NA" ? "–" : s, title: s}); }
+  /* verdict chip: P / F / PARTIAL (score band, scoring.py); a partial-credit check with a score shows the score */
+  function v(x, score) {
+    var s = txt(x) || "NA", c = s === "P" || s === "F" ? s : s === "PARTIAL" ? "PT" : "NA";
+    var t = (score != null && score !== "" && c !== "NA") ? Number(score).toFixed(2) : (s === "NA" ? "–" : s === "PARTIAL" ? "Part" : s);
+    return el("span", {cls: "v " + c, text: t, title: s === "PARTIAL" ? "Partial (score 0.50 to 0.79)" : s});
+  }
+  /* composite score of a test case, coloured by the band that sets its status (scoring.py); "–" while pending */
+  function comp(score, note) {
+    if (score == null || score === "") return el("span", {cls: "v NA", text: "–", title: note || "No composite"});
+    var s = Number(score), c = s >= __SCORE_PASS__ ? "P" : s >= __SCORE_PARTIAL__ ? "PT" : "F";
+    return el("span", {cls: "v " + c, text: s.toFixed(2), title: note ? "Composite score (" + note + ")" : "Composite score"});
+  }
+  function compText(score, note) {
+    return score == null || score === "" ? (note || "–") : Number(score).toFixed(2) + (note ? " (" + note + ")" : "");
+  }
   function clean(s) { return txt(s).replace(/\*\*/g, ""); }
   function links(s) {
     var box = el("div", {cls: "links"});
@@ -367,19 +455,22 @@ PAGE = r"""<!doctype html>
   tab("overview", "Overview", function (p) {
     var sc = D.status_counts, total = 0; for (var k in sc) total += sc[k];
     var correct = D.results.filter(function (r) { return r.checks["Correctness & behaviour"][0] === "P"; }).length;
+    var bot = (D.gates.bot || [])[0], two = function (x) { return x === "" || x == null ? "–" : Number(x).toFixed(2); };
     var tiles = el("div", {cls: "tiles"}, [
-      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Pass"}), el("span", {cls: "val", text: num(sc["PASS"] || 0)}), el("span", {cls: "sub", text: (D.checklist_rule ? "at least 85% of the checklist met, of " : "every check passed, of ") + total + " test cases"})]),
-      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Partial pass"}), el("span", {cls: "val", text: num(sc["PARTIAL PASS"] || 0)}), el("span", {cls: "sub", text: D.checklist_rule ? "at least 60% of the key facts, nothing wrong" : "facts correct and links genuine, fell short elsewhere"})]),
-      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Fail"}), el("span", {cls: "val", text: num(sc["FAIL"] || 0)}), el("span", {cls: "sub", text: D.checklist_rule ? "below that, or a wrong fact or bad link" : "wrong, missing or no facts, or bad links"})]),
-      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Correct and within guardrails"}), el("span", {cls: "val", text: correct + " of " + D.results.length}), el("span", {cls: "sub", text: "Correctness & behaviour check"})])
+      bot && bot[2] !== "" && bot[2] != null ? el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Chatbot score"}), el("span", {cls: "val", text: two(bot[2])}), el("span", {cls: "sub", text: "95% range " + two(bot[3]) + "–" + two(bot[4]) + " · average composite of " + bot[1] + " test cases"})]) : null,
+      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Pass"}), el("span", {cls: "val", text: num(sc["PASS"] || 0)}), el("span", {cls: "sub", text: (D.checklist_rule ? "at least 85% of the checklist met, of " : D.composite_rule ? "composite score 0.80 or more, of " : "every check passed, of ") + total + " test cases"})]),
+      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Partial pass"}), el("span", {cls: "val", text: num(sc["PARTIAL PASS"] || 0)}), el("span", {cls: "sub", text: D.checklist_rule ? "at least 60% of the key facts, nothing wrong" : D.composite_rule ? "composite score 0.50 to 0.79" : "fell short on a check, nothing decisive failed"})]),
+      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Fail"}), el("span", {cls: "val", text: num(sc["FAIL"] || 0)}), el("span", {cls: "sub", text: D.checklist_rule ? "below that, or a wrong fact or non-official link" : D.composite_rule ? "composite below 0.50, or personal data repeated" : "facts, links, recall or flow in the fail band, or an outdated value"})]),
+      el("div", {cls: "tile"}, [el("span", {cls: "lab", text: "Correctness passed"}), el("span", {cls: "val", text: correct + " of " + D.results.length}), el("span", {cls: "sub", text: "Correctness & behaviour check alone; other checks may still fail"})])
     ]);
-    p.appendChild(el("h2", {text: "Release checks (concept note 9.2)"}));
+    p.appendChild(el("h2", {text: "Release checks (concept note 9.2, plus the QE's gates)"}));
     //<recheck>
     if (D.recheck) p.appendChild(el("p", {cls: "lede", text: "Re-checked on " + D.recheck.date + ": every question was asked again. " +
       D.recheck.questions + " answers and " + D.recheck.conversations + " conversations had changed in substance and were re-graded with the same rubric (" +
       D.recheck.grader + "). The other answers were unchanged, mostly the same \"could not find\" reply on both days, so they keep their earlier answer and grades. Response times are from the re-check, when the bot was also returning temporary \"upstream unavailable\" errors and was slower than on 16 Oct even for questions asked one at a time; most questions were asked in four parallel streams, which may add some delay."}));
     //</recheck>
     p.appendChild(tiles);
+    if (D.bot_note) p.appendChild(el("p", {cls: "note", text: D.bot_note}));
     var rows = D.gates.rows.map(function (r) { return {gate: r[0], pass: r[1], fail: r[2], obs: r[3], lcl: r[4], crit: r[5], met: r[6]}; });
     p.appendChild(dataTable(rows, [
       {key: "gate", label: "Check", wide: true}, {key: "pass", label: "Pass", num: true}, {key: "fail", label: "Fail", num: true},
@@ -397,12 +488,33 @@ PAGE = r"""<!doctype html>
     ], {search: false}));
     if (D.latency_note) p.appendChild(el("p", {cls: "note", text: D.latency_note}));
     p.appendChild(el("p", {cls: "note", text: D.gates.note}));
-    p.appendChild(el("p", {cls: "note", text: D.checklist_rule ? "Status: each answer is checked against a checklist built from its golden answer: the key facts plus the required behaviours (the golden's instructions, the user's language, an official link or next step). PASS = at least 85% of the checklist met. PARTIAL PASS = at least 60% of the key facts present and correct (declines and redirects use their required behaviours). FAIL = below that, or any wrong or outdated fact, a non-official or broken link, or personal data repeated. Conversations use the share of turns passed. The workbook's Overall column (PASS/FAIL) is the stricter every-check view." : "Status: PASS = every check passed or did not apply. PARTIAL PASS = facts correct (or the required decline/redirect done) and source links genuine, but something else fell short, such as a claim the cited page does not support, the official next step, helpline, response flow or the user's language. FAIL = anything else, including wrong or outdated facts, no answer, a missing required fact or a non-official or broken link. The workbook's Overall column (PASS/FAIL) counts partial passes as FAIL."}));
+    if (D.gates.scores && D.gates.scores.length) {
+      p.appendChild(el("h3", {text: "Scores by check"}));
+      var srows = D.gates.scores.map(function (r) { return {check: r[0], n: r[1], avg: r[2], pass: r[3], part: r[4], fail: r[5], how: r[6]}; });
+      p.appendChild(dataTable(srows, [
+        {key: "check", label: "Check"}, {key: "n", label: "Answers scored", num: true},
+        {key: "avg", label: "Average score", num: true, fmt: function (r) { return r.avg === "" || r.avg == null ? "–" : Number(r.avg).toFixed(2); }},
+        {key: "pass", label: "Pass (0.80+)", num: true}, {key: "part", label: "Partial (0.50-0.79)", num: true}, {key: "fail", label: "Fail (below 0.50)", num: true},
+        {key: "how", label: "How it is scored", wide: true}
+      ], {search: false}));
+    }
+    if (D.gates.bot && D.gates.bot.length) {  /* the chatbot's score: every test case counts once */
+      p.appendChild(el("h3", {text: "Chatbot score (average composite)"}));
+      var brows = D.gates.bot.map(function (r) { return {part: r[0], n: r[1], avg: r[2], lo: r[3], hi: r[4], med: r[5], ps: r[6], pp: r[7], fl: r[8]}; });
+      p.appendChild(dataTable(brows, [
+        {key: "part", label: "Test cases", wide: true}, {key: "n", label: "Scored", num: true},
+        {key: "avg", label: "Average", num: true, fmt: function (r) { return two(r.avg); }},
+        {key: "lo", label: "95% range", num: true, fmt: function (r) { return two(r.lo) + "–" + two(r.hi); }},
+        {key: "med", label: "Median", num: true, fmt: function (r) { return two(r.med); }},
+        {key: "ps", label: "Pass", num: true}, {key: "pp", label: "Partial pass", num: true}, {key: "fl", label: "Fail", num: true}
+      ], {search: false}));
+    }
+    p.appendChild(el("p", {cls: "note", text: D.checklist_rule ? "Status: each answer is checked against a checklist built from its golden answer: the key facts plus the required behaviours (the golden's instructions, the user's language, an official link or next step). PASS = at least 85% of the checklist met. PARTIAL PASS = at least 60% of the key facts present and correct (declines and redirects use their required behaviours). FAIL = below that, or any wrong or outdated fact, a non-official link, or personal data repeated. Conversations use the share of turns passed. The workbook's Overall column (PASS/FAIL) is the stricter every-check view." : D.status_note}));
   });
 
   tab("results", "Results by question", function (p) {
     p.appendChild(el("h2", {text: "Results for all " + D.results.length + " questions"}));
-    p.appendChild(el("p", {cls: "note", text: "Click a row to see the question, the golden answer, Saathi's full answer, the sources it cited and every check with its reason. Check columns: P = pass, F = fail, – = not applicable."}));
+    p.appendChild(el("p", {cls: "note", text: "Click a row to see the question, the golden answer with its evidence (official page, exact words, copy date), Saathi's full answer, the sources it cited and every check with its score and reason. " + (D.composite_rule ? "Composite = the weighted score of all the checks that sets the status: green at 0.80 or more (pass), amber from 0.50 (partial pass), red below (fail). " : "") + "Check columns: P = pass, F = fail, – = not applicable; a partial-credit check shows its score from 0 to 1, green at 0.80 or more, amber from 0.50, red below. Part = partial with no score yet (graded pass/fail before scores existed)."}));
     var state = {q: "", f: {}, failed: ""}, filters = el("div", {cls: "filters"}), countEl = el("span", {cls: "count"});
     var s = el("input", {type: "search", placeholder: "Search question, answer or reasons", "aria-label": "Search results"});
     s.addEventListener("input", function () { state.q = s.value.toLowerCase(); draw(); });
@@ -418,30 +530,35 @@ PAGE = r"""<!doctype html>
       sel.addEventListener("change", function () { state.f[f[0]] = sel.value; draw(); });
       filters.appendChild(el("label", {}, [f[1], sel]));
     });
-    var cf = el("select", {"aria-label": "Failed check"}, [el("option", {value: "", text: "Any"})]);
+    var cf = el("select", {"aria-label": "Check not passed"}, [el("option", {value: "", text: "Any"})]);
     CHECKS.forEach(function (c) { cf.appendChild(el("option", {value: c, text: c})); });
     cf.addEventListener("change", function () { state.failed = cf.value; draw(); });
-    filters.appendChild(el("label", {}, ["Failed check", cf]));
+    filters.appendChild(el("label", {}, ["Check not passed", cf]));
     filters.appendChild(countEl);
     p.appendChild(filters);
     var tw = el("div", {cls: "table-wrap tall"}), t = el("table"), th = el("thead"), tb = el("tbody"), hr = el("tr");
-    var heads = ["ID", "Pri", "Language", "Category", "Question", "Status"].concat(D.checklist_rule ? ["Checklist"] : []).concat(["Result group"]);
+    var heads = ["ID", "Pri", "Language", "Category", "Question", "Status"].concat(D.composite_rule ? ["Composite"] : []).concat(D.checklist_rule ? ["Checklist"] : []).concat(["Result group"]);
     var base = heads.length;
     heads.concat(CHECKS.map(function (c) { return SHORT[c]; })).concat(["Time (s)"]).forEach(function (h, i) {
       hr.appendChild(el("th", {text: h, scope: "col", cls: i >= base ? "num" : "", title: i >= base && i < base + CHECKS.length ? CHECKS[i - base] : ""}));
     });
     th.appendChild(hr); t.appendChild(th); t.appendChild(tb); tw.appendChild(t); p.appendChild(tw);
     function detail(r) {
-      var checks = el("table", {cls: "checks"}, [el("thead", {}, [el("tr", {}, [el("th", {text: "Check"}), el("th", {text: "Verdict"}), el("th", {text: "Reason"})])])]);
+      var checks = el("table", {cls: "checks"}, [el("thead", {}, [el("tr", {}, [el("th", {text: "Check"}), el("th", {text: "Verdict"}), el("th", {text: "Score"}), el("th", {text: "Reason"})])])]);
       var cb = el("tbody");
-      CHECKS.forEach(function (c) { cb.appendChild(el("tr", {}, [el("td", {text: c}), el("td", {}, [v(r.checks[c][0])]), el("td", {cls: "wide", text: txt(r.checks[c][1])})])); });
+      CHECKS.forEach(function (c) {
+        var sc = r.checks[c][2], verdict = txt(r.checks[c][0]) || "NA";
+        cb.appendChild(el("tr", {}, [el("td", {text: c}), el("td", {}, [v(r.checks[c][0])]),
+          el("td", {cls: "num", text: sc != null && sc !== "" ? Number(sc).toFixed(2) : verdict === "NA" || verdict === "ERROR" ? "–" : "not scored"}),
+          el("td", {cls: "wide", text: txt(r.checks[c][1])})]));
+      });
       checks.appendChild(cb);
       var kv = el("dl", {cls: "kv"});
-      var kvRows = [["Status", r.status], ["Overall (workbook)", r.overall], ["Accuracy", r.accuracy], ["Citation (combined)", r.citation_combined],
+      var kvRows = [["Status", r.status]].concat(D.composite_rule ? [["Composite score", compText(r.composite, r.composite_note)]] : []).concat([["Overall (workbook)", r.overall], ["Accuracy", r.accuracy], ["Citation (combined)", r.citation_combined],
        ["Unsupported content", r.unsupported], ["Facts vs golden answer", r.facts], ["Required behaviour met", r.behaviour],
        ["Guardrails violated", r.gr_violated || "none"], ["Guardrails exercised (golden)", r.gr_exercised],
        ["Question type", r.qtype], ["Abstention row", r.abstain], ["Profile", r.profile], ["Knowledge level", r.knowledge],
-       ["Gender", r.gender], ["Age group", r.age], ["Persona", r.persona], ["Response time", r.latency == null ? "–" : r.latency + " s"]];
+       ["Gender", r.gender], ["Age group", r.age], ["Persona", r.persona], ["Response time", r.latency == null ? "–" : r.latency + " s"]]);
       //<recheck>
       if (D.recheck) kvRows = kvRows.concat([["Re-check", r.recheck_note], ["Status in earlier run", r.earlier], ["Graded by", r.graded_by]]);
       //</recheck>
@@ -450,33 +567,38 @@ PAGE = r"""<!doctype html>
       });
       var human = el("dl", {cls: "kv"});
       Object.keys(r.human).forEach(function (k) { human.appendChild(el("dt", {text: k})); human.appendChild(el("dd", {text: txt(r.human[k]) || "not graded"})); });
-      var grid = el("div", {cls: "detail-grid"}, [
+      // Question, golden answer, its evidence and Saathi's answer side by side; the rest of the detail below
+      var answers = el("div", {cls: "answer-row"}, [
         block("Question", pre(r.query)),
         block("Expected answer (golden)", pre(r.golden)),
-        block("Saathi's answer", pre(r.answer)),
+        block("Evidence: official page, exact words, copy date",
+              pre(r.evidence || (r.golden_urls ? r.golden_urls : "No evidence needed: the expected answer is a behaviour (decline, redirect or warning) with no facts to quote."))),
+        block("Saathi's answer", pre(r.answer))
+      ]);
+      var grid = el("div", {cls: "detail-grid"}, [
         block("Sources Saathi cited", links(r.sources)),
-        block("Expected source", el("div", {}, [el("div", {text: r.site || "–"}), pre(r.golden_urls)])),
+        block("Expected source", el("div", {}, [el("div", {text: r.site || "–"})].concat(r.index_url ? [el("p", {cls: "note", text: "Index chunk the bot should retrieve: " + r.index_url})] : []))),
         block("Result: " + (r.group || "–"), el("div", {}, [pre(r.reason)].concat(r.why_unanswered ? [el("p", {cls: "note", text: "Why unanswered: " + r.why_unanswered})] : []))),
         block("Grading summary", kv),
         block("Human grades", human)
       ]);
-      if (D.checklist_rule) grid.insertBefore(block("Checklist: " + pct(r.checklist_met, 0) + " met, key facts " + pct(r.facts_present, 0), pre(r.checklist)), grid.children[6]);
-      return el("div", {cls: "panel"}, [grid, block("Every check", el("div", {cls: "table-wrap"}, [checks]))]);
+      if (D.checklist_rule) grid.insertBefore(block("Checklist: " + pct(r.checklist_met, 0) + " met, key facts " + pct(r.facts_present, 0), pre(r.checklist)), grid.children[3]);
+      return el("div", {cls: "panel"}, [answers, grid, block("Every check", el("div", {cls: "table-wrap"}, [checks]))]);
     }
     function draw() {
       var list = D.results.filter(function (r) {
         for (var k in state.f) if (state.f[k] && txt(r[k]) !== state.f[k]) return false;
-        if (state.failed && r.checks[state.failed][0] !== "F") return false;
+        if (state.failed && ["F", "PARTIAL"].indexOf(r.checks[state.failed][0]) < 0) return false;
         if (!state.q) return true;
-        var hay = [r.id, r.query, r.answer, r.golden, r.reason, r.group].concat(CHECKS.map(function (c) { return r.checks[c][1]; })).join(" ").toLowerCase();
+        var hay = [r.id, r.query, r.answer, r.golden, r.evidence, r.reason, r.group].concat(CHECKS.map(function (c) { return r.checks[c][1]; })).join(" ").toLowerCase();
         return hay.indexOf(state.q) >= 0;
       });
       tb.textContent = "";
       list.forEach(function (r) {
         var tr = el("tr", {cls: "q", tabindex: "0", "aria-expanded": "false"}, [
           el("td", {text: r.id}), el("td", {text: r.priority}), el("td", {text: r.language}), el("td", {text: r.category}),
-          el("td", {cls: "wide"}, [el("div", {cls: "clamp", text: r.query})]), el("td", {}, [chip(r.status)]), D.checklist_rule ? el("td", {cls: "num", text: pct(r.checklist_met, 0)}) : null, el("td", {text: r.group})
-        ].concat(CHECKS.map(function (c) { return el("td", {cls: "num"}, [v(r.checks[c][0])]); })).concat([el("td", {cls: "num", text: r.latency == null ? "–" : Number(r.latency).toFixed(1)})]));
+          el("td", {cls: "wide"}, [el("div", {cls: "clamp", text: r.query})]), el("td", {}, [chip(r.status)]), D.composite_rule ? el("td", {cls: "num"}, [comp(r.composite, r.composite_note)]) : null, D.checklist_rule ? el("td", {cls: "num", text: pct(r.checklist_met, 0)}) : null, el("td", {text: r.group})
+        ].concat(CHECKS.map(function (c) { return el("td", {cls: "num"}, [v(r.checks[c][0], PARTIAL.indexOf(c) >= 0 ? r.checks[c][2] : null)]); })).concat([el("td", {cls: "num", text: r.latency == null ? "–" : Number(r.latency).toFixed(1)})]));
         var dr = null;
         function toggle() {
           if (dr) { dr.remove(); dr = null; tr.classList.remove("open"); tr.setAttribute("aria-expanded", "false"); return; }
@@ -554,7 +676,8 @@ PAGE = r"""<!doctype html>
       {key: "Dimension", label: "Dimension", filter: true}, {key: "Value", label: "Value", wide: true},
       {key: "Accuracy pass", label: "Pass", num: true}, {key: "Accuracy fail", label: "Fail", num: true},
       {key: "Rate", label: "Rate", fmt: function (r) { return r.Rate === "" || r.Rate == null ? "–" : bar(r.Rate); }}
-    ]));
+    ].concat(D.segments.head.indexOf("Average composite") >= 0 ? [{key: "Average composite", label: "Average composite", num: true,
+      fmt: function (r) { var x = r["Average composite"]; return x === "" || x == null ? "–" : Number(x).toFixed(2); }}] : [])));
   });
 
   tab("judge", "Judge vs human", function (p) {
@@ -570,11 +693,11 @@ PAGE = r"""<!doctype html>
 
   tab("conversations", "Conversations", function (p) {
     p.appendChild(el("h2", {text: D.conversations.length + " multi-turn conversations"}));
-    p.appendChild(el("p", {cls: "note", text: "Each conversation is graded turn by turn against the expected behaviour and the guardrails; it passes only if every turn passes."}));
+    p.appendChild(el("p", {cls: "note", text: "Each conversation is graded turn by turn against the expected behaviour and the guardrails. Its score is the share of turns that passed: pass at 0.80 or more, partial pass from 0.50, fail below."}));
     D.conversations.forEach(function (c) {
       var card = el("article", {cls: "card"}, [
         el("div", {cls: "filters"}, [el("h3", {text: c.id + " · " + txt(c.title).replace(/^Multi-turn: /, "")}), el("span", {cls: "count"}, [chip(c.status)])]),
-        el("p", {cls: "note", text: "Language: " + txt(c.lang) + (c.guardrails ? " · Guardrails violated: " + c.guardrails : "")}),
+        el("p", {cls: "note", text: "Language: " + txt(c.lang) + (c.composite != null && c.composite !== "" ? " · Composite (share of turns passed): " + Number(c.composite).toFixed(2) : "") + (c.guardrails ? " · Guardrails violated: " + c.guardrails : "")}),
         block("Why", pre(c.reason)),
         el("div", {cls: "two"}, [block("User turns", pre(c.turns)), block("Expected behaviour per turn", pre(c.expected))]),
         el("details", {}, [el("summary", {text: "Show Saathi's replies and sources"}), el("div", {cls: "two"}, [block("Saathi's replies", pre(c.transcript)), block("Sources cited", links(c.urls))])])
@@ -658,6 +781,8 @@ def main():
     payload = json.dumps(data, ensure_ascii=False, default=str).replace("</", "<\\/")
     html = (PAGE.replace("__DATA__", payload).replace("__N__", str(len(data["results"])))
             .replace("__CHECKS__", json.dumps(CHECKS)).replace("__SHORT__", json.dumps(SHORT))
+            .replace("__PARTIAL__", json.dumps(list(PARTIAL_CREDIT)))
+            .replace("__SCORE_PASS__", str(SCORE_PASS)).replace("__SCORE_PARTIAL__", str(SCORE_PARTIAL))
             .replace("__COST_LEDE__", ", conversations, and grading cost" if "tokens" in data else " and the conversations"))
     for block, keep in (("recheck", "recheck" in data), ("cost", "tokens" in data)):  # leave unused features out of the file
         if not keep:

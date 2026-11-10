@@ -19,3 +19,17 @@ eval/runs/golden-20261027/snapshots/
 # Older working copies of the golden workbook
 golden_test_cases.xlsx
 golden_test_cases_tier1_vysakhm.xlsx
+
+# Kept on this machine, not committed (QE, 10 Nov 2026).
+# The bot's index export from the developers: about 32,000 files, 576 MB. The evaluation reads it (content checks,
+# source recall, "available to the bot"), so get it from the developers and place it here, or set INDEX_EXPORT_DIR.
+citizen-guide-indexed-data/
+# Working material from building the v2 test set (rewrite batches and briefs, grounding tables, their scripts), the
+# superseded API snapshot and copies of run reports: not needed to run an evaluation. The evaluation reads only the
+# latest API snapshot (artifacts/data/api_snapshots/), and fetch_api_snapshots.py refreshes it before a run.
+artifacts/data/*
+!artifacts/data/api_snapshots/
+artifacts/data/api_snapshots/20261104/
+artifacts/scripts/*
+!artifacts/scripts/fetch_api_snapshots.py
+artifacts/*.html

@@ -1,0 +1,10 @@
+{
+ "fetched_at": "2026-11-05T06:34:36+00:00",
+ "myscheme_url": "https://myscheme-prod-api.umangapp.in/search/v7/schemes?size=100&lang=en&from=N&q=&sort=multiple_sort",
+ "myscheme_records": 5150,
+ "myscheme_total_reported": 5150,
+ "umang_url": "https://cache.umang.gov.in/core-dept/1.0/allservices?lang=en&os=web&mod=app&ldate=&depttype=all&st=",
+ "umang_services": 281,
+ "umang_rc": "API0052",
+ "umang_rd": "Successfully fetched "
+}

@@ -18,8 +18,9 @@ if _env.exists():
 # Keep test data on this machine: no DeepEval telemetry or cloud upload.
 os.environ.setdefault("DEEPEVAL_TELEMETRY_OPT_OUT", "1")
 
-# The checked expected answers (golden_check.py apply); golden_test_cases_phase1.xlsx is the version before the check
-WORKBOOK = Path(os.environ.get("GOLDEN_WORKBOOK", ROOT / "golden_test_cases_final_20261028.xlsx"))
+# The golden set in use: the index-grounded v2 workbook (347 questions + 13 conversations; owner sign-off 5 Nov 2026).
+# Earlier sets: golden_test_cases_final_20261028.xlsx (checked October set), golden_test_cases_phase1.xlsx.
+WORKBOOK = Path(os.environ.get("GOLDEN_WORKBOOK", ROOT / "golden_test_cases_indexed_v2_20261105.xlsx"))
 INGESTED_CSV = Path(os.environ.get(
     "INGESTED_CSV", ROOT / "ingested-websites.csv"))  # the bot's crawled-site list (team export of 14-Oct-2026)
 
@@ -43,3 +44,9 @@ PAGE_CACHE_HOURS = float(os.environ.get("PAGE_CACHE_HOURS", "12"))
 
 RUNS_DIR = HERE / "runs"
 CACHE_DIR = HERE / "page_cache"
+# What the bot actually reads (fix of 5 Nov 2026): the developers' export of its index and snapshots of the two UMANG APIs.
+# Content checks (figures, citation support) use these texts for a cited URL when they hold it; the live page otherwise.
+INDEX_EXPORT_DIR = Path(os.environ.get("INDEX_EXPORT_DIR", ROOT / "citizen-guide-indexed-data"))
+API_SNAPSHOT_DIR = Path(os.environ.get("API_SNAPSHOT_DIR", "")) if os.environ.get("API_SNAPSHOT_DIR") else (
+    sorted((ROOT / "artifacts" / "data" / "api_snapshots").glob("*/snapshot.json")) or [Path("")])[-1].parent
+CONTENT_FROM_INDEX = os.environ.get("CONTENT_FROM_INDEX", "1") != "0"  # 0 = old behaviour (live pages only)

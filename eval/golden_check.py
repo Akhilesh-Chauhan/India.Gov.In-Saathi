@@ -774,6 +774,16 @@ def main():
     a = ap.parse_intermixed_args()  # lets the URL come after the options
     if a.step == "page" and not a.url:
         ap.error("page needs a URL")
+    # A check run belongs to the workbook it checked: runs/<run>/workbook.txt, written by its first export (the October
+    # run golden-20261027 checked golden_test_cases_final_20261028.xlsx). An explicit GOLDEN_WORKBOOK still wins.
+    record = config.RUNS_DIR / a.run / "workbook.txt"
+    if a.step != "selftest" and record.exists() and not os.environ.get("GOLDEN_WORKBOOK"):
+        config.WORKBOOK = (config.ROOT / record.read_text(encoding="utf-8").strip()).resolve()
+    elif a.step == "export" and not record.exists():
+        record.parent.mkdir(parents=True, exist_ok=True)
+        record.write_text(os.path.relpath(config.WORKBOOK, config.ROOT) + "\n", encoding="utf-8")
+    if a.step != "selftest":
+        print(f"Workbook: {Path(config.WORKBOOK).name}")
     {"export": lambda: export(a.run, a.size, a.seed_run),
      "page": lambda: page(a.run, a.url, a.find, a.limit, a.render),
      "check": lambda: check(a.run, set(a.ids.split(",")) if a.ids else None),
