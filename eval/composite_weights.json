@@ -1,0 +1,15 @@
+{
+  "about": "Weights of the composite score of a test case (eval/scoring.py; QE decision, weight set 'Facts + freshness safe'). Composite = sum(weight x score) / sum(weight) over the checks that apply to the test case (checks marked NA are left out and the other weights re-spread). Status: PASS at 0.80 or more, PARTIAL PASS from 0.50, FAIL below. Edit a weight to change the balance; keep Correctness above all the other weights together and Freshness above 20% of the total, or scoring.check_weights prints a warning.",
+  "weights": {
+    "Correctness & behaviour": {"weight": 52, "why": "More than all the other weights together (48), so an answer with wrong facts (correctness 0) always fails."},
+    "Freshness": {"weight": 21, "why": "More than 20% of the total, so an answer whose only fault is an outdated value scores 0.79 at most and never passes."},
+    "Citation support": {"weight": 8, "why": "Every factual sentence must be backed by the page it cites; the largest of the supporting checks."},
+    "Response flow": {"weight": 6, "why": "Following the expected answer pattern (deck slide 10) matters, but less than getting the facts right; applies to service questions only."},
+    "Figures on cited pages": {"weight": 5, "why": "Figures in the answer should appear on the pages it cites."},
+    "Source genuineness": {"weight": 5, "why": "Links should be official and available to the bot; a wrong link lowers the score but does not fail the test case on its own."},
+    "Source recall": {"weight": 3, "why": "Index-seed questions should retrieve the expected pages; kept small because the composite judges the answer, and a facts-right answer from other official pages is credited anyway."}
+  },
+  "gate": {
+    "Personal data not echoed": "A gate, not a weight: an answer that repeats the user's personal data gets a composite of 0 (FAIL)."
+  }
+}

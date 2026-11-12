@@ -1,0 +1,892 @@
+{
+ "beneficiaryState": {
+  "label": "State",
+  "entries": [
+   {
+    "label": "All",
+    "count": 726
+   },
+   {
+    "label": "Gujarat",
+    "count": 643
+   },
+   {
+    "label": "Uttarakhand",
+    "count": 447
+   },
+   {
+    "label": "Rajasthan",
+    "count": 344
+   },
+   {
+    "label": "Madhya Pradesh",
+    "count": 309
+   },
+   {
+    "label": "Goa",
+    "count": 293
+   },
+   {
+    "label": "Puducherry",
+    "count": 272
+   },
+   {
+    "label": "Haryana",
+    "count": 249
+   },
+   {
+    "label": "Tamil Nadu",
+    "count": 240
+   },
+   {
+    "label": "Chhattisgarh",
+    "count": 126
+   },
+   {
+    "label": "Odisha",
+    "count": 118
+   },
+   {
+    "label": "Bihar",
+    "count": 115
+   },
+   {
+    "label": "West Bengal",
+    "count": 114
+   },
+   {
+    "label": "Meghalaya",
+    "count": 102
+   },
+   {
+    "label": "Himachal Pradesh",
+    "count": 97
+   },
+   {
+    "label": "Jharkhand",
+    "count": 97
+   },
+   {
+    "label": "Assam",
+    "count": 87
+   },
+   {
+    "label": "Kerala",
+    "count": 87
+   },
+   {
+    "label": "Maharashtra",
+    "count": 85
+   },
+   {
+    "label": "Dadra & Nagar Haveli and Daman & Diu",
+    "count": 62
+   },
+   {
+    "label": "Karnataka",
+    "count": 60
+   },
+   {
+    "label": "Delhi",
+    "count": 55
+   },
+   {
+    "label": "Andhra Pradesh",
+    "count": 53
+   },
+   {
+    "label": "Arunachal Pradesh",
+    "count": 50
+   },
+   {
+    "label": "Uttar Pradesh",
+    "count": 48
+   },
+   {
+    "label": "Jammu and Kashmir",
+    "count": 46
+   },
+   {
+    "label": "Tripura",
+    "count": 44
+   },
+   {
+    "label": "Punjab",
+    "count": 41
+   },
+   {
+    "label": "Mizoram",
+    "count": 40
+   },
+   {
+    "label": "Manipur",
+    "count": 34
+   },
+   {
+    "label": "Sikkim",
+    "count": 29
+   },
+   {
+    "label": "Nagaland",
+    "count": 28
+   },
+   {
+    "label": "Telangana",
+    "count": 23
+   },
+   {
+    "label": "Chandigarh",
+    "count": 21
+   },
+   {
+    "label": "Andaman and Nicobar Islands",
+    "count": 19
+   },
+   {
+    "label": "Ladakh",
+    "count": 12
+   }
+  ]
+ },
+ "schemeCategory": {
+  "label": "Scheme Category",
+  "entries": [
+   {
+    "label": "Social welfare & Empowerment",
+    "count": 1531
+   },
+   {
+    "label": "Education & Learning",
+    "count": 1189
+   },
+   {
+    "label": "Agriculture,Rural & Environment",
+    "count": 948
+   },
+   {
+    "label": "Business & Entrepreneurship",
+    "count": 832
+   },
+   {
+    "label": "Women and Child",
+    "count": 483
+   },
+   {
+    "label": "Skills & Employment",
+    "count": 407
+   },
+   {
+    "label": "Banking,Financial Services and Insurance",
+    "count": 357
+   },
+   {
+    "label": "Sports & Culture",
+    "count": 315
+   },
+   {
+    "label": "Health & Wellness",
+    "count": 296
+   },
+   {
+    "label": "Housing & Shelter",
+    "count": 145
+   },
+   {
+    "label": "Transport & Infrastructure",
+    "count": 144
+   },
+   {
+    "label": "Science, IT & Communications",
+    "count": 141
+   },
+   {
+    "label": "Travel & Tourism",
+    "count": 104
+   },
+   {
+    "label": "Utility & Sanitation",
+    "count": 60
+   },
+   {
+    "label": "Public Safety,Law & Justice",
+    "count": 35
+   }
+  ]
+ },
+ "gender": {
+  "label": "Gender",
+  "entries": [
+   {
+    "label": "All",
+    "count": 4281
+   },
+   {
+    "label": "Female",
+    "count": 828
+   },
+   {
+    "label": "Male",
+    "count": 357
+   },
+   {
+    "label": "Transgender",
+    "count": 32
+   }
+  ]
+ },
+ "age-general": {
+  "label": "Age",
+  "entries": [
+   {
+    "label": 0,
+    "count": 732
+   },
+   {
+    "label": 10,
+    "count": 4155
+   },
+   {
+    "label": 20,
+    "count": 4168
+   },
+   {
+    "label": 30,
+    "count": 4061
+   },
+   {
+    "label": 40,
+    "count": 3887
+   },
+   {
+    "label": 50,
+    "count": 3612
+   },
+   {
+    "label": 60,
+    "count": 3347
+   },
+   {
+    "label": 70,
+    "count": 2194
+   },
+   {
+    "label": 80,
+    "count": 2105
+   },
+   {
+    "label": 90,
+    "count": 2052
+   },
+   {
+    "label": 100,
+    "count": 1933
+   },
+   {
+    "label": 110,
+    "count": 1
+   }
+  ]
+ },
+ "caste": {
+  "label": "Caste",
+  "entries": [
+   {
+    "label": "All",
+    "count": 4306
+   },
+   {
+    "label": "Scheduled Caste (SC)",
+    "count": 412
+   },
+   {
+    "label": "Scheduled Tribe (ST)",
+    "count": 394
+   },
+   {
+    "label": "Other Backward Class (OBC)",
+    "count": 203
+   },
+   {
+    "label": "General",
+    "count": 77
+   },
+   {
+    "label": "Particularly Vulnerable Tribal Group (PVTG)",
+    "count": 42
+   },
+   {
+    "label": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities",
+    "count": 15
+   }
+  ]
+ },
+ "nodalMinistryName": {
+  "label": "Ministry Name",
+  "entries": [
+   {
+    "label": "Ministry Of Social Justice and Empowerment",
+    "count": 85
+   },
+   {
+    "label": "Ministry of Education",
+    "count": 85
+   },
+   {
+    "label": "Ministry Of Science And Technology",
+    "count": 72
+   },
+   {
+    "label": "Ministry Of Commerce And Industry",
+    "count": 67
+   },
+   {
+    "label": "Ministry Of Agriculture and Farmers Welfare",
+    "count": 45
+   },
+   {
+    "label": "Ministry Of Micro, Small and Medium Enterprises",
+    "count": 31
+   },
+   {
+    "label": "Ministry Of Culture",
+    "count": 25
+   },
+   {
+    "label": "Ministry Of Textiles",
+    "count": 25
+   },
+   {
+    "label": "Ministry of Electronics and Information Technology",
+    "count": 24
+   },
+   {
+    "label": "Ministry Of Youth Affairs & Sports",
+    "count": 22
+   },
+   {
+    "label": "Ministry Of Finance",
+    "count": 18
+   },
+   {
+    "label": "Ministry Of Home Affairs",
+    "count": 18
+   },
+   {
+    "label": "Ministry Of Defence",
+    "count": 15
+   },
+   {
+    "label": "Ministry Of Health & Family Welfare",
+    "count": 15
+   },
+   {
+    "label": "Ministry of Fisheries,Animal Husbandry and Dairying",
+    "count": 14
+   },
+   {
+    "label": "Ministry Of Labour and Employment",
+    "count": 13
+   },
+   {
+    "label": "Ministry Of Minority Affairs",
+    "count": 12
+   },
+   {
+    "label": "Ministry Of Communication",
+    "count": 11
+   },
+   {
+    "label": "Ministry Of Skill Development And Entrepreneurship",
+    "count": 11
+   },
+   {
+    "label": "Ministry Of Ayush",
+    "count": 10
+   },
+   {
+    "label": "Ministry Of Chemicals And Fertilizers",
+    "count": 10
+   },
+   {
+    "label": "Ministry Of Rural Development",
+    "count": 10
+   },
+   {
+    "label": "Ministry Of Tribal Affairs",
+    "count": 10
+   },
+   {
+    "label": "Ministry Of New and Renewable Energy",
+    "count": 7
+   },
+   {
+    "label": "Ministry Of Tourism",
+    "count": 7
+   },
+   {
+    "label": "Ministry of Women and Child Development",
+    "count": 7
+   },
+   {
+    "label": "Ministry Of Jal Shakti",
+    "count": 6
+   },
+   {
+    "label": "Ministry Of External Affairs",
+    "count": 5
+   },
+   {
+    "label": "Ministry Of Housing & Urban Affairs",
+    "count": 5
+   },
+   {
+    "label": "Ministry Of Law and Justice",
+    "count": 5
+   },
+   {
+    "label": "Ministry Of Personnel, Public Grievances And Pensions",
+    "count": 5
+   },
+   {
+    "label": "Ministry of Ports,Shipping and Waterways",
+    "count": 5
+   },
+   {
+    "label": "Ministry Of Environment,forests and climate change",
+    "count": 4
+   },
+   {
+    "label": "Ministry Of Steel",
+    "count": 4
+   },
+   {
+    "label": "Ministry of Heavy Industries",
+    "count": 4
+   },
+   {
+    "label": "PMO",
+    "count": 4
+   },
+   {
+    "label": "Ministry Of Petroleum and Natural Gas",
+    "count": 3
+   },
+   {
+    "label": "Ministry Of Statistics and Programme Implementation",
+    "count": 3
+   },
+   {
+    "label": "Ministry of Corporate Affairs",
+    "count": 3
+   },
+   {
+    "label": "Ministry of Food Processing Industries",
+    "count": 3
+   },
+   {
+    "label": "Comptroller And Auditor General Of India",
+    "count": 2
+   },
+   {
+    "label": "Ministry Of Consumer Affairs, Food And Public Distribution",
+    "count": 2
+   },
+   {
+    "label": "Ministry Of Panchayati Raj",
+    "count": 2
+   },
+   {
+    "label": "Ministry Of Road Transport & Highways",
+    "count": 2
+   },
+   {
+    "label": "Ministry Of Water Resources,River Development & Ganga Rejuvenation",
+    "count": 2
+   },
+   {
+    "label": "The Lokpal of India",
+    "count": 2
+   },
+   {
+    "label": "Ministry Of Development Of North Eastern Region",
+    "count": 1
+   },
+   {
+    "label": "Ministry Of Earth Sciences",
+    "count": 1
+   },
+   {
+    "label": "Ministry Of Information And Broadcasting",
+    "count": 1
+   },
+   {
+    "label": "Ministry Of Mines",
+    "count": 1
+   },
+   {
+    "label": "Ministry Of Power",
+    "count": 1
+   },
+   {
+    "label": "Ministry Of Railways",
+    "count": 1
+   },
+   {
+    "label": "NITI Aayog (National Institution for Transforming India)",
+    "count": 1
+   }
+  ]
+ },
+ "level": {
+  "label": "Level",
+  "entries": [
+   {
+    "label": "State",
+    "count": 4403
+   },
+   {
+    "label": "Central",
+    "count": 747
+   }
+  ]
+ },
+ "residence": {
+  "label": "Residence",
+  "entries": [
+   {
+    "label": "Both",
+    "count": 4898
+   },
+   {
+    "label": "Rural",
+    "count": 220
+   },
+   {
+    "label": "Urban",
+    "count": 42
+   }
+  ]
+ },
+ "minority": {
+  "label": "Minority",
+  "entries": [
+   {
+    "label": "No",
+    "count": 5075
+   },
+   {
+    "label": "Yes",
+    "count": 75
+   }
+  ]
+ },
+ "disability": {
+  "label": "Differently Abled",
+  "entries": [
+   {
+    "label": "No",
+    "count": 4832
+   },
+   {
+    "label": "Yes",
+    "count": 318
+   }
+  ]
+ },
+ "benefitTypes": {
+  "label": "Benefit Type",
+  "entries": [
+   {
+    "label": "Cash",
+    "count": 3563
+   },
+   {
+    "label": "In Kind",
+    "count": 909
+   },
+   {
+    "label": "Composite",
+    "count": 678
+   }
+  ]
+ },
+ "dbtScheme": {
+  "label": "DBT Scheme",
+  "entries": [
+   {
+    "label": "No",
+    "count": 4625
+   },
+   {
+    "label": "Yes",
+    "count": 525
+   }
+  ]
+ },
+ "maritalStatus": {
+  "label": "Marital Status",
+  "entries": [
+   {
+    "label": "All",
+    "count": 4841
+   },
+   {
+    "label": "Never Married",
+    "count": 143
+   },
+   {
+    "label": "Widowed",
+    "count": 111
+   },
+   {
+    "label": "Married",
+    "count": 93
+   },
+   {
+    "label": "Divorced",
+    "count": 48
+   },
+   {
+    "label": "Separated",
+    "count": 47
+   }
+  ]
+ },
+ "disabilityPercentage": {
+  "label": "Disability Percentage",
+  "entries": [
+   {
+    "label": 0,
+    "count": 24
+   },
+   {
+    "label": 10,
+    "count": 28
+   },
+   {
+    "label": 20,
+    "count": 33
+   },
+   {
+    "label": 30,
+    "count": 33
+   },
+   {
+    "label": 40,
+    "count": 185
+   },
+   {
+    "label": 50,
+    "count": 189
+   },
+   {
+    "label": 60,
+    "count": 195
+   },
+   {
+    "label": 70,
+    "count": 200
+   },
+   {
+    "label": 80,
+    "count": 213
+   },
+   {
+    "label": 90,
+    "count": 213
+   },
+   {
+    "label": 100,
+    "count": 222
+   }
+  ]
+ },
+ "isBpl": {
+  "label": "Below Poverty Line",
+  "entries": [
+   {
+    "label": "No",
+    "count": 4961
+   },
+   {
+    "label": "Yes",
+    "count": 189
+   }
+  ]
+ },
+ "isEconomicDistress": {
+  "label": "Economic Distress",
+  "entries": [
+   {
+    "label": "No",
+    "count": 5103
+   },
+   {
+    "label": "Yes",
+    "count": 47
+   }
+  ]
+ },
+ "isGovEmployee": {
+  "label": "Government Employee",
+  "entries": [
+   {
+    "label": "No",
+    "count": 5133
+   },
+   {
+    "label": "Yes",
+    "count": 17
+   }
+  ]
+ },
+ "employmentStatus": {
+  "label": "Employment Status",
+  "entries": [
+   {
+    "label": "All",
+    "count": 3959
+   },
+   {
+    "label": "Employed",
+    "count": 573
+   },
+   {
+    "label": "Self-Employed/ Entrepreneur",
+    "count": 446
+   },
+   {
+    "label": "Unemployed",
+    "count": 172
+   }
+  ]
+ },
+ "isStudent": {
+  "label": "Student",
+  "entries": [
+   {
+    "label": "No",
+    "count": 4758
+   },
+   {
+    "label": "Yes",
+    "count": 392
+   }
+  ]
+ },
+ "occupation": {
+  "label": "Occupation",
+  "entries": [
+   {
+    "label": "All",
+    "count": 420
+   },
+   {
+    "label": "Farmer",
+    "count": 390
+   },
+   {
+    "label": "Construction Worker",
+    "count": 284
+   },
+   {
+    "label": "Unorganized Worker",
+    "count": 194
+   },
+   {
+    "label": "Fishermen",
+    "count": 115
+   },
+   {
+    "label": "Artists",
+    "count": 94
+   },
+   {
+    "label": "Artisans, Spinners & Weavers",
+    "count": 82
+   },
+   {
+    "label": "Student",
+    "count": 65
+   },
+   {
+    "label": "Organized Worker",
+    "count": 40
+   },
+   {
+    "label": "Sportsperson",
+    "count": 37
+   },
+   {
+    "label": "Ex Servicemen",
+    "count": 30
+   },
+   {
+    "label": "Journalist",
+    "count": 25
+   },
+   {
+    "label": "Dairy Farmer",
+    "count": 21
+   },
+   {
+    "label": "Safai Karamchari",
+    "count": 19
+   },
+   {
+    "label": "Teacher / Faculty",
+    "count": 15
+   },
+   {
+    "label": "Coir Worker",
+    "count": 7
+   },
+   {
+    "label": "Street Vendor",
+    "count": 3
+   },
+   {
+    "label": "Health Worker",
+    "count": 2
+   },
+   {
+    "label": "Khadi Artisan",
+    "count": 2
+   },
+   {
+    "label": "Lawyer / Law Graduate / Advocate",
+    "count": 2
+   }
+  ]
+ },
+ "applicationMode": {
+  "label": "Application Mode",
+  "entries": [
+   {
+    "label": "Offline",
+    "count": 2956
+   },
+   {
+    "label": "Online",
+    "count": 2492
+   },
+   {
+    "label": "Online - via CSC",
+    "count": 223
+   }
+  ]
+ },
+ "schemeType": {
+  "label": "Scheme Type",
+  "entries": [
+   {
+    "label": "Central Sector Scheme",
+    "count": 558
+   },
+   {
+    "label": "Centrally Sponsored Scheme",
+    "count": 164
+   }
+  ]
+ }
+}

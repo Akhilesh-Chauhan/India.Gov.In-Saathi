@@ -4,6 +4,8 @@ Examples:
   python collect.py --run demo1 --priority P0            # ask the bot (needs eval/bot_curl.txt)
   python collect.py --run demo1 --scenarios              # multi-turn Conversation Scenarios
   python collect.py --run manual1 --import-workbook      # use the 'Actual response' / 'Sources shown' columns
+  python collect.py --run demo1 --retry-errors           # ask again what the bot failed to answer (add --scenarios for
+                                                         # conversations); run_all.sh does this once after collecting
 Re-running the same --run skips IDs already collected, so an interrupted run can be resumed.
 """
 import argparse
@@ -47,6 +49,25 @@ def _append(path, rec):
         f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
 
+def set_aside_errors(path):
+    """Move the records whose bot call failed (an error, or a conversation turn without an answer) from `path` to
+    errors_first_attempt.jsonl beside it, so the next collection asks them again. Returns their IDs."""
+    if not path.exists():
+        return []
+    good, bad = [], []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            rec = json.loads(line)
+            failed = (any(t.get("error") or not (t.get("answer") or "").strip() for t in rec["turns"]) if "turns" in rec
+                      else bool(rec.get("error")))
+            (bad if failed else good).append(line)
+    if bad:
+        with (path.parent / "errors_first_attempt.jsonl").open("a", encoding="utf-8") as f:
+            f.write("\n".join(bad) + "\n")
+        path.write_text("\n".join(good) + ("\n" if good else ""), encoding="utf-8")
+    return [json.loads(x)["id"] for x in bad]
+
+
 def select(rows, ids=None, priority=None, category=None, limit=None):
     picked = [r for r in rows.values()
               if (not ids or r["Test ID"] in ids)
@@ -58,7 +79,7 @@ def select(rows, ids=None, priority=None, category=None, limit=None):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--run", required=True, help="run name (folder under eval/runs)")
-    ap.add_argument("--ids", help="comma-separated Test IDs, e.g. Q-001,Q-046")
+    ap.add_argument("--ids", help="comma-separated Test IDs, e.g. Q-001,Q-046 (with --scenarios: MT-12)")
     ap.add_argument("--priority", nargs="*", help="e.g. P0 P1")
     ap.add_argument("--category", help="substring of Category, e.g. 'Tax'")
     ap.add_argument("--limit", type=int)
@@ -66,16 +87,24 @@ def main():
     ap.add_argument("--scenarios", action="store_true", help="run the multi-turn Conversation Scenarios")
     ap.add_argument("--import-workbook", action="store_true", help="read tester-pasted answers instead of calling the bot")
     ap.add_argument("--no-resolve-clarify", action="store_true", help="do not answer the bot's clarifying chips")
+    ap.add_argument("--retry-errors", action="store_true",
+                    help="ask again the answers (or conversations) whose bot call failed; the failed attempts are kept in "
+                         "errors_first_attempt.jsonl")
     a = ap.parse_args()
 
     run_dir = config.RUNS_DIR / a.run
     run_dir.mkdir(parents=True, exist_ok=True)
+    if a.retry_errors:
+        again = set_aside_errors(run_dir / ("conversations.jsonl" if a.scenarios else "responses.jsonl"))
+        print(f"asking again {len(again)} {'conversation' if a.scenarios else 'answer'}(s) whose bot call failed"
+              + (f": {', '.join(again)}" if again else ""))
 
     if a.scenarios:
         out = run_dir / "conversations.jsonl"
         done = _done_ids(out)
+        wanted = set(a.ids.split(",")) if a.ids else None  # --ids picks conversations too (MT-12); none if it names none
         for sid, sc in load_scenarios().items():
-            if sid in done:
+            if sid in done or (wanted is not None and sid not in wanted):
                 continue
             session, turns, conv = str(uuid.uuid4()), [], {}
             for user_text, _ in sc["turns"]:

@@ -5,6 +5,7 @@ returns a server-sent-events stream: ready, status, source, citation, answer.del
 Request shape captured from the web app on 16-Oct-2026.
 """
 import json
+import re
 import os
 import time
 import urllib.error
@@ -99,10 +100,46 @@ def _snapshot_error(question, lang, message, t0, status):
             "status": status, "lang_sent": lang, "error": message, "raw": ""}
 
 
+# States and UTs as a user may write them (English, romanised Hindi, Devanagari); the canonical name is what the bot gets.
+STATES = {
+    "Andhra Pradesh": ["andhra pradesh", "andhra", "आंध्र प्रदेश"], "Arunachal Pradesh": ["arunachal pradesh", "arunachal", "अरुणाचल"],
+    "Assam": ["assam", "असम"], "Bihar": ["bihar", "बिहार"], "Chhattisgarh": ["chhattisgarh", "chattisgarh", "छत्तीसगढ़"],
+    "Goa": ["goa", "गोवा"], "Gujarat": ["gujarat", "गुजरात"], "Haryana": ["haryana", "हरियाणा"],
+    "Himachal Pradesh": ["himachal pradesh", "himachal", "हिमाचल"], "Jharkhand": ["jharkhand", "झारखंड"],
+    "Karnataka": ["karnataka", "कर्नाटक"], "Kerala": ["kerala", "केरल"], "Madhya Pradesh": ["madhya pradesh", " mp se", "मध्य प्रदेश"],
+    "Maharashtra": ["maharashtra", "महाराष्ट्र"], "Manipur": ["manipur", "मणिपुर"], "Meghalaya": ["meghalaya", "मेघालय"],
+    "Mizoram": ["mizoram", "मिजोरम"], "Nagaland": ["nagaland", "नागालैंड"], "Odisha": ["odisha", "orissa", "ओडिशा"],
+    "Punjab": ["punjab", "पंजाब"], "Rajasthan": ["rajasthan", "राजस्थान"], "Sikkim": ["sikkim", "सिक्किम"],
+    "Tamil Nadu": ["tamil nadu", "tamilnadu", "तमिलनाडु"], "Telangana": ["telangana", "तेलंगाना"], "Tripura": ["tripura", "त्रिपुरा"],
+    "Uttar Pradesh": ["uttar pradesh", " up se", " u.p.", "उत्तर प्रदेश"], "Uttarakhand": ["uttarakhand", "उत्तराखंड"],
+    "West Bengal": ["west bengal", "bengal", "पश्चिम बंगाल"], "Delhi": ["delhi", "दिल्ली"],
+    "Jammu and Kashmir": ["jammu and kashmir", "jammu & kashmir", "जम्मू"], "Ladakh": ["ladakh", "लद्दाख"],
+    "Puducherry": ["puducherry", "pondicherry", "पुडुचेरी"], "Chandigarh": ["chandigarh", "चंडीगढ़"],
+    "Andaman and Nicobar Islands": ["andaman", "अंडमान"], "Lakshadweep": ["lakshadweep", "लक्षद्वीप"],
+    "Dadra and Nagar Haveli and Daman and Diu": ["dadra", "daman", "दादरा"],
+}
+
+
+def state_in(text):
+    """The State/UT the user named in the question, or None (longest alias first, so 'west bengal' beats 'bengal')."""
+    t = " " + (text or "").lower() + " "
+    for name, alias in sorted(((n, a) for n, al in STATES.items() for a in al), key=lambda x: -len(x[1])):
+        a = alias.strip()
+        hit = re.search(rf"(?<![a-z]){re.escape(a)}(?![a-z])", t) if a.isascii() else a in t
+        if hit:
+            return name
+    return None
+
+
 def resolve_clarify(question, first, lang="en"):
-    """After a clarifying question, answer it like a user tapping the first chip of each field + Continue."""
+    """After a clarifying question, answer it like a user: tap the first chip of each chip field; for a free-text
+    State field, give the State the user already named in the question (fix of 5 Nov 2026). Fields the question does not
+    answer are left alone, and if nothing can be answered the clarifying question itself is what gets scored."""
     fields = (first.get("clarify") or {}).get("fields") or []
     picks = [{"key": f["key"], "answer": f["options"][0]} for f in fields if f.get("options")]
+    named = state_in(question)
+    picks += [{"key": f["key"], "answer": named} for f in fields
+              if not f.get("options") and named and ("state" in str(f.get("type", "")).lower() or "state" in str(f.get("key", "")).lower())]
     if not picks:
         return None, []
     conv = {"conversationId": first.get("conversation_id"),

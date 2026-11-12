@@ -107,6 +107,8 @@ def main():
 
 
 def write_sheet(run_dir, rows, out):
+    from run_eval import _clean  # control characters Excel cannot store
+    rows, out = _clean(rows), _clean(out)
     path = run_dir / "report.xlsx"
     wb = load_workbook(path)
     if "Unanswered split" in wb.sheetnames:
